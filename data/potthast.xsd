@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" vc:minVersion="1.1">
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>
+  <xs:element name="potthast">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element ref="o"/>
+        <xs:element ref="u"/>
+      </xs:choice>
+      <xs:attribute name="papst" use="required"/>
+      <xs:attribute ref="xml:id" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="u">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="nr"/>
+        <xs:element minOccurs="0" ref="fehlt"/>
+        <xs:element minOccurs="0" ref="Referenz"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="e"/>
+        <xs:element minOccurs="0" ref="an"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="o">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" ref="nr"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="e"/>
+      </xs:sequence>
+      <xs:attribute name="n"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="nr" type="xs:string"/>
+  <xs:element name="fehlt">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="Referenz" type="xs:NMTOKEN"/>
+  <xs:element name="an">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="e"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="e">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="name"/>
+        <xs:element minOccurs="0" ref="funktion"/>
+        <xs:element minOccurs="0" ref="institution"/>
+        <xs:element minOccurs="0" ref="ordo"/>
+        <xs:element minOccurs="0" ref="ort"/>
+        <xs:element minOccurs="0" ref="ortsbestimmung"/>
+        <xs:element minOccurs="0" ref="inst2"/>
+        <xs:element minOccurs="0" ref="repetit"/>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element minOccurs="0" ref="P"/>
+          <xs:element minOccurs="0" ref="Bemerkungen"/>
+        </xs:choice>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="repetit">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="kommentar"/>
+        <xs:element ref="orig"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="name">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="kommentar"/>
+        <xs:element ref="orig"/>
+      </xs:choice>
+      <xs:attribute name="reg"/>
+      <xs:assert test="normalize-space(string(.)) != ''"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="funktion">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="kommentar"/>
+        <xs:element ref="orig"/>
+      </xs:choice>
+      <xs:attribute name="reg"/>
+      <xs:assert test="normalize-space(string(.)) != ''"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="institution">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="kommentar"/>
+        <xs:element ref="orig"/>
+      </xs:choice>
+      <xs:assert test="normalize-space(string(.)) != ''"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ordo">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="kommentar"/>
+        <xs:element ref="orig"/>
+      </xs:choice>
+      <xs:assert test="normalize-space(string(.)) != ''"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ort">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="kommentar"/>
+        <xs:element ref="orig"/>
+      </xs:choice>
+      <xs:attribute name="reg"/>
+      <xs:assert test="normalize-space(string(.)) != ''"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ortsbestimmung">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="kommentar"/>
+        <xs:element ref="orig"/>
+      </xs:choice>
+      <xs:assert test="normalize-space(string(.)) != ''"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="inst2">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="kommentar"/>
+        <xs:element ref="orig"/>
+      </xs:choice>
+      <xs:assert test="normalize-space(string(.)) != ''"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Bemerkungen">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="kommentar"/>
+        <xs:element ref="orig"/>
+      </xs:choice>
+      <xs:assert test="normalize-space(string(.)) != ''"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="P">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="kommentar"/>
+        <xs:element ref="orig"/>
+      </xs:choice>
+      <xs:assert test="normalize-space(string(.)) != ''"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="orig" type="xs:string"/>
+  <xs:element name="kommentar">
+    <xs:complexType mixed="true">
+      <xs:attribute name="reg"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

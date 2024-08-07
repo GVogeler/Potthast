@@ -1,0 +1,2536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
+  <u><nr>20510</nr><Referenz>20510</Referenz>
+<e><name>(Philippus)</name><funktion>rex</funktion><ort>Francia</ort></e>
+</u>
+<u><nr>20511</nr><Referenz>20511</Referenz>
+<e><name>Gaufridus de Bello Loco</name><institution>OPr</institution></e>
+</u>
+<u><nr>20512</nr><Referenz>20512</Referenz>
+<e><name>(Margareta)</name><funktion>regina</funktion><ort>Francia</ort></e>
+</u>
+<u><nr>20513</nr><Referenz>20513</Referenz>
+<e><funktion>comes</funktion><ort>Sabaudia</ort></e>
+</u>
+<u><nr>20514</nr><Referenz>20514</Referenz>
+<e><funktion>archiep.</funktion><ort>Rothomagensis</ort></e>
+</u>
+<u><nr>20515</nr><Referenz>20515</Referenz>
+<e><funktion>visitator; praeceptor</funktion><institution>domus; militia Templi</institution><ort>Francia</ort></e>
+<e><funktion>prior</funktion><institution>domus; hospitale S.Ioannis Hierosolymitanum</institution><ort>Francia</ort></e>
+</u>
+<u><nr>20516</nr><Referenz>20516</Referenz>
+<e><funktion>archiepp.; epp; abbates; alii praelati; rectores;</funktion></e>
+<e><funktion>magistri; praeceptores; rectores</funktion><institution>hospitale Hierosolymitanum; militia Templi</institution></e>
+</u>
+<u><nr>20517</nr><Referenz>20517</Referenz>
+<e><name>(Thomas)</name><funktion>patriarcha</funktion><ort>Hierosolymitanus</ort></e>
+<e><funktion>suffraganei</funktion><ort>Hierosolymitanus</ort></e>
+</u>
+<u><nr>20518</nr><Referenz>20518</Referenz>
+<e><name>(Henricus)</name><funktion>rex</funktion><ort>Anglia</ort></e>
+</u>
+<u><nr>20519</nr><Referenz>20519</Referenz>
+<e><funktion>potestas; consilium; commune</funktion><ort>Placentinus</ort></e>
+</u>
+<u><nr>20520</nr><Referenz>20520</Referenz>
+<e><funktion>comes</funktion><ort>Flandria</ort><Bemerkungen>frz.</Bemerkungen></e>
+</u>
+<u><nr>20521</nr><Referenz>20521</Referenz>
+<e><funktion>consilium; commune</funktion><ort>Venetiae</ort></e>
+</u>
+<u><nr>20522</nr><Referenz>20522</Referenz>
+<e><funktion>capitanei; consilium; commune</funktion><ort>Ianua</ort></e>
+</u>
+<u><nr>20523</nr><Referenz>20523</Referenz>
+<e><name>Eduardus</name><funktion>primogenitus (Henrici)</funktion><institution>regis Anglorum</institution></e>
+</u>
+<u><nr>20524</nr><Referenz>20524</Referenz>
+<e><funktion>archiep.</funktion><ort>Tyrensis</ort></e>
+<e><funktion>ep.</funktion><ort>Anteradensis</ort></e>
+</u>
+<u><nr>20525</nr><Referenz>20525</Referenz>
+<e><funktion>archiep.</funktion><ort>Senonensis</ort></e>
+<e><funktion>epp.; abbates; alii praelati</funktion><institution>provincia</institution><ort>Senonensis</ort></e>
+</u>
+<u><nr>20526</nr><Referenz>20526</Referenz>
+<e><name>(Stephanus)</name><funktion>rex</funktion><ort>Ungaria</ort></e>
+</u>
+<u><nr>20527</nr><Referenz>20527</Referenz>
+<e><name>(Thomas)</name><funktion>patriarcha</funktion><ort>Hierosolymitanus</ort></e>
+<e><funktion>epp.; abbates; alii praelati</funktion><ort>Hierosolymitanus</ort></e>
+</u>
+<u><nr>20528</nr><Referenz>20528</Referenz>
+<e><funktion>plebanus</funktion><institution>plebs</institution><ort>de Maiuculis</ort><ortsbestimmung>Fesulana dioc.</ortsbestimmung><P>S.Criscus</P></e>
+</u>
+<u><nr>20529</nr><Referenz>20529</Referenz>
+<e><name>Margareta <orig>Marguerite</orig></name><funktion>filia comitis Flandriae</funktion><Bemerkungen>frz.</Bemerkungen></e>
+</u>
+<u><nr>20530</nr><Referenz>20530</Referenz>
+<e><name>Margareta <orig>Marguerite</orig></name><funktion>filia comitis Flandriae</funktion><Bemerkungen>frz.</Bemerkungen></e>
+</u>
+<u><nr>20531</nr><Referenz>20531</Referenz>
+<e><funktion>decanus</funktion><institution>eccl.</institution><ort>Constantiensis</ort></e>
+</u>
+<u><nr>20532</nr><Referenz>20532</Referenz>
+<e><name>ohne Empfänger</name></e>
+</u>
+<u><nr>20533</nr><Referenz>20533</Referenz>
+<e><funktion>prior</funktion><ort>S.Maria de Virginibus de Venetiis</ort><ortsbestimmung>Castellana dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20534</nr><Referenz>20534</Referenz>
+<e><name>P(hilippus)</name><funktion>rex</funktion><ort>Franci</ort></e>
+</u>
+<u><nr>20535</nr><Referenz>20535</Referenz>
+<e><name>Werherus</name><funktion>archiep.</funktion><ort>Moguntia</ort></e>
+</u>
+<u><nr>20536</nr><Referenz>20536</Referenz>
+<e><funktion>archidiac.</funktion><institution>Margaritae</institution><ort>in eccl. Nemausensis</ort></e>
+<e><funktion>prior</funktion><ort>de Sumina</ort><ortsbestimmung>Nemausensis</ortsbestimmung></e>
+<e><funktion>prior</funktion><ort>Nemausensis</ort><P>S.Baudilius</P></e>
+</u>
+<u><nr>20537</nr><Referenz>20537</Referenz>
+<e><funktion>capitulum</funktion><institution>eccl.</institution><ort>Curiensis</ort></e>
+</u>
+<u><nr>20538</nr><Referenz>20538</Referenz>
+<e><institution>monasterium</institution><ort>S.Maria de Virginibus Venetiarum</ort></e>
+</u>
+<u><nr>20539</nr><Referenz>20539</Referenz>
+<e><name>Ildebrandinus <orig>(Adimarus)</orig></name><funktion>canonicus</funktion><ort>Florentinus</ort></e>
+</u>
+<u><nr>20540</nr><Referenz>20540</Referenz>
+<e><name>Stephanus</name><funktion>rex</funktion><ort>Ungaria</ort></e>
+<e><name>Othocharus</name><funktion>rex</funktion><ort>Bohemia</ort></e>
+</u>
+<u><nr>20541</nr><Referenz>20541</Referenz>
+<e><name>(Philippus)</name><funktion>archiep.</funktion><ort>Strigonia</ort></e>
+<e><name>(Philippus)</name><funktion>ep.</funktion><ort>Waciensis</ort></e>
+</u>
+<u><nr>20542</nr><Referenz>20542</Referenz>
+<e><name>(Iohannes?)</name><funktion>ep.</funktion><ort>Pragensis</ort></e>
+<e><name>(Bruno)</name><funktion>ep.</funktion><ort>Olomucensis</ort></e>
+</u>
+<u><nr>20543</nr><Referenz>20543</Referenz>
+<e><funktion>abbas; conventus</funktion><ort>Angers</ort><Bemerkungen>frz.</Bemerkungen><P>S.Aubin</P></e>
+</u>
+<u><nr>20544</nr><Referenz>20544</Referenz>
+<e><name>Fulco de Podio Riccardi</name><funktion>rector</funktion><institution>marchia</institution><ort>Anconitana</ort></e>
+</u>
+<u><nr>20545</nr><Referenz>20545</Referenz>
+<e><funktion>universi nobiles; potestates; communia</funktion><institution>marchia</institution><ort>Anconitana</ort></e>
+</u>
+<u><nr>20546</nr><Referenz>20546</Referenz>
+<e><funktion>epp.; abbates; alii praelati; ceterae personae ecclesiasticae</funktion><institution>marchia</institution><ort>Anconitana</ort></e>
+</u>
+<u><nr>20547</nr><Referenz>20547</Referenz>
+<e><name>Guillelmus de S.Laurentio</name><funktion>praep.; capellanus suus; vicarius in spiritualibus</funktion><institution>eccl.</institution><ort>Placentinus</ort><ortsbestimmung>marchia Anconitana</ortsbestimmung><P>S.Antoninus</P></e>
+</u>
+<u><nr>20548</nr><Referenz>20548</Referenz>
+<e><funktion>canonici</funktion><institution>eccl.</institution><ort>Turonensis</ort><P>S.Martinus</P></e>
+</u>
+<u><nr>20549</nr><Referenz>20549</Referenz>
+<e><funktion>prior; conventus</funktion><institution>OPr</institution><ort>Barchinonensis</ort></e>
+<e><funktion>ep.; capitulum; rectores</funktion><institution>parochiales ecclesiae</institution><ort>Barchinonensis</ort></e>
+</u>
+<u><nr>20550</nr><Referenz>20550</Referenz>
+<e><name>(Henricus)</name><funktion>ep.</funktion><ort>Lincopensis</ort></e>
+<e><name>(Ericus)</name><funktion>ep.</funktion><ort>Scarensis</ort></e>
+<e><funktion>archidiac.</funktion><ort>Upsellanensis</ort></e>
+</u>
+<u><nr>20551</nr><Referenz>20551</Referenz>
+<e><name>Guillelmus de S.Laurentio</name><funktion>praep.; capellanus suus; vicarius in spiritualibus</funktion><institution>eccl.</institution><ort>Placentinus</ort><ortsbestimmung>marchia Anconitana</ortsbestimmung><P>S.Antoninus</P></e>
+</u>
+<u><nr>20552</nr><Referenz>20552</Referenz>
+<e><funktion>ep.; potestas; consilium;commune</funktion><ort>Urbinas</ort></e>
+</u>
+<u><nr>20553</nr><Referenz>20553</Referenz>
+<e><institution>monasterium</institution><ort>Venetiae</ort><P>S.Georgius maior</P></e>
+</u>
+<u><nr>20554</nr><Referenz>20554</Referenz>
+<e><name>(Vicedominus)</name><funktion>archiep.</funktion><ort>Aquensis</ort></e>
+</u>
+<u><nr>20555</nr><Referenz>20555</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OCist</institution><ort>Eberbach</ort><ortsbestimmung>Maguntina dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20556</nr><Referenz>20556</Referenz>
+<e><name>Fulco de Podio Riccardi</name><funktion>rector</funktion><institution>marchia</institution><ort>Anconitana</ort></e>
+</u>
+<u><nr>20557</nr><Referenz>20557</Referenz>
+<e><funktion>ep.</funktion><ort>Anagninus</ort></e>
+<e><name>Guilelmus de Spectinis</name><funktion>decanus</funktion><ort>Antiochenus</ort></e>
+<e><name>Guilelmus de Spectinis</name><funktion>subdiac. suus; capellanus suus</funktion></e>
+</u>
+<u><nr>20558</nr><Referenz>20558</Referenz>
+<e><funktion>magister; fratres</funktion><institution>hospitale</institution><ort>Ierusalem</ort><P>S.Maria Theutonicorum</P></e>
+</u>
+<u><nr>20559</nr><Referenz>20559</Referenz>
+<e><name>Vicecomes</name><funktion>civis</funktion><ort>Placentinus</ort><Bemerkungen>Name fraglich</Bemerkungen></e>
+</u>
+<u><nr>20560</nr><Referenz>20560</Referenz>
+<e><funktion>dux; commune</funktion><ort>Venetiae</ort></e>
+</u>
+<u><nr>20561</nr><Referenz>20561</Referenz>
+<e><funktion>abbas; prior</funktion><institution>monasterium</institution><ort>S.Dionysius</ort><ortsbestimmung>in Francia; Parisiensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20562</nr><Referenz>20562</Referenz>
+<e><funktion>abbatissa; conventus</funktion><institution>monasterium monialium; OCist</institution><ort>Cupersanensis</ort><P>S.Benedictus </P></e>
+</u>
+<u><nr>20563</nr><Referenz>20563</Referenz>
+<e><name>Vicecomes de Vicecomitibus</name><funktion>rector</funktion><ort>patrimonium Petri</ort></e>
+</u>
+<u><nr>20564</nr><Referenz>20564</Referenz>
+<e><name>Iohannes</name><funktion>filius comitis Flandriae</funktion><Bemerkungen>frz.</Bemerkungen></e>
+</u>
+<u><nr>20565</nr><Referenz>20565</Referenz>
+<e><funktion>fratres</funktion><institution>hospitale</institution><ort>Confluentia</ort><P>S.Maria Theutonicorum</P></e>
+</u>
+<u><nr>20566</nr><Referenz>20566</Referenz>
+<e><funktion>fratres; scolares apud S.Bernardum in theologica facultate studentes</funktion><institution>OCist</institution><ort>Paris</ort></e>
+</u>
+<u><nr>20567</nr><Referenz>20567</Referenz>
+<e><funktion>rex</funktion><ort>Angli</ort></e>
+</u>
+<u><nr>20568</nr><Referenz>20568</Referenz>
+<e><name>Nicolaus</name><funktion>archiep.</funktion><ort>Armachanus</ort></e>
+<an>*
+<e><funktion>capitulum; universi epp. suffraganei</funktion><institution>eccl.</institution><ort>Armachanus</ort></e>
+<e><funktion>clerus; populus</funktion><institution>civitas; diocesis</institution><ort>Armachanus</ort></e>
+<e><funktion>nobiles viri; alii universi vassalli</funktion><institution>eccl.</institution><ort>Armachanus</ort></e>
+</an>
+</u> 
+<u><nr>20569</nr><Referenz>20569</Referenz>
+<e><name>(Oddo)</name><funktion>archiep.</funktion><ort>Rothomagensis</ort></e>
+</u>
+<u><nr>20570</nr><Referenz>20570</Referenz>
+<e><name>(Philippus)</name><funktion>ep.</funktion><ort>Firmanus</ort></e>
+</u>
+<u><nr>20571</nr><Referenz>20571</Referenz>
+<e><funktion>prior; fratres</funktion><institution>OPr</institution><ort>Spalatensis</ort></e>
+</u>
+<u><nr>20572</nr><Referenz>20572</Referenz>
+<e><name>Edwardus</name><funktion>primogenitus (Henrici) regis Angliae</funktion></e>
+</u>
+<u><nr>20573</nr><Referenz>20573</Referenz>
+<e><name>(Raynerius)</name><funktion>vicarius</funktion><ort>Roma</ort></e>
+</u>
+<u><nr>20574</nr><Referenz>20574</Referenz>
+<e><name>Hugo</name><funktion>electus</funktion><ort>Aberdonensis</ort></e>
+<an>*
+<e><funktion>decanus; capitulum</funktion><ort>Aberdonensis</ort></e>
+<e><funktion>clerus; populus</funktion><institution>civitas; diocesis</institution><ort>Aberdonensis</ort></e>
+<e><funktion>rex</funktion><ort>Scotia</ort></e>
+</an>
+</u> 
+<u><nr>20575</nr><Referenz>20575</Referenz>
+<e><funktion>praeceptor; fratres</funktion><institution>hospitale</institution><ort>Austria; Styria; Carinthia; Carniola</ort><P>S.Maria Theutonicorum</P></e>
+</u>
+<u><nr>20576</nr><Referenz>20576</Referenz>
+<e><funktion>abbatissa; conventus</funktion><institution>monasterium monialium; OCist</institution><ort>de Cupersano</ort><P>S.Benedictus</P></e>
+</u>
+<u><nr>20577</nr><Referenz>20577</Referenz>
+<e><institution>monasterium; OCist</institution><ort>de Sar</ort><ortsbestimmung>Pragensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20578</nr><Referenz>20578</Referenz>
+<e><funktion>archiepp.; epp.; alii praelati</funktion><ort>Campania</ort><Bemerkungen>frz.</Bemerkungen></e>
+</u>
+<u><nr>20579</nr><Referenz>20579</Referenz>
+<e><funktion>archiepp.; epp.; alii praelati</funktion><ort>Campania</ort><Bemerkungen>frz.</Bemerkungen></e>
+</u>
+<u><nr>20580</nr><Referenz>20580</Referenz>
+<e><name>Henricus <orig> Henri</orig></name><funktion>comes</funktion><ort>Campania</ort><Bemerkungen>frz.</Bemerkungen></e>
+</u>
+<u><nr>20581</nr><Referenz>20581</Referenz>
+<e><funktion>fratres; attach‚s au service d'Henri comte de Champagne</funktion><institution>OPr; OFM; alii ordines</institution></e>
+</u>
+<u><nr>20582</nr><Referenz>20582</Referenz>
+<e><funktion>religiosi <orig>religieux qui accompagent Henri comte de Champagne</orig></funktion><Bemerkungen>frz.</Bemerkungen></e>
+</u>
+<u><nr>20583</nr><Referenz>20583</Referenz>
+<e><name>Henricus</name><funktion>comes</funktion><ort>Campania</ort><Bemerkungen>frz.</Bemerkungen></e>
+<e><funktion>uxor comitis Campaniae</funktion></e>
+</u>
+<u><nr>20584</nr><Referenz>20584</Referenz>
+<e><name>Henricus</name><funktion>comes</funktion><ort>Campania</ort><Bemerkungen>frz.</Bemerkungen></e>
+</u>
+<u><nr>20585</nr><Referenz>20585</Referenz>
+<e><funktion>cantor</funktion><ort>Pampelune</ort><Bemerkungen>frz.</Bemerkungen></e>
+</u>
+<u><nr>20586</nr><Referenz>20586</Referenz>
+<e><funktion>abbas</funktion><institution>monasterium</institution><ort>S.Hylarius</ort><ortsbestimmung>Paduana dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20587</nr><Referenz>20587</Referenz>
+<e><funktion>abbas</funktion><institution>OSB</institution><ort>Glandariensis</ort><ortsbestimmung>Metensis dioc.</ortsbestimmung><P>S.Martinus</P></e>
+</u>
+<u><nr>20588</nr><Referenz>20588</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; ord.Aug.</institution><ort>de Scona</ort><ortsbestimmung>Andreae dioc.</ortsbestimmung><P>S.Michael</P></e>
+</u>
+<u><nr>20589</nr><Referenz>20589</Referenz>
+<e><name>(Iohannes)</name><funktion>ep.</funktion><ort>Pragensis</ort></e>
+</u>
+<u><nr>20590</nr><Referenz>20590</Referenz>
+<e><funktion>abbatissa; conventus</funktion><institution>monasterium; OCist</institution><ort>Vallis S.Mariae</ort><ortsbestimmung>Pragensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20591</nr><Referenz>20591</Referenz>
+<e><funktion>abbas</funktion><institution>eccl.</institution><ort>Praemonstratensis</ort></e>
+</u>
+<u><nr>20592</nr><Referenz>20592</Referenz>
+<e><funktion>abbas</funktion><ort>Praemonstratensis</ort></e>
+<e><funktion>coabbates; universi conventus</funktion><institution>OPraem</institution></e>
+</u>
+<u><nr>20593</nr><Referenz>20593</Referenz>
+<e><funktion>abbas</funktion><institution>monasterium</institution><ort>Gandensis</ort><Bemerkungen>frz.</Bemerkungen><P>S.Petrus</P></e>
+</u>
+<u><nr>20594</nr><Referenz>20594</Referenz>
+<e><funktion>baiulus; consules; universitas</funktion><ort>Monspessulanus</ort></e>
+</u>
+<u><nr>20595</nr><Referenz>20595</Referenz>
+<e><institution>monasterium</institution><ort>Arnsburg</ort></e>
+</u>
+<u><nr>20596</nr><Referenz>20596</Referenz>
+<e><institution>eccl.</institution><ort>Malonia</ort><P>S.Bertuinus</P></e>
+</u>
+<u><nr>20597</nr><Referenz>20597</Referenz>
+<e><funktion>abbas</funktion><ort>Praemonstratensis</ort></e>
+<e><funktion>coabbates; universi conventus</funktion><institution>OPraem</institution></e>
+</u>
+<u><nr>20598</nr><Referenz>20598</Referenz>
+<e><funktion>decanus; capitulum</funktion><institution>eccl.</institution><ort>Osiliensis</ort></e>
+</u>
+<u><nr>20599</nr><Referenz>20599</Referenz>
+<e><name>(Bartholomaeus)</name><funktion>ep.</funktion><ort>Civitas Nova</ort></e>
+</u>
+<u><nr>20600</nr><Referenz>20600</Referenz>
+<e><name>(Engelbertus)</name><funktion>archiep.</funktion><ort>Colonia</ort></e>
+</u>
+<u><nr>20601</nr><Referenz>20601</Referenz>
+<e><institution>hospitalis domus</institution><ort>Ierusalem</ort></e>
+</u>
+<u><nr>20602</nr><Referenz>20602</Referenz>
+<e><name>Iohannes</name><funktion>ep.</funktion><ort>Monovacensis</ort></e>
+</u>
+<u><nr>20603</nr><Referenz>20603</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OCist</institution><ort>Longuspons</ort></e>
+</u>
+<u><nr>20604</nr><Referenz>20604</Referenz>
+<e><name>(Alfonsus)</name><funktion>rex</funktion><ort>Castella ;Legionis</ort></e>
+</u>
+<u><nr>20605</nr><Referenz>20605</Referenz>
+<e><funktion>abbas</funktion><institution>monasterium</institution><ort>Inferior Altha</ort><ortsbestimmung>Pataviensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20606</nr><Referenz>20606</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>S.Emmeramus</ort><ortsbestimmung>Ratisponensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20607</nr><Referenz>20607</Referenz>
+<e><funktion>abbas</funktion><ort>Cabilonensis</ort><P>S.Petrus</P></e>
+</u>
+<u><nr>20608</nr><Referenz>20608</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>S.Emmeramus</ort><ortsbestimmung>Ratisponensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20609</nr><Referenz>20609</Referenz>
+<e><institution>OPraem</institution></e>
+</u>
+<u><nr>20610</nr><Referenz>20610</Referenz>
+<e><name>magister Raymundus de Nogeriis</name><funktion>capellanus suus</funktion></e>
+<e><name>Petrus de Aussona</name><funktion>canonicus</funktion><ort>Turonensis</ort><P>S.Martinus</P></e>
+</u>
+<u><nr>20611</nr><Referenz>20611</Referenz>
+<e><name>magister Raymundus de Nogeriis</name><funktion>capellanus suus</funktion></e>
+<e><name>Petrus de Aussona</name><funktion>canonicus</funktion><ort>Turonensis</ort><P>S.Martinus</P></e>
+</u>
+<u><nr>20612</nr><Referenz>20612</Referenz>
+<e><name>(Otakarus)</name><funktion>rex</funktion><ort>Boemia</ort></e>
+</u>
+<u><nr>20613</nr><Referenz>20613</Referenz>
+<e><name>(Ladislaus)</name><funktion>rex</funktion><ort>Ungaria</ort></e>
+</u>
+<u><nr>20614</nr><Referenz>20614</Referenz>
+<e><funktion>archiepp.; epp.; ceteri praelati; comites; alii magnates;</funktion><ort>Ungaria</ort></e>
+</u>
+<u><nr>20615</nr><Referenz>20615</Referenz>
+<e><funktion>abbas</funktion><ort>Westmonasteriensis</ort></e>
+<e><funktion>abbas</funktion><ort>Waltham</ort><ortsbestimmung>Londoniensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20616</nr><Referenz>20616</Referenz>
+<e><name>magister R.de N.</name><funktion>capellanus suus</funktion></e>
+<e><name>P.de A.</name><funktion>canonicus</funktion><ort>Turonensis</ort><P>S.Martinus</P></e>
+</u>
+<u><nr>20617</nr><Referenz>20617</Referenz>
+<e><funktion>abbas</funktion><institution>monasterium</institution><ort>Salesburgensis</ort><P>S.Petrus</P></e>
+</u>
+<u><nr>20618</nr><Referenz>20618</Referenz>
+<e><funktion>abbas</funktion><ort>Mellicensis</ort><ortsbestimmung>Pataviensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20619</nr><Referenz>20619</Referenz>
+<e><institution>eccl.; ord.Aug.</institution><ort>Frisonaria</ort><ortsbestimmung>Lucana dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20620</nr><Referenz>20620</Referenz>
+<e><name>Guido de Zena</name><funktion>canonicus</funktion><ort>Mantua</ort></e>
+</u>
+<u><nr>20621</nr><Referenz>20621</Referenz>
+<e><name>Guido de Zena</name><funktion>canonicus</funktion><ort>Mantua</ort></e>
+</u>
+<u><nr>20622</nr><Referenz>20622</Referenz>
+<e><name>Thomas</name><funktion>praep.; scriptor suus</funktion><institution>eccl.</institution><ort>Pensauriensis</ort></e>
+</u>
+<u><nr>20623</nr><Referenz>20623</Referenz>
+<e><funktion>abbas</funktion><ort>Medlicensis</ort></e>
+<e><funktion>praep.; decanus</funktion><institution>eccl.</institution><ort>S.Ypolitus</ort><ortsbestimmung>Pataviensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20624</nr><Referenz>20624</Referenz>
+<e><name>David</name><funktion>electus</funktion><institution>OCist</institution><ort>Suanensis</ort></e>
+</u>
+<u><nr>20625</nr><Referenz>20625</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OCist</institution><ort>Locus Dei</ort><ortsbestimmung>Ripensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20626</nr><Referenz>20626</Referenz>
+<e><funktion>praep.</funktion><institution>eccl.</institution><ort>Slesvicensis</ort></e>
+</u>
+<u><nr>20627</nr><Referenz>20627</Referenz>
+<e><funktion>praep.</funktion><institution>eccl.</institution><ort>Slesvicensis</ort></e>
+</u>
+<u><nr>20628</nr><Referenz>20628</Referenz>
+<e><funktion>capitulum</funktion><institution>basilica</institution><ort>Roma</ort><P>S.Petrus</P></e>
+</u>
+<u><nr>20629</nr><Referenz>20629</Referenz>
+<e><funktion>prior</funktion><institution>OPr</institution><ort>Colimbriensis</ort></e>
+<e><funktion>guardianus</funktion><institution>OFM</institution><ort>Colimbriensis</ort></e>
+</u>
+<u><nr>20630</nr><Referenz>20630</Referenz>
+<e><name>Michael Palaeologus</name><funktion>imperator</funktion><ort>Graeci</ort></e>
+</u>
+<u><nr>20631</nr><Referenz>20631</Referenz>
+<e><name>Iosephus</name><funktion>patriarcha Graecorum</funktion></e>
+</u>
+<u><nr>20632</nr><Referenz>20632</Referenz>
+<e><funktion>archiep.</funktion><ort>Nazarenus</ort></e>
+<e><funktion>ep.</funktion><ort>Bethlehemitanus</ort></e>
+<e><funktion>ep.</funktion><ort>Paneadensis</ort></e>
+</u>
+<u><nr>20633</nr><Referenz>20633</Referenz>
+<e><name>Hieronymus de Esculo; Raymundus Berengarii; Bonagratia de S.Iohanne in Perseceto; Bonaventura de Mugello</name><funktion>fratres; apost.sed. nuntii</funktion><institution>OFM</institution></e>
+</u>
+<u><nr>20634</nr><Referenz>20634</Referenz>
+<e><funktion>abbas</funktion><institution>monasterium</institution><ort>Pr-Wingen <orig>Prfening</orig></ort><ortsbestimmung>Ratisponensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20635</nr><Referenz>20635</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>Ratisponensis</ort><P>S.Emmeramus</P></e>
+</u>
+<u><nr>20636</nr><Referenz>20636</Referenz>
+<e><funktion>reges; archiepp.; epp.</funktion></e>
+</u>
+<u><nr>20637</nr><Referenz>20637</Referenz>
+<e><funktion>commune</funktion><ort>Bononia</ort></e>
+</u>
+<u><nr>20638</nr><Referenz>20638</Referenz>
+<e><name>Hieronymus de Esculo; Raymundus Berengarii; Bonagratia de S.Iohanne in Perseceto; Bonaventura de Mugello</name><funktion>fratres; apost.sed. nuntii</funktion><institution>OFM</institution></e>
+</u>
+<u><nr>20639</nr><Referenz>20639</Referenz>
+<e><name>(Carolus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+</u>
+<u><nr>20640</nr><Referenz>20640</Referenz>
+<e><name>(Philippus)</name><funktion>rex</funktion><ort>Francia</ort></e>
+</u>
+<u><nr>20641</nr><Referenz>20641</Referenz>
+<e><name>Iohannes</name><funktion>frater</funktion><institution>OFM</institution><ort>Nigropontensis</ort></e>
+</u>
+<u><nr>20642</nr><Referenz>20642</Referenz>
+<e><funktion>cives; civitas; commune</funktion><ort>Pisanus</ort><Bemerkungen>Exkommunkation</Bemerkungen></e>
+</u>
+<u><nr>20643</nr><Referenz>20643</Referenz>
+<e><name>Edwardus</name><funktion>primogenitus (Henrici) regis Angliae</funktion></e>
+</u>
+<u><nr>20644</nr><Referenz>20644</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium;OCist</institution><ort>de Camberone</ort><ortsbestimmung>Cameracensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20645</nr><Referenz>20645</Referenz>
+<e><name>Henricus</name><funktion>archiep.</funktion><ort>Treverensis</ort></e>
+</u>
+<u><nr>20646</nr><Referenz>20646</Referenz>
+<e><funktion>abbas</funktion><ort>S.Leodegarius</ort><ortsbestimmung>Xantonensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20647</nr><Referenz>20647</Referenz>
+<e><funktion>populus</funktion><ort>Narbonensis</ort></e>
+</u>
+<u><nr>20648</nr><Referenz>20648</Referenz>
+<e><name>Eganus</name><funktion>pastor</funktion><institution>eccl.</institution><ort>Tridentinus</ort></e>
+</u>
+<u><nr>20649</nr><Referenz>20649</Referenz>
+<e><name>Ivo</name><funktion>abbas</funktion><ort>Cluniacum</ort></e>
+</u>
+<u><nr>20650</nr><Referenz>20650</Referenz>
+<e><name>Ivo</name><funktion>abbas</funktion><ort>Cluniacum</ort></e>
+</u>
+<u><nr>20651</nr><Referenz>20651</Referenz>
+<e><name>Ivo</name><funktion>abbas</funktion><ort>Cluniacum</ort></e>
+</u>
+<u><nr>20652</nr><Referenz>20652</Referenz>
+<e><name>(Philippus)</name><funktion>rex</funktion><ort>Franci</ort></e>
+</u>
+<u><nr>20653</nr><Referenz>20653</Referenz>
+<e><name>Mathaeus</name><funktion>succentor</funktion><institution>eccl.</institution><ort>Rossensis</ort></e>
+</u>
+<u><nr>20654</nr><Referenz>20654</Referenz>
+<e><name>(Philippus)</name><funktion>rex</funktion><ort>Franci</ort></e>
+</u>
+<u><nr>20655</nr><Referenz>20655</Referenz>
+<e><name>Laurentius Teupulus</name><funktion>dux</funktion><ort>Venetiae</ort></e>
+</u>
+<u><nr>20656</nr><Referenz>20656</Referenz>
+<e><name>(Petrus de Tarantasia)</name><funktion>electus</funktion><ort>Lugdunensis</ort></e>
+</u>
+<u><nr>20657</nr><Referenz>20657</Referenz>
+<e><funktion>ep.</funktion><ort>Silvanectensis</ort></e>
+</u>
+<u><nr>20658</nr><Referenz>20658</Referenz>
+<e><institution>coenobium</institution><ort>Locus Dei</ort></e>
+</u>
+<u><nr>20659</nr><Referenz>20659</Referenz>
+<e><funktion>archiepresb.</funktion><institution>eccl.</institution><ort>Lucensis</ort></e>
+</u>
+<u><nr>20660</nr><Referenz>20660</Referenz>
+<e><funktion>scolasticus</funktion><institution>eccl.</institution><ort>Aquensis</ort><ortsbestimmung>Leodiensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20661</nr><Referenz>20661</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium</institution><ort>Tepla</ort></e>
+</u>
+<u><nr>20662</nr><Referenz>20662</Referenz>
+<e><institution>monasterium</institution><ort>Luxemburgensis</ort><Bemerkungen>frz.</Bemerkungen><P>S.Maria <orig>Notre Dƒma</orig></P></e>
+</u>
+<u><nr>20663</nr><Referenz>20663</Referenz>
+<e><name>Eduardus</name><funktion>rex</funktion><ort>Anglia</ort></e>
+</u>
+<u><nr>20664</nr><Referenz>20664</Referenz>
+<e><name>A(lienora)</name><funktion>regina</funktion><ort>Anglia</ort></e>
+</u>
+<u><nr>20665</nr><Referenz>20665</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>Ratisponensis</ort><P>S.Emmeramus</P></e>
+</u>
+<u><nr>20666</nr><Referenz>20666</Referenz>
+<e><funktion>praep.</funktion><institution>eccl.</institution><ort>iuxta Aquisgranum</ort><P>S.Adalbertus</P></e>
+</u>
+<u><nr>20667</nr><Referenz>20667</Referenz>
+<e><name>Robert de B‚thune</name><funktion>fils aŒn‚ du comte de Flandre</funktion></e>
+</u>
+<u><nr>20668</nr><Referenz>20668</Referenz>
+<e><name>magister Iohannes Raynaldus</name><funktion>capellanus suus</funktion></e>
+</u>
+<u><nr>20669</nr><Referenz>20669</Referenz>
+<e><funktion>archidiac.</funktion><institution>Margaritae</institution><ort>in eccl. Nemausensis</ort></e>
+<e><funktion>prior</funktion><ort>de Sumina</ort><ortsbestimmung>Nemausensis</ortsbestimmung></e>
+<e><funktion>prior</funktion><ort>Nemausensis</ort><P>S.Baudilius</P></e>
+</u>
+<u><nr>20670</nr><Referenz>20670</Referenz>
+<e><funktion>marchio</funktion><ort>Monsferratus</ort></e>
+</u>
+<u><nr>20671</nr><Referenz>20671</Referenz>
+<e><institution>monasterium</institution><ort>Venetiae</ort><P>S.Georgius maior</P></e>
+</u>
+<u><nr>20672</nr><Referenz>20672</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium</institution><ort>Cluniacum</ort></e>
+</u>
+<u><nr>20673</nr><Referenz>20673</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium</institution><ort>Cluniacum</ort></e>
+</u>
+<u><nr>20674</nr><Referenz>20674</Referenz>
+<e><name>Bruno</name><funktion>ep.</funktion><ort>Olomucensis</ort></e>
+</u>
+<u><nr>20675</nr><Referenz>20675</Referenz>
+<e><funktion>scolasticus</funktion><institution>eccl.</institution><ort>Augustensis</ort></e>
+</u>
+<u><nr>20676</nr><Referenz>20676</Referenz>
+<e><institution>monasterium</institution><ort>Nunnenburch</ort><ortsbestimmung>Salzburga</ortsbestimmung></e>
+</u>
+<u><nr>20677</nr><Referenz>20677</Referenz>
+<e><funktion>abbas</funktion><ort>Pamia</ort><ortsbestimmung>Tolosana dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20678</nr><Referenz>20678</Referenz>
+<e><funktion>priorissa; conventus</funktion><institution>monasterium; ord.Aug.</institution><ort>Kirchberg</ort><ortsbestimmung>Salzburgensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20679</nr><Referenz>20679</Referenz>
+<e><institution>monasterium</institution><ort>Eberbacensis</ort></e>
+</u>
+<u><nr>20680</nr><Referenz>20680</Referenz>
+<e><funktion>capitulum</funktion><institution>eccl.</institution><ort>Curiensis</ort></e>
+</u>
+<u><nr>20681</nr><Referenz>20681</Referenz>
+<e><name>B(ertrandus)</name><funktion>quondam archiep.</funktion><ort>Arelatensis</ort></e>
+</u>
+<u><nr>20682</nr><Referenz>20682</Referenz>
+<e><funktion>universi</funktion></e>
+</u>
+<u><nr>20683</nr><Referenz>20683</Referenz>
+<e><funktion>abbas</funktion><ort>Salisburgensis</ort><P>S.Petrus</P></e>
+</u>
+<u><nr>20684</nr><Referenz>20684</Referenz>
+<e><name>magister Raynerus</name><funktion>capellanus suus; praep.</funktion><ort>Florentia</ort></e>
+</u>
+<u><nr>20685</nr><Referenz>20685</Referenz>
+<e><name>(Iohannes)</name><funktion>archiep.</funktion><ort>Nidrosiensis</ort></e>
+<an>*
+<e><name>Gondisalvus</name><funktion>electus</funktion><ort>Compostella</ort></e>
+<e><funktion>plures alii archiepp.; epp.</funktion><ort>Hispania; Anglia; Hibernia</ort></e>
+<e><name>(Iobus)</name><funktion>ep.</funktion><ort>Quinqueecclesiensis</ort></e>
+<e><name>(Timotheus)</name><funktion>ep.</funktion><ort>Zagrabiensis</ort></e>
+<e><name>(Benvenutus)</name><funktion>ep.</funktion><ort>Auximanus</ort></e>
+<e><funktion>minister generalis</funktion><institution>OFM</institution><ort>Legionis</ort><inst2>regnum</inst2></e>
+<e><funktion>ep.</funktion><ort>Gadicensis</ort></e>
+</an>
+</u> 
+<u><nr>20686</nr><Referenz>20686</Referenz>
+<e><funktion>quidam praelati</funktion></e>
+<an>*
+<e><name>(Bruno)</name><funktion>ep.</funktion><ort>Olomucensis</ort></e>
+</an>
+</u> 
+<u><nr>20687</nr><Referenz>20687</Referenz>
+<e><name>Iohannes de Vvlliaco</name><funktion>archidiac.</funktion><institution>eccl.</institution><ort>Beluacensis</ort></e>
+</u>
+<u><nr>20688</nr><Referenz>20688</Referenz>
+<e><name>(Henricus)</name><funktion>ep.</funktion><ort>Londoniensis</ort></e>
+<e><name>(Hugo)</name><funktion>ep.</funktion><ort>Eliensis</ort></e>
+</u>
+<u><nr>20689</nr><Referenz>20689</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OCist</institution><ort>Columba</ort><ortsbestimmung>Placentina dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20690</nr><Referenz>20690</Referenz>
+<e><funktion>ep.</funktion><ort>Moraviensis</ort></e>
+<e><funktion>ep.</funktion><ort>Aberdonensis</ort></e>
+<e><funktion>ep.</funktion><ort>Ergadiensis</ort></e>
+</u>
+<u><nr>20691</nr><Referenz>20691</Referenz>
+<e><institution>monasterium; OPraem</institution><ort>Bellus portus</ort><ortsbestimmung>Briocensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20692</nr><Referenz>20692</Referenz>
+<e><name>Philippus</name><funktion>rex</funktion><ort>Franci</ort></e>
+</u>
+<u><nr>20693</nr><Referenz>20693</Referenz>
+<e><name>Philippus</name><funktion>rex</funktion><ort>Franci</ort></e>
+</u>
+<u><nr>20694</nr><Referenz>20694</Referenz>
+<e><name>Philippus</name><funktion>rex</funktion><ort>Franci</ort></e>
+</u>
+<u><nr>20695</nr><Referenz>20695</Referenz>
+<e><funktion>prior</funktion><institution>monasterium</institution><ort>Vallare</ort><ortsbestimmung>Senonensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20696</nr><Referenz>20696</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OPraem</institution><ort>de Bello Portu</ort><P>S.Maria</P></e>
+</u>
+<u><nr>20697</nr><Referenz>20697</Referenz>
+<e><funktion>prior</funktion><ort>de Sumina</ort><ortsbestimmung>Nemausensis</ortsbestimmung></e>
+<e><funktion>prior</funktion><ort>Nemausensis</ort><P>S.Baudilius</P></e>
+</u>
+<u><nr>20698</nr><Referenz>20698</Referenz>
+<e><funktion>prior</funktion><ort>de Sumina</ort><ortsbestimmung>Nemausensis</ortsbestimmung></e>
+<e><funktion>prior</funktion><ort>Nemausensis</ort><P>S.Baudilius</P></e>
+</u>
+<u><nr>20699</nr><Referenz>20699</Referenz>
+<e><name>(Philippus)</name><funktion>rex</funktion><ort>Franci</ort></e>
+</u>
+<u><nr>20700</nr><Referenz>20700</Referenz>
+<e><name>Phylippus</name><funktion>praep.</funktion><ort>Mantua</ort></e>
+</u>
+<u><nr>20701</nr><Referenz>20701</Referenz>
+<e><repetit>12295</repetit></e>
+</u>
+<u><nr>20702</nr><Referenz>20702</Referenz>
+<e><funktion>abbas</funktion><institution>monasterium</institution><ort>Paris</ort><P>S.Dionysius in Francia</P></e>
+<e><funktion>abbas</funktion><institution>monasterium</institution><ort>Paris</ort><P>S.Germanus in Prato</P></e>
+</u>
+<u><nr>20703</nr><Referenz>20703</Referenz>
+<e><funktion>fratres</funktion><institution>OPr</institution><ort>Herbipolis <orig>eigentlich Herbipoli als Genetiv</orig></ort></e>
+</u>
+<u><nr>20704</nr><Referenz>20704</Referenz>
+<e><name>Heinricus</name><funktion>rector</funktion><ort>Monacum</ort><P>S.Petrus</P></e>
+<e><name>Ulricus</name><funktion>rector</funktion><ort>Monacum</ort><P>S.Maria</P></e>
+</u>
+<u><nr>20705</nr><Referenz>20705</Referenz>
+<e><name>(Conradus)</name><funktion>ep.</funktion><ort>Frisingensis</ort></e>
+</u>
+<u><nr>20706</nr><Referenz>20706</Referenz>
+<e><name>Henricus</name><funktion>rector</funktion><ort>Monacum</ort><P>S.Petrus</P></e>
+<e><name>Ulricus</name><funktion>rector</funktion><ort>Monacum</ort><P>S.Maria</P></e>
+</u>
+<u><nr>20707</nr><Referenz>20707</Referenz>
+<e><funktion>priorissa; conventus</funktion><institution>monasterium; ord.Aug.</institution><ort>Vallis Ducissae</ort></e>
+</u>
+<u><nr>20708</nr><Referenz>20708</Referenz>
+<e><funktion>priorissa; conventus</funktion><institution>monasterium; ord.Aug.</institution><ort>Vallis Ducissae</ort></e>
+</u>
+<u><nr>20709</nr><Referenz>20709</Referenz>
+<e><funktion>priorissa; conventus</funktion><institution>monasterium; ord.Aug.</institution><ort>Vallis Ducissae</ort></e>
+</u>
+<u><nr>20710</nr><Referenz>20710</Referenz>
+<e><funktion>decanus</funktion><institution>eccl.</institution><ort>Bruxellensis</ort><ortsbestimmung>Cameracensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20711</nr><Referenz>20711</Referenz>
+<e><funktion>abbas</funktion><institution>monasterium</institution><ort>Mediolanum</ort><P>S.Celsus</P></e>
+</u>
+<u><nr>20712</nr><Referenz>20712</Referenz>
+<e><name>ohne Empfänger</name></e>
+</u>
+<u><nr>20713</nr><Referenz>20713</Referenz>
+<e><name>(Fridericus)</name><funktion>archiep.</funktion><ort>Salisburgensis</ort></e>
+</u>
+<u><nr>20714</nr><Referenz>20714</Referenz>
+<e><funktion>cives; populus</funktion><ort>Lugdunensis</ort></e>
+</u>
+<u><nr>20715</nr><Referenz>20715</Referenz>
+<e><name>ohne Empfänger</name></e>
+</u>
+<u><nr>20716</nr><Referenz>20716</Referenz>
+<e><name>(Gilo)</name><funktion>archiep.</funktion><ort>Senonensis</ort></e>
+<e><funktion>epp.; abbates; alii praelati</funktion><institution>provincia</institution><ort>Senonensis</ort></e>
+<an>*
+<e><funktion>archiepp.</funktion><ort>Rhotomagensis; Rhemensis; Turonensis</ort></e>
+<e><funktion>archiepp.</funktion><ort>Eboracensis; Cantuaria</ort></e>
+<e><name>(Iohannes)</name><funktion>archiep.</funktion><ort>Nidrosiensis</ort></e>
+<e><name>Fulco</name><funktion>archiep.</funktion><ort>Upsalensis</ort></e>
+<e><funktion>archiep.</funktion><ort>Gneznensis</ort></e>
+<e><funktion>archiepp.</funktion><ort>Ispalensis; Compostellanus; Tolotanus; Tarraconensis;</ort></e>
+<e><funktion>electus</funktion><ort>Bracharensis</ort></e>
+<e><funktion>archiepp.</funktion><ort>Aquensis; Arelatensis; Ebredunensis; Viennensis; Narbonensis</ort></e>
+<e><funktion>archiep.</funktion><ort>Auxitanus</ort></e>
+<e><funktion>archiepp.</funktion><ort>Calaritanus; Turritanensis; Aborensis</ort></e>
+<e><funktion>archiepp.</funktion><ort>Colocensis; Agriensis</ort></e>
+<e><funktion>archiepp.</funktion><ort>Magdeburgensis; Bremensis; Treverensis; Salzeburgensis; Colonia; Moguntia</ort></e>
+<e><funktion>archiep.</funktion><ort>Mediolanum; Ianua</ort></e>
+<e><funktion>patriarcha</funktion><ort>Gradus</ort></e>
+<e><funktion>universi praelati</funktion><ort>Tuscia</ort></e>
+<e><funktion>universi praelati</funktion><ort>Campania</ort></e>
+<e><funktion>universi praelati</funktion><institution>marchia</institution><ort>Anconitana</ort></e>
+<e><funktion>archiep.</funktion><ort>Corinthiensis</ort></e>
+<e><funktion>electus</funktion><ort>Patracensis</ort></e>
+<e><funktion>singuli archiepp.</funktion><institution>regnum</institution><ort>Sicilia</ort></e>
+<e><funktion>archiepp.</funktion><ort>Iadrensis; Spalatensis</ort></e>
+<e><funktion>archiepp.</funktion><ort>Ragusa; Antibarensis</ort></e>
+<e><funktion>archiepp.</funktion><ort>Tarantasiensis; Bisuntinus</ort></e>
+<e><funktion>abbas</funktion><ort>Casinensis</ort></e>
+<e><funktion>universi praelati</funktion><institution>ducatus</institution><ort>Spoletanus</ort></e>
+</an>
+</u> 
+<u><nr>20717</nr><Referenz>20717</Referenz>
+<e><name>(Philippus)</name><funktion>rex</funktion><ort>Franci</ort></e>
+<an>*
+<e><funktion>rex</funktion><ort>Anglia; Scotia; Norvegia; Ungaria; Boemia; Castella; Aragonum; Navarra</ort></e>
+<e><funktion>comites</funktion><ort>Carnotensis; Flandria; Atrebatensis; Britannia; Blesensis; Nivernensis; Burgundia</ort></e>
+<e><funktion>duces</funktion><ort>Burgundia; Brabantia; Saxonia; Brunswic</ort></e>
+<e><funktion>marchiones</funktion><ort>Brandeburgensis; Misnensis</ort></e>
+<e><funktion>princeps</funktion><ort>Achaia</ort></e>
+<e><funktion>iudices</funktion><ort>Galluris; Arborensis; Calaritanus</ort></e>
+</an>
+</u> 
+<u><nr>20718</nr><Referenz>20718</Referenz>
+<e><name>(Oddo)</name><funktion>archiep.</funktion><ort>Rothomagensis</ort></e>
+<e><name>(Gilo)</name><funktion>archiep.</funktion><ort>Senonensis</ort></e>
+<e><name>(Robertus)</name><funktion>ep.</funktion><ort>Silvanectensis</ort></e>
+</u>
+<u><nr>20719</nr><Referenz>20719</Referenz>
+<e><name>(Philippus)</name><funktion>rex</funktion><ort>Francia</ort></e>
+</u>
+<u><nr>20720</nr><Referenz>20720</Referenz>
+<e><funktion>fratres; inquisitores haereticae pravitatis</funktion><institution>OPr</institution><ort>Francia</ort></e>
+</u>
+<u><nr>20721</nr><Referenz>20721</Referenz>
+<e><name>Carolus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+</u>
+<u><nr>20722</nr><Referenz>20722</Referenz>
+<e><funktion>rex</funktion><ort>Armenia</ort></e>
+</u>
+<u><nr>20723</nr><Referenz>20723</Referenz>
+<e><name>(Robertus)</name><funktion>archiep.</funktion><ort>Cantuaria</ort></e>
+</u>
+<u><nr>20724</nr><Referenz>20724</Referenz>
+<e><funktion>prior</funktion><institution>OPr</institution><ort>Paris</ort></e>
+</u>
+<u><nr>20725</nr><Referenz>20725</Referenz>
+<e><name>(Henricus)</name><funktion>archiep.</funktion><ort>Trevirensis</ort></e>
+<e><name>Otto</name><funktion>praep.</funktion><institution>eccl.</institution><ort>Spirensis</ort><P>S.Guido</P></e>
+<e><name>Bartholomaeus</name><funktion>frater; inquisitor haereticae pravitatis</funktion><institution>OFM</institution><ort>Romana provincia</ort></e>
+</u>
+<u><nr>20726</nr><Referenz>20726</Referenz>
+<e><institution>monasterium</institution><ort>Cluniacum</ort><P>S.Petrus</P></e>
+</u>
+<u><nr>20727</nr><Referenz>20727</Referenz>
+<e><funktion>universitas; commune</funktion><institution>civitas</institution><ort>Firmanus</ort></e>
+</u>
+<u><nr>20728</nr><Referenz>20728</Referenz>
+<e><funktion>prior; conventus</funktion><institution>OPr</institution><ort>Wratislaviensis</ort></e>
+</u>
+<u><nr>20729</nr><Referenz>20729</Referenz>
+<e><funktion>ep.</funktion><ort>Moraviensis</ort></e>
+<e><funktion>ep.</funktion><ort>Aberdonensis</ort></e>
+<e><funktion>ep.</funktion><ort>Glasguensis</ort></e>
+</u>
+<u><nr>20730</nr><Referenz>20730</Referenz>
+<e><institution>monasterium; OPraem</institution><ort>mons Sion</ort><ortsbestimmung>Pragensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20731</nr><Referenz>20731</Referenz>
+<e><institution>monasterium monialium; OPraem</institution><ort>Dokzan <orig>al. Doxan</orig></ort></e>
+</u>
+<u><nr>20732</nr><Referenz>20732</Referenz>
+<e><institution>monasterium</institution><ort>Nunnenburch</ort></e>
+</u>
+<u><nr>20733</nr><Referenz>20733</Referenz>
+<e><name>Ubertinus de Andito</name><funktion>cives</funktion><ort>Placentinus</ort></e>
+</u>
+<u><nr>20734</nr><Referenz>20734</Referenz>
+<e><name>Iohannes de Viterbio</name><funktion>frater</funktion><institution>OPr</institution></e>
+</u>
+<u><nr>20735</nr><Referenz>20735</Referenz>
+<e><funktion>abbas</funktion><institution>OCist</institution><ort>Dunemunde</ort></e>
+<e><funktion>prior</funktion><institution>OPr</institution><ort>Rigensis</ort></e>
+<e><funktion>guardianus</funktion><institution>OFM</institution><ort>Rigensis</ort></e>
+</u>
+<u><nr>20736</nr><Referenz>20736</Referenz>
+<e><funktion>prior</funktion><institution>OPr</institution><ort>Metensis</ort></e>
+<e><funktion>guardianus</funktion><institution>OFM</institution><ort>Metensis</ort></e>
+</u>
+<u><nr>20737</nr><Referenz>20737</Referenz>
+<e><funktion>monasterium monialium; OPraem</funktion><institution>Chotissovicensis</institution><ort>Pragensis dioc.</ort></e>
+</u>
+<u><nr>20738</nr><Referenz>20738</Referenz>
+<e><institution>monasterium; OCist</institution><ort>Neubotle</ort><ortsbestimmung>S.Andreae dioc.</ortsbestimmung><P>S.Maria</P></e>
+</u>
+<u><nr>20739</nr><Referenz>20739</Referenz>
+<e><institution>monasterium; ord.Aug.</institution><ort>Teplensis</ort></e>
+</u>
+<u><nr>20740</nr><Referenz>20740</Referenz>
+<e><name>Philippus</name><funktion>praep.</funktion><institution>cathedralis</institution><ort>Firmanus</ort></e>
+</u>
+<u><nr>20741</nr><Referenz>20741</Referenz>
+<e><name>Petrus</name><funktion>canonicus</funktion><institution>eccl.</institution><ort>Briocensis</ort></e>
+</u>
+<u><nr>20742</nr><Referenz>20742</Referenz>
+<e><name>(Alfonsus)</name><funktion>rex</funktion><ort>Portugallia</ort></e>
+</u>
+<u><nr>20743</nr><Referenz>20743</Referenz>
+<e><funktion>prior</funktion><institution>OPr</institution><ort>Ulixbonensis</ort></e>
+<e><funktion>custos; guardianus</funktion><institution>OFM</institution><ort>Ulixbonensis</ort></e>
+</u>
+<u><nr>20744</nr><Referenz>20744</Referenz>
+<e><funktion>ep.</funktion><ort>S.Marcus</ort></e>
+<e><funktion>ep.</funktion><ort>Cassanensis</ort></e>
+<e><funktion>minister</funktion><institution>OFM</institution><ort>Calabria</ort></e>
+</u>
+<u><nr>20745</nr><Referenz>20745</Referenz>
+<e><funktion>prior</funktion><institution>OPr</institution><ort>Ulixbonensis</ort></e>
+<e><funktion>custos; guardianus</funktion><institution>OFM</institution><ort>Ulixbonensis</ort></e>
+</u>
+<u><nr>20746</nr><Referenz>20746</Referenz>
+<e><name>Bonaventura</name><funktion>generalis minister</funktion><institution>OFM</institution></e>
+</u>
+<u><nr>20747</nr><Referenz>20747</Referenz>
+<e><funktion>prior; fratres</funktion><institution>OPr</institution><ort>Viterbiensis</ort></e>
+</u>
+<u><nr>20748</nr><Referenz>20748</Referenz>
+<e><institution>eccl.; civitas</institution><ort>Pisanus</ort></e>
+</u>
+<u><nr>20749</nr><Referenz>20749</Referenz>
+<e><funktion>custos; guardianus; fratres</funktion><institution>OFM</institution><ort>Assisium</ort></e>
+</u>
+<u><nr>20750</nr><Referenz>20750</Referenz>
+<e><name>ohne Empfänger</name></e>
+</u>
+<u><nr>20751</nr><Referenz>20751</Referenz>
+<e><name>Guido Novellus; Simon frater eius</name><funktion>comites</funktion></e>
+</u>
+<u><nr>20752</nr><Referenz>20752</Referenz>
+<e><name>ohne Empfänger</name></e>
+</u>
+<u><nr>20753</nr><Referenz>20753</Referenz>
+<e><name>Aldobrandinus</name><funktion>ep.</funktion><ort>Urbevetanus</ort></e>
+</u>
+<u><nr>20754</nr><Referenz>20754</Referenz>
+<e><name>(Philippus)</name><funktion>rex</funktion><ort>Francia</ort></e>
+</u>
+<u><nr>20755</nr><Referenz>20755</Referenz>
+<e><name>magister Guilelmus de Matiscone</name><funktion>capellanus suus</funktion></e>
+</u>
+<u><nr>20756</nr><Referenz>20756</Referenz>
+<e><name>(Iohannes)</name><funktion>diac.card. S.Nicolai in carcere Tulliano</funktion></e>
+</u>
+<u><nr>20757</nr><Referenz>20757</Referenz>
+<e><funktion>capitulum</funktion><institution>eccl.</institution><ort>Rigensis</ort></e>
+</u>
+<u><nr>20758</nr><Referenz>20758</Referenz>
+<e><name>(Alfonsus)</name><funktion>rex</funktion><ort>Castella</ort></e>
+<e><name>(Alfonsus)</name><funktion>electus in regem</funktion><ort>Romanorum </ort></e>
+</u>
+<u><nr>20759</nr><Referenz>20759</Referenz>
+<e><name>Philippus</name><funktion>imperator</funktion><ort>Constantinopolitanus</ort></e>
+</u>
+<u><nr>20760</nr><Referenz>20760</Referenz>
+<e><name>(Carolus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+</u>
+<u><nr>20761</nr><Referenz>20761</Referenz>
+<e><name>(Philippus)</name><funktion>rex</funktion><ort>Franci</ort></e>
+</u>
+<u><nr>20762</nr><Referenz>20762</Referenz>
+<e><name>Michael Palaeologus</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>20763</nr><Referenz>20763</Referenz>
+<e><funktion>archiepp.; epp.; abbates; alii praelati</funktion></e>
+</u>
+<u><nr>20764</nr><Referenz>20764</Referenz>
+<e><funktion>abbas</funktion><institution>monasterium</institution><ort>Casinensis</ort></e>
+</u>
+<u><nr>20765</nr><Referenz>20765</Referenz>
+<e><funktion>ep.</funktion><ort>Panormitanus</ort></e>
+</u>
+<u><nr>20766</nr><Referenz>20766</Referenz>
+<e><name>Hieronymus de Esculo; Bonagratia de S.Iohanne in Perseceto</name><institution>OFM</institution></e>
+</u>
+<u><nr>20767</nr><Referenz>20767</Referenz>
+<e><name>(Eduardus)</name><funktion>rex</funktion><ort>Anglia</ort></e>
+</u>
+<u><nr>20768</nr><Referenz>20768</Referenz>
+<e><name>(Edwardus)</name><funktion>rex</funktion><ort>Anglia</ort></e>
+</u>
+<u><nr>20769</nr><Referenz>20769</Referenz>
+<e><name>(Edwardus)</name><funktion>rex</funktion><ort>Anglia</ort></e>
+</u>
+<u><nr>20770</nr><Referenz>20770</Referenz>
+<e><name>magister Raymundus de Nogeriis</name><funktion>capellanus suus; nuncius suus in Anglia</funktion></e>
+</u>
+<u><nr>20771</nr><Referenz>20771</Referenz>
+<e><funktion>abbatissa; conventus</funktion><institution>monasterium; ord.S.Dam.</institution><ort>Ischieto</ort><ortsbestimmung>Urbinata dioc.</ortsbestimmung><P>S.Silvester</P></e>
+</u>
+<u><nr>20772</nr><Referenz>20772</Referenz>
+<e><funktion>praep.; capitulum</funktion><institution>eccl.; ord.Aug.</institution><ort>Ror</ort><ortsbestimmung>Ratisponensis dioc.</ortsbestimmung><P>S.Maria</P></e>
+</u>
+<u><nr>20773</nr><Referenz>20773</Referenz>
+<e><funktion>praep.; capitulum</funktion><institution>eccl.; ord.Aug.</institution><ort>Ror</ort><ortsbestimmung>Ratisponensis dioc.</ortsbestimmung><P>S.Maria</P></e>
+</u>
+<u><nr>20774</nr><Referenz>20774</Referenz>
+<e><funktion>archiep.</funktion><ort>Pisanus</ort></e>
+</u>
+<u><nr>20775</nr><Referenz>20775</Referenz>
+<e><name>(Bernhardus)</name><funktion>ep.</funktion><ort>Secoviensis</ort></e>
+</u>
+<u><nr>20776</nr><Referenz>20776</Referenz>
+<e><name>(Carolus)</name><funktion>(rex)</funktion><ort>(Sicilia)</ort></e>
+</u>
+<u><nr>20776a</nr><Referenz>20776a</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium</institution><ort>Medianum</ort></e>
+</u>
+<u><nr>20777</nr><Referenz>20777</Referenz>
+<e><name>Henricus</name><funktion>ep.</funktion><ort>Leodiensis</ort></e>
+</u>
+<u><nr>20778</nr><Referenz>20778</Referenz>
+<e><name>magister Simon de Parisius</name><funktion>cancellarius (Caroli) regis Siciliae; archidiac.</funktion><ort>Vindocinensis</ort><ortsbestimmung>in eccl. Carnotensi</ortsbestimmung></e>
+</u>
+<u><nr>20779</nr><Referenz>20779</Referenz>
+<e><name>Grimerius</name><funktion>archidiac.; capellanus suus</funktion><ort>Aquensis</ort></e>
+</u>
+<u><nr>20780</nr><Referenz>20780</Referenz>
+<e><name>(Wolimirus)</name><funktion>ep.</funktion><ort>Cuiaviensis</ort></e>
+</u>
+<u><nr>20781</nr><Referenz>20781</Referenz>
+<e><name>Iohannes</name><funktion>praep.</funktion><institution>eccl.; ord.Aug.</institution><ort>S.Euphemia</ort><ortsbestimmung>Placentina dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20782</nr><Referenz>20782</Referenz>
+<e><funktion>decanus</funktion><ort>Utrecht</ort><Bemerkungen>frz.</Bemerkungen></e>
+</u>
+<u><nr>20783</nr><Referenz>20783</Referenz>
+<e><funktion>prior; conventus</funktion><institution>monasterium; OCart</institution><ort>Cartusia</ort><ortsbestimmung>Gratianopolitana dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20784</nr><Referenz>20784</Referenz>
+<e><funktion>ep.; prior; archipresb.</funktion><ort>Auximanus</ort></e>
+</u>
+<u><nr>20785</nr><Referenz>20785</Referenz>
+<e><institution>hospitale; ord.Aug.</institution><ort>Bruxellensis</ort><P>S.Iohannes</P></e>
+</u>
+<u><nr>20786</nr><Referenz>20786</Referenz>
+<e><funktion>ep.</funktion><ort>Vercellensis</ort></e>
+</u>
+<u><nr>20787</nr><Referenz>20787</Referenz>
+<e><funktion>ep.</funktion><ort>Firmanus</ort></e>
+</u>
+<u><nr>20788</nr><Referenz>20788</Referenz>
+<e><funktion>prior</funktion><institution>OPr</institution><ort>Barchinonensis</ort></e>
+<e><funktion>guardianus</funktion><institution>OFM</institution><ort>Barchinonensis</ort></e>
+</u>
+<u><nr>20789</nr><Referenz>20789</Referenz>
+<e><funktion>prior</funktion><institution>OPr</institution><ort>Metensis</ort></e>
+<e><funktion>guardianus</funktion><institution>OFM</institution><ort>Metensis</ort></e>
+<e><funktion>decanus</funktion><ort>Metensis</ort></e>
+</u>
+<u><nr>20790</nr><Referenz>20790</Referenz>
+<e><institution>monasterium; OCist</institution><ort>Corin</ort><ortsbestimmung>Brandenburgensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20791</nr><Referenz>20791</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OCist</institution><ort>Ottirburg</ort><ortsbestimmung>Maguntina dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20792</nr><Referenz>20792</Referenz>
+<e><name>Petrus dictus Ispanus</name><funktion>castellanus</funktion><institution>castrum</institution><ort>Moriscum</ort></e>
+</u>
+<u><nr>20793</nr><Referenz>20793</Referenz>
+<e><name>Saladinus</name><funktion>castellanus</funktion><institution>castrum</institution><ort>Mons Falconis <kommentar># nom. unklar</kommentar></ort></e>
+</u>
+<u><nr>20794</nr><Referenz>20794</Referenz>
+<e><funktion>decanus; scolasticus; thesaurarius</funktion><institution>eccl.</institution><ort>Merseburgensis</ort></e>
+</u>
+<u><nr>20795</nr><Referenz>20795</Referenz>
+<e><name>Raymundus</name><funktion>ep.</funktion><ort>Cumanus</ort></e>
+</u>
+<u><nr>20796</nr><Referenz>20796</Referenz>
+<e><name>(Fridericus)</name><funktion>ep.</funktion><ort>Merseburgensis</ort></e>
+</u>
+<u><nr>20797</nr><Referenz>20797</Referenz>
+<e><name>magister Raymundus de Nogeriis</name><funktion>capellanus suus; nuncius suus in Anglia</funktion></e>
+</u>
+<u><nr>20798</nr><Referenz>20798</Referenz>
+<e><funktion>fratres; inquisitores haereticae pravitatis</funktion><institution>OPr</institution></e>
+<e><funktion>fratres; inquisitores haereticae pravitatis</funktion><institution>OFM</institution></e>
+</u>
+<u><nr>20799</nr><Referenz>20799</Referenz>
+<e><funktion>guardianus</funktion><institution>OFM</institution><ort>Laudunensis</ort></e>
+</u>
+<u><nr>20800</nr><Referenz>20800</Referenz>
+<e><institution>monasterium monialium; ord.Aug.</institution><ort>Burgum S.Laurentii</ort><ortsbestimmung>Mugellum</ortsbestimmung><P>S.Agnes</P></e>
+</u>
+<u><nr>20801</nr><Referenz>20801</Referenz>
+<e><institution>monasterium; OSB</institution><ort>S.Maria Filia Dei <orig>Couvent de la Fille- Dieu</orig></ort><ortsbestimmung>Lausannensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20802</nr><Referenz>20802</Referenz>
+<e><funktion>potestas; consilium; commune</funktion><ort>Pisanus</ort></e>
+</u>
+<u><nr>20803</nr><Referenz>20803</Referenz>
+<e><institution>monasterium</institution><ort>Folkolderoth</ort><Bemerkungen>dt.</Bemerkungen></e>
+</u>
+<u><nr>20804</nr><Referenz>20804</Referenz>
+<e><name>S(anctius)</name><funktion>archiep.</funktion><ort>Toletanus</ort></e>
+</u>
+<u><nr>20805</nr><Referenz>20805</Referenz>
+<e><funktion>prior; conventus</funktion><institution>monasterium; ord.Aug.</institution><ort>Londoniensis</ort><P>S.Trinitas</P></e>
+</u>
+<u><nr>20806</nr><Referenz>20806</Referenz>
+<e><funktion>comes</funktion><ort>Monsfeltri <orig>Montisfeltri</orig></ort></e>
+</u>
+<u><nr>20807</nr><Referenz>20807</Referenz>
+<e><funktion>potestas; consilium; commune</funktion><ort>Urbinas</ort></e>
+</u>
+<u><nr>20808</nr><Referenz>20808</Referenz>
+<e><name>ohne Empfänger</name></e>
+</u>
+<u><nr>20809</nr><Referenz>20809</Referenz>
+<e><name>R(adulphus)</name><funktion>electus in regem</funktion><ort>Romanorum </ort></e>
+</u>
+<u><nr>20810</nr><Referenz>20810</Referenz>
+<e><name>Hieronymus de Esculo; Raymundus Berengarii; Bonagratia de S.Iohanne in Perseceto; Bonaventura de Mugello</name><funktion>fratres; apost.sed. nuntii</funktion><institution>OFM</institution></e>
+</u>
+<u><nr>20811</nr><Referenz>20811</Referenz>
+<e><name>(Carolus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+</u>
+<u><nr>20812</nr><Referenz>20812</Referenz>
+<e><name>(Carolus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+</u>
+<u><nr>20813</nr><Referenz>20813</Referenz>
+<e><name>Bartholomaeus Quirinus</name><ort>Venetiae <orig>Venetus</orig></ort></e>
+</u>
+<u><nr>20814</nr><Referenz>20814</Referenz>
+<e><funktion>praep.</funktion><institution>eccl.</institution><ort>Cremona</ort><P>S.Lucia</P></e>
+</u>
+<u><nr>20815</nr><Referenz>20815</Referenz>
+<e><funktion>abbas</funktion><institution>OSB</institution><ort>Tincia</ort><ortsbestimmung>Cracoviensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20816</nr><Referenz>20816</Referenz>
+<e><funktion>decanus</funktion><ort>Aquilega</ort></e>
+</u>
+<u><nr>20817</nr><Referenz>20817</Referenz>
+<e><name>Guillelmus de Villareto</name><funktion>prior</funktion><institution>prioratus; hospitale</institution><ort>Ierusalem</ort><P>S.Aegidius</P></e>
+</u>
+<u><nr>20818</nr><Referenz>20818</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium</institution><ort>Alba</ort></e>
+</u>
+<u><nr>20819</nr><Referenz>20819</Referenz>
+<e><funktion>dux</funktion><ort>Brabantia</ort></e>
+</u>
+<u><nr>20820</nr><Referenz>20820</Referenz>
+<e><funktion>villicus; scabini; universitas hominum</funktion><ort>Villa de S.Trudone</ort><ortsbestimmung>Leodiensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20821</nr><Referenz>20821</Referenz>
+<e><funktion>praep.; capitulum</funktion><institution>eccl.; ord.Aug.</institution><ort>Caldenborn</ort><ortsbestimmung>Halberstadensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20822</nr><Referenz>20822</Referenz>
+<e><funktion>abbas</funktion><institution>OCist</institution><ort>Sichem</ort><ortsbestimmung>Halberstadensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20823</nr><Referenz>20823</Referenz>
+<e><name>(Fridericus)</name><funktion>archiep.</funktion><ort>Salisburgensis</ort></e>
+</u>
+<u><nr>20824</nr><Referenz>20824</Referenz>
+<e><funktion>capitanei; consilium; commune</funktion><ort>Ianua</ort></e>
+</u>
+<u><nr>20825</nr><Referenz>20825</Referenz>
+<e><funktion>abbas</funktion><institution>monasterium</institution><ort>Guthvalia</ort><ortsbestimmung>Lincopensis dioc.</ortsbestimmung></e>
+<e><funktion>abbas</funktion><institution>monasterium</institution><ort>Novavallis</ort><ortsbestimmung>Lincopensis oder Scarensis dioc.</ortsbestimmung></e>
+<e><funktion>abbas</funktion><institution>monasterium</institution><ort>Warnhem</ort><ortsbestimmung>Scarensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20826</nr><Referenz>20826</Referenz>
+<e><funktion>abbas</funktion><ort>Cistercium</ort></e>
+<e><funktion>coabbates; conventus universi</funktion><institution>OCist</institution></e>
+</u>
+<u><nr>20827</nr><Referenz>20827</Referenz>
+<e><funktion>decanus; capitulum</funktion><institution>eccl.</institution><ort>Olomucensis</ort></e>
+</u>
+<u><nr>20828</nr><Referenz>20828</Referenz>
+<e><name>E(dwardus)</name><funktion>rex</funktion><ort>Anglia</ort></e>
+</u>
+<u><nr>20829</nr><Referenz>20829</Referenz>
+<e><funktion>abbatissa; conventus</funktion><institution>monasterium monialium inclusarum; ordo S.Clarae</institution><ort>Seuszliz</ort></e>
+</u>
+<u><nr>20830</nr><Referenz>20830</Referenz>
+<e><funktion>praep.; conventus</funktion><institution>monasterium; ord.Aug.</institution><ort>Berthesgaden</ort><ortsbestimmung>Salzburgensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20831</nr><Referenz>20831</Referenz>
+<e><institution>monasterium</institution><ort>Eberacensis</ort></e>
+</u>
+<u><nr>20832</nr><Referenz>20832</Referenz>
+<e><institution>monasterium; OCist</institution><ort>Wlodizlauia <orig>Rauden in Silesia sup.</orig></ort><ortsbestimmung>Wratislaviensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20833</nr><Referenz>20833</Referenz>
+<e><name>(Ludovicus)</name><funktion>abbas</funktion><institution>monasterium</institution><ort>Reinhardsbrunn</ort></e>
+</u>
+<u><nr>20834</nr><Referenz>20834</Referenz>
+<e><name>(Albertus)</name><funktion>decanus</funktion><institution>eccl.</institution><ort>Spirensis</ort><P>S.Trinitas</P></e>
+</u>
+<u><nr>20835</nr><Referenz>20835</Referenz>
+<e><institution>monasterium; OCist</institution><ort>Wlodizlauia <orig>Rauden in Silesia sup.</orig></ort><ortsbestimmung>Wratislaviensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20836</nr><Referenz>20836</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OCist</institution><ort>Wlodizlauia <orig>Rauden in Silesia sup.</orig></ort><ortsbestimmung>Wratislaviensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20837</nr><Referenz>20837</Referenz>
+<e><funktion>abbatissa; conventus</funktion><institution>monasterium; OCist</institution><ort>Lucida Vallis</ort><ortsbestimmung>Spirensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20838</nr><Referenz>20838</Referenz>
+<e><name>(Otakarus)</name><funktion>rex</funktion><ort>Boemia</ort></e>
+</u>
+<u><nr>20839</nr><Referenz>20839</Referenz>
+<e><funktion>ep.</funktion><ort>Waciensis</ort></e>
+</u>
+<u><nr>20840</nr><Referenz>20840</Referenz>
+<e><institution>coenobium</institution><ort>Hambeya</ort></e>
+</u>
+<u><nr>20841</nr><Referenz>20841</Referenz>
+<e><institution>monasterium; OSB</institution><ort>S.Maria Montis Angelorum</ort></e>
+</u>
+<u><nr>20842</nr><Referenz>20842</Referenz>
+<e><funktion>praep.</funktion><ort>Magdeburgensis</ort></e>
+<e><name>Henricus de Grunimberc</name><funktion>canonicus</funktion><ort>Magdeburgensis</ort></e>
+</u>
+<u><nr>20843</nr><Referenz>20843</Referenz>
+<e><funktion><kommentar>?abbas</kommentar></funktion><ort>Bononia</ort><P>S.Michael Bosco</P></e>
+<e><funktion><kommentar>?abbas</kommentar></funktion><ort>Bononia</ort><P>S.Iohannes in Monte</P></e>
+</u>
+<u><nr>20844</nr><Referenz>20844</Referenz>
+<e><institution>monasterium; OCist</institution><ort>Corin</ort><ortsbestimmung>Brandenburgensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20845</nr><Referenz>20845</Referenz>
+<e><name>(Alfonsus)</name><funktion>rex</funktion><ort>Castella ;Legionis</ort></e>
+<e><name>(Alfonsus)</name><funktion>electus in regem</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>20846</nr><Referenz>20846</Referenz>
+<e><name>magister Fredulus</name><funktion>capellanus suus; canonicus</funktion><ort>Magalonensis</ort></e>
+</u>
+<u><nr>20847</nr><Referenz>20847</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>Dunfermelin</ort><ortsbestimmung>S.Andreae dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20848</nr><Referenz>20848</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>Medlicensis</ort><ortsbestimmung>Pataviensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20849</nr><Referenz>20849</Referenz>
+<e><institution>monasterium</institution><ort>Rengering</ort><P>Libri S.Mariae</P></e>
+</u>
+<u><nr>20850</nr><Referenz>20850</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OCist</institution><ort>Reynevelde</ort><ortsbestimmung>Lubicensis dioc.</ortsbestimmung></e>
+<e><name>Iohannes</name><funktion>dux; dominus</funktion><ort>Brunswic; Lunemborg</ort></e>
+</u>
+<u><nr>20851</nr><Referenz>20851</Referenz>
+<e><funktion>scolasticus</funktion><institution>eccl.</institution><ort>Magdeburgensis</ort></e>
+</u>
+<u><nr>20852</nr><Referenz>20852</Referenz>
+<e><funktion>ep.</funktion><ort>Sverinensis</ort><Bemerkungen>dt.</Bemerkungen></e>
+<e><name>(Hildeboldus)</name><funktion>archiep.</funktion><ort>Bremensis</ort></e>
+<e><funktion>capitulum</funktion><ort>Bremensis</ort><Bemerkungen>dt.</Bemerkungen></e>
+</u>
+<u><nr>20853</nr><Referenz>20853</Referenz>
+<e><funktion>decanus</funktion><institution>eccl.</institution><ort>Olomucensis</ort></e>
+</u>
+<u><nr>20854</nr><Referenz>20854</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>Dunfermelin</ort><ortsbestimmung>S.Andreae dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20855</nr><Referenz>20855</Referenz>
+<e><name>Magnus magister</name><funktion>canonicus</funktion><ort>Pisanus</ort></e>
+<e><name>Guido</name><funktion>presb.</funktion><ort>Pisanus</ort><P>S.Christina</P></e>
+<e><name>Wicio</name><funktion>frater</funktion><institution>OPr</institution><ort>Pisanus</ort></e>
+<e><name>Lucidus</name><funktion>frater</funktion><institution>OFM</institution><ort>Pisanus</ort></e>
+<e><name>Ugolinus Gactus; Benectus capellanus</name><funktion>cives</funktion><ort>Pisanus</ort></e>
+</u>
+<u><nr>20856</nr><Referenz>20856</Referenz>
+<e><funktion>magister; fratres</funktion><institution>domus leprosorum; ord.Aug.</institution><ort>de Buscello iuxta Hoyum</ort><ortsbestimmung>Leodiensis dioc.</ortsbestimmung><P>S.Leonardus</P></e>
+</u>
+<u><nr>20857</nr><Referenz>20857</Referenz>
+<e><name>Radulphus</name><funktion>electus in regem</funktion><ort>Romanorum </ort></e>
+</u>
+<u><nr>20858</nr><Referenz>20858</Referenz>
+<e><funktion>rex</funktion><ort>Sicilia</ort></e>
+</u>
+<u><nr>20859</nr><Referenz>20859</Referenz>
+<e><name>Bertholdus de Henneberg</name><funktion>ep.</funktion><ort>Herbipolensis</ort></e>
+</u>
+<u><nr>20860</nr><Referenz>20860</Referenz>
+<e><name>(Matthaeus)</name><funktion>ep.</funktion><ort>Siracusanus</ort></e>
+</u>
+<u><nr>20861</nr><Referenz>20861</Referenz>
+<e><funktion>archiepp.; epp.</funktion></e>
+</u>
+<u><nr>20862</nr><Referenz>20862</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OCist</institution><ort>de Gordonio</ort><ortsbestimmung>Caturcensis dioc.</ortsbestimmung><P>S.Maria</P></e>
+</u>
+<u><nr>20863</nr><Referenz>20863</Referenz>
+<e><institution>abbaye</institution><ort>Doullens</ort><Bemerkungen>frz.</Bemerkungen><P>S.Michael</P></e>
+</u>
+<u><nr>20864</nr><Referenz>20864</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>Murbacensis</ort><ortsbestimmung>Basiliensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20865</nr><Referenz>20865</Referenz>
+<e><name>Illuminatus</name><funktion>professor; electus</funktion><institution>OFM</institution><ort>Assisinas</ort></e>
+</u>
+<u><nr>20866</nr><Referenz>20866</Referenz>
+<e><name>(Marcus)</name><funktion>ep.</funktion><ort>Cassanensis</ort></e>
+</u>
+<u><nr>20867</nr><Referenz>20867</Referenz>
+<e><name>T(ycho)</name><funktion>ep.</funktion><ort>Ripensis</ort></e>
+</u>
+<u><nr>20868</nr><Referenz>20868</Referenz>
+<e><name>(Iohannes)</name><funktion>archiep.</funktion><ort>Nidrosiensis</ort></e>
+<e><name>M(agnus)</name><funktion>rex</funktion><ort>Norwagia</ort></e>
+</u>
+<u><nr>20869</nr><Referenz>20869</Referenz>
+<e><name>Michael Palaeologus</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>20870</nr><Referenz>20870</Referenz>
+<e><name>Michael Palaeologus</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>20871</nr><Referenz>20871</Referenz>
+<e><name>(Bernardus)</name><funktion>abbas</funktion><institution>monasterium</institution><ort>Casinensis</ort></e>
+</u>
+<u><nr>20872</nr><Referenz>20872</Referenz>
+<e><name>Andronicus</name><funktion>primogenitus Michaelis Palaeologie imperatoris Graecorum</funktion></e>
+</u>
+<u><nr>20873</nr><Referenz>20873</Referenz>
+<e><funktion>metropolitae; archidiac.; universus clerus; oeconomus; sacellarius; protecdicus; logotheta; castrisius; referendarius; didascalus; primicerius; ipominiscus; omnes ostiarii; omnes notarii; decanus;  diaconi; cantores; lectores universi<orig>zu ipominiscus (hypomnimatista?)</orig></funktion><ort>Ephin. in Thracia Heracliae; Sarden. Lydiae; Nicomedia; Nicaea; Chalced.; Naupactus; Philadelphia; Thessalonicen.; Tyanorum; Heraclia Ponti; Iconium; Caria; Corfien.; Athenien.; Rhodien.; Philippen.; Smyrnen.; Serrae; Amastrida; Alama; Prusa; Maditi; Alydum; Christianopolis; Silibria;  Mesembria; Aprum; Achiraus; Pigae et Parium; Didymotichum; Anastasiopolis; Byzia; Cypselli; Garella; Derci; Praeconesi; Lopadia; Pergamum;  Melenia; Beria <orig>zu Achiraus (Achinnii?), zu Garella (Gattilleris?), zu Lopadia (Lopodii?)</orig></ort><Bemerkungen>Ephisen. in Thracia Heracliae, Sarden. Lydiae, Nicomediae, Nicaeae, Chalced., Naupacti, Philadelphiae, Thessalonice. Tyanorum, Heracliae Ponti, Iconii, Cariae, Corfien., Athenien., Rhodien., Philippen., Smyrnen., Serrarum, Amastridae, Alamae, Prusae, Maditorum, Alydi, Christianopoleos,  Silibriae, Mesembriae, Apri, Archiraus (Achinnii?), Pigarum et Parii,  Didymotichi, Anastasiopoleos, Byziae, Cypsellorum, Garellae (Gattilleris?),  Derci, Praeconesi, Lopadiae (Lopodii?), Pergami, Meleniai, Beriae</Bemerkungen></e>
+<e><funktion>archidiac., universus clerus, oeconomus, sacellarius, protecdicus, logotheta, castrisius, referendarius, didascalus, primicerius, ipominiscus (hypomnimatista?), omnes ostiarii, omnes notarii, decanus, diaconi, cantores, lectores universi,</funktion><Bemerkungen>und nu?</Bemerkungen></e>
+</u>
+<u><nr>20874</nr><Referenz>20874</Referenz>
+<e><name>Iohannes</name><funktion>ep.</funktion><ort>Tornacensis</ort></e>
+<an>*
+<e><funktion>praep.; decanus; archidiaconi; capitulum</funktion><institution>eccl.</institution><ort>Leodiensis</ort></e>
+<e><funktion>clerus</funktion><institution>civitas; diocesis</institution><ort>Leodiensis</ort></e>
+<e><funktion>duces; comites; barones; scabini</funktion><ort>Leodiensis dioc.</ort></e>
+</an>
+</u> 
+<u><nr>20875</nr><Referenz>20875</Referenz>
+<e><name>(Philippus)</name><funktion>rex</funktion><ort>Franci</ort></e>
+</u>
+<u><nr>20876</nr><Referenz>20876</Referenz>
+<e><name>R(iccardus)</name><funktion>diac.card. S.Angeli</funktion></e>
+</u>
+<u><nr>20877</nr><Referenz>20877</Referenz>
+<e><name>Iohannes dictus Belaster <kommentar> Nom. unklar</kommentar></name><funktion>frater</funktion><institution>OFM</institution></e>
+</u>
+<u><nr>20878</nr><Referenz>20878</Referenz>
+<e><name>(Carolus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+</u>
+<u><nr>20879</nr><Referenz>20879</Referenz>
+<e><name>Neapolio <kommentar> de la Turre; Franciscus de la Turre</kommentar></name><ort>Cremona</ort></e>
+<an>*
+<e><funktion>capitaneus; potestas; consilium; commune</funktion><ort>Cremona</ort></e>
+</an>
+</u> 
+<u><nr>20880</nr><Referenz>20880</Referenz>
+<e><name>(Raimundus)</name><funktion>patriarcha</funktion><ort>Aquileia</ort></e>
+</u>
+<u><nr>20881</nr><Referenz>20881</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OCist</institution><ort>Doberan</ort><ortsbestimmung>Zuerinensis dioc.</ortsbestimmung></e>
+<e><name>(Hermannus)</name><funktion>ep.</funktion><ort>Zuerinensis</ort></e>
+</u>
+<u><nr>20882</nr><Referenz>20882</Referenz>
+<e><institution>monasterium; OCist</institution><ort>Gudem</ort><ortsbestimmung>Skarensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20883</nr><Referenz>20883</Referenz>
+<e><name>Philippus</name><funktion>rex</funktion><ort>Franci</ort></e>
+</u>
+<u><nr>20884</nr><Referenz>20884</Referenz>
+<e><name>Simon</name><funktion>presb.card. tit. S.Caeciliae; apost.leg.</funktion></e>
+</u>
+<u><nr>20885</nr><Referenz>20885</Referenz>
+<e><name>Simon</name><funktion>presb.card. tit. S.Caeciliae; apost.leg.</funktion></e>
+</u>
+<u><nr>20886</nr><Referenz>20886</Referenz>
+<e><name>(Laurentius)</name><funktion>patriarcha</funktion><ort>Gradus</ort></e>
+<e><funktion>ep.</funktion><ort>Torcellanus</ort></e>
+</u>
+<u><nr>20887</nr><Referenz>20887</Referenz>
+<e><funktion>archiep.; suffraganei</funktion><ort>Upsalensis</ort></e>
+</u>
+<u><nr>20888</nr><Referenz>20888</Referenz>
+<e><name>Guido <orig>Gui</orig></name><funktion>comes</funktion><ort>Flandria</ort><Bemerkungen>frz.</Bemerkungen></e>
+<e><name>Isabella</name><funktion>uxor comitis Flandriae</funktion></e>
+</u>
+<u><nr>20889</nr><Referenz>20889</Referenz>
+<e><name>Laurentius</name><funktion>ep.</funktion><ort>Metensis</ort></e>
+<e><name>Theobaldus</name><funktion>comes</funktion><ort>Barrensis</ort></e>
+</u>
+<u><nr>20890</nr><Referenz>20890</Referenz>
+<e><funktion>prior provincialis</funktion><institution>OPr</institution><ort>Alemannia</ort></e>
+</u>
+<u><nr>20891</nr><Referenz>20891</Referenz>
+<e><name>(Bertholdus)</name><funktion>praep.</funktion><institution>monasterium; OPraem</institution><ort>Churwalde</ort><P>S.Maria</P></e>
+<e><funktion>conventus</funktion><institution>monasterium; OPraem</institution><ort>Churwalde</ort><P>S.Maria</P></e>
+</u>
+<u><nr>20892</nr><Referenz>20892</Referenz>
+<e><funktion>ep.</funktion><ort>Dumblanensis</ort></e>
+<e><funktion>ep.</funktion><ort>Ergadiensis</ort></e>
+</u>
+<u><nr>20893</nr><Referenz>20893</Referenz>
+<e><funktion>dux; legiferi; prolocutores; alii nobiles</funktion><institution>regnum</institution><ort>Suecia</ort></e>
+</u>
+<u><nr>20894</nr><Referenz>20894</Referenz>
+<e><funktion>decanus; capitulum</funktion><institution>eccl.</institution><ort>Glasguensis</ort></e>
+</u>
+<u><nr>20895</nr><Referenz>20895</Referenz>
+<e><name>Raymundus de Pennaforti</name><funktion>capellanus suus</funktion><institution>OPr</institution></e>
+</u>
+<u><nr>20896</nr><Referenz>20896</Referenz>
+<e><name>Wernerus</name><funktion>canonicus</funktion><ort>Monasteriensis</ort><P>S.Martinus</P></e>
+</u>
+<u><nr>20897</nr><Referenz>20897</Referenz>
+<e><name>Fulco</name><funktion>archidiac.</funktion><ort>Upsallensis</ort></e>
+<an>*
+<e><funktion>capitulum</funktion><institution>eccl.</institution><ort>Upsallensis</ort></e>
+<e><funktion>clerus</funktion><institution>civitas; diocesis</institution><ort>Upsallensis</ort></e>
+<e><funktion>universi epp. suffraganei</funktion><institution>eccl.</institution><ort>Upsallensis</ort></e>
+<e><funktion>populus</funktion><institution>civitas; diocesis</institution><ort>Upsallensis</ort></e>
+</an>
+</u> 
+<u><nr>20898</nr><Referenz>20898</Referenz>
+<e><name>Fulco</name><funktion>archidiac.</funktion><ort>Upsallensis</ort></e>
+</u>
+<u><nr>20899</nr><Referenz>20899</Referenz>
+<e><name>Fulco</name><funktion>electus</funktion><ort>Upsalensis</ort></e>
+</u>
+<u><nr>20900</nr><Referenz>20900</Referenz>
+<e><name>Israel</name><funktion>ep.</funktion><ort>Aurusiensis</ort></e>
+</u>
+<u><nr>20901</nr><Referenz>20901</Referenz>
+<e><funktion>universi</funktion></e>
+</u>
+<u><nr>20902</nr><Referenz>20902</Referenz>
+<e><funktion>archiep.</funktion><ort>Cantuaria</ort></e>
+</u>
+<u><nr>20903</nr><Referenz>20903</Referenz>
+<e><name>Lewelinus</name><funktion>princips</funktion><ort>Wallia</ort></e>
+</u>
+<u><nr>20904</nr><Referenz>20904</Referenz>
+<e><name>Simon</name><funktion>presb.card. tit. S.Caeciliae; apost.leg.</funktion></e>
+</u>
+<u><nr>20905</nr><Referenz>20905</Referenz>
+<e><funktion>abbas</funktion><ort>Cistercium</ort></e>
+<e><funktion>coabbates; conventus universi</funktion><institution>OCist</institution></e>
+</u>
+<u><nr>20906</nr><Referenz>20906</Referenz>
+<e><name>(Otakarus)</name><funktion>rex</funktion><ort>Boemia</ort></e>
+</u>
+<u><nr>20907</nr><Referenz>20907</Referenz>
+<e><funktion>generalis minister; provinciales ministri; custodes; guardiani; ceteri fratres</funktion><institution>OFM</institution></e>
+</u>
+<u><nr>20908</nr><Referenz>20908</Referenz>
+<e><name>(Edwardus)</name><funktion>rex</funktion><ort>Anglia</ort></e>
+</u>
+<u><nr>20909</nr><Referenz>20909</Referenz>
+<e><name>(Leo)</name><funktion>ep.</funktion><ort>Ratisponensis</ort></e>
+<e><funktion>capitulum</funktion><ort>Ratisponensis</ort></e>
+</u>
+<u><nr>20910</nr><Referenz>20910</Referenz>
+<e><institution>eccl.</institution><ort>Remi</ort></e>
+</u>
+<u><nr>20911</nr><Referenz>20911</Referenz>
+<e><name>S(imon)</name><funktion>presb.card. tit. S.Caeciliae; apost.leg.</funktion></e>
+</u>
+<u><nr>20912</nr><Referenz>20912</Referenz>
+<e><name>S(imon)</name><funktion>presb.card. tit. S.Caeciliae; apost.leg.</funktion></e>
+</u>
+<u><nr>20913</nr><Referenz>20913</Referenz>
+<e><funktion>prior</funktion><institution>OPr</institution><ort>Castella</ort></e>
+<e><funktion>archidiac.; archipresb.</funktion><institution>eccl.</institution><ort>Castella</ort></e>
+</u>
+<u><nr>20914</nr><Referenz>20914</Referenz>
+<e><funktion>prior</funktion><institution>OPr</institution><ort>Petragoricensis</ort></e>
+<e><funktion>guardianus</funktion><institution>OFM</institution><ort>Petragoricensis</ort></e>
+</u>
+<u><nr>20915</nr><Referenz>20915</Referenz>
+<e><funktion>christiani</funktion></e>
+</u>
+<u><nr>20916</nr><Referenz>20916</Referenz>
+<e><institution>eccl.</institution><ort>Hildesemensis</ort><P>S.Bartholomaeus</P></e>
+</u>
+<u><nr>20917</nr><Referenz>20917</Referenz>
+<e><funktion>prior; fratres</funktion><institution>OPr</institution><ort>Burdegalensis</ort></e>
+</u>
+<u><nr>20918</nr><Referenz>20918</Referenz>
+<e><name>Columbanus</name><funktion>ep.</funktion><ort>Traguriensis</ort></e>
+</u>
+<u><nr>20919</nr><Referenz>20919</Referenz>
+<e><funktion>decanus</funktion><institution>eccl.</institution><ort>Maguntia</ort></e>
+</u>
+<u><nr>20920</nr><Referenz>20920</Referenz>
+<e><funktion>archiep.</funktion><ort>Eboracensis</ort></e>
+<e><funktion>universi epp.</funktion><institution>provincia</institution><ort>Eboricensis</ort></e>
+<an>*
+<e><funktion>archiep.; suffraganei</funktion><ort>Remi</ort></e>
+<e><funktion>archiep.; universi epp.</funktion><ort>Tuamensis</ort></e>
+<e><name>Iohannes</name><funktion>archiep.</funktion><ort>Nidrosiensis</ort></e>
+<e><funktion>suffraganei</funktion><ort>Nidrosiensis</ort></e>
+<e><name>Fulco</name><funktion>archiep.</funktion><ort>Upsalensis</ort></e>
+<e><funktion>universi epp.</funktion><ort>Upsalensis</ort></e>
+</an>
+</u> 
+<u><nr>20921</nr><Referenz>20921</Referenz>
+<e><name><orig>Donn'Aveduto</orig></name><funktion>archiep.</funktion><ort>Monsregalis <orig>Monreale</orig></ort><Bemerkungen>ital.</Bemerkungen></e>
+</u>
+<u><nr>20922</nr><Referenz>20922</Referenz>
+<e><funktion>magister; fratres</funktion><institution>domus; militia Templi</institution><ort>Ierusalem</ort></e>
+</u>
+<u><nr>20923</nr><Referenz>20923</Referenz>
+<e><name>S(imon)</name><funktion>presb.card. tit. S.Caeciliae; apost.leg.</funktion></e>
+</u>
+<u><nr>20924</nr><Referenz>20924</Referenz>
+<e><name>(Meinhardus)</name><funktion>comes</funktion><ort>de Tyrolio</ort></e>
+</u>
+<u><nr>20925</nr><Referenz>20925</Referenz>
+<e><name>Iohannes</name><funktion>archiep.</funktion><ort>Nidrosiensis</ort></e>
+<an>*
+<e><name>Baiamundus de Vitia magister</name><funktion>canonicus</funktion><ort>Astensis</ort></e>
+<e><name>Baiamundus de Vitia magister</name><funktion>capellanus suus</funktion></e>
+<e><name>Bertrandus Amalrici</name><funktion>canonicus</funktion><ort>Remi</ort></e>
+<e><name>Bertrandus Amalrici</name><funktion>capellanus suus</funktion></e>
+<e><name>Gerardus magister</name><funktion>subdiac. suus; scriptor suus</funktion></e>
+</an>
+</u> 
+<u><nr>20926</nr><Referenz>20926</Referenz>
+<e><funktion>magister</funktion><institution>OPr</institution></e>
+</u>
+<u><nr>20927</nr><Referenz>20927</Referenz>
+<e><name>S(imon)</name><funktion>presb.card. tit. S.Caeciliae; apost.leg.</funktion></e>
+</u>
+<u><nr>20928</nr><Referenz>20928</Referenz>
+<e><institution>monasterium; OSB</institution><ort>in superiore Altah</ort><ortsbestimmung>Ratisponensis dioc.</ortsbestimmung><P>S.Petrus</P></e>
+</u>
+<u><nr>20929</nr><Referenz>20929</Referenz>
+<e><name>Rodulphus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>20930</nr><Referenz>20930</Referenz>
+<e><name>(Otakarus)</name><funktion>rex</funktion><ort>Boemia</ort></e>
+</u>
+<u><nr>20931</nr><Referenz>20931</Referenz>
+<e><funktion>archiepp.</funktion><ort>Trevirensis; Maguntia; Colonia; Salzeburgensis; Magdeburgensis; Bremensis</ort></e>
+<e><name>Ludovicus</name><funktion>comes Palatinus</funktion></e>
+<e><name>Henricus</name><funktion>dux</funktion><ort>Bavaria</ort></e>
+<e><name>Iohannes</name><funktion>marchio</funktion><ort>Brandenburgensis</ort></e>
+<e><funktion>dux</funktion><ort>Saxonia</ort></e>
+<e><name>Henricus</name><funktion>marchio</funktion><ort>Misnensis</ort></e>
+<e><funktion>langravius</funktion><ort>Thuringia</ort></e>
+<e><name>Theodoricus</name><funktion>marchio</funktion><ort>Landesperch</ort></e>
+<e><name>Iohannes</name><funktion>dux</funktion><ort>Brabantia</ort></e>
+<e><funktion>dux</funktion><ort>Lothoringia</ort></e>
+<e><funktion>universi alii epp.; praelati; civitates; principes</funktion><institution>regnum</institution><ort>Alemannia</ort></e>
+</u>
+<u><nr>20932</nr><Referenz>20932</Referenz>
+<e><funktion>archiep.; universi epp.</funktion><ort>Strigonia</ort></e>
+</u>
+<u><nr>20933</nr><Referenz>20933</Referenz>
+<e><name>Gondisalvus Petri</name><funktion>archidiac.</funktion><ort>Zalentinus</ort></e>
+</u>
+<u><nr>20934</nr><Referenz>20934</Referenz>
+<e><name>R(icardus)</name><funktion>diac.card. S.Angeli</funktion></e>
+</u>
+<u><nr>20935</nr><Referenz>20935</Referenz>
+<e><name>R(icardus)</name><funktion>diac.card. S.Angeli</funktion></e>
+</u>
+<u><nr>20936</nr><Referenz>20936</Referenz>
+<e><name>R(icardus)</name><funktion>diac.card. S.Angeli</funktion></e>
+</u>
+<u><nr>20937</nr><Referenz>20937</Referenz>
+<e><name>E(dwardus)</name><funktion>rex</funktion><ort>Anglia</ort></e>
+</u>
+<u><nr>20938</nr><Referenz>20938</Referenz>
+<e><funktion>abbas</funktion><ort>Pruvening</ort><ortsbestimmung>Ratisponensis dioc.</ortsbestimmung></e>
+<e><funktion>abbas</funktion><ort>Altha</ort><ortsbestimmung>Ratisponensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20939</nr><Referenz>20939</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>Ratisponensis</ort><P>S.Emmeramus</P></e>
+</u>
+<u><nr>20940</nr><Referenz>20940</Referenz>
+<e><name>Simon</name><funktion>presb.card. tit. S.Caeciliae; apost.leg.</funktion></e>
+</u>
+<u><nr>20941</nr><Referenz>20941</Referenz>
+<e><funktion>abbas</funktion><ort>Prufening</ort><ortsbestimmung>Ratisponensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20942</nr><Referenz>20942</Referenz>
+<e><funktion>magister; fratres</funktion><institution>domus; militia Templi</institution><ort>Ierusalem</ort></e>
+</u>
+<u><nr>20943</nr><Referenz>20943</Referenz>
+<e><funktion>ep.</funktion><ort>Dumblanensis</ort></e>
+<e><funktion>ep.</funktion><ort>Ergadiensis</ort></e>
+</u>
+<u><nr>20944</nr><Referenz>20944</Referenz>
+<e><funktion>ep.</funktion><ort>Dumblanensis</ort></e>
+<e><funktion>ep.</funktion><ort>Ergadiensis</ort></e>
+</u>
+<u><nr>20945</nr><Referenz>20945</Referenz>
+<e><funktion>decanus; capitulum</funktion><institution>eccl.</institution><ort>Glasguensis</ort></e>
+</u>
+<u><nr>20946</nr><Referenz>20946</Referenz>
+<e><funktion>magister; fratres</funktion><institution>hospitale</institution><ort>Ierusalem</ort><P>S.Maria Theutonicorum</P></e>
+</u>
+<u><nr>20947</nr><Referenz>20947</Referenz>
+<e><name>Rogerius de Merlomonte</name><funktion>canonicus; capellanus P(etri) Ostiensis et Velletrensis episcopi</funktion><ort>Virdunensis</ort></e>
+</u>
+<u><nr>20948</nr><Referenz>20948</Referenz>
+<e><funktion>universae priorissae; conventus</funktion><institution>monasteria sororum inclusarum; ord.Aug.</institution></e>
+</u>
+<u><nr>20949</nr><Referenz>20949</Referenz>
+<e><name>(Bernardus)</name><funktion>abbas</funktion><institution>monasterium</institution><ort>Casinensis</ort></e>
+</u>
+<u><nr>20950</nr><Referenz>20950</Referenz>
+<e><name>ohne Empfänger</name></e>
+</u>
+<u><nr>20951</nr><Referenz>20951</Referenz>
+<e><funktion>ep.; universi doctores; scholares</funktion><ort>Padua</ort></e>
+</u>
+<u><nr>20952</nr><Referenz>20952</Referenz>
+<e><funktion>ep.</funktion><ort>Moraviensis</ort></e>
+<e><funktion>ep.</funktion><ort>Aberdonensis</ort></e>
+<e><funktion>ep.</funktion><ort>Ergadiensis</ort></e>
+</u>
+<u><nr>20953</nr><Referenz>20953</Referenz>
+<e><funktion>magister; fratres</funktion><institution>hospitale</institution><ort>Ierusalem</ort><P>S.Maria Theutonicorum</P></e>
+</u>
+<u><nr>20954</nr><Referenz>20954</Referenz>
+<e><funktion>minister generalis</funktion><institution>OFM</institution></e>
+</u>
+<u><nr>20955</nr><Referenz>20955</Referenz>
+<e><funktion>magister; fratres</funktion><institution>Militia de Pereyro; OCist</institution></e>
+</u>
+<u><nr>20956</nr><Referenz>20956</Referenz>
+<e><name>Aimarus</name><funktion>archiep.</funktion><ort>Lugdunensis</ort></e>
+<e><funktion>decanus; capitulum</funktion><ort>Lugdunensis</ort></e>
+<e><name>Hugo</name><funktion>senescalcus</funktion><ort>Lugdunensis</ort></e>
+<e><name>Henricus de Villars</name><funktion>cantor</funktion><ort>Lugdunensis</ort></e>
+</u>
+<u><nr>20957</nr><Referenz>20957</Referenz>
+<e><name>(Philippus)</name><funktion>rex</funktion><ort>Franci</ort></e>
+</u>
+<u><nr>20958</nr><Referenz>20958</Referenz>
+<e><funktion>prior provincialis</funktion><institution>OPr</institution><ort>Dacia</ort></e>
+</u>
+<u><nr>20959</nr><Referenz>20959</Referenz>
+<e><funktion>prior provincialis</funktion><institution>OPr</institution><ort>Hungaria</ort></e>
+<an>*
+<e><funktion>minister</funktion><institution>OFM</institution><ort>Romana</ort><inst2>administratio </inst2></e>
+<e><funktion>ministri provinciales</funktion><institution>OFM</institution><ort>Tuscia; Bononia; Ianua; Sicilia;  Calabria; Apulia; S.Angeli; Terra Laboris; Pennensis; Provincia;  Burgundia; Mediolanum; Ungaria; Sclavonia; Alemannia; Colonia; Saxonia;  Austria; Syria; Anglia; Hibernia; Aquitania; Turonia; S.Francisci; Castella</ort></e>
+<e><funktion>ministri provinciales</funktion><institution>OFM</institution><ort>Dacia; Aragonia; Francia; Portugallia; Boemia</ort><inst2>regnum</inst2></e>
+<e><funktion>ministri provinciales</funktion><institution>OFM</institution><ort>Tarvisina; Anconitana</ort><inst2>marchia</inst2></e>
+</an>
+</u> 
+<u><nr>20960</nr><Referenz>20960</Referenz>
+<e><funktion>cives; commune</funktion><ort>Papia</ort></e>
+</u>
+<u><nr>20961</nr><Referenz>20961</Referenz>
+<e><funktion>capitanei; consilium; commune</funktion><institution>civitas</institution><ort>Ianua</ort></e>
+<e><funktion>potestas; capitaneus; consilium; commune</funktion><institution>civitas</institution><ort>Astensis</ort></e>
+<e><funktion>marchio</funktion><ort>Monsferratus</ort></e>
+</u>
+<u><nr>20962</nr><Referenz>20962</Referenz>
+<e><name>Rudolfus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>20963</nr><Referenz>20963</Referenz>
+<e><name>(Otakarus)</name><funktion>rex</funktion><ort>Boemia</ort></e>
+</u>
+<u><nr>20964</nr><Referenz>20964</Referenz>
+<e><name>Henricus</name><funktion>dux</funktion><ort>Bavaria</ort></e>
+</u>
+<u><nr>20965</nr><Referenz>20965</Referenz>
+<e><name>(Carolus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+</u>
+<u><nr>20966</nr><Referenz>20966</Referenz>
+<e><name>Rudolfus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>20967</nr><Referenz>20967</Referenz>
+<e><name>Guillelmus</name><funktion>advocatus</funktion><ort>Mediolanum</ort></e>
+<e><name>Neapolio de Laturre; Franciscus de Laturre</name><ort>Mediolanum</ort></e>
+<e><funktion>totum consilium; commune</funktion><ort>Mediolanum</ort></e>
+<e><name>Neapolio; Franciscus</name><ort>de Laturre</ort></e>
+</u>
+<u><nr>20968</nr><Referenz>20968</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OCist</institution><ort>in Monte Viterbiensis</ort><P>S.Martinus</P></e>
+</u>
+<u><nr>20969</nr><Referenz>20969</Referenz>
+<e><name>(Alfonsus)</name><funktion>rex</funktion><ort>Castella;Legio</ort></e>
+</u>
+<u><nr>20970</nr><Referenz>20970</Referenz>
+<e><funktion>potestas; capitaneus; consilium; commune</funktion><ort>Brixiensis</ort></e>
+</u>
+<u><nr>20971</nr><Referenz>20971</Referenz>
+<e><name>(Robertus)</name><funktion>archiep.</funktion><ort>Cantuaria</ort></e>
+</u>
+<u><nr>20972</nr><Referenz>20972</Referenz>
+<e><funktion>prior</funktion><ort>Breeton</ort><ortsbestimmung>Eboracensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20973</nr><Referenz>20973</Referenz>
+<e><funktion>ep.</funktion><ort>Urbevetanus</ort></e>
+</u>
+<u><nr>20974</nr><Referenz>20974</Referenz>
+<e><name>(Alfonsus)</name><funktion>rex</funktion><ort>Castella;Legio</ort></e>
+</u>
+<u><nr>20975</nr><Referenz>20975</Referenz>
+<e><funktion>regina</funktion><institution>Castella;Legio</institution></e>
+</u>
+<u><nr>20976</nr><Referenz>20976</Referenz>
+<e><name>(Carolus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+</u>
+<u><nr>20977</nr><Referenz>20977</Referenz>
+<e><name>(Carolus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+</u>
+<u><nr>20978</nr><Referenz>20978</Referenz>
+<e><name>Erardus dominus Valeriaci</name><funktion>camerarius</funktion><ort>Francia</ort></e>
+<e><name>Imbertus dominus Belliioci</name><funktion>constabularius</funktion><ort>Francia</ort></e>
+<e><name>Theobaldus Castegnier</name></e>
+<e><name>Gerardus de Morbay</name></e>
+</u>
+<u><nr>20979</nr><Referenz>20979</Referenz>
+<e><funktion>communitas</funktion><ort>Firmanus</ort></e>
+</u>
+<u><nr>20980</nr><Referenz>20980</Referenz>
+<e><name>S(imon)</name><funktion>presb.card. tit. S.Caeciliae; apost.leg.</funktion></e>
+</u>
+<u><nr>20981</nr><Referenz>20981</Referenz>
+<e><funktion>provisor; pauperes magistri in theologica facultate studentes</funktion><institution>de vico ad portas ante palatium de Thermis</institution><ort>Paris</ort></e>
+</u>
+<u><nr>20982</nr><Referenz>20982</Referenz>
+<e><name>(Fulco)</name><funktion>archiep.</funktion><ort>Upsalensis</ort></e>
+<e><name>(Henricus)</name><funktion>ep.</funktion><ort>Lincopensis</ort></e>
+</u>
+<u><nr>20983</nr><Referenz>20983</Referenz>
+<e><name>(Fulco)</name><funktion>archiep.</funktion><ort>Upsalensis</ort></e>
+<e><name>(Henricus)</name><funktion>ep.</funktion><ort>Lincopensis</ort></e>
+</u>
+<u><nr>20984</nr><Referenz>20984</Referenz>
+<e><name>(Fulco)</name><funktion>archiep.</funktion><ort>Upsalensis</ort></e>
+<e><funktion>suffraganei</funktion><ort>Upsalensis</ort></e>
+</u>
+<u><nr>20985</nr><Referenz>20985</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>S.Gregorius</ort><ortsbestimmung>Basiliensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20986</nr><Referenz>20986</Referenz>
+<e><funktion>conventuales</funktion><institution>monasterium</institution><ort>Echenbrunn</ort></e>
+</u>
+<u><nr>20987</nr><Referenz>20987</Referenz>
+<e><funktion>magister; fratres</funktion><institution>hospitale</institution><ort>Ierusalem</ort><P>S.Maria Theutonicorum</P></e>
+</u>
+<u><nr>20988</nr><Referenz>20988</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium</institution><ort>Altaripa <orig>Hauterive</orig></ort></e>
+</u>
+<u><nr>20989</nr><Referenz>20989</Referenz>
+<e><name>Rudolfus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>20990</nr><Referenz>20990</Referenz>
+<e><funktion>ecclesiastici proceres; saeculares proceres</funktion><ort>Germania</ort></e>
+</u>
+<u><nr>20991</nr><Referenz>20991</Referenz>
+<e><name>Rodulphus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>20992</nr><Referenz>20992</Referenz>
+<e><name>Rodulphus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>20993</nr><Referenz>20993</Referenz>
+<e><name>Rodulphus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>20994</nr><Referenz>20994</Referenz>
+<e><name>(Fridericus)</name><funktion>archiep.</funktion><ort>Salzeburgensis</ort></e>
+</u>
+<u><nr>20995</nr><Referenz>20995</Referenz>
+<e><name>(Giselbertus)</name><funktion>archiep.</funktion><ort>Bremensis</ort></e>
+</u>
+<u><nr>20996</nr><Referenz>20996</Referenz>
+<e><funktion>praep.; conventus</funktion><institution>monasterium; OPraem</institution><ort>Scefelarn <orig>al. Scheftelarn</orig></ort></e>
+</u>
+<u><nr>20997</nr><Referenz>20997</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>Beurne</ort><ortsbestimmung>Augustensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20998</nr><Referenz>20998</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>Tegernsee</ort><ortsbestimmung>Frisingensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>20999</nr><Referenz>20999</Referenz>
+<e><name>Abagha</name><funktion>rex</funktion><ort>Tartari</ort></e>
+</u>
+<u><nr>21000</nr><Referenz>21000</Referenz>
+<e><funktion>magistri; praeceptores; conventus</funktion><institution>hospitale Ierosolymitanum; militia Templi; hospitale S.Mariae Theutonicorum</institution></e>
+</u>
+<u><nr>21001</nr><Referenz>21001</Referenz>
+<e><name>Ubertus de Fontana</name><funktion>praep.</funktion><institution>eccl.</institution><ort>de Viculo</ort><ortsbestimmung>Placentina dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21002</nr><Referenz>21002</Referenz>
+<e><funktion>prior; conventus</funktion><institution>OPr</institution><ort>Savilianum</ort><ortsbestimmung>Taurinensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21003</nr><Referenz>21003</Referenz>
+<e><name>Ancherus</name><funktion>presb.card. tit. S.Praxedis</funktion></e>
+<e><name>Henricus</name><funktion>rex</funktion><ort>Navarra</ort></e>
+</u>
+<u><nr>21004</nr><Referenz>21004</Referenz>
+<e><funktion>abbas</funktion><institution>OSB</institution><ort>Fuderbecka</ort><ortsbestimmung>Leodiensis dioc.</ortsbestimmung></e>
+<e><funktion>abbas</funktion><institution>OPraem</institution><ort>de Pareo</ort><ortsbestimmung>Leodiensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21005</nr><Referenz>21005</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OPraem</institution><ort>Bonaspes</ort><ortsbestimmung>Cameracensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21006</nr><Referenz>21006</Referenz>
+<e><institution>monasterium; OSB</institution><ort>Magella</ort><P>S.Spiritus</P></e>
+</u>
+<u><nr>21007</nr><Referenz>21007</Referenz>
+<e><institution>monasterium monialium</institution><ort>Prulianum</ort><ortsbestimmung>Tholosana dioc.</ortsbestimmung><P>S.Maria</P></e>
+</u>
+<u><nr>21008</nr><Referenz>21008</Referenz>
+<e><institution>monasterium monialium; ord.Aug.</institution><ort>Altenhohenawe</ort><P>S.Petrus</P></e>
+</u>
+<u><nr>21009</nr><Referenz>21009</Referenz>
+<e><name>(Wicboldus)</name><funktion>praep.</funktion><ort>Monasteriensis</ort><P>S.Mauritius extra muros</P></e>
+</u>
+<u><nr>21010</nr><Referenz>21010</Referenz>
+<e><institution>OPr; OFM</institution></e>
+</u>
+<u><nr>21011</nr><Referenz>21011</Referenz>
+<e><institution>monasterium; OSB</institution><ort>S.Maria Vallis Dei</ort><ortsbestimmung>Leodiensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21012</nr><Referenz>21012</Referenz>
+<e><funktion>apost. sedis legati; universi collectores decimae proventuum ecclesiasticorum Terrae sanctae subsidio deputatae</funktion></e>
+</u>
+<u><nr>21013</nr><Referenz>21013</Referenz>
+<e><institution>monasterium; OSB</institution><ort>Meten <orig>Metten</orig></ort><ortsbestimmung>Ratisponensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21014</nr><Referenz>21014</Referenz>
+<e><name>R(icardus)</name><funktion>diac.card. S.Angeli</funktion></e>
+</u>
+<u><nr>21015</nr><Referenz>21015</Referenz>
+<e><name>Sifridus</name><funktion>electus</funktion><ort>Colonia</ort></e>
+</u>
+<u><nr>21016</nr><Referenz>21016</Referenz>
+<e><name>(Petrus)</name><funktion>archiep.</funktion><ort>Tarantasiensis</ort></e>
+</u>
+<u><nr>21017</nr><Referenz>21017</Referenz>
+<e><name>Bartholomaeus Quirinus</name><funktion>capellanus apost.sedis; canonicus</funktion><institution>eccl.</institution><ort>Castella</ort></e>
+</u>
+<u><nr>21018</nr><Referenz>21018</Referenz>
+<e><name>Maria</name><funktion>regina</funktion><ort>Francia</ort></e>
+</u>
+<u><nr>21019</nr><Referenz>21019</Referenz>
+<e><funktion>ep.</funktion><ort>Dumblanensis</ort></e>
+</u>
+<u><nr>21020</nr><Referenz>21020</Referenz>
+<e><funktion>abbates; abbatissae</funktion><institution>monasteria et cetera loca; OCist</institution></e>
+</u>
+<u><nr>21021</nr><Referenz>21021</Referenz>
+<e><funktion>apost. sedis legati; universi collectores decimae proventuum ecclesiasticorum Terrae sanctae subsidio deputatae</funktion></e>
+</u>
+<u><nr>21022</nr><Referenz>21022</Referenz>
+<e><funktion>decanus; capitulum</funktion><institution>eccl.</institution><ort>Lingonensis</ort></e>
+</u>
+<u><nr>21023</nr><Referenz>21023</Referenz>
+<e><name>(Marinus)</name><funktion>archiep.</funktion><ort>Capua</ort></e>
+</u>
+<u><nr>21024</nr><Referenz>21024</Referenz>
+<e><name>Petrus dictus Dives</name><funktion>praep.</funktion><institution>eccl.</institution><ort>Maguntia</ort></e>
+</u>
+<u><nr>21025</nr><Referenz>21025</Referenz>
+<e><funktion>ep.</funktion><ort>S.Andreas</ort></e>
+<e><funktion>ep.</funktion><ort>Aberdonensis</ort></e>
+</u>
+<u><nr>21026</nr><Referenz>21026</Referenz>
+<e><funktion>abbatissa; conventus</funktion><ort>Venetiae</ort><P>S.Maria de Virginibus</P></e>
+</u>
+<u><nr>21027</nr><Referenz>21027</Referenz>
+<e><funktion>capitulum generale</funktion><institution>ordo S.Marci</institution><ort>Mantua</ort></e>
+</u>
+<u><nr>21028</nr><Referenz>21028</Referenz>
+<e><funktion>priorissa; conventus</funktion><institution>monasterium; ord.Aug.</institution><ort>Vallis Ducissae</ort><ortsbestimmung>Cameracensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21029</nr><Referenz>21029</Referenz>
+<e><funktion>decanus</funktion><institution>maior eccl.</institution><ort>Maguntia</ort></e>
+<e><funktion>decanus</funktion><institution>eccl.</institution><ort>Maguntia</ort><P>S.Maria ad Gradus</P></e>
+</u>
+<u><nr>21030</nr><Referenz>21030</Referenz>
+<e><name>(Otakarus)</name><funktion>rex</funktion><ort>Boemia</ort></e>
+</u>
+<u><nr>21031</nr><Referenz>21031</Referenz>
+<e><funktion>archiep.</funktion><ort>Narbonensis</ort></e>
+</u>
+<u><nr>21032</nr><Referenz>21032</Referenz>
+<e><funktion>rex</funktion><ort>Castella;Legio</ort></e>
+</u>
+<u><nr>21033</nr><Referenz>21033</Referenz>
+<e><name>(Otakarus)</name><funktion>rex</funktion><ort>Boemia</ort></e>
+</u>
+<u><nr>21034</nr><Referenz>21034</Referenz>
+<e><name>(Alfonsus)</name><funktion>rex</funktion><ort>Castella ;Legionis</ort></e>
+</u>
+<u><nr>21035</nr><Referenz>21035</Referenz>
+<e><name>Rudolfus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>21036</nr><Referenz>21036</Referenz>
+<e><name>Rudolfus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>21037</nr><Referenz>21037</Referenz>
+<e><funktion>capitulum</funktion><institution>eccl.</institution><ort>Iuvenaciensis</ort></e>
+</u>
+<u><nr>21038</nr><Referenz>21038</Referenz>
+<e><funktion>potestas; consilium; commune</funktion><ort>Alba</ort></e>
+</u>
+<u><nr>21039</nr><Referenz>21039</Referenz>
+<e><funktion>ep.</funktion><ort>S.Andreas</ort></e>
+<e><funktion>ep.</funktion><ort>Dunkeldensis</ort></e>
+</u>
+<u><nr>21040</nr><Referenz>21040</Referenz>
+<e><name>Iosselinus</name><funktion>ep.</funktion><ort>Auracensis</ort></e>
+</u>
+<u><nr>21041</nr><Referenz>21041</Referenz>
+<e><name>G. de Lavania</name><funktion>magister scholarum</funktion><ort>Ianua</ort></e>
+</u>
+<u><nr>21042</nr><Referenz>21042</Referenz>
+<e><name>Maria</name><funktion>regina</funktion><ort>Franci</ort></e>
+</u>
+<u><nr>21043</nr><Referenz>21043</Referenz>
+<e><name>Antonius de Bek</name><funktion>archidiac.</funktion><ort>Dorsetia</ort></e>
+</u>
+<u><nr>21044</nr><Referenz>21044</Referenz>
+<e><funktion>ep.</funktion><ort>Bathoniensis</ort></e>
+<e><funktion>ep.</funktion><ort>Roffensis</ort></e>
+</u>
+<u><nr>21045</nr><Referenz>21045</Referenz>
+<e><name>(Carolus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+</u>
+<u><nr>21046</nr><Referenz>21046</Referenz>
+<e><name>Rodulphus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>21047</nr><Referenz>21047</Referenz>
+<e><name>Rodulphus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>21048</nr><Referenz>21048</Referenz>
+<e><name>Rodulphus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>21049</nr><Referenz>21049</Referenz>
+<e><name>Maria</name><funktion>regina</funktion><ort>Francia</ort></e>
+</u>
+<u><nr>21050</nr><Referenz>21050</Referenz>
+<e><name>Matthaeus Caraculus</name><funktion>nepos magistri Berardi de Napoli subdiaconi et notarii sui</funktion></e>
+</u>
+<u><nr>21051</nr><Referenz>21051</Referenz>
+<e><funktion>ep.</funktion><ort>Wintoniensis</ort></e>
+<e><funktion>ep.</funktion><ort>Bathoniensis</ort></e>
+<e><funktion>ep.</funktion><ort>Wellensis</ort></e>
+</u>
+<u><nr>21052</nr><Referenz>21052</Referenz>
+<e><funktion>archiep.</funktion><ort>Cantuaria</ort></e>
+</u>
+<u><nr>21053</nr><Referenz>21053</Referenz>
+<e><funktion>ep.</funktion><ort>Bathoniensis</ort></e>
+<e><funktion>ep.</funktion><ort>Wellensis</ort></e>
+<e><name>(Antonius de Bek)</name><funktion>archidiac.</funktion><ort>Dorsetia</ort><ortsbestimmung>in eccl. Sarisberiensis</ortsbestimmung></e>
+</u>
+<u><nr>21054</nr><Referenz>21054</Referenz>
+<e><name>(Carolus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+</u>
+<u><nr>21055</nr><Referenz>21055</Referenz>
+<e><name>(Rodulphus)</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>21056</nr><Referenz>21056</Referenz>
+<e><name>(Otakarus)</name><funktion>rex</funktion><ort>Boemia</ort></e>
+</u>
+<u><nr>21057</nr><Referenz>21057</Referenz>
+<e><name>(Iacobus)</name><funktion>rex</funktion><ort>Aragonum</ort></e>
+</u>
+<u><nr>21058</nr><Referenz>21058</Referenz>
+<e><name>(Fridericus)</name><funktion>ep.</funktion><ort>Merseburgensis</ort></e>
+</u>
+<u><nr>21059</nr><Referenz>21059</Referenz>
+<e><funktion>praep.</funktion><institution>eccl.</institution><ort>Feltrensis</ort></e>
+</u>
+<u><nr>21060</nr><Referenz>21060</Referenz>
+<e><name>Petrus</name><funktion>ep.</funktion><ort>Ostiensis et Velletrensis</ort></e>
+</u>
+<u><nr>21061</nr><Referenz>21061</Referenz>
+<e><name>magister Isembardus</name><funktion>notarius suus</funktion></e>
+</u>
+<u><nr>21062</nr><Referenz>21062</Referenz>
+<e><funktion>archiep.</funktion><ort>Toletanus</ort></e>
+</u>
+<u><nr>21063</nr><Referenz>21063</Referenz>
+<e><name>Petrus</name><funktion>primogenitus (Iacobi) regis Aragonum</funktion></e>
+</u>
+<u><nr>21064</nr><Referenz>21064</Referenz>
+<e><name>(Philippus)</name><funktion>rex</funktion><ort>Franci</ort></e>
+</u>
+<u><nr>21065</nr><Referenz>21065</Referenz>
+<e><name>ohne Empfänger</name></e>
+</u>
+<u><nr>21066</nr><Referenz>21066</Referenz>
+<e><funktion>clerus</funktion><institution>civitas; diocesis</institution><ort>Ravenna</ort></e>
+<an>*
+<e><funktion>populus</funktion><institution>civitas; diocesis</institution><ort>Ravenna</ort></e>
+</an>
+</u> 
+<u><nr>21067</nr><Referenz>21067</Referenz>
+<e><name>Bonefatius de Lavania</name><institution>OPr</institution></e>
+</u>
+<u><nr>21068</nr><Referenz>21068</Referenz>
+<e><funktion>ep.</funktion><ort>Parma</ort></e>
+<e><funktion>ep.</funktion><ort>Comaclensis <orig>al. Cymacliensis</orig></ort></e>
+</u>
+<u><nr>21069</nr><Referenz>21069</Referenz>
+<e><name>Simon de Rupe Cavardii</name><funktion>decanus</funktion><ort>Bituricensis</ort></e>
+</u>
+<u><nr>21070</nr><Referenz>21070</Referenz>
+<e><name>Benvenutus de Serzana</name><funktion>frater</funktion><institution>OPr</institution><ort>Lunensis dioc.</ort></e>
+<e><name>Gerardus de Prato</name><funktion>frater</funktion><institution>OFM</institution><ort>Pistoriensis dioc.</ort></e>
+</u>
+<u><nr>21071</nr><Referenz>21071</Referenz>
+<e><funktion>ecclesiastici proceres; saeculares proceres</funktion><ort>Germania; Sclavonia</ort></e>
+</u>
+<u><nr>21072</nr><Referenz>21072</Referenz>
+<e><funktion>archiep.</funktion><ort>Hispalensis</ort></e>
+</u>
+<u><nr>21073</nr><Referenz>21073</Referenz>
+<e><name>magister Fredulus</name><funktion>capellanus suus; prior</funktion><ort>Lunellum</ort></e>
+</u>
+<u><nr>21074</nr><Referenz>21074</Referenz>
+<e><name>Guillelmus</name><funktion>ep.</funktion><ort>Ferrara</ort></e>
+</u>
+<u><nr>21075</nr><Referenz>21075</Referenz>
+<e><name>(Iacobus)</name><funktion>rex</funktion><ort>Aragonum</ort></e>
+</u>
+<u><nr>21076</nr><Referenz>21076</Referenz>
+<e><funktion>archiep.</funktion><ort>Tarraconensis</ort></e>
+<e><funktion>ep.</funktion><ort>Dertusensis</ort></e>
+</u>
+<u><nr>21077</nr><Referenz>21077</Referenz>
+<e><name>Simon</name><funktion>presb.card. tit. S.Caeciliae; apost.leg.</funktion></e>
+</u>
+<u><nr>21078</nr><Referenz>21078</Referenz>
+<e><institution>eccl.</institution><ort>Valentina</ort><ortsbestimmung>provincia Viennensis</ortsbestimmung></e>
+<e><institution>eccl.</institution><ort>Diensis</ort><ortsbestimmung>provincia Viennensis</ortsbestimmung></e>
+</u>
+<u><nr>21079</nr><Referenz>21079</Referenz>
+<e><name>Erardus de Valeriaco</name><funktion>camerarius</funktion><ort>Francia</ort><Bemerkungen>Camerarius Franciae unter dem Ort 'Francia' richtig?</Bemerkungen></e>
+</u>
+<u><nr>21080</nr><Referenz>21080</Referenz>
+<e><funktion>archiep.</funktion><ort>Ispalensis</ort></e>
+</u>
+<u><nr>21081</nr><Referenz>21081</Referenz>
+<e><name>Amadeus</name><funktion>abbas</funktion><institution>monasterium</institution><ort>Savigniacum</ort><ortsbestimmung>Lugdunensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21082</nr><Referenz>21082</Referenz>
+<e><name>(Carolus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+</u>
+<u><nr>21083</nr><Referenz>21083</Referenz>
+<e><name>ohne Empfänger</name></e>
+</u>
+<u><nr>21084</nr><Referenz>21084</Referenz>
+<e><institution>eccl. cathedralis</institution><ort>S.Maria</ort><Bemerkungen>zu Bern</Bemerkungen></e>
+</u>
+<u><nr>21085</nr><Referenz>21085</Referenz>
+<e><funktion>archiep.</funktion><ort>Ebredunensis</ort></e>
+</u>
+<u><nr>21086</nr><Referenz>21086</Referenz>
+<e><name>(Gerhardus)</name><funktion>electus</funktion><ort>Virdunensis</ort></e>
+</u>
+<u><nr>21087</nr><Referenz>21087</Referenz>
+<e><name>magister Benedictus de Anania</name><funktion>canonicus; capellanus suus</funktion><ort>Paris</ort></e>
+</u>
+<u><nr>21088</nr><Referenz>21088</Referenz>
+<e><name>ohne Empfänger</name></e>
+</u>
+<u><nr>21089</nr><Referenz>21089</Referenz>
+<e><funktion>prior</funktion><institution>OPr</institution><ort>Alberstadensis</ort></e>
+<e><funktion>guardianus</funktion><institution>OFM</institution><ort>Alberstadensis</ort></e>
+</u>
+<u><nr>21090</nr><Referenz>21090</Referenz>
+<e><funktion>archiep.</funktion><ort>Ebredunensis</ort></e>
+</u>
+<u><nr>21091</nr><Referenz>21091</Referenz>
+<e><funktion>archiep.</funktion><ort>Remi</ort></e>
+</u>
+<u><nr>21092</nr><Referenz>21092</Referenz>
+<e><funktion>marchiones; comites</funktion><ort>Lombardia</ort></e>
+<e><funktion>consiliarii; universitates</funktion><institution>civitates;alia loca</institution><ort>Lombardia</ort></e>
+<e><funktion>marchiones; comites</funktion><institution>marchia</institution><ort>Tervisina</ort></e>
+<e><funktion>marchiones; comites</funktion><institution>patriarchatus</institution><ort>Aquilegensis</ort></e>
+<e><funktion>marchiones; comites</funktion><institution>provincia</institution><ort>Ianuensis</ort></e>
+<e><funktion>consiliarii; universitates</funktion><institution>civitates;alia loca</institution><ort>Tervisina</ort><inst2>marchia</inst2></e>
+<e><funktion>consiliarii;universitates</funktion><institution>civitates;alia loca</institution><ort>Ianuensis</ort><inst2>provincia</inst2></e>
+<e><funktion>consiliarii; universitates</funktion><institution>civitates;alia loca</institution><ort>Aquilegensis</ort><inst2>patriarchatus</inst2></e>
+</u>
+<u><nr>21093</nr><Referenz>21093</Referenz>
+<e><name>magister Rudolfus</name><funktion>cancellarius; nuntius Rodulphi regis Romanorum</funktion></e>
+<e><name>Berengarius</name><funktion>frater; nuntius Rodulphi regis Romanorum</funktion><institution>ordo hospitalis S.Iohannis Ierosolymitani</institution></e>
+</u>
+<u><nr>21094</nr><Referenz>21094</Referenz>
+<e><name>Philippus</name><funktion>rex</funktion><ort>Franci</ort></e>
+</u>
+<u><nr>21095</nr><Referenz>21095</Referenz>
+<e><name>(Carolus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+</u>
+<u><nr>21096</nr><Referenz>21096</Referenz>
+<e><name>(Carolus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+</u>
+<u><nr>21097</nr><Referenz>21097</Referenz>
+<e><name>(Carolus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+</u>
+<u><nr>21098</nr><Referenz>21098</Referenz>
+<e><name>Rudolphus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>21099</nr><Referenz>21099</Referenz>
+<e><funktion>potestas; capitanei; antiani; consilium; commune</funktion><ort>Ianua</ort></e>
+</u>
+<u><nr>21100</nr><Referenz>21100</Referenz>
+<e><funktion>custos; guardianus; fratres</funktion><institution>OFM</institution><ort>Assisium</ort></e>
+</u>
+<u><nr>21101</nr><Referenz>21101</Referenz>
+<e><name>H(enricus)</name><funktion>dux</funktion><ort>Slesia</ort></e>
+</u>
+<u><nr>21102</nr><Referenz>21102</Referenz>
+<e><funktion>patriarchae; epp.; abbates; ceteri praelati; universi Christifideles</funktion></e>
+</u>
+<u><nr>21103</nr><Referenz>21103</Referenz>
+<e><name>Carolus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+</u>
+<u><nr>21104</nr><Referenz>21104</Referenz>
+<e><name>Carolus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+</u>
+<u><nr>21105</nr><Referenz>21105</Referenz>
+<e><name>B(ernardus de Castaneto)</name><Bemerkungen>unklar</Bemerkungen></e>
+</u>
+<u><nr>21106</nr><Referenz>21106</Referenz>
+<e><funktion>archiep.</funktion><ort>Ebredunensis</ort></e>
+<an>*
+<e><funktion>archiep.</funktion><ort>Colonia</ort></e>
+<e><funktion>archiep.</funktion><ort>Maguntia</ort></e>
+<e><funktion>archiep.</funktion><ort>Trevirensis</ort></e>
+<e><funktion>ep.</funktion><ort>Basiliensis</ort></e>
+<e><funktion>ep.</funktion><ort>Tridentinus</ort></e>
+<e><funktion>ep.</funktion><ort>Erbipolensis</ort></e>
+</an>
+</u> 
+<u><nr>21107</nr><Referenz>21107</Referenz>
+<e><name>R(udolfus)</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>21108</nr><Referenz>21108</Referenz>
+<e><name>R(udolfus)</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>21109</nr><Referenz>21109</Referenz>
+<e><funktion>priorissa; conventus</funktion><institution>monasterium; OCist</institution><ort>Rodstoch <orig>Rostock</orig></ort><ortsbestimmung>Zuerinensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21110</nr><Referenz>21110</Referenz>
+<e><funktion>priorissa; conventus</funktion><institution>monasterium; OCist</institution><ort>Rodstoch <orig>Rostock</orig></ort><ortsbestimmung>Zuerinensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21111</nr><Referenz>21111</Referenz>
+<e><name>(Iohannes)</name><funktion>ep.</funktion><ort>Traiectensis</ort></e>
+</u>
+<u><nr>21112</nr><Referenz>21112</Referenz>
+<e><funktion>prior; fratres</funktion><institution>domus; OESA</institution><ort>Gotha</ort><ortsbestimmung>Moguntina dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21113</nr><Referenz>21113</Referenz>
+<e><name>B(onifacius)</name><funktion>archiep.</funktion><ort>Ravenna</ort></e>
+</u>
+<u><nr>21114</nr><Referenz>21114</Referenz>
+<e><funktion>ep.</funktion><ort>Parma</ort></e>
+<e><funktion>ep.</funktion><ort>Comaclensis</ort></e>
+</u>
+<u><nr>21115</nr><Referenz>21115</Referenz>
+<e><funktion>archidiac.</funktion><ort>Uticensis</ort></e>
+</u>
+<u><nr>21116</nr><Referenz>21116</Referenz>
+<e><funktion>magister; fratres</funktion><institution>hospitale</institution><ort>Ierusalem</ort><P>S.Maria Theutonicorum</P></e>
+</u>
+<u><nr>21117</nr><Referenz>21117</Referenz>
+<e><funktion>abbatissa; conventus</funktion><institution>monasterium; OCist</institution><ort>Scala</ort><ortsbestimmung>Cracoviensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21118</nr><Referenz>21118</Referenz>
+<e><funktion>ep.</funktion><ort>Minerbensis</ort></e>
+</u>
+<u><nr>21119</nr><Referenz>21119</Referenz>
+<e><institution>monasterium</institution><ort>Leeuwenhorst</ort><Bemerkungen>niederl.</Bemerkungen></e>
+</u>
+<u><nr>21120</nr><Referenz>21120</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OCist</institution><ort>de Camberone</ort><ortsbestimmung>Cameracensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21121</nr><Referenz>21121</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>Glastonia</ort><ortsbestimmung>Bathoniensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21122</nr><Referenz>21122</Referenz>
+<e><funktion>conventus</funktion><institution>OPr</institution><ort>Barchinonensis</ort></e>
+<e><funktion>ep.; capitulum; parochi</funktion><ort>Barchinonensis</ort></e>
+</u>
+<u><nr>21123</nr><Referenz>21123</Referenz>
+<e><name>(Henricus)</name><funktion>archiep.</funktion><ort>Trevirensis</ort></e>
+</u>
+<u><nr>21124</nr><Referenz>21124</Referenz>
+<e><funktion>magister; fratres</funktion><institution>OPr</institution></e>
+</u>
+<u><nr>21125</nr><Referenz>21125</Referenz>
+<e><funktion>abbatissa; conventus</funktion><institution>eccl.</institution><ort>Roma</ort><P>S.Andreas de Fractis</P></e>
+</u>
+<u><nr>21126</nr><Referenz>21126</Referenz>
+<e><name>magister Ubertus Blancus</name><funktion>capellanus suus; canonicus</funktion><institution>eccl.</institution><ort>Placentinus</ort></e>
+<e><name>la Corre magister et doctor decretorum</name><funktion>canonicus</funktion><institution>eccl.</institution><ort>Verona</ort><P>SS.Apostoli</P></e>
+</u>
+<u><nr>21127</nr><Referenz>21127</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>Hildesleue <orig>Hillersleben</orig></ort><ortsbestimmung>Halberstadensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21128</nr><Referenz>21128</Referenz>
+<e><funktion>abbas</funktion><institution>monasterium</institution><ort>Maculae <orig>Macularum</orig></ort><ortsbestimmung>Camerinensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21129</nr><Referenz>21129</Referenz>
+<e><institution>eccl.</institution><ort>iuxta Dublin</ort><P>Omnes Sancti</P></e>
+</u>
+<u><nr>21130</nr><Referenz>21130</Referenz>
+<e><name>magister Ubertus Blancus</name><funktion>capellanus suus; canonicus</funktion><institution>eccl.</institution><ort>Placentinus</ort></e>
+<e><name>la Corre magister et doctor decretorum</name><funktion>canonicus</funktion><institution>eccl.</institution><ort>Verona</ort><P>SS.Apostoli</P></e>
+</u>
+<u><nr>21131</nr><Referenz>21131</Referenz>
+<e><name>(Philippus)</name><funktion>rex</funktion><ort>Franci</ort></e>
+</u>
+<u><nr>21132</nr><Referenz>21132</Referenz>
+<e><institution>monasterium; ord.Aug.</institution><ort>S.Maria de insula Danubii</ort><ortsbestimmung>Vesprimiensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21133</nr><Referenz>21133</Referenz>
+<e><name>(Rodulfus)</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>21134</nr><Referenz>21134</Referenz>
+<e><name>(Rodulfus)</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>21135</nr><Referenz>21135</Referenz>
+<e><funktion>archiep.</funktion><ort>Hispalensis</ort></e>
+</u>
+<u><nr>21136</nr><Referenz>21136</Referenz>
+<e><name>Michael Palaeologus</name><funktion>imperator</funktion><ort>Graeci</ort></e>
+</u>
+<u><nr>21137</nr><Referenz>21137</Referenz>
+<e><name>Michael Palaeologus</name><funktion>imperator</funktion><ort>Graeci</ort></e>
+</u>
+<u><nr>21138</nr><Referenz>21138</Referenz>
+<e><name>Michael Palaeologus</name><funktion>imperator</funktion><ort>Graeci</ort></e>
+</u>
+<u><nr>21139</nr><Referenz>21139</Referenz>
+<e><funktion>praelati</funktion><ort>Graeci</ort></e>
+</u>
+<u><nr>21140</nr><Referenz>21140</Referenz>
+<e><name>Andronicus</name><funktion>primogenitus Michaelis Palaeologi imperatoris</funktion></e>
+</u>
+<u><nr>21141</nr><Referenz>21141</Referenz>
+<e><name>Iacobus</name><funktion>ep.; nuntius suus ad Graecos</funktion><ort>Ferentinatus</ort></e>
+<e><name>Gaufridus</name><funktion>ep.; nuntius suus ad Graecos</funktion><ort>Turinensis</ort></e>
+<e><name>Raynerius</name><funktion>prior; nuntius suus ad Graecos</funktion><institution>conventus</institution><ort>Viterbiensis</ort></e>
+<e><name>Salvus</name><funktion>lector; nuntius suus ad Graecos</funktion><institution>OPr</institution><ort>Lucanensis</ort></e>
+</u>
+<u><nr>21142</nr><Referenz>21142</Referenz>
+<e><name>Hieronymus</name><funktion>generalis minister</funktion><institution>OFM</institution></e>
+<e><name>Guido</name><funktion>minister provincialis</funktion><institution>OFM</institution><ort>Romana provincia</ort></e>
+<e><name>Angelus</name><funktion>minister provincialis</funktion><institution>OFM</institution><ort>S.Franciscus</ort></e>
+</u>
+<u><nr>21143</nr><Referenz>21143</Referenz>
+<e><name>Hieronymus</name><funktion>generalis minister</funktion><institution>OFM</institution></e>
+<e><name>Guido</name><funktion>minister provincialis</funktion><institution>OFM</institution><ort>Romana provincia</ort></e>
+<e><name>Angelus</name><funktion>minister provincialis</funktion><institution>OFM</institution><ort>S.Franciscus</ort></e>
+</u>
+<u><nr>21144</nr><Referenz>21144</Referenz>
+<e><name>Hieronymus</name><funktion>generalis minister</funktion><institution>OFM</institution></e>
+<e><name>Guido</name><funktion>minister provincialis</funktion><institution>OFM</institution><ort>Romana provincia</ort></e>
+<e><name>Angelus</name><funktion>minister provincialis</funktion><institution>OFM</institution><ort>S.Franciscus</ort></e>
+</u>
+<u><nr>21145</nr><Referenz>21145</Referenz>
+<e><name>Bartholomaeus</name><funktion>frater; doctor paginae sacrae</funktion><institution>OFM</institution><ort>Bononia</ort></e>
+</u>
+<u><nr>21146</nr><Referenz>21146</Referenz>
+<e><funktion>clerus</funktion><institution>diocesis</institution><ort>Traguriensis</ort></e>
+</u>
+<u><nr>21147</nr><Referenz>21147</Referenz>
+<e><name>Udalricus</name><funktion>abbas</funktion><ort>Einsidlensis</ort></e>
+</u>
+<u><nr>21148</nr><Referenz>21148</Referenz>
+<e><funktion>decanus; capitulum</funktion><ort>Le Mans</ort><Bemerkungen>frz.</Bemerkungen><P>S.Petrus <orig>Saint-Pierre-la-Cour</orig></P></e>
+</u>
+<u><nr>21149</nr><Referenz>21149</Referenz>
+<e><name>Carolus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e><ort>Ianuenses</ort></e>
+<e><funktion>fautores</funktion><institution>Ianuenses</institution><ort>in Roma</ort></e>
+</u>
+<u><nr>21150</nr><Referenz>21150</Referenz>
+<e><funktion>ep.</funktion><ort>Clonfertensis</ort></e>
+<e><funktion>prior</funktion><institution>OPr</institution><ort>Dublinensis</ort></e>
+<e><funktion>guardianus</funktion><institution>OFM</institution><ort>Dublinensis</ort></e>
+</u>
+<u><nr>21151</nr><Referenz>21151</Referenz>
+<e><name>ohne Empfänger</name></e>
+</u>
+<u><nr>21152</nr><Referenz>21152</Referenz>
+<e><funktion>universi</funktion></e>
+</u>
+<u><nr>21153</nr><Referenz>21153</Referenz>
+<e><funktion>abbatissa; conventus</funktion><institution>monasterium; OCist</institution><ort>Pura Vallis <orig>Ebersegg</orig></ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21154</nr><Referenz>21154</Referenz>
+<e><funktion>archiep.</funktion><ort>Tarraconensis</ort></e>
+</u>
+<u><nr>21155</nr><Referenz>21155</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium</institution><ort>Vallis Sarnay</ort></e>
+</u>
+<u><nr>21156</nr><Referenz>21156</Referenz>
+<e><funktion>abbatissa; conventus</funktion><institution>monasterium; OCist</institution><ort>Pura Vallis <orig>Ebersegg</orig></ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21157</nr><Referenz>21157</Referenz>
+<e><funktion>abbatissa; conventus</funktion><institution>monasterium; OCist</institution><ort>Pura Vallis <orig>Ebersegg</orig></ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21158</nr><Referenz>21158</Referenz>
+<e><name>(Bartholomaeus)</name><funktion>ep.</funktion><ort>Castella</ort></e>
+</u>
+<u><nr>21159</nr><Referenz>21159</Referenz>
+<e><name>(Iacobus)</name><funktion>rex</funktion><ort>Maioricae</ort></e>
+<an>*
+<e><funktion>rex</funktion><ort>Francia</ort></e>
+<e><name>(Edwardus)</name><funktion>rex</funktion><ort>Anglia</ort></e>
+</an>
+</u> 
+<u><nr>21160</nr><Referenz>21160</Referenz>
+<e><funktion>praesules</funktion><institution>ecclesiae</institution></e>
+</u>
+<u><nr>21161</nr><Referenz>21161</Referenz>
+<e><funktion>praep.</funktion><institution>eccl.</institution><ort>Oettingen</ort><ortsbestimmung>Salzeburgensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21162</nr><Referenz>21162</Referenz>
+<e><name>ohne Empfänger</name></e>
+</u>
+<u><nr>21163</nr><Referenz>21163</Referenz>
+<e><institution>monasterium</institution><ort>Baumburch</ort></e>
+</u>
+<u><nr>21164</nr><Referenz>21164</Referenz>
+<e><institution>monasterium</institution><ort>Gandensis</ort><P>S.Petrus</P></e>
+</u>
+<u><nr>21165</nr><Referenz>21165</Referenz>
+<e><name>(Philippus)</name><funktion>rex</funktion><ort>Francia</ort></e>
+</u>
+<u><nr>21166</nr><Referenz>21166</Referenz>
+<e><name>Iohannes</name><funktion>magister generalis; apost.leg.</funktion><institution>OPr</institution></e>
+<e><name>Hieronymus</name><funktion>minister generalis; apost.leg.</funktion><institution>OFM</institution></e>
+</u>
+<u><nr>21167</nr><Referenz>21167</Referenz>
+<e><name>Iohannes</name><funktion>magister generalis; apost.leg.</funktion><institution>OPr</institution></e>
+<e><name>Hieronymus</name><funktion>minister generalis; apost.leg.</funktion><institution>OFM</institution></e>
+</u>
+<u><nr>21168</nr><Referenz>21168</Referenz>
+<e><institution>ordo Cluniacensis</institution></e>
+</u>
+<u><nr>21169</nr><Referenz>21169</Referenz>
+<e><funktion>magister; fratres</funktion><institution>S.Maria de Mercede Captivorum</institution><ort>Barchinonensis</ort></e>
+</u>
+<u><nr>21170</nr><Referenz>21170</Referenz>
+<e><funktion>legati apostolicae sedis; universi collectores decimae proventuum ecclesiasticorum Terrae sanctae subsidio deputatae</funktion></e>
+</u>
+<u><nr>21171</nr><Referenz>21171</Referenz>
+<e><name>I(ohannes)</name><funktion>diac.card. S.Nicolai in carcere Tulliano</funktion></e>
+</u>
+<u><nr>21172</nr><Referenz>21172</Referenz>
+<e><funktion>canonici</funktion><institution>basilica</institution><ort>Roma</ort><P>S.Petrus</P></e>
+</u>
+<u><nr>21173</nr><Referenz>21173</Referenz>
+<e><funktion>praeceptor; fratres</funktion><institution>hospitale</institution><ort>Alsatia; Burgundia</ort><P>S.Maria Theutonicorum Ierosolymitani</P></e>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>Augia maior</ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21174</nr><Referenz>21174</Referenz>
+<e><name>Bernardus de Castaneto <orig>Bernard de Castanet</orig></name><funktion>ep.</funktion><ort>Albensis</ort></e>
+</u>
+<u><nr>21175</nr><Referenz>21175</Referenz>
+<e><funktion>abbas</funktion><ort>Viennensis</ort><P>S.Petrus foris portam</P></e>
+<e><funktion>prior</funktion><ort>Viennensis</ort><P>S.Donatus</P></e>
+<e><funktion>praep.</funktion><institution>eccl.</institution><ort>Cariensis</ort><ortsbestimmung>Taurinensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21176</nr><Referenz>21176</Referenz>
+<e><funktion>magister; fratres</funktion><institution>hospitale</institution><ort>Brunchwiler</ort><ortsbestimmung>Spirensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21177</nr><Referenz>21177</Referenz>
+<e><funktion>prior; conventus</funktion><institution>monasterium</institution><ort>Cartusia</ort><ortsbestimmung>Gratianopolis</ortsbestimmung></e>
+</u>
+<u><nr>21178</nr><Referenz>21178</Referenz>
+<e><funktion>prior; conventus</funktion><institution>OPr</institution><ort>Roma</ort></e>
+</u>
+<u><nr>21179</nr><Referenz>21179</Referenz>
+<e><institution>monasterium; OSB</institution><ort>Rastede</ort><ortsbestimmung>Bremensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21180</nr><Referenz>21180</Referenz>
+<e><name>Rudolfus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>21181</nr><Referenz>21181</Referenz>
+<e><name>Rudolfus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>21182</nr><Referenz>21182</Referenz>
+<e><name>Rudolfus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>21183</nr><Referenz>21183</Referenz>
+<e><name>Iacobus</name><funktion>natus regis Aragonum</funktion></e>
+</u>
+<u><nr>21184</nr><Referenz>21184</Referenz>
+<e><funktion>magister; fratres</funktion><institution>hospitale Ierosolimitanum</institution><ort>S.Maria</ort></e>
+</u>
+<u><nr>21185</nr><Referenz>21185</Referenz>
+<e><institution>monasterium monialium; OCist</institution><ort>Riga</ort><P>S.Maria et S.Iacobi</P></e>
+</u>
+<u><nr>21186</nr><Referenz>21186</Referenz>
+<e><funktion>patriarcha; archiepp.; epp.; abbates; ceteri praelati Graecorum</funktion></e>
+</u>
+<u><nr>21187</nr><Referenz>21187</Referenz>
+<e><name>(Wernerus)</name><funktion>archiep.</funktion><ort>Maguntia</ort></e>
+</u>
+<u><nr>21188</nr><Referenz>21188</Referenz>
+<e><name>Belprandus</name><funktion>archidiac.</funktion><ort>Cusentinus</ort></e>
+</u>
+<u><nr>21189</nr><Referenz>21189</Referenz>
+<e><name>Welislaus de Boemia</name><funktion>canonicus</funktion><ort>Pragensis</ort></e>
+</u>
+<u><nr>21190</nr><Referenz>21190</Referenz>
+<e><funktion>abbas</funktion><ort>Cladrub</ort></e>
+<e><funktion>abbas</funktion><ort>Wilamou</ort></e>
+<e><name>Berardus</name><funktion>prior</funktion><institution>eccl.</institution><ort>Fuliginas</ort></e>
+</u>
+<u><nr>21191</nr><Referenz>21191</Referenz>
+<e><name>Procopius</name><funktion>cantor</funktion><institution>eccl.</institution><ort>Gneznensis</ort></e>
+</u>
+<u><nr>21192</nr><Referenz>21192</Referenz>
+<e><name>(Iohannes)</name><funktion>archiep.</funktion><ort>Nidrosiensis</ort></e>
+</u>
+<u><nr>21193</nr><Referenz>21193</Referenz>
+<e><name>(Iohannes)</name><funktion>archiep.</funktion><ort>Nidrosiensis</ort></e>
+</u>
+<u><nr>21194</nr><Referenz>21194</Referenz>
+<e><name>(Iohannes)</name><funktion>archiep.</funktion><ort>Nidrosiensis</ort></e>
+</u>
+<u><nr>21195</nr><Referenz>21195</Referenz>
+<e><name>(Iohannes)</name><funktion>archiep.</funktion><ort>Nidrosiensis</ort></e>
+</u>
+<u><nr>21196</nr><Referenz>21196</Referenz>
+<e><name>(Iohannes)</name><funktion>archiep.</funktion><ort>Nidrosiensis</ort></e>
+</u>
+<u><nr>21197</nr><Referenz>21197</Referenz>
+<e><name>(Iohannes)</name><funktion>archiep.</funktion><ort>Nidrosiensis</ort></e>
+</u>
+<u><nr>21198</nr><Referenz>21198</Referenz>
+<e><name>Salvius</name><funktion>ep.</funktion><ort>Triburiensis</ort></e>
+<an>*
+<e><funktion>capitulum</funktion><institution>eccl.</institution><ort>Ragusa</ort></e>
+<e><funktion>clerus</funktion><institution>civitas; diocesis</institution><ort>Ragusa</ort></e>
+<e><funktion>comes; commune</funktion><institution>civitas</institution><ort>Ragusa</ort></e>
+<e><funktion>suffraganei</funktion><institution>eccl.</institution><ort>Ragusa</ort></e>
+</an>
+</u> 
+<u><nr>21199</nr><Referenz>21199</Referenz>
+<e><name>Henricus</name><funktion>ep.</funktion><ort>Basiliensis</ort></e>
+</u>
+<u><nr>21200</nr><Referenz>21200</Referenz>
+<e><name>Maria</name><funktion>regina</funktion><ort>Francia</ort></e>
+</u>
+<u><nr>21201</nr><Referenz>21201</Referenz>
+<e><funktion>archiepp.; epp.; alii praelati</funktion><institution>regnum</institution><ort>Francia</ort></e>
+</u>
+<u><nr>21202</nr><Referenz>21202</Referenz>
+<e><funktion>ep.</funktion><ort>Cassanensis</ort></e>
+</u>
+<u><nr>21203</nr><Referenz>21203</Referenz>
+<e><name>Edwardus</name><funktion>rex</funktion><ort>Anglia</ort></e>
+</u>
+<u><nr>21204</nr><Referenz>21204</Referenz>
+<e><name>Edwardus</name><funktion>rex</funktion><ort>Anglia</ort></e>
+</u>
+<u><nr>21205</nr><Referenz>21205</Referenz>
+<e><name>Bentivegna</name><funktion>frater</funktion><institution>OFM</institution></e>
+</u>
+<u><nr>21206</nr><Referenz>21206</Referenz>
+<e><funktion>praep.; conventus</funktion><institution>monasterium; ord.Aug.</institution><ort>Pihartingen</ort><ortsbestimmung>Frisingensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21207</nr><Referenz>21207</Referenz>
+<e><name>Iacobus Rainerii</name><funktion>canonicus</funktion><institution>plebs</institution><ort>S.Genesius</ort><ortsbestimmung>Camerina dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21207a</nr><Referenz>21207a</Referenz>
+<e><name>Franciscus</name><funktion>frater</funktion><institution>domus; OFM</institution><ort>Esium</ort><ortsbestimmung>Pensauriensis dioc.</ortsbestimmung></e>
+<an>*
+<e><funktion>capitulum; clerus</funktion><ort>Pensauriensis dioc.</ort></e>
+</an>
+</u> 
+<u><nr>21208</nr><Referenz>21208</Referenz>
+<e><name>Philippus</name><funktion>rex</funktion><ort>Francia</ort></e>
+</u>
+<u><nr>21209</nr><Referenz>21209</Referenz>
+<e><funktion>cancellarius</funktion><ort>S.Genovefa</ort></e>
+<e><name>Henricus dictus Tuebeuf</name><funktion>canonicus</funktion><ort>Paris</ort></e>
+</u>
+<u><nr>21210</nr><Referenz>21210</Referenz>
+<e><funktion>decanus</funktion><institution>eccl.</institution><ort>Moguntia</ort></e>
+</u>
+<u><nr>21211</nr><Referenz>21211</Referenz>
+<e><funktion>abbas</funktion><institution>monasterium</institution><ort>S.Andreas</ort><ortsbestimmung>Avenionensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21212</nr><Referenz>21212</Referenz>
+<e><funktion>decanus; capitulum</funktion><institution>eccl.</institution><ort>Spirensis</ort></e>
+</u>
+<u><nr>21213</nr><Referenz>21213</Referenz>
+<e><funktion>decanus; capellanus <orig>legas capitulum</orig></funktion><institution>eccl.</institution><ort>S.Deodatus</ort></e>
+</u>
+<u><nr>21214</nr><Referenz>21214</Referenz>
+<e><funktion>rex</funktion><ort>Dacia</ort></e>
+</u>
+<u><nr>21215</nr><Referenz>21215</Referenz>
+<e><name>Stephanus</name><funktion>ep.</funktion><ort>Paris</ort></e>
+</u>
+<u><nr>21216</nr><Referenz>21216</Referenz>
+<e><funktion>abbas</funktion><ort>Compendium</ort><P>S.Cornelius</P></e>
+</u>
+<u><nr>21217</nr><Referenz>21217</Referenz>
+<e><name>Guido</name><funktion>comes</funktion><ort>Flandria</ort></e>
+</u>
+<u><nr>21218</nr><Referenz>21218</Referenz>
+<e><name>Philippus</name><funktion>frater; inquisitor haereticae pravitatis</funktion><institution>OFM</institution><ort>Tarvisinus</ort><inst2>marchia</inst2></e>
+</u>
+<u><nr>21219</nr><Referenz>21219</Referenz>
+<e><name>M(arcus)</name><funktion>ep.</funktion><ort>Cassanensis</ort></e>
+<e><name>M(arcus)</name><funktion>collector decimae</funktion><ort>Calabria; Sicilia</ort></e>
+</u>
+<u><nr>21220</nr><Referenz>21220</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OCist</institution><ort>Saar</ort><ortsbestimmung>Olomucensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21221</nr><Referenz>21221</Referenz>
+<e><name>Rodulphus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>21222</nr><Referenz>21222</Referenz>
+<e><funktion>abbatissa; conventus</funktion><institution>monasterium; ordo S.Clarae</institution><ort>Venetiae</ort><P>S.Maria</P></e>
+</u>
+<u><nr>21223</nr><Referenz>21223</Referenz>
+<e><institution>monasterium</institution><ort>S.Maria foris portam</ort></e>
+</u>
+<u><nr>21224</nr><Referenz>21224</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium</institution><ort>Remi</ort><P>S.Remigius</P></e>
+</u>
+<u><nr>21225</nr><Referenz>21225</Referenz>
+<e><name>magister Rogerius de Merlomonte</name><Bemerkungen>ist auch collector decimae in Trier, Mainz und Salzbur, sowie canonicus Virdunensis</Bemerkungen></e>
+<e><name>Rogerius de Merlomonte</name><funktion>collector decimae Terrae sanctae</funktion><institution>provincia</institution><ort>Treverensis;Maguntinus;Salzeburgensis</ort></e>
+<e><name>Rogerius de Merlomonte</name><funktion>canonicus</funktion><ort>Virdunensis</ort></e>
+</u>
+<u><nr>21226</nr><Referenz>21226</Referenz>
+<e><funktion>guardianus</funktion><institution>OFM</institution><ort>Cortona</ort><ortsbestimmung>Aretina dioc.</ortsbestimmung></e>
+<an>*
+<e><funktion>collector decimae Terrae sanctae in Tusciae partibus</funktion></e>
+</an>
+</u> 
+<u><nr>21227</nr><Referenz>21227</Referenz>
+<e><name>Isabella <orig>Isabelle</orig></name><funktion>uxor Guidonis comitis Flandriae</funktion><Bemerkungen>frz.</Bemerkungen></e>
+</u>
+<u><nr>21228</nr><Referenz>21228</Referenz>
+<e><ort>Perusini</ort></e>
+</u>
+<u><nr>21229</nr><Referenz>21229</Referenz>
+<e><name>Simon</name><funktion>presb.card. tit. S.Caeciliae; apost.leg.</funktion></e>
+</u>
+<u><nr>21230</nr><Referenz>21230</Referenz>
+<e><name>Iohannes</name><funktion>diac.card. S.Nicolai in carcere Tulliano</funktion></e>
+</u>
+<u><nr>21231</nr><Referenz>21231</Referenz>
+<e><funktion>archdiac.; primicerius; capitulum</funktion><ort>Traguriensis</ort></e>
+</u>
+<u><nr>21232</nr><Referenz>21232</Referenz>
+<e><funktion>ep.</funktion><ort>Waradiensis</ort></e>
+</u>
+<u><nr>21233</nr><Referenz>21233</Referenz>
+<e><name>Lodomerius</name><funktion>ep.</funktion><ort>Varadiensis</ort></e>
+</u>
+<u><nr>21234</nr><Referenz>21234</Referenz>
+<e><name>Iohannes</name><funktion>diac.card. S.Nicolai in carcere Tulliano</funktion></e>
+</u>
+<u><nr>21235</nr><Referenz>21235</Referenz>
+<e><funktion>abbas</funktion><ort>Casa Dei</ort><ortsbestimmung>Claromontensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21236</nr><Referenz>21236</Referenz>
+<e><funktion>abbas</funktion><ort>S.Benignus</ort><ortsbestimmung>Divionensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21237</nr><Referenz>21237</Referenz>
+<e><funktion>ep.</funktion><ort>Gerundinensis</ort></e>
+</u>
+<u><nr>21238</nr><Referenz>21238</Referenz>
+<e><name>(Bentivegna)</name><funktion>ep.</funktion><ort>Tudertinus</ort></e>
+</u>
+<u><nr>21239</nr><Referenz>21239</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>monasterium; OCist</institution><ort>Eberbach</ort><ortsbestimmung>Maguntina dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21240</nr><Referenz>21240</Referenz>
+<e><name>magister Petrus de Pabeux</name><funktion>canonicus</funktion><ort>Engolismensis</ort></e>
+</u>
+<u><nr>21241</nr><Referenz>21241</Referenz>
+<e><funktion>potestas; consilium; commune</funktion><ort>Bononia</ort></e>
+</u>
+<u><nr>21242</nr><Referenz>21242</Referenz>
+<e><funktion>archiep.</funktion><ort>Narbonensis</ort></e>
+<e><funktion>archiep.</funktion><ort>Arelatensis</ort></e>
+</u>
+<u><nr>21243</nr><Referenz>21243</Referenz>
+<e><funktion>rex</funktion><ort>Aragonum</ort></e>
+</u>
+<u><nr>21244</nr><Referenz>21244</Referenz>
+<e><name>Iohannes</name><funktion>ep.</funktion><ort>Cluanfertensis</ort></e>
+</u>
+<u><nr>21245</nr><Referenz>21245</Referenz>
+<e><name>Iohannes</name><funktion>ep.</funktion><ort>Cluanfertensis</ort></e>
+</u>
+<u><nr>21246</nr><Referenz>21246</Referenz>
+<e><name>Ortolphus</name><funktion>abbas</funktion><institution>OSB</institution><ort>Puren <orig>al.Burun</orig></ort></e>
+<e><funktion>successoris abbatis</funktion><institution>OSB</institution><ort>Puren <orig>al.Burun</orig></ort></e>
+</u>
+<u><nr>21247</nr><Referenz>21247</Referenz>
+<e><funktion>abbas; conventus</funktion><institution>OCist</institution><ort>Ursicampus</ort><ortsbestimmung>Noviomensis dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21248</nr><Referenz>21248</Referenz>
+<e><funktion>prior; conventus</funktion><institution>monasterium</institution><ort>Cartusia</ort><ortsbestimmung>Gratianopolitana dioc.</ortsbestimmung></e>
+</u>
+<u><nr>21249</nr><Referenz>21249</Referenz>
+<e><funktion>rex</funktion><ort>Portugallia</ort></e>
+</u>
+<u><nr>21250</nr><Referenz>21250</Referenz>
+<e><name>Rodulphus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
+</u>
+<u><nr>21251</nr><Referenz>21251</Referenz>
+<e><funktion>rectores</funktion><institution>fraternitas Romana</institution></e>
+</u>
+<u><nr>21252</nr><Referenz>21252</Referenz>
+<e><name>(Iacobus Contarenum</name><funktion>dux</funktion><ort>Venetiae</ort></e>
+<e><funktion>consilium; commune</funktion><ort>Venetiae</ort></e>
+</u>
+<u><nr>21253</nr><Referenz>21253</Referenz>
+<e><name>Iohannes</name><funktion>magister generalis</funktion><institution>OPr</institution></e>
+<e><name>Geronimus</name><funktion>minister generalis</funktion><institution>OFM</institution></e>
+</u>
+<u><nr>21254</nr><Referenz>21254</Referenz>
+<e><ort>Esculani</ort></e>
+</u>
+<u><nr>21255</nr><Referenz>21255</Referenz>
+<e><funktion>potestas; consilium; commune</funktion><ort>Narniensis</ort></e>
+</u>
+<u><nr>21256</nr><Referenz>21256</Referenz>
+<e><ort>Parmenses </ort></e>
+</u>
+</potthast>
