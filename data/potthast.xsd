@@ -13,6 +13,9 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="u">
+    <xs:annotation>
+      <xs:documentation>a single entry in the Regesta ("Urkunde")</xs:documentation>
+    </xs:annotation>
     <xs:complexType>
       <xs:sequence>
         <xs:element ref="nr"/>
@@ -38,6 +41,9 @@
   </xs:element>
   <xs:element name="Referenz" type="xs:NMTOKEN"/>
   <xs:element name="an">
+    <xs:annotation>
+      <xs:documentation>recipients listed as "auch an" (also to) in the Regesta</xs:documentation>
+    </xs:annotation>
     <xs:complexType mixed="true">
       <xs:sequence>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="e"/>
@@ -45,6 +51,9 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="e">
+    <xs:annotation>
+      <xs:documentation>A single receipient mentioned in the entry, usually the Latin dative form of a person or an institution.</xs:documentation>
+    </xs:annotation>
     <xs:complexType>
       <xs:sequence>
         <xs:element minOccurs="0" ref="name"/>
@@ -100,6 +109,9 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="ordo">
+    <xs:annotation>
+      <xs:documentation>The assignemnt to a religious order, currently not used (mixed with "institution")</xs:documentation>
+    </xs:annotation>
     <xs:complexType mixed="true">
       <xs:choice minOccurs="0" maxOccurs="unbounded">
         <xs:element ref="kommentar"/>
@@ -146,6 +158,9 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="P">
+    <xs:annotation>
+      <xs:documentation>The patronage of a Saint mentioned as part of the identification.</xs:documentation>
+    </xs:annotation>
     <xs:complexType mixed="true">
       <xs:choice minOccurs="0" maxOccurs="unbounded">
         <xs:element ref="kommentar"/>
