@@ -73,6 +73,9 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="repetit">
+	<xs:annotation>
+		<xs:documentation>the entry repeats an older one, here referenced by number</xs:documentation>
+	</xs:annotation>
     <xs:complexType mixed="true">
       <xs:choice minOccurs="0" maxOccurs="unbounded">
         <xs:element ref="kommentar"/>
@@ -81,6 +84,9 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="name">
+	<xs:annotation>
+		<xs:documentation>the name of a person, usually only the firstname</xs:documentation>
+	</xs:annotation>
     <xs:complexType mixed="true">
       <xs:choice minOccurs="0" maxOccurs="unbounded">
         <xs:element ref="kommentar"/>
@@ -92,6 +98,9 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="funktion">
+	<xs:annotation>
+		<xs:documentation>the role describing a receipient; can also describe relationship to other persons.</xs:documentation>
+	</xs:annotation>
     <xs:complexType mixed="true">
       <xs:choice minOccurs="0" maxOccurs="unbounded">
         <xs:element ref="kommentar"/>
@@ -120,7 +129,7 @@
   </xs:element>
   <xs:element name="ordo">
     <xs:annotation>
-      <xs:documentation>The assignemnt to a religious order, currently not used (mixed with "institution")</xs:documentation>
+      <xs:documentation>The assignemnt to a religious order</xs:documentation>
     </xs:annotation>
     <xs:complexType mixed="true">
       <xs:choice minOccurs="0" maxOccurs="unbounded">
@@ -131,6 +140,9 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="ort">
+	<xs:annotation>
+		<xs:documentation>A geographic place, settlement etc. associated with the receipient (can also by a former location as with some cardinals).</xs:documentation>
+	</xs:annotation>
     <xs:complexType mixed="true">
       <xs:choice minOccurs="0" maxOccurs="unbounded">
         <xs:element ref="kommentar"/>
@@ -141,6 +153,9 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="ortsbestimmung">
+	<xs:annotation>
+		<xs:documentation>a geographical qualifier, usually the diocesis, in which an institution is located</xs:documentation>
+	</xs:annotation>
     <xs:complexType mixed="true">
       <xs:choice minOccurs="0" maxOccurs="unbounded">
         <xs:element ref="kommentar"/>
@@ -159,6 +174,9 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="Bemerkungen">
+	<xs:annotation>
+		<xs:documentation>generic notes</xs:documentation>
+	<xs:annotation>
     <xs:complexType mixed="true">
       <xs:choice minOccurs="0" maxOccurs="unbounded">
         <xs:element ref="kommentar"/>
@@ -181,6 +199,9 @@
   </xs:element>
   <xs:element name="orig" type="xs:string"/>
   <xs:element name="kommentar">
+	<xs:annotation>
+		<xs:documentation>a local comment by the data creator</xs:documentation>
+	<xs:annotation>
     <xs:complexType mixed="true">
       <xs:attribute name="reg"/>
     </xs:complexType>
