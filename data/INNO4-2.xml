@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
   <u><nr>12000</nr><Referenz>12000</Referenz>
 <e><funktion>abbas; prior</funktion><institution>S.Petrus</institution><ort>Aldenburc</ort><ortsbestimmung>Merseburgensis dioc.</ortsbestimmung></e>
 </u>
@@ -110,8 +108,16 @@
 <e><funktion>abbatissa; conventus</funktion><institution>monasterium; OCist</institution><ort>Consolatio S.Mariae</ort><ortsbestimmung>Eduensis dioc.</ortsbestimmung></e>
 </u>
 <u><nr>12033</nr><Referenz>12033</Referenz>
-<e><name>(Iohannes)</name><funktion>prior</funktion><ort>S.Andreas</ort></e>
-<e><name>(Iohannes)</name><funktion>prior</funktion><ort>May</ort></e>
+<e>
+            <name>(Iohannes)</name>
+            <funktion>prior</funktion>
+            <ort>May</ort>
+        </e><e>
+            <name>(Iohannes)</name>
+            <funktion>prior</funktion>
+            <ort>S.Andreas</ort>
+        </e>
+
 <e><name>(Adam)</name><funktion>archidiac.</funktion><ort>S.Andreas</ort></e>
 </u>
 <u><nr>12034</nr><Referenz>12034</Referenz>
@@ -2676,7 +2682,7 @@
 <u><nr>12811</nr><Referenz>12811</Referenz>
 <e><name>P(etrus)</name><funktion>diac.card. S.Georgii ad velum aureum; apost.leg</funktion></e>
 </u>
-<u><nr>12812 </nr><fehlt /><Referenz>12812 </Referenz>
+<u><nr>12812 </nr><fehlt/><Referenz>12812 </Referenz>
 </u>
 <u><nr>12813</nr><Referenz>12813</Referenz>
 <e><funktion>magister; fratres</funktion><institution>domus Theutonicorum</institution><ort>Pruscia</ort></e>
@@ -2866,8 +2872,13 @@
 <e><name>Gotofridus</name><funktion>frater</funktion><institution>OPr</institution></e>
 </u>
 <u><nr>12872</nr><Referenz>12872</Referenz>
-<e><name>Abel magister</name><funktion>clericus Alexandri regis Scotiae;</funktion></e>
-<e><name>Abel magister</name><funktion>canonicus</funktion><ort>Glasguensis</ort></e>
+<e>
+            <name>Abel magister</name>
+            <funktion>canonicus
+                <ort>Glasguensis</ort></funktion>
+            <funktion>clericus Alexandri regis Scotiae;</funktion>
+        </e>
+
 </u>
 <u><nr>12873</nr><Referenz>12873</Referenz>
 <e><funktion>abbas</funktion><ort>Praemonstratensis</ort></e>
@@ -2962,8 +2973,13 @@
 <e><name>Ecellinus de Romano</name></e>
 </u>
 <u><nr>12900</nr><Referenz>12900</Referenz>
-<e><name>Abel magister</name><funktion>capellanus suus</funktion></e>
-<e><name>Abel magister</name><funktion>canonicus</funktion><ort>Glasguensis</ort></e>
+<e>
+            <name>Abel magister</name>
+            <funktion>canonicus
+            <ort>Glasguensis</ort></funktion>
+            <funktion>capellanus suus</funktion>
+        </e>
+
 </u>
 <u><nr>12901</nr><Referenz>12901</Referenz>
 <e><funktion>archiepp.; epp.; abbates; alii praelati</funktion></e>
@@ -3134,8 +3150,13 @@
 <e><funktion>minister provincialis</funktion><institution>OFM</institution><ort>Anconitana</ort><inst2>marchia</inst2></e>
 </u>
 <u><nr>12946</nr><Referenz>12946</Referenz>
-<e><name>Abel magister</name><funktion>capellanus suus</funktion></e>
-<e><name>Abel magister</name><funktion>canonicus</funktion><ort>Glasguensis</ort></e>
+<e>
+            <name>Abel magister</name>
+            <funktion>canonicus
+                <ort>Glasguensis</ort></funktion>
+            <funktion>capellanus suus</funktion>
+        </e>
+
 </u>
 <u><nr>12947</nr><Referenz>12947</Referenz>
 <e><funktion>abbas; conventus</funktion><institution>OPraem</institution><ort>Ambianensis</ort><P>S.Iudocus in Nemore</P></e>
@@ -3255,8 +3276,13 @@
 <e><name>R(obertus) idem</name><funktion>seigneur</funktion><ort>Béthune; Termonde</ort></e>
 </u>
 <u><nr>12984</nr><Referenz>12984</Referenz>
-<e><name>Iacobus</name><funktion>ep.</funktion><ort>Tusculanus</ort></e>
-<e><name>Iacobus</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>Iacobus</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+                <ort>Tusculanus</ort></funktion>
+        </e>
+
 <an>*
 <e><funktion>patriarchae; archiepp.; epp.; abbates; clerici universi</funktion></e>
 <e><funktion>reges illustres; nobiles viri; universi comes; duces; cuncti Christi fideles</funktion></e>

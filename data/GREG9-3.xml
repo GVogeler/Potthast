@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
   <u><nr>10001</nr><Referenz>10001</Referenz>
 <e><institution>monasterium</institution><ort>Esculanensis</ort><P>S.Maria</P></e>
 <e><institution>monasterium</institution><ort>Esculanensis</ort><P>S.Georgius</P></e>
@@ -275,8 +273,13 @@
 <e><funktion>decanus; capitulum</funktion><ort>Remi</ort></e>
 </u>
 <u><nr>10080</nr><Referenz>10080</Referenz>
-<e><name>(Willelmus)</name><funktion>quondam ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>(Willelmus)</name><funktion>poenitentiarius suus</funktion></e>
+<e>
+            <name>(Willelmus)</name>
+            <funktion>poenitentiarius suus</funktion>
+            <funktion>quondam ep.
+                <ort>Mutinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10081</nr><Referenz>10081</Referenz>
 <e><name>Bela</name><funktion>rex</funktion><ort>Ungaria</ort></e>
@@ -300,8 +303,14 @@
 <e><funktion>suffraganei</funktion><ort>Mediolanum</ort></e>
 </u>
 <u><nr>10086</nr><Referenz>10086</Referenz>
-<e><name>Colomannus</name><funktion>rex</funktion><ort>Rutheni </ort></e>
-<e><name>Colomannus</name><funktion>dux</funktion><ort>Sclavonia</ort></e>
+<e>
+            <name>Colomannus</name>
+            <funktion>dux
+                <ort>Sclavonia</ort></funktion>
+            <funktion>rex
+                <ort>Rutheni </ort></funktion>
+        </e>
+
 </u>
 <u><nr>10087</nr><Referenz>10087</Referenz>
 <e><name>Riveria Aldovrandina; Montisana</name><funktion>OCist servire cupientes</funktion><ort>Perusinus</ort></e>
@@ -314,8 +323,13 @@
 <e><name>Theobaldus</name><funktion>comes</funktion><ort>Campania</ort><Bemerkungen>frz.</Bemerkungen></e>
 </u>
 <u><nr>10090</nr><Referenz>10090</Referenz>
-<e><name>(Willelmus)</name><funktion>quondam ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>(Willelmus)</name><funktion>poenitentiarius suus</funktion></e>
+<e>
+            <name>(Willelmus)</name>
+            <funktion>poenitentiarius suus</funktion>
+            <funktion>quondam ep.
+                <ort>Mutinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10091</nr><Referenz>10091</Referenz>
 <e><funktion>archidiac.; decanus; succentor</funktion><ort>Cathalaunensis</ort></e>
@@ -327,16 +341,27 @@
 <e><name>Ludovicus</name><funktion>rex</funktion><ort>Franci</ort></e>
 </u>
 <u><nr>10094</nr><Referenz>10094</Referenz>
-<e><name>(Willelmus)</name><funktion>quondam ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>(Willelmus)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>(Willelmus)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>quondam ep.
+                <ort>Mutinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10095</nr><Referenz>10095</Referenz>
 <e><name>Angelus Aegidii</name><funktion>vicarius Oderisii potestatis</funktion><ort>Spellum</ort></e>
 <e><funktion>commune</funktion><ort>Spellum</ort></e>
 </u>
 <u><nr>10096</nr><Referenz>10096</Referenz>
-<e><name>(Theobaldus)</name><funktion>rex</funktion><ort>Navarra</ort></e>
-<e><name>(Theobaldus)</name><funktion>comes</funktion><ort>Campania</ort></e>
+<e>
+            <name>(Theobaldus)</name>
+            <funktion>comes
+                <ort>Campania</ort></funktion>
+            <funktion>rex
+                <ort>Navarra</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10097</nr><Referenz>10097</Referenz>
 <e><funktion>praepositi</funktion><institution>ord.Hum.</institution><Bemerkungen>ordo Humiliatorum</Bemerkungen></e>
@@ -354,8 +379,13 @@
 <e><funktion>prior; fratres</funktion><institution>OPr</institution><ort>Polonia</ort></e>
 </u>
 <u><nr>10102</nr><Referenz>10102</Referenz>
-<e><name>W(illelmus)</name><funktion>quondam ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>W(illelmus)</name><funktion>poenitentiarius suus</funktion></e>
+<e>
+            <name>W(illelmus)</name>
+            <funktion>poenitentiarius suus</funktion>
+            <funktion>quondam ep.
+                <ort>Mutinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10103</nr><Referenz>10103</Referenz>
 <e><funktion>archiep.</funktion><ort>Nazarenus</ort></e>
@@ -420,19 +450,35 @@
 <e><institution>monasterium; OSB</institution><ort>Mons Angelorum</ort><P>S.Maria</P></e>
 </u>
 <u><nr>10122</nr><Referenz>10122</Referenz>
-<e><name>(Willelmus)</name><funktion>quondam ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>(Willelmus)</name><funktion>poenitentiarius suus; apost.leg.</funktion></e>
+<e>
+            <name>(Willelmus)</name>
+            <funktion>poenitentiarius suus; apost.leg.</funktion>
+            <funktion>quondam ep.
+                <ort>Mutinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10123</nr><Referenz>10123</Referenz>
 <e><funktion>priores; fratres</funktion><institution>OPr</institution></e>
 </u>
 <u><nr>10124</nr><Referenz>10124</Referenz>
-<e><name>Fridericus</name><funktion>imperator</funktion><ort>Romanorum </ort></e>
-<e><name>Fridericus</name><funktion>rex</funktion><ort>Sicilia ;Hyerusalem</ort></e>
+<e>
+            <name>Fridericus</name>
+            <funktion>rex
+            <ort>Sicilia; Hyerusalem</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum </ort></funktion>
+        </e>
+
 </u>
 <u><nr>10125</nr><Referenz>10125</Referenz>
-<e><name>G(uilielmus)</name><funktion>quondam ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>G(uilielmus)</name><funktion>poenitentiarius suus; apost.leg.</funktion></e>
+<e>
+            <name>G(uilielmus)</name>
+            <funktion>poenitentiarius suus; apost.leg.</funktion>
+            <funktion>quondam ep.
+                <ort>Mutinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10126</nr><Referenz>10126</Referenz>
 <e><name>(Wilbrandus)</name><funktion>archiep.</funktion><ort>Magdeburgensis</ort></e>
@@ -487,8 +533,13 @@
 <e><funktion>archiep.; suffraganei</funktion><ort>Remi</ort></e>
 </u>
 <u><nr>10141</nr><Referenz>10141</Referenz>
-<e><name>W(illelmus)</name><funktion>quondam ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>W(illelmus)</name><funktion>poenitentiarius suus;apost.leg.</funktion></e>
+<e>
+            <name>W(illelmus)</name>
+            <funktion>poenitentiarius suus;apost.leg.</funktion>
+            <funktion>quondam ep.
+                <ort>Mutinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10142</nr><Referenz>10142</Referenz>
 <e><funktion>ep.</funktion><ort>S.Asaph</ort></e>
@@ -577,8 +628,13 @@
 <e><name>Alfunsus</name><funktion>frater Ludovici Franciae regis</funktion></e>
 </u>
 <u><nr>10168</nr><Referenz>10168</Referenz>
-<e><name>(Willelmus)</name><funktion>quondam ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>(Willelmus)</name><funktion>poenitentiarius suus;apost.leg.</funktion></e>
+<e>
+            <name>(Willelmus)</name>
+            <funktion>poenitentiarius suus;apost.leg.</funktion>
+            <funktion>quondam ep.
+                <ort>Mutinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10169</nr><Referenz>10169</Referenz>
 <e><funktion>potestas; consilium; populus</funktion><ort>Bononia</ort></e>
@@ -595,8 +651,13 @@
 <e><name>(Eadmundus)</name><funktion>archiep.</funktion><ort>Cantuaria</ort></e>
 </u>
 <u><nr>10173</nr><Referenz>10173</Referenz>
-<e><name>(Willelmus)</name><funktion>quondam ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>(Willelmus)</name><funktion>poenitentiarius suus;apost.leg.</funktion></e>
+<e>
+            <name>(Willelmus)</name>
+            <funktion>poenitentiarius suus;apost.leg.</funktion>
+            <funktion>quondam ep.
+                <ort>Mutinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10174</nr><Referenz>10174</Referenz>
 <e><name>Pera Transmada; Flora de Lambre; Palmera Aldrovandina; Boiomunda Gisa; Pera de Bellofonte; Allorita Andivena</name><funktion>mulieres</funktion><ort>Perusinus</ort></e>
@@ -631,8 +692,14 @@
 <e><funktion>abbas; fratres</funktion><institution>eccl.; OPr</institution><ort>Iustusmons</ort><P>S.Maria</P></e>
 </u>
 <u><nr>10184</nr><Referenz>10184</Referenz>
-<e><name>F(ridericus)</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
-<e><name>F(ridericus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>F(ridericus)</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10185</nr><Referenz>10185</Referenz>
 <e><funktion>moniales</funktion><institution>monasterium</institution><ort>S.Ohuldis</ort><ortsbestimmung>Tullensis dioc.</ortsbestimmung></e>
@@ -650,12 +717,22 @@
 <e><funktion>abbas; conventus</funktion><institution>monasterium; ord.Camal.</institution><ort>S.Apollinaris in Classe</ort><ortsbestimmung>Ravenn. dioc.</ortsbestimmung></e>
 </u>
 <u><nr>10190</nr><Referenz>10190</Referenz>
-<e><name>(Willelmus)</name><funktion>quondam ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>(Willelmus)</name><funktion>poenitentiarius suus;apost.leg.</funktion></e>
+<e>
+            <name>(Willelmus)</name>
+            <funktion>poenitentiarius suus;apost.leg.</funktion>
+            <funktion>quondam ep.
+                <ort>Mutinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10191</nr><Referenz>10191</Referenz>
-<e><name>(Willelmus)</name><funktion>quondam ep.</funktion><ort>Mutinensis </ort></e>
-<e><name>(Willelmus)</name><funktion>poenitentiarius suus;apost.leg.</funktion></e>
+<e>
+            <name>(Willelmus)</name>
+            <funktion>poenitentiarius suus;apost.leg.</funktion>
+            <funktion>quondam ep.
+                <ort>Mutinensis </ort></funktion>
+        </e>
+
 </u>
 <u><nr>10192</nr><Referenz>10192</Referenz>
 <e><name>(Petrus?)</name><funktion>archiep.</funktion><ort>Gneznensis</ort></e>
@@ -937,8 +1014,14 @@
 <e><funktion>minister; fratres</funktion><institution>OFM</institution><ort>Viterbium</ort></e>
 </u>
 <u><nr>10274</nr><Referenz>10274</Referenz>
-<e><name>(Theobaldus)</name><funktion>rex</funktion><ort>Navarra</ort></e>
-<e><name>(Theobaldus)</name><funktion>comes</funktion><ort>Campania</ort></e>
+<e>
+            <name>(Theobaldus)</name>
+            <funktion>comes
+                <ort>Campania</ort></funktion>
+            <funktion>rex
+                <ort>Navarra</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10275</nr><Referenz>10275</Referenz>
 <e><name>(Guercius)</name><funktion>electus</funktion><ort>Lucanus</ort></e>
@@ -957,9 +1040,16 @@
 </u>
 <u><nr>10280</nr><Referenz>10280</Referenz>
 <e><funktion>abbas</funktion><institution>OCist</institution><ort>Sacra</ort><ortsbestimmung>Corinthiensis dioc.</ortsbestimmung></e>
-<e><name>magister Petrus</name><funktion>cancellarius</funktion><ort>Achaia</ort></e>
-<e><name>magister Petrus</name><funktion>subdiac. suus</funktion></e>
-<e><name>magister Petrus</name><funktion>canonicus</funktion><ort>Patracensis</ort></e>
+<e>
+            <name>magister Petrus</name>
+            <funktion>subdiac. suus</funktion>
+            <funktion>canonicus
+                <ort>Patracensis</ort></funktion>
+            <funktion>cancellarius
+                <ort>Achaia</ort></funktion>
+        </e>
+
+
 <e><funktion>praeceptor</funktion><institution>hospitale</institution><ort>Romania</ort><P>S.Maria Theutonicorum</P></e>
 </u>
 <u><nr>10281</nr><Referenz>10281</Referenz>
@@ -1174,8 +1264,13 @@
 <e><name>(Sigurdus)</name><funktion>archiep.</funktion><ort>Nidrosiensis</ort></e>
 </u>
 <u><nr>10346</nr><Referenz>10346</Referenz>
-<e><name>(Wilhelmus)</name><funktion>quondam ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>(Wilhelmus)</name><funktion>apost.leg.;protonotarius <orig>leg. poenitentiarius suus</orig></funktion></e>
+<e>
+            <name>(Wilhelmus)</name>
+            <funktion>apost.leg.;protonotarius <orig>leg. poenitentiarius suus</orig></funktion>
+            <funktion>quondam ep.
+                <ort>Mutinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10347</nr><Referenz>10347</Referenz>
 <e><name>Guillelmus</name><funktion>frater; poenitentiarius suus</funktion></e>
@@ -1186,8 +1281,11 @@
 <e><name>(Henricus)</name><funktion>ep.</funktion><ort>Osiliensis</ort></e>
 </u>
 <u><nr>10349</nr><Referenz>10349</Referenz>
-<e><name>(Wilhelmus)</name><funktion>quondam ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>(Wilhelmus)</name><funktion>apost.leg.;protonotarius <orig>poenitentiarius suus</orig></funktion></e>
+<e>
+            <name>(Wilhelmus)</name>
+            <funktion>apost.leg.;protonotarius <orig>poenitentiarius suus</orig></funktion>
+        </e>
+
 </u>
 <u><nr>10350</nr><Referenz>10350</Referenz>
 <e><funktion>fratres</funktion><institution>OPr</institution><ort>Cheurim</ort><inst2>terra</inst2><Bemerkungen>pro conversione terrae Cheurim praedicantes</Bemerkungen></e>
@@ -1441,8 +1539,13 @@
 <e><name>Henricus de Revello</name><funktion>senescalcus imperialis</funktion><ort>Provincia</ort></e>
 </u>
 <u><nr>10428</nr><Referenz>10428</Referenz>
-<e><name>Wilhelmus</name><funktion>quondam ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>Wilhelmus</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>Wilhelmus</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>quondam ep.
+                <ort>Mutinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10429</nr><Referenz>10429</Referenz>
 <e><funktion>abbas; conventus</funktion><institution>OCist</institution><ort>Viterbiensis</ort><P>S.Martinus de Monte</P></e>
@@ -1494,8 +1597,13 @@
 <e><name>(Odemarus)</name><funktion>ep.</funktion><ort>Novariensis</ort></e>
 </u>
 <u><nr>10444</nr><Referenz>10444</Referenz>
-<e><name>Wilhelmus</name><funktion>quondam ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>Wilhelmus</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>Wilhelmus</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>quondam ep.
+                <ort>Mutinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10445</nr><Referenz>10445</Referenz>
 <e><funktion>ep.</funktion><ort>Lingonensis</ort></e>
@@ -1773,12 +1881,22 @@
 <e><funktion>abbas; conventus</funktion><institution>eccl.; ord.Aug.</institution><ort>Crucelingen</ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung></e>
 </u>
 <u><nr>10528</nr><Referenz>10528</Referenz>
-<e><name>Wilhelmus</name><funktion>quondam ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>Wilhelmus</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>Wilhelmus</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>quondam ep.
+                <ort>Mutinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10529</nr><Referenz>10529</Referenz>
-<e><name>Wilhelmus</name><funktion>quondam ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>Wilhelmus</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>Wilhelmus</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>quondam ep.
+                <ort>Mutinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10530</nr><Referenz>10530</Referenz>
 <e><funktion>patriarcha; suffraganei</funktion><ort>Hierusalem</ort></e>
@@ -1800,8 +1918,14 @@
 <e><name>(Bela)</name><funktion>rex</funktion><ort>Ungaria</ort></e>
 </u>
 <u><nr>10536</nr><Referenz>10536</Referenz>
-<e><name>(Wilhelmus)</name><funktion>quondam ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>(Wilhelmus)</name><funktion>apost.leg.</funktion><ort>in Livonia</ort></e>
+<e>
+            <name>(Wilhelmus)</name>
+            <funktion>apost.leg.
+                <ort>in Livonia</ort></funktion>
+            <funktion>quondam ep.
+                <ort>Mutinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10537</nr><Referenz>10537</Referenz>
 <e><funktion>fratres</funktion><institution>Hospitalarii</institution><ort>Ierusalem</ort></e>
@@ -1821,8 +1945,14 @@
 <e><funktion>prior; fratres</funktion><institution>hospitale Ierusolimitanum</institution><ort>Moravia</ort></e>
 </u>
 <u><nr>10542</nr><Referenz>10542</Referenz>
-<e><name>Fredericus</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
-<e><name>Fredericus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Fredericus</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>10543</nr><Referenz>10543</Referenz>
 <e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>Zwiuildea <orig>Zwiefalten</orig></ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung></e>
@@ -2461,7 +2591,7 @@
 <u><nr>10734</nr><Referenz>10734</Referenz>
 <e><funktion>abbas</funktion><ort>Carraria</ort><ortsbestimmung>Paduana dioc.</ortsbestimmung></e>
 </u>
-<u><nr>10735 </nr><fehlt /><Referenz>10735 </Referenz>
+<u><nr>10735 </nr><fehlt/><Referenz>10735 </Referenz>
 </u>
 <u><nr>10736</nr><Referenz>10736</Referenz>
 <e><funktion>decanus; magister scolarum</funktion><ort>Cenomanensis</ort></e>
@@ -2597,8 +2727,14 @@
 <e><funktion>capitulum</funktion><ort>Lausannensis</ort></e>
 </u>
 <u><nr>10777</nr><Referenz>10777</Referenz>
-<e><name>S(inibaldus)</name><funktion>tit. S.Laurentius in lucina perb. card.</funktion></e>
-<e><name>S(inibaldus)</name><funktion>rector</funktion><institution>marchia</institution><ort>Anconitana</ort></e>
+<e>
+            <name>S(inibaldus)</name>
+            <funktion>rector
+            <institution>marchia</institution>
+                <ort>Anconitana</ort></funktion>
+            <funktion>tit. S.Laurentius in lucina perb. card.</funktion>
+        </e>
+
 </u>
 <u><nr>10778</nr><Referenz>10778</Referenz>
 <e><name>(Conradus)</name><funktion>ep.</funktion><ort>Ildesemensis</ort></e>
@@ -3126,7 +3262,7 @@
 <e><funktion>potestas; consilium; populus</funktion><ort>Spoletanus</ort></e>
 </u>
 <u><nr>10937</nr><Referenz>10937</Referenz>
-<e><funktion>decanus</funktion><ort>Carnotensis</ort><Bemerkungen>Empf„nger etwas groázgig bestimmt</Bemerkungen></e>
+<e><funktion>decanus</funktion><ort>Carnotensis</ort><Bemerkungen>Empf„nger etwas groáz&#x81;gig bestimmt</Bemerkungen></e>
 </u>
 <u><nr>10938</nr><Referenz>10938</Referenz>
 <e><funktion>archiep.</funktion><ort>Cosentinus</ort></e>
@@ -3559,10 +3695,10 @@
 <u><nr>11073</nr><Referenz>11073</Referenz>
 <e><funktion>praelati</funktion><ort>Livonia</ort><Bemerkungen>Empf„nger stark erschlossen</Bemerkungen></e>
 </u>
-<u><nr>11074</nr><fehlt /><Referenz>11074</Referenz>
+<u><nr>11074</nr><fehlt/><Referenz>11074</Referenz>
 </u>
-<u><nr>11075</nr><fehlt /><Referenz>11075</Referenz>
+<u><nr>11075</nr><fehlt/><Referenz>11075</Referenz>
 </u>
-<u><nr>11076</nr><fehlt /><Referenz>11076</Referenz>
+<u><nr>11076</nr><fehlt/><Referenz>11076</Referenz>
 </u>
 </potthast>

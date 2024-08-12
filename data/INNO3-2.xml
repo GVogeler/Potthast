@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="inno3-2" papst="Innocenz III.">
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="inno3-2" papst="Innocenz III.">
 <u><nr>1267</nr><Referenz>1267</Referenz>
 <e><name>O(do)</name><funktion>subdiac.;procurator</funktion></e>
 <e><funktion>capellanus subdiaconi O(donis); procurator</funktion></e>
@@ -86,8 +84,16 @@
 <e><funktion>prior ;conventus</funktion><ort>de Kirkeliam</ort><Bemerkungen>[contra mon. de Kelchou super eccla de Neutono]</Bemerkungen></e>
 </u>
 <u><nr>1292</nr><Referenz>1292</Referenz>
-<e><name>Otto</name><funktion>Rex</funktion><ort>Romanorum</ort><Bemerkungen>[in regem recipit)</Bemerkungen></e>
-<e><name>Otto</name><funktion>in imperatorem electus</funktion><ort>Romanorum</ort><Bemerkungen>[in regem recipit)</Bemerkungen></e>
+<e>
+            <name>Otto</name>
+            <funktion>in imperatorem electus
+            <ort>Romanorum</ort>
+                <Bemerkungen>[in regem recipit)</Bemerkungen></funktion>
+            <funktion>Rex
+            <ort>Romanorum</ort>
+                <Bemerkungen>[in regem recipit)</Bemerkungen></funktion>
+        </e>
+
 </u>
 <u><nr>1293</nr><Referenz>1293</Referenz>
 <e><funktion>unversi prinicpes tam ecclsiastici quam saeculares</funktion><ort>Alamannia</ort></e>
@@ -115,7 +121,7 @@
 <u><nr>1298</nr><Referenz>1298</Referenz>
 <e><name>(Conradus)</name><funktion>ep.</funktion><ort>Argentinensis</ort></e>
 <an>*
-<e><name>(Ltoldus)</name><funktion>ep.</funktion><ort>Basiliensis</ort></e>
+<e><name>(L&#x81;toldus)</name><funktion>ep.</funktion><ort>Basiliensis</ort></e>
 <e><name>Albertus</name><funktion>comes</funktion><ort>de Thaisburc <orig>(Dachsburg)</orig></ort></e>
 <e><name>R(udolfus)</name><funktion>comes</funktion><ort>de Thavesburc <orig>(Habsburg)</orig></ort></e></an>
 </u> 
@@ -255,8 +261,15 @@
 </u>
 <u><nr>1327</nr><Referenz>1327</Referenz>
 <e><name>Ae(gidius)</name><funktion>ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>magister Ub(ertus) theologus</name><funktion>subdiac.</funktion><institution>epi</institution><ort>Mutinensis</ort></e>
-<e><name>magister Ub(ertus) theologus</name><funktion>canonicus</funktion><ort>Modiocensis <orig>(Modociensi Decet.)</orig></ort></e>
+<e>
+            <name>magister Ub(ertus) theologus</name>
+            <funktion>canonicus
+                <ort>Modiocensis <orig>(Modociensi Decet.)</orig></ort></funktion>
+            <funktion>subdiac.
+            <institution>epi</institution>
+                <ort>Mutinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>1328</nr><Referenz>1328</Referenz>
 <e><name>(Gerardus)</name><funktion>ep.</funktion><ort>Paduanus</ort></e>
@@ -731,8 +744,13 @@
 <e><name>magister P.</name><funktion>scriptor suus</funktion></e>
 </u>
 <u><nr>1466</nr><Referenz>1466</Referenz>
-<e><name>Lauretus</name><funktion>comes</funktion></e>
-<e><name>Lauretus</name><funktion>iustitiarius</funktion><ort>Apulia;Terra Laboris</ort></e>
+<e>
+            <name>Lauretus</name>
+            <funktion>iustitiarius
+            <ort>Apulia;Terra Laboris</ort></funktion>
+            <funktion>comes</funktion>
+        </e>
+
 </u>
 <u><nr>1467</nr><Referenz>1467</Referenz>
 <e><funktion>electus</funktion><ort>Forosimphroniensis</ort></e>
@@ -812,8 +830,13 @@
 <e><funktion>venerabiles fratres familiares regii</funktion><Bemerkungen>Venerabiles fratres familiares regiis, welcher K”nig?</Bemerkungen></e>
 </u>
 <u><nr>1491</nr><Referenz>1491</Referenz>
-<e><name>(Guido)</name><funktion>ep.</funktion><ort>Penestrinus</ort></e>
-<e><name>(Guido)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>(Guido)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+            <ort>Penestrinus</ort></funktion>
+        </e>
+
 </u>
 <u><nr>1492</nr><Referenz>1492</Referenz>
 <e><funktion>capitulum</funktion><ort>Herbipolensis</ort></e>
@@ -861,8 +884,13 @@
 <e><funktion>successores canonice substituendis</funktion><institution>archiepi</institution><ort>Lundensis</ort><Bemerkungen>Nachfolger des Erzbischofs Andreas</Bemerkungen></e>
 </u>
 <u><nr>1506</nr><Referenz>1506</Referenz>
-<e><name>(Guido)</name><funktion>ep.</funktion><ort>Praenestinus</ort></e>
-<e><name>(Guido)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>(Guido)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+            <ort>Praenestinus</ort></funktion>
+        </e>
+
 <e><funktion>decanus</funktion><ort>Bunnensis</ort></e>
 </u>
 <u><nr>1507</nr><Referenz>1507</Referenz>
@@ -1124,8 +1152,13 @@
 <e><Bemerkungen>Chartam, quam Willelmus Remensis archipus S.Rom. Eccl.tit. S.Sabinae cardianlis ... capitulum Remensi concessit, confirmat.</Bemerkungen></e>
 </u>
 <u><nr>1581</nr><Referenz>1581</Referenz>
-<e><name>(Guido)</name><funktion>ep.</funktion><ort>Praenestinus</ort></e>
-<e><name>(Guido)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>(Guido)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+            <ort>Praenestinus</ort></funktion>
+        </e>
+
 </u>
 <u><nr>1582</nr><Referenz>1582</Referenz>
 <e><funktion>abbas ;canonici</funktion><ort>Parisiensis</ort><P>S.Genovefa</P></e>
@@ -1138,14 +1171,25 @@
 <e><name>(Adolfus)</name><funktion>archiep.</funktion><ort>Coloniensis</ort></e>
 </u>
 <u><nr>1585</nr><Referenz>1585</Referenz>
-<e><name>(Guido)</name><funktion>ep.</funktion><ort>Praenestinus</ort></e>
-<e><name>(Guido)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>(Guido)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+            <ort>Praenestinus</ort></funktion>
+        </e>
+
 <e><name>magister Philippus</name><funktion>notarius</funktion></e>
 <e><name>Aegidius</name><funktion>acolythus</funktion><Bemerkungen> ... suis?</Bemerkungen></e>
 </u>
 <u><nr>1586</nr><Referenz>1586</Referenz>
-<e><name>Otto</name><funktion>rex</funktion><ort>Romanorum </ort></e>
-<e><name>Otto</name><funktion>in regem electus<orig>(sic Bal., M., legas imperatorem)</orig></funktion><ort>Romanorum</ort></e>
+<e>
+            <name>Otto</name>
+            <funktion>in regem electus<orig>(sic Bal., M., legas imperatorem)</orig>
+                <ort>Romanorum</ort></funktion>
+            <funktion>rex
+                <ort>Romanorum </ort></funktion>
+        </e>
+
 </u>
 <u><nr>1587</nr><Referenz>1587</Referenz>
 <e><name>(Iohannes)</name><funktion>archiep.</funktion><ort>Trevirensis</ort></e>
@@ -1213,9 +1257,16 @@
 <e><funktion>decanus ;capitulum</funktion><institution>eccl.</institution><ort>Rosetensis</ort></e>
 </u>
 <u><nr>1595</nr><Referenz>1595</Referenz>
-<e><name>(Conradus)</name><funktion>cancellarius aulae imperialis</funktion></e>
-<e><name>(Conradus)</name><funktion>ep.</funktion><ort>(Herbipolensis)</ort></e>
-<e><name>(Conradus)</name><funktion>ep.</funktion><ort>Spirensis</ort></e>
+<e>
+            <name>(Conradus)</name>
+            <funktion>ep.
+                <ort>(Herbipolensis)</ort></funktion>
+            <funktion>ep.
+                <ort>Spirensis</ort></funktion>
+            <funktion>cancellarius aulae imperialis</funktion>
+        </e>
+
+
 </u>
 <u><nr>1596</nr><Referenz>1596</Referenz>
 <e><funktion>comes</funktion><ort>Brenensis</ort></e>
@@ -1372,8 +1423,13 @@
 <e><name>Eberhardus</name><funktion>archiep.</funktion><ort>Salzburgensis</ort></e>
 </u>
 <u><nr>1642</nr><Referenz>1642</Referenz>
-<e><name>(Guido)</name><funktion>ep.</funktion><ort>Praenestinus</ort></e>
-<e><name>(Guido)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>(Guido)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+            <ort>Praenestinus</ort></funktion>
+        </e>
+
 </u>
 <u><nr>1643</nr><Referenz>1643</Referenz>
 <e><name>Siffridus</name><funktion>archiep.</funktion><ort>Maguntinus</ort></e>
@@ -1415,8 +1471,13 @@
 <e><name>(Iohannes)</name><funktion>rex</funktion><ort>Angli</ort></e>
 </u>
 <u><nr>1652</nr><Referenz>1652</Referenz>
-<e><name>(Guido)</name><funktion>ep.</funktion><ort>Praenestinus</ort></e>
-<e><name>(Guido)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>(Guido)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+            <ort>Praenestinus</ort></funktion>
+        </e>
+
 <e><funktion>abbas</funktion><institution>OCist</institution><ort>S.Benedictus</ort><ortsbestimmung>Virdunensis diocesis</ortsbestimmung></e>
 <e><funktion>abbas</funktion><ort>Belli Loci</ort><ortsbestimmung>Virdunensis diocesis</ortsbestimmung></e>
 </u>
@@ -1424,8 +1485,14 @@
 <e><name>(bertoldus)</name><funktion>dux</funktion><ort>Zaringia <orig>(Laringiae Coll. III.)</orig></ort></e>
 </u>
 <u><nr>1654</nr><Referenz>1654</Referenz>
-<e><name>Otto</name><funktion>Rex</funktion><ort>Romanorum </ort></e>
-<e><name>Otto</name><funktion>in imperatorem electus</funktion><ort>Romanorum</ort></e>
+<e>
+            <name>Otto</name>
+            <funktion>in imperatorem electus
+                <ort>Romanorum</ort></funktion>
+            <funktion>Rex
+                <ort>Romanorum </ort></funktion>
+        </e>
+
 </u>
 <u><nr>1655</nr><Referenz>1655</Referenz>
 <e><name>(Henricus)</name><funktion>dux</funktion><ort>Brabantia</ort></e>
@@ -1442,9 +1509,16 @@
 <e><name>(Adolfus)</name><funktion>archiep.</funktion><ort>Coloniensis</ort></e>
 </u>
 <u><nr>1659</nr><Referenz>1659</Referenz>
-<e><name>Willelmus</name><funktion>archiep.</funktion><ort>Remensis</ort></e>
-<e><name>Willelmus</name><funktion>cardinalis</funktion><ort>S.Sabina</ort></e>
-<e><name>Willelmus</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>Willelmus</name>
+            <funktion>cardinalis
+                <ort>S.Sabina</ort></funktion>
+            <funktion>apost.leg.</funktion>
+            <funktion>archiep.
+                <ort>Remensis</ort></funktion>
+        </e>
+
+
 <e><name>(Petrus)</name><funktion>abbas</funktion><ort>Remensis</ort><P>S.Remigius</P></e>
 <e><funktion>decanus</funktion><ort>Remensis</ort></e>
 </u>
@@ -1460,7 +1534,7 @@
 <u><nr>1662</nr><Referenz>1662</Referenz>
 <e><name>G.</name><funktion>familiaris papae;fratri</funktion><institution>militia Templi</institution><Bemerkungen>G. fratri militiae Templi familiari suo, Lug. et M. Potentia magistris camerariis Apuliae et terra Laboris et ducatus Amalaphia</Bemerkungen></e>
 <e><name>Lug. ;M. Potentia</name><funktion>magister camerarius</funktion><ort>Apulia ;terra Laboris</ort><Bemerkungen>G. fratri militiae Templi familiari suo, Lug. et M. Potentia magistris camerariis Apuliae et terra Laboris et ducatus Amalaphia</Bemerkungen></e>
-<e><name>Lug. ;M. Potentia</name><funktion>magister camerarius</funktion><institution>ducatus </institution><ort>Amalphia</ort><Bemerkungen>G. fratri militiae Templi familiari suo, Lug. et M. Potentia magistris camerariis Apuliae et terra Laboris et ducatus Amalaphia</Bemerkungen></e>
+
 </u> 
 <u><nr>1663</nr><Referenz>1663</Referenz>
 <e><funktion>archiepp.; epp.; abbates; clerus; comites; barones; cives ;alii</funktion><ort>Apulia</ort></e>
@@ -1517,8 +1591,16 @@
 <e><name>A(delardus)</name><funktion>ep.; cardinalis S.R.E.</funktion><ort>Vernonensis</ort></e>
 </u>
 <u><nr>1678</nr><Referenz>1678</Referenz>
-<e><name>(Guillelmus)</name><funktion>archiep.</funktion><ort>Bituricensis</ort></e>
-<e><name>(Guillelmus)</name><funktion>ep.</funktion><ort>Nivernensis</ort></e>
+<e>
+            <name>(Guillelmus)</name>
+            <funktion>ep.</funktion>
+            <ort>Nivernensis</ort>
+        </e><e>
+            <name>(Guillelmus)</name>
+            <funktion>archiep.</funktion>
+            <ort>Bituricensis</ort>
+        </e>
+
 <e><name>(Hugo)</name><funktion>abbas</funktion><ort>Cluniacensis</ort></e>
 </u>
 <u><nr>1679</nr><Referenz>1679</Referenz>
@@ -1636,8 +1718,13 @@
 <e><name>Iohannes</name><funktion>rex</funktion><ort>Angli</ort></e>
 </u>
 <u><nr>1712</nr><Referenz>1712</Referenz>
-<e><name>(Guillelmus)</name><funktion>archiep.</funktion><ort>Remensis</ort></e>
-<e><name>(Guillelmus)</name><funktion>cardinalis S.R.E.; apost.leg.</funktion></e>
+<e>
+            <name>(Guillelmus)</name>
+            <funktion>cardinalis S.R.E.; apost.leg.</funktion>
+            <funktion>archiep.
+                <ort>Remensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>1713</nr><Referenz>1713</Referenz>
 <e><name>Philippus</name><funktion>rex</funktion><ort>Franci</ort></e>
@@ -1673,12 +1760,23 @@
 <e><funktion>abbas ;capitulum</funktion><institution>S.Iohannes</institution><ort>Senonensis</ort></e>
 </u>
 <u><nr>1723</nr><Referenz>1723</Referenz>
-<e><name>Walterus</name><funktion>comes</funktion><ort>Brenensis</ort></e>
-<e><name>Walterus</name><funktion>magister iustitiarius</funktion><ort>Apulia;Terra Laboris</ort></e>
+<e>
+            <name>Walterus</name>
+            <funktion>magister iustitiarius
+                <ort>Apulia;Terra Laboris</ort></funktion>
+            <funktion>comes
+                <ort>Brenensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>1724</nr><Referenz>1724</Referenz>
-<e><name>Iacobus</name><funktion>consobrinus suus;marescalcus suus</funktion></e>
-<e><name>Iacobus</name><funktion>magister iustitiarius ;capitaneus</funktion><ort>Apulia ;Terra Laboris<orig> totius ... et ...</orig></ort></e>
+<e>
+            <name>Iacobus</name>
+            <funktion>magister iustitiarius; capitaneus
+                <ort>Apulia; Terra Laboris<orig> totius ... et ...</orig></ort></funktion>
+            <funktion>consobrinus suus;marescalcus suus</funktion>
+        </e>
+
 </u>
 <u><nr>1725</nr><Referenz>1725</Referenz>
 <e><name>Universis mercatores</name></e>
@@ -1768,8 +1866,13 @@
 <e><funktion>abbates;alii ecclarum praelati</funktion><institution>episcopatus archiepi Rothomagensis et eius suffraganei constitutis</institution><ort>Rothomagensis</ort></e>
 </u>
 <u><nr>1746</nr><Referenz>1746</Referenz>
-<e><name>(Adelardus)</name><funktion>card. S.R.E. </funktion></e>
-<e><name>(Adelardus)</name><funktion>ep.</funktion><ort>Vernonensis</ort></e>
+<e>
+            <name>(Adelardus)</name>
+            <funktion>ep.
+                <ort>Vernonensis</ort></funktion>
+            <funktion>card. S.R.E. </funktion>
+        </e>
+
 </u>
 <u><nr>1747</nr><Referenz>1747</Referenz>
 <e><funktion>capitulum</funktion><ort>Auxitanus</ort></e>
@@ -1983,8 +2086,14 @@
 <e><name>magister P.</name><funktion>scriptor <orig>suo</orig></funktion><institution>epi Clusini</institution><ort>Rodicofanensis</ort></e>
 </u>
 <u><nr>1805</nr><Referenz>1805</Referenz>
-<e><name>Otto</name><funktion>rex</funktion><ort>Romanorum </ort></e>
-<e><name>Otto</name><funktion>in imperatorem electus</funktion><ort>Romanorum</ort></e>
+<e>
+            <name>Otto</name>
+            <funktion>in imperatorem electus
+                <ort>Romanorum</ort></funktion>
+            <funktion>rex
+                <ort>Romanorum </ort></funktion>
+        </e>
+
 </u>
 <u><nr>1806</nr><Referenz>1806</Referenz>
 <e><name>(Petrus)</name><funktion>archiep.</funktion><ort>Senonensis</ort></e>
@@ -2100,8 +2209,13 @@
 <e><funktion>(Archiepis; epp.</funktion><ort>Theutonia</ort></e>
 </u>
 <u><nr>1834</nr><Referenz>1834</Referenz>
-<e><name>(Guido)</name><funktion>ep.</funktion><ort>Praenestinus</ort></e>
-<e><name>(Guido)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>(Guido)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+                <ort>Praenestinus</ort></funktion>
+        </e>
+
 </u>
 <u><nr>1835</nr><Referenz>1835</Referenz>
 <e><name>Iohannes</name><funktion>prior;fratres</funktion><institution>iuxta Specum b. Benedicti regularem vitam servantes</institution></e>
@@ -2177,20 +2291,42 @@
 </u>
 <u><nr>1856</nr><Referenz>1856</Referenz>
 <e><name>(Rudolfus)</name><funktion>abbas</funktion><ort>Dolensis</ort></e>
-<e><name>E.</name><funktion>subdiac.</funktion><ort>Dolensis</ort></e>
-<e><name>E.</name><funktion>prior</funktion><institution>de Leproso</institution></e>
+<e>
+            <name>E.</name>
+            <funktion>prior
+                <institution>de Leproso</institution></funktion>
+            <funktion>subdiac.
+                <ort>Dolensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>1857</nr><Referenz>1857</Referenz>
 <e><name>(Rudolfus)</name><funktion>abbas</funktion><ort>Dolensis</ort></e>
-<e><name>E.</name><funktion>subdiac.</funktion><ort>Dolensis</ort></e>
-<e><name>E.</name><funktion>prior</funktion><institution>de Leproso</institution></e>
+<e>
+            <name>E.</name>
+            <funktion>prior
+                <institution>de Leproso</institution></funktion>
+            <funktion>subdiac.
+                <ort>Dolensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>1858</nr><Referenz>1858</Referenz>
 <e><funktion>archiepp.; epp. ;praelati ecclesiarum;universis clericis</funktion><ort>Sardinia</ort></e>
 </u>
 <u><nr>1859</nr><Referenz>1859</Referenz>
-<e><name>Henricus</name><funktion>praepositus</funktion><institution>S.Petrus</institution><ort>de Maguntia</ort><Bemerkungen>ist auch Neffe des Grafen von Leinigen</Bemerkungen></e>
-<e><name>Henricus</name><funktion>nepos</funktion><institution>comitis</institution><ort>de Linig <orig>[Leiningen]</orig></ort><Bemerkungen>Ist auch Propst v. S.Peter in Mainz</Bemerkungen></e>
+<e>
+            <name>Henricus</name>
+            <funktion>nepos
+            <institution>comitis</institution>
+            <ort>de Linig <orig>[Leiningen]</orig></ort>
+                <Bemerkungen>Ist auch Propst v. S.Peter in Mainz</Bemerkungen></funktion>
+            <funktion>praepositus
+            <institution>S.Petrus</institution>
+            <ort>de Maguntia</ort>
+                <Bemerkungen>ist auch Neffe des Grafen von Leinigen</Bemerkungen></funktion>
+        </e>
+
 </u>
 <u><nr>1860</nr><Referenz>1860</Referenz>
 <e><funktion>abbas ;fratres</funktion><ort>Faventinus</ort><P>S.Maria foris portam </P></e>
@@ -2252,8 +2388,13 @@
 <e><funktion>unversis tam ecclesiasticis quam saeculares principes <orig>(archiepis, epis et abbates, duces, marchiones, comites et alii magnates perTheuthoniam constitutis ,Ms.Berol.,)</orig></funktion><ort>Alamannia</ort></e>
 </u>
 <u><nr>1877</nr><Referenz>1877</Referenz>
-<e><name>(Guido)</name><funktion>ep.</funktion><ort>Praenestinus</ort></e>
-<e><name>(Guido)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>(Guido)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+                <ort>Praenestinus</ort></funktion>
+        </e>
+
 <e><funktion>abbas</funktion><ort>de Capembach;de Scelde <orig>(Capemberch ,Decr.) (zu Campenbach), (Scheida ,B”hm.,, Cold. ,Decr.,) (zu Scelde)</orig></ort><ortsbestimmung>Coloniensi dioc.;Monasteriensi dioc.</ortsbestimmung></e>
 </u>
 <u><nr>1878</nr><Referenz>1878</Referenz>
@@ -2447,8 +2588,16 @@
 <e><name>(Petrus)</name><funktion>archiep.</funktion><ort>Compostellanus</ort></e>
 </u> 
 <u><nr>1934</nr><Referenz>1934</Referenz>
-<e><name>(Guillelmus)</name><funktion>archiep.</funktion><ort>Bituricensis</ort></e>
-<e><name>(Guillelmus)</name><funktion>ep.</funktion><ort>Caturcensis</ort></e>
+<e>
+            <name>(Guillelmus)</name>
+            <funktion>ep.</funktion>
+            <ort>Caturcensis</ort>
+        </e><e>
+            <name>(Guillelmus)</name>
+            <funktion>archiep.</funktion>
+            <ort>Bituricensis</ort>
+        </e>
+
 </u>
 <u><nr>1935</nr><Referenz>1935</Referenz>
 <e><institution>Sacratissimum monasterium</institution><ort>de Urbe</ort><P>S.Paulus apostoli </P></e>
@@ -2468,8 +2617,13 @@
 <e><name>(Alphonsus)</name><funktion>rex</funktion><ort>Castella</ort></e>
 </u>
 <u><nr>1940</nr><Referenz>1940</Referenz>
-<e><name>Wilhelmus Alboinus</name><funktion>subdiaconus suus</funktion></e>
-<e><name>Wilhelmus Alboinus</name><funktion>canonicus</funktion><ort>Lemovicensis</ort></e>
+<e>
+            <name>Wilhelmus Alboinus</name>
+            <funktion>canonicus
+            <ort>Lemovicensis</ort></funktion>
+            <funktion>subdiaconus suus</funktion>
+        </e>
+
 <e><funktion>Cantor;poenitentiarius</funktion></e>
 </u>
 <u><nr>1941</nr><Referenz>1941</Referenz>
@@ -2566,8 +2720,18 @@
 <e><institution>domus</institution><ort>Cervus-Frigidus</ort><P>S.Trinitas</P></e>
 </u>
 <u><nr>1966</nr><Referenz>1966</Referenz>
-<e><name>R.</name><funktion>cantor</funktion><ort>de Monte Leprosum</ort><ortsbestimmung>Rothomagensis</ortsbestimmung></e>
-<e><name>R.</name><funktion>prior</funktion><ort>de Monte Leprosum</ort><ortsbestimmung>Rothomagensis</ortsbestimmung></e>
+<e>
+            <name>R.</name>
+            <funktion>prior</funktion>
+            <ort>de Monte Leprosum</ort>
+            <ortsbestimmung>Rothomagensis</ortsbestimmung>
+        </e><e>
+            <name>R.</name>
+            <funktion>cantor</funktion>
+            <ort>de Monte Leprosum</ort>
+            <ortsbestimmung>Rothomagensis</ortsbestimmung>
+        </e>
+
 <e><name>I. de Sagio</name><funktion>canonicus</funktion><ort>Rothomagenses</ort></e>
 </u>
 <u><nr>1967</nr><Referenz>1967</Referenz>
@@ -2665,8 +2829,14 @@
 <e><name>(Eberhardus)</name><funktion>archiep.</funktion><ort>Salzburgensis</ort></e>
 </u>
 <u><nr>1993</nr><Referenz>1993</Referenz>
-<e><name>Otto</name><funktion>rex</funktion><ort>Romanorum </ort></e>
-<e><name>Otto</name><funktion>in imperatorem electus</funktion><ort>Romanorum</ort></e>
+<e>
+            <name>Otto</name>
+            <funktion>in imperatorem electus
+            <ort>Romanorum</ort></funktion>
+            <funktion>rex
+            <ort>Romanorum </ort></funktion>
+        </e>
+
 </u>
 <u><nr>1994</nr><Referenz>1994</Referenz>
 <e><name>B(asilium)</name><funktion>archiep.</funktion><ort>de Zagora</ort></e>
@@ -2763,8 +2933,16 @@
 <e><funktion>familiaris regius</funktion></e>
 </u>
 <u><nr>2021</nr><Referenz>2021</Referenz>
-<e><name>(Iohannes)</name><funktion>abbas</funktion><ort>S.Victor</ort></e>
-<e><name>(Iohannes)</name><funktion>abbas</funktion><ort>S.Genovefa</ort></e>
+<e>
+            <name>(Iohannes)</name>
+            <funktion>abbas</funktion>
+            <ort>S.Genovefa</ort>
+        </e><e>
+            <name>(Iohannes)</name>
+            <funktion>abbas</funktion>
+            <ort>S.Victor</ort>
+        </e>
+
 </u>
 <u><nr>2022</nr><Referenz>2022</Referenz>
 <e><name>(Monaldus)</name><funktion>ep.</funktion><ort>Fanensis</ort></e>
@@ -2888,15 +3066,26 @@
 <e><funktion>unversi principes tam ecclasitici quam saeculares</funktion><ort>Alamannia</ort></e>
 </u>
 <u><nr>2056</nr><Referenz>2056</Referenz>
-<e><name>(Guido)</name><funktion>ep.</funktion><ort>Praenestinus</ort></e>
-<e><name>(Guido)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>(Guido)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+            <ort>Praenestinus</ort></funktion>
+        </e>
+
 </u>
 <u><nr>2057</nr><Referenz>2057</Referenz>
 <e><funktion>epp.;abbates;alii praelati <orig>in quorum parochiis monasterium Casinense ecclas vel possessionens alias habere dinoscitur</orig></funktion></e>
 </u>
 <u><nr>2058</nr><Referenz>2058</Referenz>
-<e><name>Otto</name><funktion>rex</funktion><ort>Romanorum </ort></e>
-<e><name>Otto</name><funktion>in imperatorem electus</funktion><ort>Romanorum</ort></e>
+<e>
+            <name>Otto</name>
+            <funktion>in imperatorem electus
+            <ort>Romanorum</ort></funktion>
+            <funktion>rex
+            <ort>Romanorum </ort></funktion>
+        </e>
+
 </u>
 <u><nr>2059</nr><Referenz>2059</Referenz>
 <e><funktion>archiepp. ;epp.</funktion><ort>Lombardia</ort></e>
@@ -2965,8 +3154,13 @@
 <e><name>(F.)</name><funktion>archidiac.</funktion><ort>Vicentinus</ort></e>
 </u>
 <u><nr>2079</nr><Referenz>2079</Referenz>
-<e><name>(Adelardus)</name><funktion>cardinalis S.R.E.</funktion></e>
-<e><name>(Adelardus)</name><funktion>ep.</funktion><ort>Veronensis</ort></e>
+<e>
+            <name>(Adelardus)</name>
+            <funktion>ep.
+            <ort>Veronensis</ort></funktion>
+            <funktion>cardinalis S.R.E.</funktion>
+        </e>
+
 <e><name>(Torrentinus)</name><funktion>ep.</funktion><ort>Feltrensis</ort></e>
 <e><name>(Gerardus)</name><funktion>ep.</funktion><ort>Bellunensis</ort></e>
 </u>
@@ -3028,8 +3222,14 @@
 <e><name>magister Martinus</name><funktion>clericus</funktion><ort>Colimbriensis</ort><P>S.Crux</P></e>
 </u>
 <u><nr>2097</nr><Referenz>2097</Referenz>
-<e><name>Otto</name><funktion>rex</funktion><ort>Romanorum </ort></e>
-<e><name>Otto</name><funktion>in imperatorem electus</funktion><ort>Romanorum</ort></e>
+<e>
+            <name>Otto</name>
+            <funktion>in imperatorem electus
+            <ort>Romanorum</ort></funktion>
+            <funktion>rex
+            <ort>Romanorum </ort></funktion>
+        </e>
+
 </u>
 <u><nr>2098</nr><Referenz>2098</Referenz>
 <e><institution>monasterium</institution><ort>de Claretis</ort></e>

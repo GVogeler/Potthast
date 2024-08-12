@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
   <u><nr>20510</nr><Referenz>20510</Referenz>
 <e><name>(Philippus)</name><funktion>rex</funktion><ort>Francia</ort></e>
 </u>
@@ -104,8 +102,14 @@
 <e><name>Othocharus</name><funktion>rex</funktion><ort>Bohemia</ort></e>
 </u>
 <u><nr>20541</nr><Referenz>20541</Referenz>
-<e><name>(Philippus)</name><funktion>archiep.</funktion><ort>Strigonia</ort></e>
-<e><name>(Philippus)</name><funktion>ep.</funktion><ort>Waciensis</ort></e>
+<e>
+            <name>(Philippus)</name>
+            <funktion>ep.
+                <ort>Waciensis</ort></funktion>
+            <funktion>archiep.
+                <ort>Strigonia</ort></funktion>
+        </e>
+
 </u>
 <u><nr>20542</nr><Referenz>20542</Referenz>
 <e><name>(Iohannes?)</name><funktion>ep.</funktion><ort>Pragensis</ort></e>
@@ -158,8 +162,13 @@
 </u>
 <u><nr>20557</nr><Referenz>20557</Referenz>
 <e><funktion>ep.</funktion><ort>Anagninus</ort></e>
-<e><name>Guilelmus de Spectinis</name><funktion>decanus</funktion><ort>Antiochenus</ort></e>
-<e><name>Guilelmus de Spectinis</name><funktion>subdiac. suus; capellanus suus</funktion></e>
+<e>
+            <name>Guilelmus de Spectinis</name>
+            <funktion>subdiac. suus; capellanus suus</funktion>
+            <funktion>decanus
+                <ort>Antiochenus</ort></funktion>
+        </e>
+
 </u>
 <u><nr>20558</nr><Referenz>20558</Referenz>
 <e><funktion>magister; fratres</funktion><institution>hospitale</institution><ort>Ierusalem</ort><P>S.Maria Theutonicorum</P></e>
@@ -411,7 +420,7 @@
 <e><name>Hieronymus de Esculo; Raymundus Berengarii; Bonagratia de S.Iohanne in Perseceto; Bonaventura de Mugello</name><funktion>fratres; apost.sed. nuntii</funktion><institution>OFM</institution></e>
 </u>
 <u><nr>20634</nr><Referenz>20634</Referenz>
-<e><funktion>abbas</funktion><institution>monasterium</institution><ort>Pr-Wingen <orig>Prfening</orig></ort><ortsbestimmung>Ratisponensis dioc.</ortsbestimmung></e>
+<e><funktion>abbas</funktion><institution>monasterium</institution><ort>Pr&#x81;-Wingen <orig>Pr&#x81;fening</orig></ort><ortsbestimmung>Ratisponensis dioc.</ortsbestimmung></e>
 </u>
 <u><nr>20635</nr><Referenz>20635</Referenz>
 <e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>Ratisponensis</ort><P>S.Emmeramus</P></e>
@@ -854,8 +863,14 @@
 <e><funktion>capitulum</funktion><institution>eccl.</institution><ort>Rigensis</ort></e>
 </u>
 <u><nr>20758</nr><Referenz>20758</Referenz>
-<e><name>(Alfonsus)</name><funktion>rex</funktion><ort>Castella</ort></e>
-<e><name>(Alfonsus)</name><funktion>electus in regem</funktion><ort>Romanorum </ort></e>
+<e>
+            <name>(Alfonsus)</name>
+            <funktion>electus in regem
+            <ort>Romanorum </ort></funktion>
+            <funktion>rex
+            <ort>Castella</ort></funktion>
+        </e>
+
 </u>
 <u><nr>20759</nr><Referenz>20759</Referenz>
 <e><name>Philippus</name><funktion>imperator</funktion><ort>Constantinopolitanus</ort></e>
@@ -1128,8 +1143,14 @@
 <e><institution>monasterium; OCist</institution><ort>Corin</ort><ortsbestimmung>Brandenburgensis dioc.</ortsbestimmung></e>
 </u>
 <u><nr>20845</nr><Referenz>20845</Referenz>
-<e><name>(Alfonsus)</name><funktion>rex</funktion><ort>Castella ;Legionis</ort></e>
-<e><name>(Alfonsus)</name><funktion>electus in regem</funktion><ort>Romanorum</ort></e>
+<e>
+            <name>(Alfonsus)</name>
+            <funktion>electus in regem
+                <ort>Romanorum</ort></funktion>
+            <funktion>rex
+                <ort>Castella; Legionis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>20846</nr><Referenz>20846</Referenz>
 <e><name>magister Fredulus</name><funktion>capellanus suus; canonicus</funktion><ort>Magalonensis</ort></e>
@@ -2410,8 +2431,14 @@
 <e><name>Philippus</name><funktion>frater; inquisitor haereticae pravitatis</funktion><institution>OFM</institution><ort>Tarvisinus</ort><inst2>marchia</inst2></e>
 </u>
 <u><nr>21219</nr><Referenz>21219</Referenz>
-<e><name>M(arcus)</name><funktion>ep.</funktion><ort>Cassanensis</ort></e>
-<e><name>M(arcus)</name><funktion>collector decimae</funktion><ort>Calabria; Sicilia</ort></e>
+<e>
+            <name>M(arcus)</name>
+            <funktion>collector decimae
+                <ort>Calabria; Sicilia</ort></funktion>
+            <funktion>ep.
+                <ort>Cassanensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>21220</nr><Referenz>21220</Referenz>
 <e><funktion>abbas; conventus</funktion><institution>monasterium; OCist</institution><ort>Saar</ort><ortsbestimmung>Olomucensis dioc.</ortsbestimmung></e>
@@ -2430,8 +2457,15 @@
 </u>
 <u><nr>21225</nr><Referenz>21225</Referenz>
 <e><name>magister Rogerius de Merlomonte</name><Bemerkungen>ist auch collector decimae in Trier, Mainz und Salzbur, sowie canonicus Virdunensis</Bemerkungen></e>
-<e><name>Rogerius de Merlomonte</name><funktion>collector decimae Terrae sanctae</funktion><institution>provincia</institution><ort>Treverensis;Maguntinus;Salzeburgensis</ort></e>
-<e><name>Rogerius de Merlomonte</name><funktion>canonicus</funktion><ort>Virdunensis</ort></e>
+<e>
+            <name>Rogerius de Merlomonte</name>
+            <funktion>canonicus
+                <ort>Virdunensis</ort></funktion>
+            <funktion>collector decimae Terrae sanctae
+            <institution>provincia</institution>
+                <ort>Treverensis;Maguntinus;Salzeburgensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>21226</nr><Referenz>21226</Referenz>
 <e><funktion>guardianus</funktion><institution>OFM</institution><ort>Cortona</ort><ortsbestimmung>Aretina dioc.</ortsbestimmung></e>

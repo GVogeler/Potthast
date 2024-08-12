@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="alex2" papst="Alexander IV.">
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="alex2" papst="Alexander IV.">
 <u><nr>17000</nr><Referenz>17000</Referenz>
 <e><name>(Henricus)</name><funktion>ep.</funktion><ort>Bambergensis</ort></e>
 </u>
@@ -317,7 +315,7 @@
 <u><nr>17100</nr><Referenz>17100</Referenz>
 <e><name>(Ulricus)</name><funktion>archiep.</funktion><ort>Salzburgensis</ort></e>
 </u>
-<u><nr>17101 </nr><fehlt /><Referenz>17101 </Referenz>
+<u><nr>17101 </nr><fehlt/><Referenz>17101 </Referenz>
 </u>
 <u><nr>17102</nr><Referenz>17102</Referenz>
 <e><funktion>fratres; inquisitores haereticae pravitatis</funktion><institution>OPr</institution><ort>Tolosana</ort></e>
@@ -1040,8 +1038,18 @@
 <e><funktion>commune</funktion><ort>Perusinus</ort><Bemerkungen>ital.</Bemerkungen></e>
 </u>
 <u><nr>17335</nr><Referenz>17335</Referenz>
-<e><name>P.</name><funktion>frater</funktion><institution>hospitale</institution><ort>Ierusalem</ort></e>
-<e><name>P.</name><funktion>frater</funktion><institution>domus militiae Templi</institution><ort>Ierusalem</ort></e>
+<e>
+            <name>P.</name>
+            <funktion>frater</funktion>
+            <institution>domus militiae Templi</institution>
+            <ort>Ierusalem</ort>
+        </e><e>
+            <name>P.</name>
+            <funktion>frater</funktion>
+            <institution>hospitale</institution>
+            <ort>Ierusalem</ort>
+        </e>
+
 </u>
 <u><nr>17336</nr><Referenz>17336</Referenz>
 <e><ort>Pisani; Ianuenses</ort></e>
@@ -1232,8 +1240,17 @@
 <e><funktion>magister; fratres</funktion><institution>hospitale</institution><ort>Ierusalem</ort><P>S.Maria Theutonicorum</P></e>
 </u>
 <u><nr>17395</nr><Referenz>17395</Referenz>
-<e><name>Lupoldus de Grindelach</name><funktion>rector</funktion><institution>eccl.</institution><ort>Vurth <orig>Frth</orig></ort></e>
-<e><name>Lupoldus de Grindelach</name><funktion>rector</funktion><institution>capella</institution><ort>Nuremburch</ort><P>S.Laurentius</P></e>
+<e>
+            <name>Lupoldus de Grindelach</name>
+            <funktion>rector
+                <institution>capella</institution><P>S.Laurentius</P>
+            <ort>Nuremburch</ort>
+                </funktion>
+            <funktion>rector
+            <institution>eccl.</institution>
+                <ort>Vurth <orig>F&#x81;rth</orig></ort></funktion>
+       </e>
+
 </u>
 <u><nr>17396</nr><Referenz>17396</Referenz>
 <e><funktion>archiepp.; epp.; abbates; alii praelati</funktion></e>
@@ -1465,8 +1482,14 @@
 <e><name>Theobaldus</name><funktion>comes</funktion><ort>Campania</ort><Bemerkungen>frz.</Bemerkungen></e>
 </u>
 <u><nr>17468</nr><Referenz>17468</Referenz>
-<e><name>Theobaldus</name><funktion>rex</funktion><ort>Navarra</ort></e>
-<e><name>Theobaldus</name><funktion>comes</funktion><ort>Campania</ort></e>
+<e>
+            <name>Theobaldus</name>
+            <funktion>comes
+                <ort>Campania</ort></funktion>
+            <funktion>rex
+                <ort>Navarra</ort></funktion>
+        </e>
+
 </u>
 <u><nr>17469</nr><Referenz>17469</Referenz>
 <e><funktion>universi Christifideles ...accedentes</funktion><institution>eccl.; OPr</institution><ort>Tranensis </ort></e>
@@ -1518,8 +1541,14 @@
 <e><funktion>suffraganei</funktion><ort>Remi</ort></e>
 </u>
 <u><nr>17482</nr><Referenz>17482</Referenz>
-<e><name>Theobaldus</name><funktion>rex</funktion><ort>Navarra</ort></e>
-<e><name>Theobaldus</name><funktion>comes</funktion><ort>Campania</ort></e>
+<e>
+            <name>Theobaldus</name>
+            <funktion>comes
+            <ort>Campania</ort></funktion>
+            <funktion>rex
+            <ort>Navarra</ort></funktion>
+        </e>
+
 <e><name>Bria</name><funktion>comitissa Palatina</funktion></e>
 <e><funktion>successores Theobaldi et Briae</funktion></e>
 </u>
@@ -1546,8 +1575,16 @@
 <e><funktion>suffraganei</funktion><institution>eccl.</institution><ort>Upsalensis</ort></e>
 </u>
 <u><nr>17490</nr><Referenz>17490</Referenz>
-<e><name>Otto</name><funktion>ep.</funktion><ort>Pataviensis</ort></e>
-<e><name>Otto</name><funktion>abbas</funktion><ort>Mellicensis</ort></e>
+<e>
+            <name>Otto</name>
+            <funktion>abbas</funktion>
+            <ort>Mellicensis</ort>
+        </e><e>
+            <name>Otto</name>
+            <funktion>ep.</funktion>
+            <ort>Pataviensis</ort>
+        </e>
+
 </u>
 <u><nr>17491</nr><Referenz>17491</Referenz>
 <e><funktion>priorissa; conventus</funktion><institution>moniales; OCist</institution><ort>de Northberwyo</ort><ortsbestimmung>S.Andreae dioc.</ortsbestimmung></e>
@@ -1584,7 +1621,7 @@
 <e><name>(Henricus)</name><funktion>ep.</funktion><ort>Lincopensis</ort></e>
 <e><name>(Kaetillus)</name><funktion>ep.</funktion><ort>Wibergensis</ort></e>
 </u>
-<u><nr>17502 </nr><fehlt /><Referenz>17502 </Referenz>
+<u><nr>17502 </nr><fehlt/><Referenz>17502 </Referenz>
 </u>
 <u><nr>17503</nr><Referenz>17503</Referenz>
 <e><name>(Laurentius)</name><funktion>archiep.</funktion><ort>Upsalensis</ort></e>
@@ -1916,7 +1953,7 @@
 <e><funktion>abbas; conventus</funktion><institution>monasterium</institution><ort>Alba</ort></e>
 </u>
 <u><nr>17605</nr><Referenz>17605</Referenz>
-<e><funktion>sorores</funktion><institution>monasterium</institution><ort>Wrzeburg</ort><P>S.Marcus</P></e>
+<e><funktion>sorores</funktion><institution>monasterium</institution><ort>W&#x81;rzeburg</ort><P>S.Marcus</P></e>
 </u>
 <u><nr>17606</nr><Referenz>17606</Referenz>
 <e><funktion>archiep.</funktion><ort>Tolosanus</ort></e>
@@ -2422,7 +2459,7 @@
 <u><nr>17766</nr><Referenz>17766</Referenz>
 <e><funktion>abbas; conventus</funktion><institution>monasterium; OPraem</institution><ort>Bellus Portus</ort><ortsbestimmung>Brioc. dioc.</ortsbestimmung></e>
 </u>
-<u><nr>17767 </nr><fehlt /><Referenz>17767 </Referenz>
+<u><nr>17767 </nr><fehlt/><Referenz>17767 </Referenz>
 </u>
 <u><nr>17768</nr><Referenz>17768</Referenz>
 <e><funktion>magister; fratres</funktion><institution>hospitale</institution><ort>Ierusalem</ort><P>S.Maria Theutonicorum</P></e>

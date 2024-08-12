@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
   <u><nr>14000</nr><Referenz>14000</Referenz>
 <e><name>(Conradus)</name><funktion>ep.</funktion><ort>Misnensis</ort></e>
 <e><funktion>capitulum</funktion><ortsbestimmung>Misnensis</ortsbestimmung></e>
@@ -1128,8 +1126,16 @@
 <e><name>(Mindowus)</name><funktion>rex</funktion><ort>Luthawia</ort></e>
 </u>
 <u><nr>14352</nr><Referenz>14352</Referenz>
-<e><name>(Henricus)</name><funktion>ep.</funktion><ort>Osiliensis</ort></e>
-<e><name>(Henricus)</name><funktion>ep.</funktion><ort>Curoniensis</ort></e>
+<e>
+            <name>(Henricus)</name>
+            <funktion>ep.</funktion>
+            <ort>Curoniensis</ort>
+        </e><e>
+            <name>(Henricus)</name>
+            <funktion>ep.</funktion>
+            <ort>Osiliensis</ort>
+        </e>
+
 </u>
 <u><nr>14353</nr><Referenz>14353</Referenz>
 <e><name>(Heidenricus)</name><funktion>ep.</funktion><ort>Culmensis</ort></e>
@@ -3098,7 +3104,7 @@
 <u><nr>14964</nr><Referenz>14964</Referenz>
 <e><name>(Brancaleo)</name><funktion>senator</funktion><ort>Roma</ort></e>
 </u>
-<u><nr>14965</nr><fehlt /><Referenz>14965</Referenz>
+<u><nr>14965</nr><fehlt/><Referenz>14965</Referenz>
 </u>
 <u><nr>14966</nr><Referenz>14966</Referenz>
 <e><name>Bartholomaeus</name><funktion>quondam ep.</funktion><ort>Quinqueecclesiensis</ort></e>
@@ -3107,7 +3113,7 @@
 <e><funktion>archiep.</funktion><ort>Strigonia</ort></e>
 </u>
 <u><nr>14968</nr><Referenz>14968</Referenz>
-<e></e>
+<e/>
 <e><name>Hugo</name><funktion>pres.card. tit. S.Sabinae; apost.leg.</funktion></e>
 </u>
 <u><nr>14969</nr><Referenz>14969</Referenz>
@@ -4074,8 +4080,14 @@
 <e><funktion>prior</funktion><institution>OPr</institution><ort>Lubicensis</ort></e>
 </u>
 <u><nr>15267</nr><Referenz>15267</Referenz>
-<e><name>Girardus Coxadoce</name><funktion>capellanus suus</funktion></e>
-<e><name>Girardus Coxadoce</name><funktion>rector</funktion><institution>marchia</institution><ort>Anconitana</ort></e>
+<e>
+            <name>Girardus Coxadoce</name>
+            <funktion>rector
+            <institution>marchia</institution>
+            <ort>Anconitana</ort></funktion>
+            <funktion>capellanus suus</funktion>
+        </e>
+
 </u>
 <u><nr>15268</nr><Referenz>15268</Referenz>
 <e><funktion>fratres; inquisitores haereticae pravitatis</funktion><institution>OPr</institution></e>
@@ -4162,8 +4174,14 @@
 </u>
 <u><nr>15292</nr><Referenz>15292</Referenz>
 <e><funktion>ep.</funktion><ort>S.Andreas</ort></e>
-<e><name>Gamelinus</name><funktion>cancellarius</funktion><institution>regis</institution><ort>Scotia</ort></e>
-<e><name>Gamelinus</name><funktion>capellanus suus</funktion></e>
+<e>
+            <name>Gamelinus</name>
+            <funktion>capellanus suus</funktion>
+            <funktion>cancellarius
+            <institution>regis</institution>
+                <ort>Scotia</ort></funktion>
+        </e>
+
 </u>
 <u><nr>15293</nr><Referenz>15293</Referenz>
 <e><funktion>fratres</funktion><institution>OFM;OPr</institution><Bemerkungen>inquisitores</Bemerkungen></e>
@@ -4245,8 +4263,13 @@
 </an>
 </u> 
 <u><nr>15318</nr><Referenz>15318</Referenz>
-<e><name>B(ernardus)</name><funktion>electus</funktion><ort>Neapolitanus</ort></e>
-<e><name>B(ernardus)</name><funktion>capellanus suus;apost. sedis leg.</funktion></e>
+<e>
+            <name>B(ernardus)</name>
+            <funktion>capellanus suus;apost. sedis leg.</funktion>
+            <funktion>electus
+                <ort>Neapolitanus</ort></funktion>
+        </e>
+
 </u>
 <u><nr>15319</nr><Referenz>15319</Referenz>
 <e><name>I(ohannes)</name><funktion>ep.</funktion><ort>Lubicensis</ort></e>
@@ -4273,12 +4296,22 @@
 <e><funktion>prior</funktion><institution>OPr</institution><ort>Barchinonensis;Ilerdensis;Perpinianum</ort><ortsbestimmung>Elenensis dioc.</ortsbestimmung></e>
 </u>
 <u><nr>15327</nr><Referenz>15327</Referenz>
-<e><name>B(ernardus)</name><funktion>electus</funktion><institution>Neapolitanus</institution></e>
-<e><name>B(ernardus)</name><funktion>apost. sedis leg.</funktion></e>
+<e>
+            <name>B(ernardus)</name>
+            <funktion>apost. sedis leg.</funktion>
+            <funktion>electus
+                <institution>Neapolitanus</institution></funktion>
+        </e>
+
 </u>
 <u><nr>15328</nr><Referenz>15328</Referenz>
-<e><name>B(ernardus)</name><funktion>electus</funktion><institution>Neapolitanus</institution></e>
-<e><name>B(ernardus)</name><funktion>apost. sedis leg.</funktion></e>
+<e>
+            <name>B(ernardus)</name>
+            <funktion>apost. sedis leg.</funktion>
+            <funktion>electus
+                <institution>Neapolitanus</institution></funktion>
+        </e>
+
 </u>
 <u><nr>15329</nr><Referenz>15329</Referenz>
 <e><name>Simon</name><funktion>natus Guidonis Magalotti miles</funktion><ort>Ortanus</ort></e>
@@ -4300,9 +4333,17 @@
 <e><funktion>prior;fratres</funktion><institution>OPr</institution><ort>Urbevetanus</ort></e>
 </u>
 <u><nr>15334</nr><Referenz>15334</Referenz>
-<e><name>P(etrus)</name><funktion>S.Georgii ad velum aureum diac. cardinalis</funktion></e>
-<e><name>P(etrus)</name><funktion>apost. sed. leg.</funktion><ort>Alamannia;Polonia</ort></e>
-<e><name>P(etrus)</name><funktion>apost. sed. leg.</funktion><institution>regnum</institution><ort>Dacia</ort></e>
+<e>
+            <name>P(etrus)</name>
+            <funktion>apost. sed. leg.
+                <ort>Alamannia;Polonia</ort></funktion>
+            <funktion>apost. sed. leg.
+            <institution>regnum</institution>
+                <ort>Dacia</ort></funktion>
+            <funktion>S.Georgii ad velum aureum diac. cardinalis</funktion>
+        </e>
+
+
 </u>
 <u><nr>15335</nr><Referenz>15335</Referenz>
 <e><funktion>principes</funktion><ort>Germania</ort></e>
@@ -4408,8 +4449,14 @@
 <e><name>magister Albertus</name><funktion>notarius suus;apost. sedis leg.</funktion></e>
 </u>
 <u><nr>15366</nr><Referenz>15366</Referenz>
-<e><name>Arnulphus</name><funktion>frater</funktion><institution>OPr</institution></e>
-<e><name>Arnulphus</name><funktion>electus</funktion><ort>Humantensis</ort></e>
+<e>
+            <name>Arnulphus</name>
+            <funktion>electus
+                <ort>Humantensis</ort></funktion>
+            <funktion>frater
+                <institution>OPr</institution></funktion>
+        </e>
+
 </u>
 <u><nr>15367</nr><Referenz>15367</Referenz>
 <e><name>(Herbordus)</name><funktion>minister</funktion><institution>OFM</institution><ort>Uratislaviensis</ort></e>
@@ -4741,7 +4788,7 @@
 <e><name>(Ketillus)</name><funktion>ep.</funktion><ort>Wibergensis</ort></e>
 <e><funktion>abbas</funktion><institution>OCist</institution><ort>Cara Insula</ort><ortsbestimmung>Arusiensis dioc.</ortsbestimmung></e>
 </u>
-<u><nr>15471</nr><fehlt /><Referenz>15471</Referenz>
+<u><nr>15471</nr><fehlt/><Referenz>15471</Referenz>
 </u>
 <u><nr>15472</nr><Referenz>15472</Referenz>
 <e><name>Wilhelmus</name><funktion>rex</funktion><ort>Romanorum</ort></e>
@@ -4959,7 +5006,7 @@
 <u><nr>15540</nr><Referenz>15540</Referenz>
 <e><name>Gerardus Cossadoca</name><funktion>rector</funktion><ort>marchia Anconitana</ort></e>
 </u>
-<u><nr>15541</nr><fehlt /><Referenz>15541</Referenz>
+<u><nr>15541</nr><fehlt/><Referenz>15541</Referenz>
 </u>
 <u><nr>15542</nr><Referenz>15542</Referenz>
 <e><funktion>capitulum</funktion><ort>Lyciensis</ort></e>
@@ -4990,10 +5037,22 @@
 <e><name>magister Bonaventura</name><funktion>diac.card. S.Adriani; physicus; capellanus</funktion></e>
 </u>
 <u><nr>15551</nr><Referenz>15551</Referenz>
-<e><name>Petrus Ruffus de Calabria</name><funktion>comes</funktion><ort>Cathacensis</ort></e>
-<e><name>Petrus Ruffus de Calabria</name><funktion>marescalcus</funktion><institution>regnum</institution><ort>Sicilia</ort></e>
-<e><name>Petrus Ruffus de Calabria</name><funktion>generalis</funktion><ort>Calabria</ort></e>
-<e><name>Petrus Ruffus de Calabria</name><funktion>vicarius</funktion><institution>civitas</institution><ort>Messana</ort></e>
+<e>
+            <name>Petrus Ruffus de Calabria</name>
+            <funktion>marescalcus
+            <institution>regnum</institution>
+                <ort>Sicilia</ort></funktion>
+            <funktion>generalis
+                <ort>Calabria</ort></funktion>
+            <funktion>vicarius
+            <institution>civitas</institution>
+                <ort>Messana</ort></funktion>
+            <funktion>comes
+                <ort>Cathacensis</ort></funktion>
+        </e>
+
+
+
 <e><funktion>consilium; communitas</funktion><ort>Messanensis</ort></e>
 </u>
 <u><nr>15552</nr><Referenz>15552</Referenz>

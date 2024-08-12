@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="inno3-4" papst="Innocenz III.">
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="inno3-4" papst="Innocenz III.">
 <u><nr>4000</nr><Referenz>4000</Referenz>
 <e><funktion>epp.</funktion><ort>Roffensis; Saresberiensis</ort></e></u>
 <u><nr>4001</nr><Referenz>4001</Referenz>
@@ -1174,7 +1172,7 @@
 <e><funktion>archiep.</funktion><ort>Thebae</ort></e>
 <e><funktion>ep.; decanus</funktion><ort>Davaliensis</ort></e></u>
 <u><nr>4458</nr><Referenz>4458</Referenz>
-<e><name>O. de Rocca</name><Bemerkungen>zu Korinth, hat Gter dort geraubt</Bemerkungen></e></u>
+<e><name>O. de Rocca</name><Bemerkungen>zu Korinth, hat G&#x81;ter dort geraubt</Bemerkungen></e></u>
 <u><nr>4459</nr><Referenz>4459</Referenz>
 <e><funktion>archiep.</funktion><ort>Thebae</ort></e>
 <e><funktion>ep.; decanus</funktion><ort>Davaliensis</ort></e></u>
@@ -1432,8 +1430,13 @@
 <e><funktion>decanus; subdecanus</funktion><ort>Aurelianensis</ort></e>
 <e><name>magister Simon</name><funktion> canonicus</funktion><ort>Aurelianensis</ort></e></u>
 <u><nr>4555</nr><Referenz>4555</Referenz>
-<e><name>(Sicardus)</name><funktion>ep.</funktion><ort>Cremonensis</ort></e>
-<e><name>(Sicardus)</name><funktion>apost. leg.</funktion></e></u>
+<e>
+            <name>(Sicardus)</name>
+            <funktion>apost. leg.</funktion>
+            <funktion>ep.
+                <ort>Cremonensis</ort></funktion>
+        </e>
+</u>
 <u><nr>4556</nr><Referenz>4556</Referenz>
 <e><funktion>abbas</funktion><ort>de Tilieto</ort></e></u>
 <u><nr>4557</nr><Referenz>4557</Referenz>
@@ -1525,7 +1528,7 @@
 <e><name>(Guilelmus)</name><funktion>ep.</funktion><ort>Magalonensis</ort></e></u>
 <u><nr>4595</nr><Referenz>4595</Referenz>
 <e><name>Raymundus</name><ort>de Caturcio</ort></e>
-<e><name>Helias</name><ort>de Caturcio</ort><Bemerkungen>ev. Name; es sind Brder</Bemerkungen></e></u>
+<e><name>Helias</name><ort>de Caturcio</ort><Bemerkungen>ev. Name; es sind Br&#x81;der</Bemerkungen></e></u>
 <u><nr>4596</nr><Referenz>4596</Referenz>
 <e><name>magister Petrus Marcus</name><funktion> subdiac. suus</funktion></e></u>
 <u><nr>4597</nr><Referenz>4597</Referenz>
@@ -1680,8 +1683,14 @@
 <u><nr>4656</nr><Referenz>4656</Referenz>
 <e><name>P(etrus)</name><funktion>rex</funktion><ort>Aragonum</ort></e></u>
 <u><nr>4657</nr><Referenz>4657</Referenz>
-<e><name>Maria</name><funktion>comitissa</funktion><ort>Monspessulanus</ort></e>
-<e><name>Maria</name><funktion>regina</funktion><ort>Aragonum</ort></e></u>
+<e>
+            <name>Maria</name>
+            <funktion>regina
+                <ort>Aragonum</ort></funktion>
+            <funktion>comitissa
+                <ort>Monspessulanus</ort></funktion>
+        </e>
+</u>
 <u><nr>4658</nr><Referenz>4658</Referenz>
 <e><name>Bertholdus</name><funktion>archidiac.</funktion><ort>Metensis</ort></e>
 <e><name>Arnulfus; Aubertus</name><funktion>canonici</funktion><ort>Metensis</ort></e></u>
@@ -1913,7 +1922,7 @@
 <u><nr>4709</nr><Referenz>4709</Referenz>
 <e><funktion>universi Christi fideles</funktion><ort>Suetia</ort></e></u>
 <u><nr>4710</nr><Referenz>4710</Referenz>
-<e></e></u>
+<e/></u>
 <u><nr>4711</nr><Referenz>4711</Referenz>
 <e><name>Robertus</name><funktion>presb.card. tit. S.Stephani in Coelio monte; apost.leg.</funktion></e></u>
 <u><nr>4712</nr><Referenz>4712</Referenz>
@@ -2277,12 +2286,36 @@
 <e><funktion>ep.</funktion><ort>Wintonensis</ort></e>
 <e><name>Guilelmus</name><funktion>comes</funktion><ort>Salisberiensis</ort></e>
 <e><name>G. filius Petri</name><funktion>comes</funktion><ort>Essexia</ort></e>
-<e><name>R.</name><funktion>comes</funktion><ort>Bolonia</ort></e>
-<e><name>R.</name><funktion>comes</funktion><ort>Cestria</ort></e>
-<e><name>W.</name><funktion>comes</funktion><ort>Warannia</ort></e>
-<e><name>W.</name><funktion>comes; marescalus</funktion><ort>Pambrocia</ort></e>
+<e>
+            <name>R.</name>
+            <funktion>comes</funktion>
+            <ort>Cestria</ort>
+        </e><e>
+            <name>R.</name>
+            <funktion>comes</funktion>
+            <ort>Bolonia</ort>
+        </e>
+
+<e>
+            <name>W.</name>
+            <funktion>comes; marescalus</funktion>
+            <ort>Pambrocia</ort>
+        </e><e>
+            <name>W.</name>
+            <funktion>comes</funktion>
+            <ort>Warannia</ort>
+        </e>
+
 <e><name>R. li Bigot</name><funktion>comes</funktion><ort>Norfolcia</ort></e>
-<e><name>W.</name><funktion>comes</funktion><ort>Arundelli</ort></e>
+<e>
+            <name>W.</name>
+            <funktion>comes; marescalus</funktion>
+            <ort>Pambrocia</ort>
+        </e><e>
+            <name>W.</name>
+            <funktion>comes</funktion>
+            <ort>Warannia</ort>
+        </e>
 <e><name>Guilelmus de Ferr. et Sacro</name><funktion>comes</funktion><ort>Wintonia</ort></e>
 <e><name>R. filius Rogeri</name></e>
 <e><name>W. Brigerte</name></e>
@@ -2292,17 +2325,37 @@
 <e><name>P. filius Heberti</name></e>
 <e><name>W. de Albiniaco</name></e></u>
 <u><nr>4837</nr><Referenz>4837</Referenz>
-<e><name>Nicolaus</name><funktion>ep.</funktion><ort>Tusculanus</ort></e>
-<e><name>Nicolaus</name><funktion>apost.leg.</funktion></e></u>
+<e>
+            <name>Nicolaus</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+                <ort>Tusculanus</ort></funktion>
+        </e>
+</u>
 <u><nr>4838</nr><Referenz>4838</Referenz>
-<e><name>Nicolaus</name><funktion>ep.</funktion><ort>Tusculanus</ort></e>
-<e><name>Nicolaus</name><funktion>apost.leg.</funktion></e></u>
+<e>
+            <name>Nicolaus</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+                <ort>Tusculanus</ort></funktion>
+        </e>
+</u>
 <u><nr>4839</nr><Referenz>4839</Referenz>
-<e><name>Nicolaus</name><funktion>ep.</funktion><ort>Tusculanus</ort></e>
-<e><name>Nicolaus</name><funktion>apost.leg.</funktion></e></u>
+<e>
+            <name>Nicolaus</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+                <ort>Tusculanus</ort></funktion>
+        </e>
+</u>
 <u><nr>4840</nr><Referenz>4840</Referenz>
-<e><name>Nicolaus</name><funktion>ep.</funktion><ort>Tusculanus</ort></e>
-<e><name>Nicolaus</name><funktion>apost.leg.</funktion></e></u>
+<e>
+            <name>Nicolaus</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+                <ort>Tusculanus</ort></funktion>
+        </e>
+</u>
 <u><nr>4841</nr><Referenz>4841</Referenz>
 <e><name>(Theodericus)</name><funktion>ep.</funktion><ort>Estiensis</ort></e></u>
 <u><nr>4842</nr><Referenz>4842</Referenz>
@@ -2528,7 +2581,7 @@
 <e><funktion>abbas</funktion><ort>Steinheim</ort><ortsbestimmung>Augustensis dioc.</ortsbestimmung></e></u>
 <u><nr>4935</nr><Referenz>4935</Referenz>
 <e><funktion>abbas</funktion><ort>S.Trudbertus</ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung></e>
-<e><funktion>praep.</funktion><ort>Turegium <orig>Zrich</orig></ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung></e>
+<e><funktion>praep.</funktion><ort>Turegium <orig>Z&#x81;rich</orig></ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung></e>
 <e><funktion>praep.</funktion><ort>Riede <orig>Riedern am Wald</orig></ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung></e></u>
 <u><nr>4936</nr><Referenz>4936</Referenz>
 <e><name>(Henricus)</name><funktion>archiep.</funktion><ort>Dublinensis</ort></e></u>
@@ -2541,7 +2594,7 @@
 <e><funktion>ep.</funktion><ort>Aberdonensis</ort></e>
 <e><name>W.</name><funktion>archidiac.</funktion><ort>Laudonia</ort></e></u>
 <u><nr>4940</nr><Referenz>4940</Referenz>
-<e><name>Blancha</name><ort>Navarra</ort><Bemerkungen>frz., von mir bersetzt</Bemerkungen></e></u>
+<e><name>Blancha</name><ort>Navarra</ort><Bemerkungen>frz., von mir &#x81;bersetzt</Bemerkungen></e></u>
 <u><nr>4941</nr><Referenz>4941</Referenz>
 <e><name>Eustachius de Vesci</name><funktion>nobilis vir</funktion></e></u>
 <u><nr>4942</nr><Referenz>4942</Referenz>
@@ -2551,7 +2604,7 @@
 <u><nr>4943</nr><Referenz>4943</Referenz>
 <e><name>(Guilelmus)</name><funktion>ep.</funktion><ort>Autissiodorum</ort></e>
 <e><name>(Galterius)</name><funktion>abbas</funktion><ort>V‚zelay</ort></e>
-<e><funktion>archidiac.</funktion><ort>Autissiodorum</ort><Bemerkungen>frz., von mir bersetzt</Bemerkungen></e></u>
+<e><funktion>archidiac.</funktion><ort>Autissiodorum</ort><Bemerkungen>frz., von mir &#x81;bersetzt</Bemerkungen></e></u>
 <u><nr>4944</nr><Referenz>4944</Referenz>
 <e><funktion>potestas; rectores</funktion><institution>civitates; alii loci</institution><ort>Lombardia</ort></e></u>
 <u><nr>4945</nr><Referenz>4945</Referenz>
@@ -2560,7 +2613,7 @@
 <e><funktion>archiep.</funktion><ort>Remi</ort></e>
 <e><funktion>ep.</funktion><ort>Cabilonensis <orig>Chƒlons</orig></ort></e>
 <e><funktion>ep.</funktion><ort>Suessionae</ort></e>
-<e><funktion>capitula; officiales</funktion><ort>Remi; Cabilonensis; Suessionae</ort><Bemerkungen>frz., von mir bersetzt</Bemerkungen></e></u>
+<e><funktion>capitula; officiales</funktion><ort>Remi; Cabilonensis; Suessionae</ort><Bemerkungen>frz., von mir &#x81;bersetzt</Bemerkungen></e></u>
 <u><nr>4947</nr><Referenz>4947</Referenz>
 <e><name>Nicolaus</name><funktion>ep.</funktion><ort>Tusculanus</ort></e></u>
 <u><nr>4948</nr><Referenz>4948</Referenz>
@@ -2619,8 +2672,16 @@
 <e><funktion>suffraganei</funktion><institution>archiepi</institution><ort>Ebredunensis;Aquensis;Arelate; Auxitanensis;Narbona</ort></e>
 <e><name>(Guillelmus)</name><funktion>ep.</funktion><ort>Mimatensis</ort></e>
 <e><name>((Petrus)</name><funktion>ep.</funktion><ort>Ruthenensis</ort></e>
-<e><name>(Wilhelmus)</name><funktion>ep.</funktion><ort>Albiensis</ort></e>
-<e><name>(Wilhelmus)</name><funktion>ep.</funktion><ort>Caturcensis</ort></e>
+<e>
+            <name>(Wilhelmus)</name>
+            <funktion>ep.</funktion>
+            <ort>Caturcensis</ort>
+        </e><e>
+            <name>(Wilhelmus)</name>
+            <funktion>ep.</funktion>
+            <ort>Albiensis</ort>
+        </e>
+
 <e><name>(Arnaldus)</name><funktion>ep.</funktion><ort>Agennensis</ort></e>
 <e><name>(Radulfus)</name><funktion>ep.</funktion><ort>Petragoricensis</ort></e></u>
 <u><nr>4969</nr><Referenz>4969</Referenz>
@@ -2638,7 +2699,7 @@
 <u><nr>4975</nr><Referenz>4975</Referenz>
 <e><funktion>archiepp.; epp.</funktion><institution>regnum</institution><ort>Francia</ort></e></u>
 <u><nr>4976</nr><Referenz>4976</Referenz>
-<e><funktion>abbas; conventus</funktion><institution>monasterium</institution><ort>Prule <orig>Prl</orig></ort><ortsbestimmung>Ratisbonensis dioc.</ortsbestimmung></e></u>
+<e><funktion>abbas; conventus</funktion><institution>monasterium</institution><ort>Prule <orig>Pr&#x81;l</orig></ort><ortsbestimmung>Ratisbonensis dioc.</ortsbestimmung></e></u>
 <u><nr>4977</nr><Referenz>4977</Referenz>
 <e><name>(Sifridus)</name><funktion>archiep.; apost.leg.</funktion><ort>Maguntia</ort></e></u>
 <u><nr>4978</nr><Referenz>4978</Referenz>
@@ -2847,8 +2908,18 @@
 <e><funktion>capitulum</funktion><ort>Caminensis</ort></e></u>
 <u><nr>5062</nr><Referenz>5062</Referenz>
 <e><name>(Reginaldus)</name><funktion>ep.</funktion><ort>Carnotum</ort></e>
-<e><name>(Iohannes)</name><funktion>abbas</funktion><ort>Paris</ort><P>S.Genovefa</P></e>
-<e><name>(Iohannes)</name><funktion>prior</funktion><ort>Paris</ort><P>S.Germanus</P></e></u>
+<e>
+            <name>(Iohannes)</name>
+            <funktion>prior</funktion>
+            <ort>Paris</ort>
+            <P>S.Germanus</P>
+        </e><e>
+            <name>(Iohannes)</name>
+            <funktion>abbas</funktion>
+            <ort>Paris</ort>
+            <P>S.Genovefa</P>
+        </e>
+</u>
 <u><nr>5063</nr><Referenz>5063</Referenz>
 <e><name>Geroldus</name><funktion>abbas</funktion><ort>Cluniacum</ort></e>
 <e><funktion>successores abbatis</funktion><ort>Cluniacum</ort></e></u>
@@ -2875,7 +2946,7 @@
 <e><name>(Iohannes)</name><funktion>abbas</funktion><ort>S.Bertinus</ort></e>
 <e><funktion>conventus</funktion><ort>S.Bertinus</ort></e></u>
 <u><nr>5073</nr><Referenz>5073</Referenz>
-<e><name>(Lodarengus)</name><funktion>archipresb.</funktion><institution>Decumani</institution><ort>Mediolanum</ort><Bemerkungen>Zuordnung unklar, weil ich nicht weiá, was Decumani sind, ich halte sie mal vorlufig fr eine Mailnder Institution.</Bemerkungen></e></u>
+<e><name>(Lodarengus)</name><funktion>archipresb.</funktion><institution>Decumani</institution><ort>Mediolanum</ort><Bemerkungen>Zuordnung unklar, weil ich nicht weiá, was Decumani sind, ich halte sie mal vorlufig f&#x81;r eine Mailnder Institution.</Bemerkungen></e></u>
 <u><nr>5074</nr><Referenz>5074</Referenz>
 <e><funktion>ep.</funktion><ort>Padua</ort></e></u>
 <u><nr>5075</nr><Referenz>5075</Referenz>
@@ -2911,7 +2982,7 @@
 <u><nr>5088</nr><Referenz>5088</Referenz>
 <e><name>(Conradus)</name><funktion>ep.</funktion><ort>Ratisbona</ort></e>
 <e><funktion>abbas</funktion><ort>S.Emmeramus</ort><ortsbestimmung>Ratisbonensis dioc.</ortsbestimmung></e>
-<e><funktion>abbas</funktion><ort>Brunening <kommentar>Prfening?</kommentar></ort><ortsbestimmung>Ratisbonensis dioc.</ortsbestimmung></e></u>
+<e><funktion>abbas</funktion><ort>Brunening <kommentar>Pr&#x81;fening?</kommentar></ort><ortsbestimmung>Ratisbonensis dioc.</ortsbestimmung></e></u>
 <u><nr>5089</nr><Referenz>5089</Referenz>
 <e><funktion>praep.; canonici</funktion><institution>eccl.</institution><ort>Wibergensis</ort></e></u>
 <u><nr>5090</nr><Referenz>5090</Referenz>
@@ -3245,8 +3316,16 @@
 <u><nr>5233</nr><Referenz>5233</Referenz>
 <e><name>Willelmus</name><funktion>abbas</funktion><institution>monasterium</institution><ort>Baciacensis</ort><P>S.Stephanus</P></e></u>
 <u><nr>5234</nr><Referenz>5234</Referenz>
-<e><name>(Guilelmus)</name><funktion>ep.</funktion><ort>Albensis</ort></e>
-<e><name>(Guilelmus)</name><funktion>ep.</funktion><ort>Cadurcensis</ort></e></u>
+<e>
+            <name>(Guilelmus)</name>
+            <funktion>ep.</funktion>
+            <ort>Cadurcensis</ort>
+        </e><e>
+            <name>(Guilelmus)</name>
+            <funktion>ep.</funktion>
+            <ort>Albensis</ort>
+        </e>
+</u>
 <u><nr>5235</nr><Referenz>5235</Referenz>
 <e><name>(Iohannes)</name><funktion>archiep.</funktion><ort>Turonensis</ort></e>
 <e><funktion>capitulum</funktion><ort>Turonensis</ort></e></u>

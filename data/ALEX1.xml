@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="alex1" papst="Alexander IV.">
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="alex1" papst="Alexander IV.">
 <u><nr>15596</nr><Referenz>15596</Referenz>
 <e><funktion>archiep.; suffraganei</funktion><ort>Cantuaria</ort></e>
 </u>
@@ -71,7 +69,7 @@
 </u>
 
 <u><nr>15613</nr><Referenz>15613</Referenz>
-<e><institution>monasterium</institution><ort>in Faucibus<kommentar>#Fssen</kommentar></ort><P>S.Magnus</P></e>
+<e><institution>monasterium</institution><ort>in Faucibus<kommentar>#F&#x81;ssen</kommentar></ort><P>S.Magnus</P></e>
 </u>
 
 <u><nr>15614</nr><Referenz>15614</Referenz>
@@ -224,8 +222,14 @@
 </u>
 
 <u><nr>15649</nr><Referenz>15649</Referenz>
-<e><name>Agnes</name><funktion>comitissa palatina</funktion><ort>Reni</ort></e>
-<e><name>Agnes</name><funktion>ducissa</funktion><ort>Bavaria</ort></e>
+<e>
+            <name>Agnes</name>
+            <funktion>ducissa
+                <ort>Bavaria</ort></funktion>
+            <funktion>comitissa palatina
+                <ort>Reni</ort></funktion>
+        </e>
+
 </u>
 
 <u><nr>15650</nr><Referenz>15650</Referenz>
@@ -551,7 +555,7 @@
 </u>
 
 <u><nr>15726</nr><Referenz>15726</Referenz>
-<e><funktion>presb.; abbas; canonicus</funktion><ort>Esculanus</ort><Bemerkungen>Die Zuordnung derunsinnig angeordneten Titel ist vlig unklar</Bemerkungen></e>
+<e><funktion>presb.; abbas; canonicus</funktion><ort>Esculanus</ort><Bemerkungen>Die Zuordnung derunsinnig angeordneten Titel ist v&#x94;lig unklar</Bemerkungen></e>
 </u>
 
 <u><nr>15727</nr><Referenz>15727</Referenz>
@@ -798,8 +802,13 @@
 </u>
 
 <u><nr>15784</nr><Referenz>15784</Referenz>
-<e><name>Edmundus</name><funktion>natus (Henrici) regis Angliae</funktion></e>
-<e><name>Edmundus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Edmundus</name>
+            <funktion>rex
+                <ort>Sicilia</ort></funktion>
+            <funktion>natus (Henrici) regis Angliae</funktion>
+        </e>
+
 </u>
 
 <u><nr>15785</nr><Referenz>15785</Referenz>
@@ -1278,8 +1287,13 @@
 </u>
 
 <u><nr>15894</nr><Referenz>15894</Referenz>
-<e><name>Hugitio<orig>Hguito</orig></name><funktion>rector</funktion><ort>Massa Trabaria</ort></e>
-<e><name>Hugitio<orig>Hguito</orig></name><funktion>capellanus suus</funktion></e>
+<e>
+            <name>Hugitio<orig>Hguito</orig></name>
+            <funktion>capellanus suus</funktion>
+            <funktion>rector
+                <ort>Massa Trabaria</ort></funktion>
+        </e>
+
 </u>
 
 <u><nr>15895</nr><Referenz>15895</Referenz>
@@ -1491,7 +1505,7 @@
 <e><funktion>abbas; conventus</funktion><institution>monasterium; S.Germanus</institution><ort>Autissiodorensis</ort></e>
 </u>
 
-<u><nr>15945</nr><fehlt /><Referenz>15945</Referenz>
+<u><nr>15945</nr><fehlt/><Referenz>15945</Referenz>
 </u>
 
 <u><nr>15946</nr><Referenz>15946</Referenz>
@@ -2248,7 +2262,7 @@
 </u>
 
 <u><nr>16127</nr><Referenz>16127</Referenz>
-<e><funktion>abbatissa; conventus</funktion><institution>monasterium; ord.S.Dam.</institution><ort>Fulginatensis civitas</ort><Bermerkujngen>Achtung, Zeile muß vermutlich neu geordnet werden!</Bermerkujngen><P>S.Maria de Charitate</P></e>
+<e><funktion>abbatissa; conventus</funktion><institution>monasterium; ord.S.Dam.</institution><ort>Fulginatensis civitas</ort><Bemerkungen>Achtung, Zeile muß vermutlich neu geordnet werden!</Bemerkungen><P>S.Maria de Charitate</P></e>
 </u>
 
 <u><nr>16128</nr><Referenz>16128</Referenz>
@@ -2320,12 +2334,58 @@
 </u>
 
 <u><nr>16143</nr><Referenz>16143</Referenz>
-<e><name>universi</name><funktion>archiepp.;epp.;abbates;...;ceteri praelati;clerici;marchiones;comites;barones;potestates;rectores;communitates;universi Christi fideles</funktion><ort>Lombardia;Romaniola</ort></e>
+<e>
+            <name>universi</name>
+            <funktion>patriarcha;archiepp.;epp.;abbates;...;ceteripraelati;clerici;
+                marchiones;comites;barones;potestates;rectores; communitates;universi Christi
+                fideles
+            <institution>patriarchatus</institution>
+                <ort>Aquilegensis;Gradensis</ort></funktion>
+            <funktion>archiep.;epp.;abbates;...;ceteri
+                praelati;clerici;marchiones;comites;barones;potestates;rectores;communitates;universi
+                Christi fideles
+            <institution>prvoncia</institution>
+                <ort>Ianuensis</ort></funktion>
+        </e><e>
+            <name>universi</name>
+            <funktion>archiepp.;epp.;abbates;...;ceteri praelati;clerici;marchiones;comites;
+                barones;potestates;rectores;communitates; universi Christi fideles
+            <institution>marchia</institution>
+                <ort>Tarvisia</ort></funktion>
+            <funktion>patriarcha;archiepp.;epp.;abbates;...;ceteripraelati;clerici;
+                marchiones;comites;barones;potestates;rectores; communitates;universi Christi
+                fideles
+            <institution>patriarchatus</institution>
+                <ort>Aquilegensis;Gradensis</ort></funktion>
+        </e>
 <e><name>(Raynerius)</name><funktion>dux</funktion><ort>Venetiae</ort></e>
 <e><funktion>consilius</funktion><ort>Venetiae</ort></e>
-<e><name>universi</name><funktion>archiepp.;epp.;abbates;...;ceteri praelati;clerici;marchiones;comites; barones;potestates;rectores;communitates; universi Christi fideles</funktion><institution>marchia</institution><ort>Tarvisia</ort></e>
-<e><name>universi</name><funktion>patriarcha;archiepp.;epp.;abbates;...;ceteripraelati;clerici; marchiones;comites;barones;potestates;rectores; communitates;universi Christi fideles</funktion><institution>patriarchatus</institution><ort>Aquilegensis;Gradensis</ort></e>
-<e><name>universi</name><funktion>archiep.;epp.;abbates;...;ceteri praelati;clerici;marchiones;comites;barones;potestates;rectores;communitates;universi Christi fideles</funktion><institution>prvoncia</institution><ort>Ianuensis</ort></e>
+<e>
+            <name>universi</name>
+            <funktion>patriarcha;archiepp.;epp.;abbates;...;ceteripraelati;clerici;
+                marchiones;comites;barones;potestates;rectores; communitates;universi Christi
+                fideles
+            <institution>patriarchatus</institution>
+                <ort>Aquilegensis;Gradensis</ort></funktion>
+            <funktion>archiep.;epp.;abbates;...;ceteri
+                praelati;clerici;marchiones;comites;barones;potestates;rectores;communitates;universi
+                Christi fideles
+            <institution>prvoncia</institution>
+                <ort>Ianuensis</ort></funktion>
+        </e><e>
+            <name>universi</name>
+            <funktion>archiepp.;epp.;abbates;...;ceteri praelati;clerici;marchiones;comites;
+                barones;potestates;rectores;communitates; universi Christi fideles
+            <institution>marchia</institution>
+                <ort>Tarvisia</ort></funktion>
+            <funktion>patriarcha;archiepp.;epp.;abbates;...;ceteripraelati;clerici;
+                marchiones;comites;barones;potestates;rectores; communitates;universi Christi
+                fideles
+            <institution>patriarchatus</institution>
+                <ort>Aquilegensis;Gradensis</ort></funktion>
+        </e>
+
+
 <an>*
 <e><name>universi</name><funktion>praesules;proceres;populi</funktion><ort>Insubria;Aemilia</ort></e>
 <e><name>universi</name><funktion>praesules;proceres;populi</funktion><institution>marchia</institution><ort>Tarvisinus</ort></e>
@@ -2373,8 +2433,15 @@
 <u><nr>16152</nr><Referenz>16152</Referenz>
 <e><funktion>prior</funktion><ort>S.Quintinus</ort><ortsbestimmung>Noviomensis dioc.</ortsbestimmung></e>
 <e><funktion>Gerardus frater OPr</funktion><institution>rector</institution><ortsbestimmung>Leodiensis</ortsbestimmung></e>
-<e><name>Stephanus de Miramont</name><funktion>canonicus</funktion><institution>eccl.</institution><ort>Mons S.Eligii</ort><ortsbestimmung>Atrebatensis dioc.</ortsbestimmung></e>
-<e><name>Stephanus de Miramont</name><funktion>capellanus suus</funktion></e>
+<e>
+            <name>Stephanus de Miramont</name>
+            <funktion>capellanus suus</funktion>
+            <funktion>canonicus
+            <institution>eccl.</institution>
+            <ort>Mons S.Eligii</ort>
+                <ortsbestimmung>Atrebatensis dioc.</ortsbestimmung></funktion>
+        </e>
+
 </u>
 
 <u><nr>16153</nr><Referenz>16153</Referenz>
@@ -2570,8 +2637,15 @@
 
 <u><nr>16199</nr><Referenz>16199</Referenz>
 <e><name>Iohannes</name><funktion>marchio</funktion><ort>Brandenburgensis</ort></e>
-<e><name>Iutta</name><funktion>uxor Iohannis marchionis</funktion><ort>Brandenburgensis</ort></e>
-<e><name>Iutta</name><funktion>filia (Albrechti)</funktion><institution>dux</institution><ort>Saxonia</ort></e>
+<e>
+            <name>Iutta</name>
+            <funktion>filia (Albrechti)
+            <institution>dux</institution>
+                <ort>Saxonia</ort></funktion>
+            <funktion>uxor Iohannis marchionis
+                <ort>Brandenburgensis</ort></funktion>
+        </e>
+
 </u>
 
 <u><nr>16200</nr><Referenz>16200</Referenz>
@@ -2835,7 +2909,7 @@
 </u>
 
 <u><nr>16260</nr><Referenz>16260</Referenz>
-<e><funktion>abbas</funktion><institution>OSB</institution><ort>Soricimensis<orig>Sorze</orig></ort><ortsbestimmung>Tholosana dioc.</ortsbestimmung></e>
+<e><funktion>abbas</funktion><institution>OSB</institution><ort>Soricimensis<orig>Sor&#x8a;ze</orig></ort><ortsbestimmung>Tholosana dioc.</ortsbestimmung></e>
 </u>
 
 <u><nr>16261</nr><Referenz>16261</Referenz>
@@ -3696,7 +3770,7 @@
 </u>
 
 <u><nr>16460</nr><Referenz>16460</Referenz>
-<e><name>Henricus</name><funktion>abbas</funktion><institution>OSB</institution><ort>Cotwicensis<orig>Gttweig</orig></ort><ortsbestimmung>Pataviensis dioc.</ortsbestimmung></e>
+<e><name>Henricus</name><funktion>abbas</funktion><institution>OSB</institution><ort>Cotwicensis<orig>G&#x94;ttweig</orig></ort><ortsbestimmung>Pataviensis dioc.</ortsbestimmung></e>
 </u>
 
 <u><nr>16461</nr><Referenz>16461</Referenz>
@@ -4212,7 +4286,7 @@
 <e><name>Guigo vel Groyn</name><funktion>monachus</funktion></e>
 <e><funktion>adhaerentes Guigonis monachi</funktion></e>
 <e><name>Henricus Portarus; Rifferius</name><funktion>priores</funktion><institution>domus;OCart</institution><ort>Vallis S.Mariae</ort></e>
-<e><funktion>procuratores universitatis priorum</funktion><institution>OCart</institution><Bemerkungen>Streit imKartuserorden!</Bemerkungen></e>
+<e><funktion>procuratores universitatis priorum</funktion><institution>OCart</institution><Bemerkungen>Streit imKart&#x84;userorden!</Bemerkungen></e>
 </u>
 
 <u><nr>16579</nr><Referenz>16579</Referenz>
@@ -5246,7 +5320,7 @@
 
 <u><nr>16819</nr><Referenz>16819</Referenz>
 <e><name>Bartholomaeus</name><funktion>lector</funktion><ort>Brunna</ort></e>
-<e><name>Lambertus dictus Teutonicus<orig>al. Theoronicus</orig></name><funktion></funktion><institution>OFM</institution></e>
+<e><name>Lambertus dictus Teutonicus<orig>al. Theoronicus</orig></name><institution>OFM</institution></e>
 </u>
 
 <u><nr>16820</nr><Referenz>16820</Referenz>
@@ -5320,7 +5394,7 @@
 </u>
 
 <u><nr>16836</nr><Referenz>16836</Referenz>
-<e><funktion>abbas; conventus</funktion><institution>OSB</institution><ort>Wrda</ort><ortsbestimmung>Augustensis dioc.</ortsbestimmung><P>S.Crux</P></e>
+<e><funktion>abbas; conventus</funktion><institution>OSB</institution><ort>W&#x94;rda</ort><ortsbestimmung>Augustensis dioc.</ortsbestimmung><P>S.Crux</P></e>
 </u>
 
 <u><nr>16837</nr><Referenz>16837</Referenz>

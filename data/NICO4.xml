@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
   <u><nr>22610</nr><Referenz>22610</Referenz>
 <e><name>magister Iohannes Anglicus</name><funktion>canonicus</funktion><ort>Narniensis</ort></e>
 </u>
@@ -84,8 +82,32 @@
 <e><name>Elegagis</name><funktion>regina</funktion><ort>Tartari</ort></e>
 </u>
 <u><nr>22634</nr><Referenz>22634</Referenz>
-<e><name>Petrus de Palumbaria</name><funktion>rector</funktion><institution>comitas</institution><ort>Laureti</ort></e>
-<e><name>Petrus de Palumbaria</name><funktion>rector</funktion><institution>castrum</institution><ort>Albensis</ort></e>
+<e>
+            <name>Petrus de Palumbaria</name>
+            <funktion>rector
+            <institution>castrum</institution>
+                <ort>Albensis</ort></funktion>
+            <funktion>rector
+            <institution>comitas</institution>
+                <ort>Laureti</ort></funktion>
+        </e><e>
+            <name>Petrus de Palumbaria</name>
+            <funktion>rector
+            <institution>castrum</institution>
+                <ort>Albensis</ort></funktion>
+            <funktion>rector
+            <institution>comitas</institution>
+                <ort>Laureti</ort></funktion>
+        </e><e>
+            <name>Petrus de Palumbaria</name>
+            <funktion>rector
+            <institution>castrum</institution>
+                <ort>Albensis</ort></funktion>
+            <funktion>rector
+            <institution>comitas</institution>
+                <ort>Laureti</ort></funktion>
+        </e>
+
 </u>
 <u><nr>22635</nr><Referenz>22635</Referenz>
 <e><funktion>ep.</funktion><ort>Tripolitanus</ort></e>
@@ -94,8 +116,32 @@
 <e><name>Citadinus Episcopi</name><funktion>cives</funktion><ort>Urbevetanus</ort></e>
 </u>
 <u><nr>22637</nr><Referenz>22637</Referenz>
-<e><name>Silvester Iohannis de S.Angelo</name><funktion>quondam rector</funktion><institution>comitas</institution><ort>Laureti</ort></e>
-<e><name>Silvester Iohannis de S.Angelo</name><funktion>quondam rector</funktion><institution>castrum</institution><ort>Albensis</ort></e>
+<e>
+            <name>Silvester Iohannis de S.Angelo</name>
+            <funktion>quondam rector
+            <institution>castrum</institution>
+                <ort>Albensis</ort></funktion>
+            <funktion>quondam rector
+            <institution>comitas</institution>
+                <ort>Laureti</ort></funktion>
+        </e><e>
+            <name>Silvester Iohannis de S.Angelo</name>
+            <funktion>quondam rector
+            <institution>castrum</institution>
+                <ort>Albensis</ort></funktion>
+            <funktion>quondam rector
+            <institution>comitas</institution>
+                <ort>Laureti</ort></funktion>
+        </e><e>
+            <name>Silvester Iohannis de S.Angelo</name>
+            <funktion>quondam rector
+            <institution>castrum</institution>
+            <ort>Albensis</ort></funktion>
+            <funktion>quondam rector
+            <institution>comitas</institution>
+                <ort>Laureti</ort></funktion>
+        </e>
+
 </u>
 <u><nr>22638</nr><Referenz>22638</Referenz>
 <e><name>Paltomito Thebaldi</name><funktion>civis</funktion><ort>Viterbiensis</ort></e>
@@ -234,10 +280,46 @@
 <e><name>Sigismundus</name><funktion>abbas</funktion><institution>monasterium</institution><ort>Sicinensis</ort><ortsbestimmung>Nucerina dioc.</ortsbestimmung></e>
 </u>
 <u><nr>22674</nr><Referenz>22674</Referenz>
-<e><name>R(obertus)</name><funktion>comes</funktion><ort>Atrebatensis</ort></e>
-<e><name>R(obertus)</name><funktion>baiulus</funktion><institution>regnum</institution><ort>Sicilia</ort></e>
-<e><name>G(erardus)</name><funktion>ep.</funktion><ort>Sabinensis</ort></e>
-<e><name>G(erardus)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>R(obertus)</name>
+            <funktion>baiulus
+            <institution>regnum</institution>
+                <ort>Sicilia</ort></funktion>
+            <funktion>comes
+                <ort>Atrebatensis</ort></funktion>
+        </e><e>
+            <name>R(obertus)</name>
+            <funktion>baiulus
+            <institution>regnum</institution>
+                <ort>Sicilia</ort></funktion>
+            <funktion>comes
+                <ort>Atrebatensis</ort></funktion>
+        </e><e>
+            <name>R(obertus)</name>
+            <funktion>baiulus
+            <institution>regnum</institution>
+                <ort>Sicilia</ort></funktion>
+            <funktion>comes
+                <ort>Atrebatensis</ort></funktion>
+        </e>
+
+<e>
+            <name>G(erardus)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+                <ort>Sabinensis</ort></funktion>
+        </e><e>
+            <name>G(erardus)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+                <ort>Sabinensis</ort></funktion>
+        </e><e>
+            <name>G(erardus)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+                <ort>Sabinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>22675</nr><Referenz>22675</Referenz>
 <e><funktion>potestas; consilium; commune</funktion><ort>Tudertinus</ort></e>
@@ -449,8 +531,29 @@
 <e><funktion>(rex)</funktion><ort>(Legionis) ;(Cas)tellae</ort></e>
 </u>
 <u><nr>22735</nr><Referenz>22735</Referenz>
-<e><name>R(obertus)</name><funktion>comes</funktion><ort>Atrebatensis</ort></e>
-<e><name>R(obertus)</name><funktion>baiulus</funktion><institution>regnum</institution><ort>Sicilia</ort></e>
+<e>
+            <name>R(obertus)</name>
+            <funktion>baiulus
+            <institution>regnum</institution>
+            <ort>Sicilia</ort></funktion>
+            <funktion>comes
+            <ort>Atrebatensis</ort></funktion>
+        </e><e>
+            <name>R(obertus)</name>
+            <funktion>baiulus
+            <institution>regnum</institution>
+            <ort>Sicilia</ort></funktion>
+            <funktion>comes
+            <ort>Atrebatensis</ort></funktion>
+        </e><e>
+            <name>R(obertus)</name>
+            <funktion>baiulus
+            <institution>regnum</institution>
+                <ort>Sicilia</ort></funktion>
+            <funktion>comes
+                <ort>Atrebatensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>22736</nr><Referenz>22736</Referenz>
 <e><name>Robertus</name><funktion>ep.</funktion><ort>Marturanensis</ort></e>
@@ -1255,7 +1358,7 @@
 <e><name>(Guillelmus)</name><funktion>archiep.</funktion><ort>Rothomagensis</ort></e>
 <e><funktion>ep.</funktion><ort>Autissiodorensis</ort></e>
 </u>
-<u><nr>22972</nr><fehlt /><Referenz>22972</Referenz>
+<u><nr>22972</nr><fehlt/><Referenz>22972</Referenz>
 </u>
 <u><nr>22973</nr><Referenz>22973</Referenz>
 <e><funktion>omnes vere poenitentes et confessi ecclesiam OFM de Burgo Castri Villani Lingonensis dioc. ... visitantes</funktion></e>
@@ -1281,7 +1384,7 @@
 <u><nr>22979</nr><Referenz>22979</Referenz>
 <e><funktion>sacrista</funktion><institution>eccl.</institution><ort>Lugdunensis</ort></e>
 </u>
-<u><nr>22980</nr><fehlt /><Referenz>22980</Referenz>
+<u><nr>22980</nr><fehlt/><Referenz>22980</Referenz>
 </u>
 <u><nr>22981</nr><Referenz>22981</Referenz>
 <e><name>(Gualterus)</name><funktion>ep.</funktion><ort>Pictaviensis</ort></e>
@@ -2161,9 +2264,30 @@
 </u>
 <u><nr>23254</nr><Referenz>23254</Referenz>
 <e><name>Andrea de Fracta filiorum Uberti</name><ort>Eugubina dioc.</ort></e>
-<e><name>Uguito</name><funktion>marchio</funktion><ort>de Monte Meiano;</ort></e>
-<e><name>Uguito</name><funktion>capellanus suus</funktion></e>
-<e><name>Uguito</name><funktion>canonicus</funktion><ort>Rothomagensis</ort></e>
+<e>
+            <name>Uguito</name>
+            <funktion>capellanus suus</funktion>
+            <funktion>canonicus
+                <ort>Rothomagensis</ort></funktion>
+            <funktion>marchio
+                <ort>de Monte Meiano</ort></funktion>
+        </e><e>
+            <name>Uguito</name>
+            <funktion>capellanus suus</funktion>
+            <funktion>canonicus
+                <ort>Rothomagensis</ort></funktion>
+            <funktion>marchio
+                <ort>de Monte Meiano;</ort></funktion>
+        </e><e>
+            <name>Uguito</name>
+            <funktion>capellanus suus</funktion>
+            <funktion>canonicus
+                <ort>Rothomagensis</ort></funktion>
+            <funktion>marchio
+            <ort>de Monte Meiano;</ort></funktion>
+        </e>
+
+
 </u>
 <u><nr>23255</nr><Referenz>23255</Referenz>
 <e><funktion>guardianus</funktion><institution>OFM</institution><ort>Tranensis</ort></e>
@@ -3019,7 +3143,7 @@
 <u><nr>23521</nr><Referenz>23521</Referenz>
 <e><institution>eccl.; OFM</institution><ort>Cadomensis</ort><ortsbestimmung>Baiocensis dioc.</ortsbestimmung></e>
 </u>
-<u><nr>23522</nr><fehlt /><Referenz>23522</Referenz>
+<u><nr>23522</nr><fehlt/><Referenz>23522</Referenz>
 </u>
 <u><nr>23523</nr><Referenz>23523</Referenz>
 <e><institution>ecc.;OFM</institution><ort>Graiacensis</ort><ortsbestimmung>Bisuntina dioc.</ortsbestimmung></e>
@@ -3168,8 +3292,29 @@
 <e><institution>eccl.; OCarm</institution><ort>Fingiacum</ort><ortsbestimmung>Caturcensis dioc.</ortsbestimmung></e>
 </u>
 <u><nr>23570</nr><Referenz>23570</Referenz>
-<e><name>Ludovicus</name><funktion>comes palatinus</funktion><ort>Reni</ort><Bemerkungen>Den Pfalzgrafen bei Rhein auch unter palatinus?</Bemerkungen></e>
-<e><name>Ludovicus</name><funktion>dux</funktion><ort>Bavaria</ort></e>
+<e>
+            <name>Ludovicus</name>
+            <funktion>dux
+            <ort>Bavaria</ort></funktion>
+            <funktion>comes palatinus
+            <ort>Reni</ort></funktion>
+            <Bemerkungen>Den Pfalzgrafen bei Rhein auch unter palatinus?</Bemerkungen>
+        </e><e>
+            <name>Ludovicus</name>
+            <funktion>dux
+                <ort>Bavaria</ort></funktion>
+            <funktion>comes palatinus
+                <ort>Reni</ort></funktion>
+            <Bemerkungen>Den Pfalzgrafen bei Rhein auch unter palatinus?</Bemerkungen>
+        </e><e>
+            <name>Ludovicus</name>
+            <funktion>dux
+                <ort>Bavaria</ort></funktion>
+            <funktion>comes palatinus
+                <ort>Reni</ort></funktion>
+            <Bemerkungen>Den Pfalzgrafen bei Rhein auch unter palatinus?</Bemerkungen>
+        </e>
+
 </u>
 <u><nr>23571</nr><Referenz>23571</Referenz>
 <e><institution>eccl. cathedralis</institution><ort>Upsalensis</ort></e>
@@ -4265,8 +4410,29 @@
 <e><funktion>archidiac.</funktion><ort>Vercellensis</ort></e>
 </u>
 <u><nr>23897</nr><Referenz>23897</Referenz>
-<e><name>Gentilis</name><funktion>archiep.</funktion><ort>Reginensis</ort></e>
-<e><name>Gentilis</name><funktion>administrator</funktion><institution>dioc.</institution><ort>Alifanus</ort></e>
+<e>
+            <name>Gentilis</name>
+            <funktion>administrator
+            <institution>dioc.</institution>
+                <ort>Alifanus</ort></funktion>
+            <funktion>archiep.
+                <ort>Reginensis</ort></funktion>
+        </e><e>
+            <name>Gentilis</name>
+            <funktion>administrator
+            <institution>dioc.</institution>
+                <ort>Alifanus</ort></funktion>
+            <funktion>archiep.
+                <ort>Reginensis</ort></funktion>
+        </e><e>
+            <name>Gentilis</name>
+            <funktion>administrator
+            <institution>dioc.</institution>
+                <ort>Alifanus</ort></funktion>
+            <funktion>archiep.
+                <ort>Reginensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>23898</nr><Referenz>23898</Referenz>
 <e><name>(Ierundus)</name><funktion>archiep.</funktion><ort>Nidrosiensis</ort></e>
@@ -4477,12 +4643,56 @@
 <e><name>Petrus de Aria</name><funktion>frater</funktion><institution>OPr</institution></e>
 </u>
 <u><nr>23960</nr><Referenz>23960</Referenz>
-<e><name>Robertus de Gernay</name><funktion>generalis rector</funktion><institution>provincia</institution><ort>Romandiola</ort></e>
-<e><name>Robertus de Gernay</name><funktion>generalis rector</funktion><institution>civitas</institution><ort>Bononia; Bretenorium</ort></e>
+<e>
+            <name>Robertus de Gernay</name>
+            <funktion>generalis rector
+            <institution>civitas</institution>
+            <ort>Bononia; Bretenorium</ort></funktion>
+            <funktion>generalis rector
+            <institution>provincia</institution>
+            <ort>Romandiola</ort></funktion>
+        </e><e>
+            <name>Robertus de Gernay</name>
+            <funktion>generalis rector
+            <institution>civitas</institution>
+                <ort>Bononia; Bretenorium</ort></funktion>
+            <funktion>generalis rector
+            <institution>provincia</institution>
+                <ort>Romandiola</ort></funktion>
+        </e><e>
+            <name>Robertus de Gernay</name>
+            <funktion>generalis rector
+                <institution>civitas <ort>Bononia; Bretenorium</ort></institution>
+                <institution>provincia <ort>Romandiola</ort></institution>
+            </funktion>
+        </e>
+
 </u>
 <u><nr>23961</nr><Referenz>23961</Referenz>
-<e><name>Robertus de Gernay</name><funktion>generalis rector</funktion><institution>provincia</institution><ort>Romandiola</ort></e>
-<e><name>Robertus de Gernay</name><funktion>generalis rector</funktion><institution>civitas</institution><ort>Bononia; Bretenorium</ort></e>
+<e>
+            <name>Robertus de Gernay</name>
+            <funktion>generalis rector
+            <institution>civitas</institution>
+            <ort>Bononia; Bretenorium</ort></funktion>
+            <funktion>generalis rector
+            <institution>provincia</institution>
+            <ort>Romandiola</ort></funktion>
+        </e><e>
+            <name>Robertus de Gernay</name>
+            <funktion>generalis rector
+            <institution>civitas</institution>
+                <ort>Bononia; Bretenorium</ort></funktion>
+            <funktion>generalis rector
+            <institution>provincia</institution>
+                <ort>Romandiola</ort></funktion>
+        </e><e>
+            <name>Robertus de Gernay</name>
+            <funktion>generalis rector
+                <institution>civitas <ort>Bononia; Bretenorium</ort></institution>
+                <institution>provincia <ort>Romandiola</ort></institution>
+                </funktion>
+        </e>
+
 </u>
 <u><nr>23962</nr><Referenz>23962</Referenz>
 <e><name>magister Petrus</name><funktion>archiep. <orig>num archipresb.?</orig></funktion><institution>eccl.</institution><ort>Buclanum</ort><ortsbestimmung>Theatina dioc.</ortsbestimmung></e>

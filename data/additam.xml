@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="additam" papst="diverse"> 
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="additam" papst="diverse"> 
 <u><nr>25449</nr><Referenz>25449</Referenz>
 <e><funktion>abbas</funktion><ort>Cistercium</ort></e>
 <e><funktion>universi coabbates</funktion><institution>OCist</institution></e>
@@ -33,7 +31,7 @@
 <e><funktion>canonici</funktion><ort>Edenburg</ort><P>S.Crux</P></e>
 </u>
 <u><nr>25459</nr><Referenz>25459</Referenz>
-<e><name>ohne Empfnger <orig>sine textu</orig></name></e>
+<e><name>ohne Empf&#x84;nger <orig>sine textu</orig></name></e>
 </u>
 <u><nr>25460</nr><Referenz>25460</Referenz>
 <e><ort>Compiegne</ort><Bemerkungen>frz.</Bemerkungen><P>S.Cornelius <orig>Saint Corneille</orig></P></e>
@@ -51,7 +49,7 @@
 <e><funktion>abbas; conventus</funktion><ort>Cormaricensis</ort></e>
 </u>
 <u><nr>25464</nr><Referenz>25464</Referenz>
-<e><name>ohne Empfnger <orig>sine textu</orig></name></e>
+<e><name>ohne Empf&#x84;nger <orig>sine textu</orig></name></e>
 </u>
 <u><nr>25465</nr><Referenz>25465</Referenz>
 <e><funktion>abbatissa; capitulum</funktion><ort>Malbodiensis <orig>Maubeuge</orig></ort></e>
@@ -122,7 +120,7 @@
 <e><funktion>suffraganei</funktion><institution>eccl.</institution><ort>Salseburgensis</ort></e>
 </u>
 <u><nr>25485</nr><Referenz>25485</Referenz>
-<e><funktion>canonici</funktion><institution>eccl.</institution><ort>S.Andreas; S.Amandus <orig>Saint-Andr, Saint-Amand</orig></ort></e>
+<e><funktion>canonici</funktion><institution>eccl.</institution><ort>S.Andreas; S.Amandus <orig>Saint-Andr&#x82;, Saint-Amand</orig></ort></e>
 </u>
 <u><nr>25486</nr><Referenz>25486</Referenz>
 <e><funktion>clerus; potestas; populus</funktion><ort>Auximanus</ort></e>
@@ -181,7 +179,7 @@
 <e><name reg="Hemmericus">H(emmericus)</name><funktion>rex </funktion><ort>Ungaria</ort></e>
 </u>
 <u><nr>25503</nr><Referenz>25503</Referenz>
-<e><name>ohne Empfnger <orig>sine textu</orig></name></e>
+<e><name>ohne Empf&#x84;nger <orig>sine textu</orig></name></e>
 </u>
 <u><nr>25504</nr><Referenz>25504</Referenz>
 <e><institution>eccl.</institution><ort>Arles</ort><Bemerkungen>frz.</Bemerkungen></e>
@@ -246,7 +244,7 @@
 <e><funktion>prior; canonici</funktion><ort>Bononia</ort><P>S.Maria de Reno</P></e>
 </u>
 <u><nr>25522</nr><Referenz>25522</Referenz>
-<e><funktion>ep.; capitulum</funktion><institution>cathedralis</institution><ort>Leodium <orig>Lige</orig></ort><Bemerkungen>frz.</Bemerkungen></e>
+<e><funktion>ep.; capitulum</funktion><institution>cathedralis</institution><ort>Leodium <orig>Li&#x8a;ge</orig></ort><Bemerkungen>frz.</Bemerkungen></e>
 </u>
 <u><nr>25523</nr><Referenz>25523</Referenz>
 <e><funktion>archiepp.; epp.; abbates; priores; universi praelati</funktion><institution>imperium</institution><ort>Constantinopolis</ort></e>
@@ -285,7 +283,7 @@
 <e><funktion>archidiac.</funktion><ort>Florentia</ort></e>
 </u>
 <u><nr>25533</nr><Referenz>25533</Referenz>
-<e><institution>monasterium</institution><ort>Chaloch</ort><Bemerkungen>frz.</Bemerkungen></e>
+<e><institution>monasterium</institution><ort>Chaloch&#x82;</ort><Bemerkungen>frz.</Bemerkungen></e>
 </u>
 <u><nr>25534</nr><Referenz>25534</Referenz>
 <e><name>Hermannus</name><funktion>abbas</funktion><institution>monasterium; OSB</institution><ort>Nienburgensis</ort></e>
@@ -337,7 +335,7 @@
 <u><nr>25547</nr><Referenz>25547</Referenz>
 <e><funktion>prior; conventus</funktion><institution>ordo Cluniac.</institution><ort>Passelet</ort><P>S.Iacobus</P></e>
 </u>
-<u><nr>25548  </nr><fehlt /><Referenz>25548 </Referenz>
+<u><nr>25548  </nr><fehlt/><Referenz>25548 </Referenz>
 </u>
 <u><nr>25549</nr><Referenz>25549</Referenz>
 <e><funktion>abbas</funktion><ort>Mons Angelorum</ort></e>
@@ -408,7 +406,7 @@
 <e><funktion>homines</funktion><ort>Castrum Vici</ort><ortsbestimmung>Campania</ortsbestimmung></e>
 </u>
 <u><nr>25569</nr><Referenz>25569</Referenz>
-<e><name>ohne Empfnger <orig>sine textu</orig></name></e>
+<e><name>ohne Empf&#x84;nger <orig>sine textu</orig></name></e>
 </u>
 <u><nr>25570</nr><Referenz>25570</Referenz>
 <e><funktion>canonici</funktion><ort>Sutphaniensis</ort></e>
@@ -444,7 +442,7 @@
 <e><funktion>suffraganei</funktion><institution>eccl.</institution><ort>Ravenna</ort></e>
 </u>
 <u><nr>25580</nr><Referenz>25580</Referenz>
-<e><funktion>ecclesiasticae personae <orig>ecclsiastiques de tout rang</orig></funktion><institution>provincia</institution><ort>Remi</ort><Bemerkungen>frz.</Bemerkungen></e>
+<e><funktion>ecclesiasticae personae <orig>eccl&#x82;siastiques de tout rang</orig></funktion><institution>provincia</institution><ort>Remi</ort><Bemerkungen>frz.</Bemerkungen></e>
 </u>
 <u><nr>25581</nr><Referenz>25581</Referenz>
 <e><funktion>praep.; capitulum</funktion><ort>S.Cristina</ort></e>
@@ -512,7 +510,7 @@
 </u>
 <u><nr>25601</nr><Referenz>25601</Referenz>
 <e><funktion>abbas</funktion><ort>S.Stephanus</ort></e>
-<e><funktion>decanus</funktion><ort>Wrzburg</ort></e>
+<e><funktion>decanus</funktion><ort>W&#x81;rzburg</ort></e>
 <e><funktion>praep.</funktion><ort>Hausen</ort><Bemerkungen>dt.</Bemerkungen></e>
 </u>
 <u><nr>25602</nr><Referenz>25602</Referenz>
@@ -568,8 +566,12 @@
 </an>
 </u>
 <u><nr>25616</nr><Referenz>25616</Referenz>
-<e><name>Guala <orig>al. Guallo</orig></name><funktion>presb.card. tit. S.Martini</funktion></e>
-<e><name>Guala <orig>al. Guallo</orig></name><funktion>apost.leg. </funktion><ort>Anglia</ort></e>
+<e>
+            <name>Guala <orig>al. Guallo</orig></name>
+            <funktion>apost.leg. <ort>Anglia</ort></funktion>
+            <funktion>presb.card. tit. S.Martini</funktion>
+        </e>
+
 </u>
 <u><nr>25617</nr><Referenz>25617</Referenz>
 <e><funktion>populus; comitatus; barones</funktion><ort>Firmanus</ort></e>
@@ -705,7 +707,7 @@
 <u><nr>25655</nr><Referenz>25655</Referenz>
 <e><funktion>ep.;capitulum</funktion><ort>Ambianensis</ort></e>
 </u>
-<u><nr>25656  </nr><fehlt /><Referenz>25656 </Referenz>
+<u><nr>25656  </nr><fehlt/><Referenz>25656 </Referenz>
 </u>
 <u><nr>25657</nr><Referenz>25657</Referenz>
 <e><name>. N.</name><funktion>abbas</funktion><institution>monasterium</institution><ort>S.Theodosius Coenobiarcha</ort></e>
@@ -797,8 +799,12 @@
 </u>
 <u><nr>25681</nr><Referenz>25681</Referenz>
 <e><funktion>magister</funktion><ort>S.Crux</ort></e>
-<e><name>Alardus</name><funktion>decanus</funktion><ort>S.Anianus</ort></e>
-<e><name>Alardus</name><funktion>canonicus</funktion><ort>Aurelianensis</ort></e>
+<e>
+            <name>Alardus</name>
+            <funktion>canonicus <ort>Aurelianensis</ort></funktion>
+            <funktion>decanus <ort>S.Anianus</ort></funktion>
+        </e>
+
 <e><funktion>canonicus</funktion><ort>Aurelianensis</ort></e>
 </u>
 <u><nr>25682</nr><Referenz>25682</Referenz>
@@ -1427,7 +1433,7 @@
 <u><nr>25860</nr><Referenz>25860</Referenz>
 <e><funktion>consules; populus</funktion><ort>Mons Pessulanus</ort></e>
 </u>
-<u><nr>25861  </nr><fehlt /><Referenz>25861 </Referenz>
+<u><nr>25861  </nr><fehlt/><Referenz>25861 </Referenz>
 </u>
 <u><nr>25862</nr><Referenz>25862</Referenz>
 <e><name>G.</name><funktion>presb.card. tit. S.Martini; apost.leg.</funktion></e>
@@ -1845,7 +1851,7 @@
 <u><nr>25985</nr><Referenz>25985</Referenz>
 <e><funktion>archiep.</funktion><ort>Compostella</ort></e>
 </u>
-<u><nr>25986  </nr><fehlt /><Referenz>25986 </Referenz>
+<u><nr>25986  </nr><fehlt/><Referenz>25986 </Referenz>
 </u>
 <u><nr>25987</nr><Referenz>25987</Referenz>
 <e><funktion>ep.</funktion><ort>Caputaquensis</ort></e>
@@ -1935,7 +1941,7 @@
 </u>
 <u><nr>26013</nr><Referenz>26013</Referenz>
 <e><funktion>prior</funktion><ort>S.Paulus</ort></e>
-<e><funktion>cantor</funktion><ort>Besanon</ort><P>S.Iohannes</P></e>
+<e><funktion>cantor</funktion><ort>Besan&#x87;on</ort><P>S.Iohannes</P></e>
 </u>
 <u><nr>26014</nr><Referenz>26014</Referenz>
 <e><name>Phanus</name><funktion>prior</funktion><institution>canonica <kommentar>?</kommentar></institution><ort>Fanensis</ort><P>S.Maria</P></e>
@@ -1975,15 +1981,23 @@
 <e><funktion>decanus; capitulum</funktion><ort>Xanctensis</ort></e>
 </u>
 <u><nr>26025</nr><Referenz>26025</Referenz>
-<e><name>Pandulphus</name><funktion>eclectus</funktion><ort>Norwicensis</ort></e>
-<e><name>Pandulphus</name><funktion>camerarius suus; apost.leg.</funktion></e>
+<e>
+            <name>Pandulphus</name>
+            <funktion>camerarius suus; apost.leg.</funktion>
+            <funktion>eclectus <ort>Norwicensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>26026</nr><Referenz>26026</Referenz>
 <e><funktion>prior</funktion><ort>Columberia</ort><Bemerkungen>dt.</Bemerkungen></e>
 </u>
 <u><nr>26027</nr><Referenz>26027</Referenz>
-<e><name>Pandulphus</name><funktion>eclectus</funktion><ort>Norwicensis</ort></e>
-<e><name>Pandulphus</name><funktion>camerarius suus; apost.leg.</funktion></e>
+<e>
+            <name>Pandulphus</name>
+            <funktion>camerarius suus; apost.leg.</funktion>
+            <funktion>eclectus <ort>Norwicensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>26028</nr><Referenz>26028</Referenz>
 <e><name>Petrus</name><funktion>ep.</funktion><ort>Firmanus</ort></e>
@@ -2070,8 +2084,12 @@
 <e><name>Lombardus</name><funktion>abbas</funktion><institution>monasterium</institution><ort>Morimundus</ort></e>
 </u>
 <u><nr>26053</nr><Referenz>26053</Referenz>
-<e><name>Fridericus</name><funktion>rex </funktion><ort>Sicilia</ort></e>
-<e><name>Fridericus</name><funktion>electus in regem</funktion><ort>Romanorum</ort></e>
+<e>
+            <name>Fridericus</name>
+            <funktion>electus in regem <ort>Romanorum</ort></funktion>
+            <funktion>rex <ort>Sicilia</ort></funktion>
+        </e>
+
 </u>
 <u><nr>26054</nr><Referenz>26054</Referenz>
 <e><funktion>abbates</funktion><Bemerkungen><orig>beauftragt genannte Aebte</orig></Bemerkungen></e>
@@ -2083,8 +2101,13 @@
 <e><funktion>canonici</funktion><ort>Cassel</ort><P>S.Petrus</P></e>
 </u>
 <u><nr>26057</nr><Referenz>26057</Referenz>
-<e><name>Pandulphus</name><funktion>eclectus</funktion><ort>Norwicensis</ort></e>
-<e><name>Pandulphus</name><funktion>camerarius suus; apost.leg.</funktion></e>
+<e>
+            <name>Pandulphus</name>
+            <funktion>camerarius suus; apost.leg.</funktion>
+            <funktion>eclectus
+                <ort>Norwicensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>26058</nr><Referenz>26058</Referenz>
 <e><funktion>capitulum</funktion><ort>Lovaniensis</ort><P>S.Petrus</P></e>
@@ -2134,8 +2157,14 @@
 <e><funktion>abbas; conventus</funktion><institution>monasterium</institution><ort>Treverensis</ort><P>S.Maria ad martyres</P></e>
 </u>
 <u><nr>26073</nr><Referenz>26073</Referenz>
-<e><name>Fridericus</name><funktion>imperator </funktion><ort>Romanorum</ort></e>
-<e><name>Fridericus</name><funktion>rex </funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Fridericus</name>
+            <funktion>rex 
+                <ort>Sicilia</ort></funktion>
+            <funktion>imperator 
+                <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>26074</nr><Referenz>26074</Referenz>
 <e><funktion>ep.</funktion><ort>Magalonensis</ort></e>
@@ -2296,7 +2325,7 @@
 <e><name>Guillelmus <orig>Guillaume d'Auvergne</orig></name><funktion>canonicus</funktion><ort>Paris</ort></e>
 </u>
 <u><nr>26123</nr><Referenz>26123</Referenz>
-<e><name>Bartholomaeus <orig>Barthlemy</orig></name><funktion>ep.</funktion><ort>Paris</ort><Bemerkungen>Mutter: Bartholomaeus &amp;, warum?</Bemerkungen></e>
+<e><name>Bartholomaeus <orig>Barth&#x82;lemy</orig></name><funktion>ep.</funktion><ort>Paris</ort><Bemerkungen>Mutter: Bartholomaeus &amp;, warum?</Bemerkungen></e>
 <e><name>Iohannes <orig>Jean de Montmirail</orig></name><funktion>archidiac.</funktion><ort>Paris</ort></e>
 <e><name>Guillelmus <orig>Guillaume d'Auvergne</orig></name><funktion>canonicus</funktion><ort>Paris</ort></e>
 </u>
@@ -2306,7 +2335,7 @@
 <e><name>Guillelmus <orig>Guillaume d'Auvernatz</orig></name><funktion>canonicus</funktion><ort>Paris</ort><Bemerkungen>frz.</Bemerkungen></e>
 </u>
 <u><nr>26125</nr><Referenz>26125</Referenz>
-<e><name>ohne Empfnger</name></e>
+<e><name>ohne Empf&#x84;nger</name></e>
 </u>
 <u><nr>26126</nr><Referenz>26126</Referenz>
 <e><institution>monasterium; OSB</institution><ort>Pontiniacensis</ort></e>
@@ -2321,7 +2350,7 @@
 <e><funktion>monasteria</funktion><institution>OCist</institution><Bemerkungen>dt.;monasteria ausnahmsweise bei den Funktionen!</Bemerkungen></e>
 </u>
 <u><nr>26130</nr><Referenz>26130</Referenz>
-<e><name>ohne Empfnger</name></e>
+<e><name>ohne Empf&#x84;nger</name></e>
 </u>
 <u><nr>26131</nr><Referenz>26131</Referenz>
 <e><funktion>universi praelati</funktion><institution>dioceses</institution><ort>Colonia; Treverensis; Traiectensis</ort><Bemerkungen>dt.</Bemerkungen></e>
@@ -2344,7 +2373,7 @@
 <u><nr>26137</nr><Referenz>26137</Referenz>
 <e><funktion>abbas; conventus</funktion><institution>OCist</institution><ort>Locus S.Mariae <orig>Marienstatt</orig></ort></e>
 </u>
-<u><nr>26138  </nr><fehlt /><Referenz>26138 </Referenz>
+<u><nr>26138  </nr><fehlt/><Referenz>26138 </Referenz>
 </u>
 <u><nr>26139</nr><Referenz>26139</Referenz>
 <e><name>Eudes de Sorcy</name><funktion>ep.</funktion><ort>Tullensis</ort><Bemerkungen>frz.</Bemerkungen></e>
@@ -2655,7 +2684,7 @@
 <e><funktion>conventus</funktion><ort>Mons Regalis</ort><Bemerkungen>ital.</Bemerkungen></e>
 </u>
 <u><nr>26237</nr><Referenz>26237</Referenz>
-<e><name>magister Stephanus <orig>tienne</orig></name><ort>Pruvinum <orig>Provins</orig></ort><Bemerkungen>frz.</Bemerkungen></e>
+<e><name>magister Stephanus <orig>&#x90;tienne</orig></name><ort>Pruvinum <orig>Provins</orig></ort><Bemerkungen>frz.</Bemerkungen></e>
 </u>
 <u><nr>26238</nr><Referenz>26238</Referenz>
 <e><institution>monasterium</institution><ort>Quincy</ort><Bemerkungen>frz.</Bemerkungen></e>
@@ -2896,7 +2925,7 @@
 <u><nr>26312</nr><Referenz>26312</Referenz>
 <e><funktion>abbatissa; conventus</funktion><institution>OCist</institution><ort>Tiefenthal</ort><Bemerkungen>dt.</Bemerkungen></e>
 </u>
-<u><nr>26313  </nr><fehlt /><Referenz>26313 </Referenz>
+<u><nr>26313  </nr><fehlt/><Referenz>26313 </Referenz>
 </u>
 <u><nr>26314</nr><Referenz>26314</Referenz>
 <e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>Gladbacensis</ort><ortsbestimmung>Coloniensis dioc.</ortsbestimmung></e>
@@ -3074,7 +3103,7 @@
 <e><funktion>conventus</funktion><institution>OCist</institution></e>
 </u>
 <u><nr>26370</nr><Referenz>26370</Referenz>
-<e><institution>eccl.</institution><ort>Monasteriensis in Meyinvelt <orig>Mnstermaifeld</orig></ort></e>
+<e><institution>eccl.</institution><ort>Monasteriensis in Meyinvelt <orig>M&#x81;nstermaifeld</orig></ort></e>
 </u>
 <u><nr>26371</nr><Referenz>26371</Referenz>
 <e><institution>hospitale; ord.Aug.</institution><ort>Antwerpia</ort><P>S.Maria</P></e>
@@ -3198,7 +3227,7 @@
 <e><name reg="Arnoldus">(Arnoldus)</name><funktion>archiep.</funktion><ort>Trevirensis</ort></e>
 </u>
 <u><nr>26411</nr><Referenz>26411</Referenz>
-<e><name>ohne Empfnger</name></e>
+<e><name>ohne Empf&#x84;nger</name></e>
 </u>
 <u><nr>26412</nr><Referenz>26412</Referenz>
 <e><funktion>ep.; capitulum</funktion><ort>Constantiensis dioc.</ort></e>
@@ -3333,7 +3362,7 @@
 <e><funktion>ep.</funktion><ort>Carpentoractensis</ort></e>
 </u>
 <u><nr>26455</nr><Referenz>26455</Referenz>
-<e><institution>monasterium monialium; OPr</institution><ort>Lwenthal</ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung></e>
+<e><institution>monasterium monialium; OPr</institution><ort>L&#x94;wenthal</ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung></e>
 </u>
 <u><nr>26456</nr><Referenz>26456</Referenz>
 <e><institution>monasterium monialium; OPr</institution><ort>Bernhausen</ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung></e>
@@ -3449,10 +3478,10 @@
 <e><funktion>abbas; conventus</funktion><institution>monasterium</institution><ort>Vallisumbrosa</ort></e>
 </u>
 <u><nr>26493</nr><Referenz>26493</Referenz>
-<e><institution>Stift</institution><ort>Monasteriensis in Meyinvelt <orig>Mnstermaifeld</orig></ort><Bemerkungen>dt.</Bemerkungen></e>
+<e><institution>Stift</institution><ort>Monasteriensis in Meyinvelt <orig>M&#x81;nstermaifeld</orig></ort><Bemerkungen>dt.</Bemerkungen></e>
 </u>
 <u><nr>26494</nr><Referenz>26494</Referenz>
-<e><institution>Stift</institution><ort>Monasteriensis in Meyinvelt <orig>Mnstermaifeld</orig></ort><Bemerkungen>dt.</Bemerkungen></e>
+<e><institution>Stift</institution><ort>Monasteriensis in Meyinvelt <orig>M&#x81;nstermaifeld</orig></ort><Bemerkungen>dt.</Bemerkungen></e>
 </u>
 <u><nr>26495</nr><Referenz>26495</Referenz>
 <e><institution>monasterium</institution><ort>Trevirensis</ort><Bemerkungen>dt.</Bemerkungen><P>S.Matthias</P></e>
@@ -3488,7 +3517,7 @@
 <e><institution>monasterium; ordo S.Clarae</institution><ort>Pfullingen</ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung><Bemerkungen>dt.</Bemerkungen></e>
 </u>
 <u><nr>26505</nr><Referenz>26505</Referenz>
-<e><institution>monasterium; ordo S.Clarae</institution><ort>Sflingen</ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung><Bemerkungen>dt.</Bemerkungen></e>
+<e><institution>monasterium; ordo S.Clarae</institution><ort>S&#x94;flingen</ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung><Bemerkungen>dt.</Bemerkungen></e>
 </u>
 <u><nr>26506</nr><Referenz>26506</Referenz>
 <e><institution>eccl.</institution><ort>Kulmsee</ort><Bemerkungen>dt.</Bemerkungen></e>
@@ -3531,7 +3560,7 @@
 <e><funktion>ep.; decanus; capitulum</funktion><ort>Constantiensis</ort></e>
 </u>
 <u><nr>26519</nr><Referenz>26519</Referenz>
-<e><name>ohne Empfnger</name></e>
+<e><name>ohne Empf&#x84;nger</name></e>
 </u>
 <u><nr>26520</nr><Referenz>26520</Referenz>
 <e><funktion>praep.; capitulum</funktion><ort>Constantiensis</ort></e>
@@ -3550,7 +3579,7 @@
 <e><institution>hospitale</institution><ort>Andernacensis</ort></e>
 </u>
 <u><nr>26525</nr><Referenz>26525</Referenz>
-<e><institution>monasterium</institution><ort>Nonnenmnster</ort><ortsbestimmung>apud Wormatiam</ortsbestimmung></e>
+<e><institution>monasterium</institution><ort>Nonnenm&#x81;nster</ort><ortsbestimmung>apud Wormatiam</ortsbestimmung></e>
 </u>
 <u><nr>26526</nr><Referenz>26526</Referenz>
 <e><name>Guillelmus</name><funktion>capellanus suus; abbas</funktion><institution>monasterium</institution><ort>Eduensis</ort><P>S.Martinus</P></e>
@@ -3595,10 +3624,10 @@
 <e><funktion>cantor</funktion><institution>eccl.</institution><ort>Nivernensis</ort><P>S.Martinus</P></e>
 </u>
 <u><nr>26540</nr><Referenz>26540</Referenz>
-<e><institution>monasterium; ordo S.Clarae</institution><ort>Sflingen</ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung><Bemerkungen>dt.</Bemerkungen></e>
+<e><institution>monasterium; ordo S.Clarae</institution><ort>S&#x94;flingen</ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung><Bemerkungen>dt.</Bemerkungen></e>
 </u>
 <u><nr>26541</nr><Referenz>26541</Referenz>
-<e><institution>monasterium; ordo S.Clarae</institution><ort>Sflingen</ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung><Bemerkungen>dt.</Bemerkungen></e>
+<e><institution>monasterium; ordo S.Clarae</institution><ort>S&#x94;flingen</ort><ortsbestimmung>Constantiensis dioc.</ortsbestimmung><Bemerkungen>dt.</Bemerkungen></e>
 </u>
 <u><nr>26542</nr><Referenz>26542</Referenz>
 <e><funktion>prior; conventus</funktion><institution>domus; OCart</institution><ort>Seitz</ort><ortsbestimmung>Aquilegiensis dioc.</ortsbestimmung></e>
@@ -3657,7 +3686,7 @@
 <e><institution>eccl.</institution><ort>Babenberg</ort><P>S.Stephanus</P></e>
 </u>
 <u><nr>26559</nr><Referenz>26559</Referenz>
-<e><institution>monasterium</institution><ort>Schnau</ort><Bemerkungen>dt.</Bemerkungen></e>
+<e><institution>monasterium</institution><ort>Sch&#x94;nau</ort><Bemerkungen>dt.</Bemerkungen></e>
 </u>
 <u><nr>26560</nr><Referenz>26560</Referenz>
 <e><name reg="Ludovicus">(Ludovicus)</name><funktion>rex </funktion><ort>Francia</ort></e>
@@ -3747,7 +3776,7 @@
 <e><repetit>16119a; 26524</repetit></e>
 </u>
 <u><nr>26589</nr><Referenz>26589</Referenz>
-<e><name>ohne Empfnger</name></e>
+<e><name>ohne Empf&#x84;nger</name></e>
 </u>
 <u><nr>26590</nr><Referenz>26590</Referenz>
 <e><funktion>rex </funktion><ort>Franci</ort></e>
@@ -3847,7 +3876,7 @@
 <e><institution>monasterium; OSB</institution><ort>Wechterswinkel</ort></e>
 </u>
 <u><nr>26622</nr><Referenz>26622</Referenz>
-<e><funktion>abbas</funktion><ort>S.Burkard</ort><Bemerkungen>Wrzburg, wegen Wechterswinkel, dt.</Bemerkungen></e>
+<e><funktion>abbas</funktion><ort>S.Burkard</ort><Bemerkungen>W&#x81;rzburg, wegen Wechterswinkel, dt.</Bemerkungen></e>
 </u>
 <u><nr>26623</nr><Referenz>26623</Referenz>
 <e><funktion>decanus</funktion><institution>eccl.</institution><ort>Embicensis</ort><ortsbestimmung>Maguntina dioc.</ortsbestimmung></e>
@@ -3886,8 +3915,17 @@
 <e><name>A.</name><funktion>custos</funktion><ort>Ilseneburgensis</ort><Bemerkungen>Anhalt</Bemerkungen></e>
 </u>
 <u><nr>26635</nr><Referenz>26635</Referenz>
-<e><name>Fridericus</name><funktion>ep.</funktion><ort>Halberstadensis</ort></e>
-<e><name>Fridericus</name><funktion>abbas</funktion><ort>Walkenred</ort><ortsbestimmung>Moguntina dioc.</ortsbestimmung></e>
+<e>
+            <name>Fridericus</name>
+            <funktion>abbas</funktion>
+            <ort>Walkenred</ort>
+            <ortsbestimmung>Moguntina dioc.</ortsbestimmung>
+        </e><e>
+            <name>Fridericus</name>
+            <funktion>ep.</funktion>
+            <ort>Halberstadensis</ort>
+        </e>
+
 <e><funktion>abbas</funktion><ort>Volkeolderoth</ort><ortsbestimmung>Moguntina dioc.</ortsbestimmung></e>
 </u>
 <u><nr>26636</nr><Referenz>26636</Referenz>
@@ -3930,9 +3968,19 @@
 <u><nr>26646</nr><Referenz>26646</Referenz>
 <e><name>Fridericus</name><funktion>ep.</funktion><ort>Halberstadensis</ort></e>
 <e><name>Conradus</name><funktion>ep.</funktion><ort>Ildesemensis</ort></e>
-<e><name>Henricus</name><funktion>dux</funktion><ort>Saxonia</ort></e>
-<e><name>Henricus</name><funktion>comes Palatinus </funktion><ort>Reni</ort></e>
-<e><name>Henricus</name><funktion>comes</funktion><ort>Ascaria</ort></e>
+<e ref="wikidata:Q68259">
+            <name>Henricus</name>
+            <funktion>comes Palatinus 
+                <ort>Reni</ort></funktion>
+            <funktion>dux
+                <ort>Saxonia</ort></funktion>
+        </e><e>
+            <name>Henricus</name>
+            <funktion>comes
+                <ort>Ascaria</ort></funktion>
+        </e>
+
+
 <e><funktion>ministeriales</funktion><institution>eccl.</institution><ort>Magdeburgensis</ort></e>
 </u>
 <u><nr>26647</nr><Referenz>26647</Referenz>
@@ -3943,13 +3991,13 @@
 <e><funktion>rector; fratres</funktion><institution>hospitale</institution><ort>Mons Iovis</ort><ortsbestimmung>Vallais</ortsbestimmung><P>SS.Nicolaus et Bernardus</P></e>
 </u>
 <u><nr>26649</nr><Referenz>26649</Referenz>
-<e><institution>Orden der Báenden Schwestern S.Mariae Magdalenae</institution><Bemerkungen>dt.</Bemerkungen></e>
+<e><institution>Orden der B&#x81;áenden Schwestern S.Mariae Magdalenae</institution><Bemerkungen>dt.</Bemerkungen></e>
 </u>
 <u><nr>26650</nr><Referenz>26650</Referenz>
-<e><institution>Orden der Báenden Schwestern S.Mariae Magdalenae</institution><Bemerkungen>dt.</Bemerkungen></e>
+<e><institution>Orden der B&#x81;áenden Schwestern S.Mariae Magdalenae</institution><Bemerkungen>dt.</Bemerkungen></e>
 </u>
 <u><nr>26651</nr><Referenz>26651</Referenz>
-<e><funktion>praepositi</funktion><institution>Orden der Báenden Schwestern S.Mariae Magdalenae</institution><Bemerkungen>dt.</Bemerkungen></e>
+<e><funktion>praepositi</funktion><institution>Orden der B&#x81;áenden Schwestern S.Mariae Magdalenae</institution><Bemerkungen>dt.</Bemerkungen></e>
 </u>
 <u><nr>26652</nr><Referenz>26652</Referenz>
 <e><funktion>praep.; capitulum</funktion><institution>eccl.</institution><ort>Mons Iovis</ort></e>

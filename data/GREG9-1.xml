@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="gregor9-1" papst="Gregor IX.">
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="gregor9-1" papst="Gregor IX.">
   <u><nr>7862</nr><Referenz>7862</Referenz>
 <e><funktion>abbas; capitulum generale</funktion><ort>Cistercium</ort></e>
 </u>
@@ -29,8 +27,14 @@
 <e><funktion>rectores</funktion><institution>societas</institution><ort>Lombardia</ort></e>
 </u>
 <u><nr>7869</nr><Referenz>7869</Referenz>
-<e><name>Fridericus</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
-<e><name>Fridericus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Fridericus</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>7870</nr><Referenz>7870</Referenz>
 <e><funktion>abbas; prior</funktion><ort>Prules</ort></e>
@@ -99,8 +103,13 @@
 <e><name>(Eberhardus)</name><funktion>abbas</funktion><ort>Salem;Constantiensis dioc.</ort></e>
 </u>
 <u><nr>7888</nr><Referenz>7888</Referenz>
-<e><name>(Stephanus)</name><funktion>archiep.</funktion><ort>Cantuaria</ort></e>
-<e><name>(Stephanus)</name><funktion>card. S.R.E.</funktion></e>
+<e>
+            <name>(Stephanus)</name>
+            <funktion>card. S.R.E.</funktion>
+            <funktion>archiep.
+                <ort>Cantuaria</ort></funktion>
+        </e>
+
 </u>
 <u><nr>7889</nr><Referenz>7889</Referenz>
 <e><funktion>universi barones</funktion><ort>Carsolis<orig>Nominativ von: per Carsoli constituti</orig></ort></e>
@@ -415,7 +424,7 @@
 <e><name>Benedicta</name><funktion>abbatissa</funktion><institution>monasterium sororum inclusarum; ord. S.Dam.</institution><ort>de Spello</ort><ortsbestimmung>Spoletana dioc.</ortsbestimmung><P>S.Maria Vallis Gloriae</P></e>
 <e><funktion>virgines; mulieres</funktion><institution>monasterium sororum inclusarum; ord. S.Dam.</institution><ort>de Spello</ort><ortsbestimmung>Spoletana dioc.</ortsbestimmung><P>S.Maria Vallis Gloriae</P></e>
 </u>
-<u><nr>7988 </nr><fehlt /><Referenz>7988 </Referenz>
+<u><nr>7988 </nr><fehlt/><Referenz>7988 </Referenz>
 </u>
 <u><nr>7989</nr><Referenz>7989</Referenz>
 <e><funktion>archiepp.; epp.; abbates <orig>etc.</orig></funktion></e>
@@ -621,8 +630,14 @@
 <e><funktion>prior</funktion><ort>Ratenhaslach</ort><ortsbestimmung>Salzburgensis dioc.</ortsbestimmung></e>
 </u>
 <u><nr>8049</nr><Referenz>8049</Referenz>
-<e><name>Fredericus</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
-<e><name>Fredericus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Fredericus</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>8050</nr><Referenz>8050</Referenz>
 <e><funktion>abbas; conventus</funktion><institution>monasterium; OCist</institution><ort>de Camberone</ort></e>
@@ -1088,8 +1103,14 @@
 <e><institution>monasterium; ord.Aug</institution><ort>Werde <orig>H”gelwerth</orig></ort><P>S.Petrus</P></e>
 </u>
 <u><nr>8189</nr><Referenz>8189</Referenz>
-<e><name>Fridericus</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
-<e><name>Fridericus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Fridericus</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>8190</nr><Referenz>8190</Referenz>
 <e><funktion>electus</funktion><ort>Massanensis</ort></e>
@@ -1176,7 +1197,7 @@
 </u>
 <u><nr>8215</nr><Referenz>8215</Referenz>
 <e><funktion>cantor; succentor <orig>sous-chantre</orig></funktion><ort>Paris</ort></e>
-<e><name>magister Stephanus de Provins <orig>tienne</orig></name><funktion> canonicus</funktion><ort>Paris</ort><Bemerkungen>frz.</Bemerkungen></e>
+<e><name>magister Stephanus de Provins <orig>&#x90;tienne</orig></name><funktion> canonicus</funktion><ort>Paris</ort><Bemerkungen>frz.</Bemerkungen></e>
 </u>
 <u><nr>8216</nr><Referenz>8216</Referenz>
 <e><name>R(omanus)</name><funktion>diac.card. S.Angeli; apost.leg.</funktion></e>
@@ -1580,12 +1601,24 @@
 <e><institution>monasterium</institution><ort>Osterholte</ort><Bemerkungen>zu Bremen und Verden</Bemerkungen><P>S.Maria</P></e>
 </u>
 <u><nr>8335</nr><Referenz>8335</Referenz>
-<e><name>Iohannes</name><funktion>ep.</funktion><ort>Sabinensis</ort></e>
-<e><name>Iohannes</name><funktion>apost.leg.</funktion><ort>Hispania<orig>apost.leg. in Hispania</orig></ort></e>
+<e>
+            <name>Iohannes</name>
+            <funktion>apost.leg.
+                <ort>Hispania<orig>apost.leg. in Hispania</orig></ort></funktion>
+            <funktion>ep.
+                <ort>Sabinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>8336</nr><Referenz>8336</Referenz>
-<e><name>Iohannes</name><funktion>ep.</funktion><ort>Sabinensis</ort></e>
-<e><name>Iohannes</name><funktion>apost.leg.</funktion><ort>Hispania<orig>apost.leg. in Hispania</orig></ort></e>
+<e>
+            <name>Iohannes</name>
+            <funktion>apost.leg.
+                <ort>Hispania<orig>apost.leg. in Hispania</orig></ort></funktion>
+            <funktion>ep.
+                <ort>Sabinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>8336a</nr><Referenz>8336a</Referenz>
 <e><name>Iohannes</name><funktion>ep.; apost.leg. in Hispania</funktion><ort>Sabinensis</ort></e>
@@ -1627,8 +1660,13 @@
 <e><funktion>universi Christifideles</funktion></e>
 </u>
 <u><nr>8348</nr><Referenz>8348</Referenz>
-<e><name>Aegidius</name><funktion>subdiac.; capellanus suus</funktion></e>
-<e><name>Aegidius</name><funktion>leg.</funktion><ort>apud Bosnensis</ort></e>
+<e>
+            <name>Aegidius</name>
+            <funktion>leg.
+                <ort>apud Bosnensis</ort></funktion>
+            <funktion>subdiac.; capellanus suus</funktion>
+        </e>
+
 </u>
 <u><nr>8349</nr><Referenz>8349</Referenz>
 <e><repetit> 7896</repetit></e>
@@ -1729,7 +1767,7 @@
 <e><funktion>universi Christi fideles accedentes</funktion><institution>hospitale constructum ab Elisabeth relicta Ludovici lantgravii Thuringiae</institution><ort>Teutonia</ort></e>
 </u>
 <u><nr>8378</nr><Referenz>8378</Referenz>
-<e><funktion>abbatissa; conventus</funktion><institution>monasterium monialium</institution><ort>monasterium superius</ort><ortsbestimmung>Ratispona</ortsbestimmung><Bemerkungen>Niedermnster</Bemerkungen></e>
+<e><funktion>abbatissa; conventus</funktion><institution>monasterium monialium</institution><ort>monasterium superius</ort><ortsbestimmung>Ratispona</ortsbestimmung><Bemerkungen>Niederm&#x81;nster</Bemerkungen></e>
 </u>
 <u><nr>8379</nr><Referenz>8379</Referenz>
 <e><funktion>magister; fratres</funktion><institution>OPr</institution></e>
@@ -1966,7 +2004,7 @@
 <e><funktion>ep.</funktion><ort>Lucanus</ort></e>
 </u>
 <u><nr>8445</nr><Referenz>8445</Referenz>
-<e><name>ohne Empf„nger</name><Bemerkungen>riesige Exkommunikationsbulle fr alles, eingeschlossen Friedrich II.</Bemerkungen></e>
+<e><name>ohne Empf„nger</name><Bemerkungen>riesige Exkommunikationsbulle f&#x81;r alles, eingeschlossen Friedrich II.</Bemerkungen></e>
 </u>
 <u><nr>8446</nr><Referenz>8446</Referenz>
 <e><funktion>archiepp.; epp.; alii praelati</funktion></e>
@@ -2386,10 +2424,10 @@
 <e><funktion>prior</funktion><ort>de Scona</ort><ortsbestimmung>S.Andreas dioc.</ortsbestimmung></e>
 </u>
 <u><nr>8570</nr><Referenz>8570</Referenz>
-<e><name>Bertoldus</name><funktion>patriarcha</funktion><ort>Aquilega</ort><Bemerkungen>mhsam erschlossen, ev. falsch; ital.</Bemerkungen></e>
+<e><name>Bertoldus</name><funktion>patriarcha</funktion><ort>Aquilega</ort><Bemerkungen>m&#x81;hsam erschlossen, ev. falsch; ital.</Bemerkungen></e>
 </u>
 <u><nr>8571</nr><Referenz>8571</Referenz>
-<e><funktion>abbas</funktion><ort>Prle</ort><ortsbestimmung>Ratispona</ortsbestimmung></e>
+<e><funktion>abbas</funktion><ort>Pr&#x81;le</ort><ortsbestimmung>Ratispona</ortsbestimmung></e>
 <e><funktion>praep.</funktion><ort>Ratispona</ort><P>S.Magnus</P></e>
 <e><funktion>decanus</funktion><institution>Vetus Capella</institution><ort>Ratispona</ort></e>
 </u>
@@ -2467,8 +2505,14 @@
 <e><funktion>magister; fratres</funktion><institution>militia Christi</institution><ort>Prussia</ort></e>
 </u>
 <u><nr>8594</nr><Referenz>8594</Referenz>
-<e><name>Fridericus</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
-<e><name>Fridericus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Fridericus</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>8595</nr><Referenz>8595</Referenz>
 <e><name>Nicolaus</name><funktion>ep.</funktion><ort>Reginus</ort></e>
@@ -2574,8 +2618,14 @@
 <e><funktion>rectores</funktion><institution>societas</institution><ort>Lombardia</ort></e>
 </u>
 <u><nr>8626</nr><Referenz>8626</Referenz>
-<e><name>Fridericus</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
-<e><name>Fridericus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Fridericus</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>8627</nr><Referenz>8627</Referenz>
 <e><funktion>generalis minister; provinziales ministri; custodes; ceteri fratres</funktion><institution>OMin</institution></e>
@@ -2596,12 +2646,24 @@
 <e><funktion>praep.; capitulum</funktion><ort>Rigensis</ort></e>
 </u>
 <u><nr>8633</nr><Referenz>8633</Referenz>
-<e><name>Fridericus</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
-<e><name>Fridericus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Fridericus</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>8634</nr><Referenz>8634</Referenz>
-<e><name>Fridericus</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
-<e><name>Fridericus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Fridericus</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>8635</nr><Referenz>8635</Referenz>
 <e><funktion>abbas; conventus</funktion><ort>Paris</ort><P>S.Dionysius</P></e>
@@ -2669,8 +2731,14 @@
 <e><name>Adam</name><funktion>presb.</funktion><institution>eccl.</institution><ort>Znoym</ort><ortsbestimmung>Olomucensis dioc.</ortsbestimmung><P>S.Michael</P></e>
 </u>
 <u><nr>8653</nr><Referenz>8653</Referenz>
-<e><name>Fridericus</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
-<e><name>Fridericus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Fridericus</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>8654</nr><Referenz>8654</Referenz>
 <e><name>Fridericus</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
@@ -2701,16 +2769,34 @@
 <e><name>Palmerius</name><funktion>canonicus</funktion><institution>ord.Aug</institution><ort>de Campanolis</ort><ortsbestimmung>Reginensis dioc.</ortsbestimmung><P>S.Trinitas</P></e>
 </u>
 <u><nr>8663</nr><Referenz>8663</Referenz>
-<e><name>Fridericus</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
-<e><name>Fridericus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Fridericus</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>8664</nr><Referenz>8664</Referenz>
-<e><name>Fridericus</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
-<e><name>Fridericus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Fridericus</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>8665</nr><Referenz>8665</Referenz>
-<e><name>Fridericus</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
-<e><name>Fridericus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Fridericus</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>8666</nr><Referenz>8666</Referenz>
 <e><funktion>archiep.</funktion><ort>Reginus</ort></e>
@@ -2747,8 +2833,14 @@
 <e><funktion>vicedomini</funktion><institution>episcopatus</institution><ort>Florentinus</ort></e>
 </u>
 <u><nr>8677</nr><Referenz>8677</Referenz>
-<e><name>Fridericus</name><funktion>imperator</funktion><ort>Romanorum </ort></e>
-<e><name>Fridericus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Fridericus</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum </ort></funktion>
+        </e>
+
 </u>
 <u><nr>8678</nr><Referenz>8678</Referenz>
 <e><funktion>fratres</funktion><institution>hospitale</institution><ort>Marburg</ort><P>S.Franciscus</P></e>
@@ -2998,12 +3090,24 @@
 <e><name>Alfonsus</name><funktion>rex</funktion><ort>Legionensis</ort><Bemerkungen>sehr unklar</Bemerkungen></e>
 </u>
 <u><nr>8749</nr><Referenz>8749</Referenz>
-<e><name>Fredericus</name><funktion>imperator</funktion><ort>Romanorum </ort></e>
-<e><name>Fredericus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Fredericus</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum </ort></funktion>
+        </e>
+
 </u>
 <u><nr>8750</nr><Referenz>8750</Referenz>
-<e><name>Fredericus</name><funktion>imperator</funktion><ort>Romanorum </ort></e>
-<e><name>Fredericus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Fredericus</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum </ort></funktion>
+        </e>
+
 </u>
 <u><nr>8751</nr><Referenz>8751</Referenz>
 <e><funktion>abbatissa; sorores inclusae in Moravia constitutae</funktion><institution>monasterium</institution><ort>Daubrawniensis</ort><P>S.Franciscus</P></e>
@@ -3020,7 +3124,7 @@
 <e><funktion>suffraganei archiep.</funktion><ort>Trevirensis</ort></e>
 </u>
 <u><nr>8754a</nr><Referenz>8754a</Referenz>
-<e><funktion>praep.; capitulum</funktion><institution>conventus; ord.Aug</institution><ort>Novummonasterium</ort><ortsbestimmung>Bremensis dioc.</ortsbestimmung><Bemerkungen><kommentar>Neumnster</kommentar></Bemerkungen></e>
+<e><funktion>praep.; capitulum</funktion><institution>conventus; ord.Aug</institution><ort>Novummonasterium</ort><ortsbestimmung>Bremensis dioc.</ortsbestimmung><Bemerkungen><kommentar>Neum&#x81;nster</kommentar></Bemerkungen></e>
 </u>
 <u><nr>8755</nr><Referenz>8755</Referenz>
 <e><funktion>archidiac.; decanus</funktion><ort>Wratizlaviensis</ort></e>
@@ -3039,8 +3143,14 @@
 <e><funktion>abbas; conventus</funktion><ort>Vallisumbrosa</ort></e>
 </u>
 <u><nr>8760</nr><Referenz>8760</Referenz>
-<e><name>Fredericus</name><funktion>imperator</funktion><ort>Romanorum </ort></e>
-<e><name>Fredericus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Fredericus</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum </ort></funktion>
+        </e>
+
 </u>
 <u><nr>8761</nr><Referenz>8761</Referenz>
 <e><funktion>archiep.</funktion><ort>Capua</ort></e>
@@ -3053,8 +3163,14 @@
 <e><funktion>universi Christi fideles</funktion><institution>provinciae</institution><ort>Pomezania <orig>Pomerania; Pozolucensis</orig></ort></e>
 </u>
 <u><nr>8764</nr><Referenz>8764</Referenz>
-<e><name>F(ridericus)</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
-<e><name>F(ridericus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>F(ridericus)</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>8765</nr><Referenz>8765</Referenz>
 <e><name>Georgius</name><funktion>rex</funktion><ort>Russia</ort></e>
@@ -3092,8 +3208,14 @@
 <e><name>Iosephus</name><funktion>frater; monachus</funktion><institution>Florensis</institution><ort>Cusentina dioc.</ort></e>
 </u>
 <u><nr>8775</nr><Referenz>8775</Referenz>
-<e><name>Fridericus</name><funktion>imperator</funktion><ort>Romanorum </ort></e>
-<e><name>Fridericus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Fridericus</name>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum </ort></funktion>
+        </e>
+
 </u>
 <u><nr>8776</nr><Referenz>8776</Referenz>
 <e><name>Bartholomaeus</name><funktion>ep.</funktion><ort>Quinqueecclesiensis</ort></e>
@@ -3336,8 +3458,14 @@
 <e><funktion>praep.</funktion><ort>Pragensis</ort></e>
 </u>
 <u><nr>8842</nr><Referenz>8842</Referenz>
-<e><name>Fridericus</name><funktion>imperator</funktion><ort>Romanorum; </ort></e>
-<e><name>Fridericus</name><funktion>rex</funktion><ort>Hierusalem ;Sicilia</ort></e>
+<e>
+            <name>Fridericus</name>
+            <funktion>rex
+            <ort>Hierusalem; Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>8843</nr><Referenz>8843</Referenz>
 <e><name>O(tto)</name><funktion>dux</funktion><ort>Brunsuic</ort></e>
@@ -3533,8 +3661,16 @@
 <e><name>(Cunradus)</name><funktion>praep.</funktion><ort>Neuburgensis</ort></e>
 </u>
 <u><nr>8903</nr><Referenz>8903</Referenz>
-<e><name>W(illelmus)</name><funktion>decanus</funktion><ort>Colonia</ort><P>S.Maria ad gradus</P></e>
-<e><name>W(illelmus)</name><funktion>canonicus</funktion><institution>Colonia</institution><P>S.Maria ad gradus</P></e>
+<e>
+            <name>W(illelmus)</name>
+            <funktion>canonicus
+            <institution>Colonia</institution>
+                <P>S.Maria ad gradus</P></funktion>
+            <funktion>decanus
+            <ort>Colonia</ort>
+                <P>S.Maria ad gradus</P></funktion>
+        </e>
+
 </u>
 <u><nr>8904</nr><Referenz>8904</Referenz>
 <e><funktion>abbas; conventus</funktion><institution>monasterium; OSB</institution><ort>Herilacensis <orig>[St.-Jean-de- Cerlier]</orig></ort><ortsbestimmung>Lausannensis dioc.</ortsbestimmung></e>
@@ -3749,8 +3885,14 @@
 <e><name>Milo</name><funktion>magister; canonicus</funktion><ort>Noviomensis</ort></e>
 </u>
 <u><nr>8966</nr><Referenz>8966</Referenz>
-<e><name>Fredericus</name><funktion>imperator</funktion><ort>Romanorum</ort></e>
-<e><name>Fredericus</name><funktion>rex</funktion><ort>Ierusalem ;Sicilia</ort></e>
+<e>
+            <name>Fredericus</name>
+            <funktion>rex
+            <ort>Ierusalem; Sicilia</ort></funktion>
+            <funktion>imperator
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>8967</nr><Referenz>8967</Referenz>
 <e><funktion>abbas</funktion><ort>S.Crux</ort><ortsbestimmung>Andreae dioc.</ortsbestimmung></e>
@@ -3784,8 +3926,14 @@
 <e><name>Gaufredus</name><ort>de Leziniaco</ort></e>
 </u>
 <u><nr>8975</nr><Referenz>8975</Referenz>
-<e><name>(Robertus)</name><funktion>archiep.</funktion><ort>Strigoniensis</ort></e>
-<e><name>(Robertus)</name><funktion>apost.leg.</funktion><ort>Cumania<orig>apost. leg. in Cumania</orig></ort></e>
+<e>
+            <name>(Robertus)</name>
+            <funktion>apost.leg.
+                <ort>Cumania<orig>apost. leg. in Cumania</orig></ort></funktion>
+            <funktion>archiep.
+                <ort>Strigoniensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>8976</nr><Referenz>8976</Referenz>
 <e><name>  (Stephanus)</name><funktion>ep.</funktion><ort>Zagrabiensis</ort></e>

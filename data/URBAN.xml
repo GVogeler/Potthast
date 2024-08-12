@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
 <u><nr>18119</nr><Referenz>18119</Referenz>
 <e><funktion>epp. cardd.;prebb. cardd.;diacc. cardd.</funktion></e>
 <e><funktion>potestas;capitaneus;consilium;commune</funktion><ort>Perusinus</ort></e>
@@ -1513,9 +1511,22 @@
 <e><name>Mansuetus</name><funktion>capellanus suus; poenitentiarius suus; frater</funktion><institution>OFM</institution></e>
 </u>
 <u><nr>18592</nr><Referenz>18592</Referenz>
-<e><name>Manfredus (de Robertis)</name><funktion>electus</funktion><ort>Verona</ort></e>
-<e><name>Manfredus (de Robertis)</name><funktion>rector</funktion><institution>marchia</institution><ort>Anconitana</ort></e>
-<e><name>Manfredus (de Robertis)</name><funktion>rector</funktion><institution>ducatus</institution><ort>Spoletanus</ort></e>
+<e>
+            <name>Manfredus (de Robertis)</name>
+            <funktion>rector</funktion>
+            <institution>marchia</institution>
+            <ort>Anconitana</ort>
+        </e><e>
+            <name>Manfredus (de Robertis)</name>
+            <funktion>rector
+                <institution>ducatus <ort>Spoletanus</ort></institution>
+                <institution>marchia <ort>Anconitana</ort></institution>
+                </funktion>
+            <funktion>electus
+                <ort>Verona</ort></funktion>
+        </e>
+
+
 </u>
 <u><nr>18593</nr><Referenz>18593</Referenz>
 <e><funktion>potestas; commune</funktion><ort>Callensis</ort></e>
@@ -2143,8 +2154,24 @@
 <e><institution>monasterium</institution><ort>S.Maria Montis Virginis</ort><ortsbestimmung>Avellina dioc.</ortsbestimmung></e>
 </u>
 <u><nr>18781</nr><Referenz>18781</Referenz>
-<e><name>(Albertus)</name><funktion>ep.</funktion><ort>Ferrara</ort></e>
-<e><name>(Albertus)</name><funktion>ep.</funktion><ort>Tervisinus</ort></e>
+<e>
+            <name>(Albertus)</name>
+            <funktion>ep.</funktion>
+            <ort>Tervisinus</ort>
+        </e><e>
+            <name>(Albertus)</name>
+            <funktion>ep.</funktion>
+            <ort>Ferrara</ort>
+        </e><e>
+            <name>(Albertus)</name>
+            <funktion>ep.</funktion>
+            <ort>Tervisinus</ort>
+        </e><e>
+            <name>(Albertus)</name>
+            <funktion>ep.</funktion>
+            <ort>Ferrara</ort>
+        </e>
+
 </u>
 <u><nr>18782</nr><Referenz>18782</Referenz>
 <e><name>Thrugotus</name><funktion>ep.</funktion><ort>Revaliensis</ort></e>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="Honorius3-1" papst="Honorius III.">
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="Honorius3-1" papst="Honorius III.">
 <u><nr>5317</nr><Referenz>5317</Referenz>
 <e><name>(Iohannes)</name><funktion>rex</funktion><ort>Ierusalem</ort></e></u>
 <u><nr>5318</nr><Referenz>5318</Referenz>
@@ -161,7 +159,7 @@
 <u><nr>5374</nr><Referenz>5374</Referenz>
 <e><name>(Aimardus)</name><funktion>ep.</funktion><ort>Suessionae</ort></e>
 <e><name>(Giraldus)</name><funktion>abbas</funktion><ort>Cluniacum</ort></e>
-<e><name>(Galcherius)</name><funktion>abbas</funktion><ort>Longuspons</ort><Bemerkungen>frz., von mir bers.</Bemerkungen></e></u>
+<e><name>(Galcherius)</name><funktion>abbas</funktion><ort>Longuspons</ort><Bemerkungen>frz., von mir &#x81;bers.</Bemerkungen></e></u>
 <u><nr>5375</nr><Referenz>5375</Referenz>
 <e><funktion>principes</funktion><ort>Anglia</ort></e></u>
 <u><nr>5376</nr><Referenz>5376</Referenz>
@@ -196,8 +194,18 @@
 <e><name>(Radulfus)</name><funktion>abbas</funktion><ort>Suessionae</ort><P>S.Iohannes in Vineis</P></e>
 <e><name>(Iohannes)</name><funktion>decanus</funktion><ort>Suessionae</ort></e></u>
 <u><nr>5389</nr><Referenz>5389</Referenz>
-<e><name>(Iohannes)</name><funktion>abbas</funktion><ort>Paris</ort><P>S.Genovefa</P></e>
-<e><name>(Iohannes)</name><funktion>prior</funktion><ort>Paris</ort><P>S.Martinus de Campis</P></e>
+<e>
+            <name>(Iohannes)</name>
+            <funktion>prior</funktion>
+            <ort>Paris</ort>
+            <P>S.Martinus de Campis</P>
+        </e><e>
+            <name>(Iohannes)</name>
+            <funktion>abbas</funktion>
+            <ort>Paris</ort>
+            <P>S.Genovefa</P>
+        </e>
+
 <e><funktion>cantor</funktion><ort>Paris</ort></e></u>
 <u><nr>5390</nr><Referenz>5390</Referenz>
 <e><funktion>burgenses</funktion><ort>Rupella <orig>La Rochelle</orig></ort></e></u>
@@ -299,8 +307,15 @@
 <e><funktion>ep.</funktion><ort>Agennensis</ort></e>
 <e><funktion>abbastes; priores; decani; praepositi; archidiaconi; archipresbyteri; universi clerici; universi laici</funktion><institution>provinciae praedicti archiepp. et epp.; dioceses praedicti archiepp. et epp.</institution><Bemerkungen>Zuordnung der Institutionen mal wieder unscharf.</Bemerkungen></e></u>
 <u><nr>5426</nr><Referenz>5426</Referenz>
-<e><name>W(illelmus)</name><funktion>comes</funktion><ort>Pambroch</ort><Bemerkungen>Ist auch Iustitiarius Angliae</Bemerkungen></e>
-<e><name>W(illelmus)</name><funktion>iustitiarius</funktion><ort>Anglia</ort></e><an>*
+<e>
+            <name>W(illelmus)</name>
+            <funktion>iustitiarius
+                <ort>Anglia</ort></funktion>
+            <funktion>comes
+                <ort>Pambroch</ort></funktion>
+            <Bemerkungen>Ist auch Iustitiarius Angliae</Bemerkungen>
+        </e>
+<an>*
 <e><funktion>Castallanus</funktion><ort>Corum<orig>(leg. Cornugallia)</orig></ort></e>
 <e><name> Robertus</name><ort>de Veteri Ponte</ort></e>
 <e><funktion>comes</funktion><ort>Cestria;Fetraria</ort></e>
@@ -372,8 +387,14 @@
 <e><name>(Cuno)</name><funktion>abbas</funktion><ort>Mons S.Mariae</ort></e>
 <e><funktion>fratres</funktion><ort>Mons S.Mariae</ort></e></u>
 <u><nr>5450</nr><Referenz>5450</Referenz>
-<e><name>Wlodislavus</name><funktion>dux</funktion><ort>de Kalis</ort></e>
-<e><name>Wlodislavus</name><funktion>dux</funktion><ort>Polonia</ort></e></u>
+<e>
+            <name>Wlodislavus</name>
+            <funktion>dux
+                <ort>Polonia</ort></funktion>
+            <funktion>dux
+                <ort>de Kalis</ort></funktion>
+        </e>
+</u>
 <u><nr>5451</nr><Referenz>5451</Referenz>
 <e><name>(Henricus)</name><funktion>archiep.</funktion><ort>Gnesnensis</ort></e>
 <e><funktion>suffraganei</funktion><ort>Gnesnensis</ort></e></u>
@@ -529,8 +550,14 @@
 <u><nr>5512</nr><Referenz>5512</Referenz>
 <e><name>(Ulricus)</name><funktion>abbas</funktion><ort>S.Gallus</ort></e></u>
 <u><nr>5513</nr><Referenz>5513</Referenz>
-<e><name>Fridericus</name><funktion>rex</funktion><ort>Sicilia</ort></e>
-<e><name>Fridericus</name><funktion>in imperatorem electus</funktion><ort>Romanorum </ort></e></u>
+<e>
+            <name>Fridericus</name>
+            <funktion>in imperatorem electus
+            <ort>Romanorum </ort></funktion>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+        </e>
+</u>
 <u><nr>5514</nr><Referenz>5514</Referenz>
 <e><funktion>universi principes tam ecclesiastici quam mundani</funktion><ort>Alamanniae</ort></e></u>
 <u><nr>5515</nr><Referenz>5515</Referenz>
@@ -596,8 +623,18 @@
 <e><funktion>capitulum</funktion><ort>Paris</ort></e></u>
 <u><nr>5539</nr><Referenz>5539</Referenz>
 <e><name>(Guarinus)</name><funktion>ep.</funktion><ort>Silvanectensis</ort></e>
-<e><name>(Iohannes)</name><funktion>abbas</funktion><ort>Paris</ort><P>S.Genovefa</P></e>
-<e><name>(Iohannes)</name><funktion>prior</funktion><ort>Paris</ort><P>S.Martinus de Campis</P></e></u>
+<e>
+            <name>(Iohannes)</name>
+            <funktion>prior</funktion>
+            <ort>Paris</ort>
+            <P>S.Martinus de Campis</P>
+        </e><e>
+            <name>(Iohannes)</name>
+            <funktion>abbas</funktion>
+            <ort>Paris</ort>
+            <P>S.Genovefa</P>
+        </e>
+</u>
 <u><nr>5540</nr><Referenz>5540</Referenz>
 <e><funktion>archiepp.; epp.</funktion><institution>regnum</institution><ort>Francia</ort></e></u>
 <u><nr>5541</nr><Referenz>5541</Referenz>
@@ -896,7 +933,7 @@
 <u><nr>5664</nr><Referenz>5664</Referenz>
 <e><name>Petrus</name><funktion>prior</funktion><ort>Interamnensis</ort></e>
 <e><funktion>clerici</funktion><ort>Interamnensis</ort></e></u>
-<u><nr>5665 </nr><fehlt /><Referenz>5665 </Referenz></u>
+<u><nr>5665 </nr><fehlt/><Referenz>5665 </Referenz></u>
 <u><nr>5666</nr><Referenz>5666</Referenz>
 <e><funktion>abbas; conventus</funktion><institution>monasterium; OCist</institution><ort>Otterburg</ort><Bemerkungen>Otterberg, Pfalz</Bemerkungen></e></u>
 <u><nr>5667</nr><Referenz>5667</Referenz>
@@ -945,8 +982,14 @@
 <u><nr>5684</nr><Referenz>5684</Referenz>
 <e><funktion>ep.</funktion><ort>Vesprimia</ort></e></u>
 <u><nr>5685</nr><Referenz>5685</Referenz>
-<e><name>F(ridericus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
-<e><name>F(ridericus)</name><funktion>in imperatorem electus</funktion><ort>Romanorum</ort></e></u>
+<e>
+            <name>F(ridericus)</name>
+            <funktion>in imperatorem electus
+            <ort>Romanorum</ort></funktion>
+            <funktion>rex
+            <ort>Sicilia</ort></funktion>
+        </e>
+</u>
 <u><nr>5686</nr><Referenz>5686</Referenz>
 <e><name>(Eustachius)</name><funktion>OPraem</funktion><institution>Vallis Secreta</institution><ort>Suessionensis dioc.</ort></e>
 <e><name>R(adulfus)</name><funktion>abbas</funktion><ort>S.Iohannes in Vineis</ort></e>
@@ -987,8 +1030,16 @@
 <e><name>(Guido)</name><funktion>abbas</funktion><ort>Morimundum</ort></e>
 <e><name>(Herveus)</name><funktion>abbas</funktion><ort>Blesensis</ort><P>S.Maria de Burgomedio</P></e></u>
 <u><nr>5700</nr><Referenz>5700</Referenz>
-<e><name>(Petrus)</name><funktion>archiep.</funktion><ort>Senonensis</ort></e>
-<e><name>(Petrus)</name><funktion>ep.</funktion><ort>Paris</ort></e>
+<e>
+            <name>(Petrus)</name>
+            <funktion>ep.</funktion>
+            <ort>Paris</ort>
+        </e><e>
+            <name>(Petrus)</name>
+            <funktion>archiep.</funktion>
+            <ort>Senonensis</ort>
+        </e>
+
 <e><funktion>epp.</funktion><ort>Autissiodorum; Trecensis; Meldensis; Nivernensis</ort></e>
 <e><funktion>decanus; capitulum</funktion><ort>Carnotensis</ort></e></u>
 <u><nr>5701</nr><Referenz>5701</Referenz>

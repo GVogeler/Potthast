@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="inno3-2" papst="Innocenz III.">
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="inno3-2" papst="Innocenz III.">
  <u><nr>2113</nr><Referenz>2113</Referenz>
 <e><funktion>ep.; thesaurarius</funktion><ort>Martoranum <kommentar>Martorano</kommentar></ort></e>
 <e><funktion>abbas</funktion><ort>de Coratio</ort></e>
@@ -327,7 +325,7 @@
 <e><name>(Magerius)</name><funktion>ep.</funktion><ort>Wigorniensis</ort></e>
 </u>
 <u><nr>2206</nr><Referenz>2206</Referenz>
-<e><institution>hospitale</institution><ort>Thuregum <kommentar>Turicum Zrich</kommentar></ort></e>
+<e><institution>hospitale</institution><ort>Thuregum <kommentar>Turicum Z&#x81;rich</kommentar></ort></e>
 </u>
 <u><nr>2207</nr><Referenz>2207</Referenz>
 <e><name>(Henricus)</name><funktion>ep.</funktion><ort>Mantua</ort></e>
@@ -387,12 +385,28 @@
 <e><name>(Theodoricus)</name><funktion>praep.</funktion><ort>Colonia</ort><P>S.Cunivertus</P></e>
 </u>
 <u><nr>2224</nr><Referenz>2224</Referenz>
-<e><name>(Arnaldus Amalrici)</name><funktion>abbas</funktion><institution>OCist</institution></e>
-<e><name>(Arnaldus Amalrici)</name><funktion>apost.leg.</funktion></e>
-<e><name>P(etrus)</name><funktion>monachus</funktion><ort>Castrum Novum</ort><Bemerkungen>de Castro Novo ev. Name, aber eher Kloster, oder Froidmont?</Bemerkungen></e>
-<e><name>P(etrus)</name><funktion>apost.leg.</funktion></e>
-<e><name>R(odulphus)</name><funktion>monachus</funktion><ort>Mons Frigidus <kommentar>Froidmont</kommentar></ort></e>
-<e><name>R(odulphus)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>(Arnaldus Amalrici)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>abbas
+                <institution>OCist</institution></funktion>
+        </e>
+
+<e>
+            <name>P(etrus)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>monachus
+                <ort>Castrum Novum</ort></funktion>
+                <Bemerkungen>de Castro Novo ev. Name, aber eher Kloster, oder Froidmont?</Bemerkungen>
+        </e>
+
+<e>
+            <name>R(odulphus)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>monachus
+                <ort>Mons Frigidus <kommentar>Froidmont</kommentar></ort></funktion>
+        </e>
+
 </u>
 <u><nr>2225</nr><Referenz>2225</Referenz>
 <e><name>(Philippus</name><funktion>rex</funktion><ort>Franci</ort></e>
@@ -409,11 +423,21 @@
 <e><name>magister A. de Wilna</name><funktion> rector</funktion><institution>eccl.</institution><ort>de Bareswuh</ort><ortsbestimmung>Lincolniensis dioc.</ortsbestimmung></e>
 </u>
 <u><nr>2229</nr><Referenz>2229</Referenz>
-<e><name>(Arnaldus Amalrici)</name><funktion>abbas</funktion><institution>OCist</institution></e>
-<e><name>(Arnaldus Amalrici)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>(Arnaldus Amalrici)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>abbas
+                <institution>OCist</institution></funktion>
+        </e>
+
 <e><name>P(etrus)</name><funktion>monachus</funktion><ort>Castrum Novum</ort><Bemerkungen>de Castro Novo ev. Name, aber eher Kloster, oder Froidmont?</Bemerkungen></e>
-<e><name>R(odulphus)</name><funktion>monachus</funktion><ort>Mons Frigidus <kommentar>Froidmont</kommentar></ort></e>
-<e><name>R(odulphus)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>R(odulphus)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>monachus
+                <ort>Mons Frigidus <kommentar>Froidmont</kommentar></ort></funktion>
+        </e>
+
 <e><name>P(etrus) de Castronovo</name><funktion>monachus; apost.leg.</funktion></e>
 </u>
 <u><nr>2230</nr><Referenz>2230</Referenz>
@@ -490,15 +514,23 @@
 </u>
 <u><nr>2251</nr><Referenz>2251</Referenz>
 <e><name>(Rostagnus)</name><funktion>ep.</funktion><ort>Avenionensis</ort></e>
-<e><name>(Bertrandus)</name><funktion>ep.</funktion><ort>Tricastrinensis</ort></e>
-<e><name>(Bertrandus)</name><funktion>ep.</funktion><ort>Cavallicensis</ort></e>
+<e>
+            <name>(Bertrandus)</name>
+            <funktion>ep.</funktion>
+            <ort>Cavallicensis</ort>
+        </e><e>
+            <name>(Bertrandus)</name>
+            <funktion>ep.</funktion>
+            <ort>Tricastrinensis</ort>
+        </e>
+
 </u>
 <u><nr>2252</nr><Referenz>2252</Referenz>
 <e><name>(Reginaldus)</name><funktion>ep.</funktion><ort>Laudunensis</ort></e>
 <e><funktion>capitulum</funktion><ort>Laudunensis</ort></e>
 </u>
 <u><nr>2253</nr><Referenz>2253</Referenz>
-<e><name>Iohannes Oddonis</name><funktion>consobrinus suus</funktion><Bemerkungen>Oddonis nicht klar, das Regest ist berhaupt sprachlich undurchsichtig</Bemerkungen></e>
+<e><name>Iohannes Oddonis</name><funktion>consobrinus suus</funktion><Bemerkungen>Oddonis nicht klar, das Regest ist &#x81;berhaupt sprachlich undurchsichtig</Bemerkungen></e>
 </u>
 <u><nr>2254</nr><Referenz>2254</Referenz>
 <e><funktion>capitulum</funktion><ort>Vicentinus</ort></e>
@@ -1111,7 +1143,7 @@
 <u><nr>2439</nr><Referenz>2439</Referenz>
 <e><name>(Hubertus)</name><funktion>archiep.</funktion><ort>Cantuaria</ort></e>
 <e><name>(Eustachius)</name><funktion>ep.</funktion><ort>Elia</ort></e>
-<e><name>(Willelmus)</name><funktion>ep.</funktion><ort>Londonia</ort><Bemerkungen>hier Londinia, auch im Graesse aufgefhrt</Bemerkungen></e>
+<e><name>(Willelmus)</name><funktion>ep.</funktion><ort>Londonia</ort><Bemerkungen>hier Londinia, auch im Graesse aufgef&#x81;hrt</Bemerkungen></e>
 </u>
 <u><nr>2440</nr><Referenz>2440</Referenz>
 <e><name>(Obizo)</name><funktion>ep.</funktion><ort>Terdonensis</ort></e>
@@ -1261,7 +1293,7 @@
 <e><name>(Radulfus)</name><funktion>ep.</funktion><ort>Atrebatensis</ort></e>
 </u>
 <u><nr>2482</nr><Referenz>2482</Referenz>
-<e><institution>Parthenon</institution><ort>Gandersheim</ort><Bemerkungen><orig>Parthenoni - ist das ein Ausdruck fr das Nonnenkloster??</orig></Bemerkungen></e>
+<e><institution>Parthenon</institution><ort>Gandersheim</ort><Bemerkungen><orig>Parthenoni - ist das ein Ausdruck f&#x81;r das Nonnenkloster??</orig></Bemerkungen></e>
 </u>
 <u><nr>2483</nr><Referenz>2483</Referenz>
 <e><funktion>abbas</funktion><ort>de Strumis</ort><ortsbestimmung>Aretin. dioc.</ortsbestimmung></e>
@@ -1324,7 +1356,7 @@
 <e><name>(Maugerius)</name><funktion>ep.</funktion><ort>Wigorniensis</ort></e>
 </u>
 <u><nr>2502</nr><Referenz>2502</Referenz>
-<e><name>Savarico</name><funktion>ep.</funktion><ort>Bathoniensis; Glastoniensis</ort><Bemerkungen>hat offensichtlich zwei Bistmer</Bemerkungen></e>
+<e><name>Savarico</name><funktion>ep.</funktion><ort>Bathoniensis; Glastoniensis</ort><Bemerkungen>hat offensichtlich zwei Bist&#x81;mer</Bemerkungen></e>
 </u>
 <u><nr>2503</nr><Referenz>2503</Referenz>
 <e><funktion>prior</funktion><ort>S.Trinitas</ort></e>
@@ -1400,7 +1432,7 @@
 <e><name>Albero</name><funktion>abbas</funktion><institution>monasterium</institution><ort>Eberbac</ort><ortsbestimmung>beatae Mariae Virginis</ortsbestimmung><P>S.Maria</P></e>
 <e><name>fratres</name><funktion>monasterium</funktion><institution>Eberbac</institution><ort>beatae Mariae Virginis</ort><P>S.Maria</P></e>
 </u>
-<u><nr>2523 </nr><fehlt /><Referenz>2523 </Referenz></u>
+<u><nr>2523 </nr><fehlt/><Referenz>2523 </Referenz></u>
 <u><nr>2524</nr><Referenz>2524</Referenz>
 <e><funktion>consules; populus</funktion><ort>Mons Pessulanus</ort></e>
 </u>
@@ -1502,8 +1534,14 @@
 <e><name>(Berengarius)</name><funktion>archiep.</funktion><ort>Narbonensis</ort></e>
 </u>
 <u><nr>2553</nr><Referenz>2553</Referenz>
-<e><name>Andreas</name><funktion>dux; </funktion></e>
-<e><name>Andreas</name><funktion>gubernator</funktion><institution>regnum</institution><ort>Ungaria</ort></e>
+<e>
+            <name>Andreas</name>
+            <funktion>gubernator
+            <institution>regnum</institution>
+                <ort>Ungaria</ort></funktion>
+            <funktion>dux</funktion>
+        </e>
+
 </u>
 <u><nr>2554</nr><Referenz>2554</Referenz>
 <e><name>Bertrandus</name><funktion>ep.</funktion><ort>Agennensis</ort></e>
@@ -1529,13 +1567,23 @@
 <e><name>(Ingeburgam)</name><funktion>regina</funktion><ort>Franci</ort></e>
 </u>
 <u><nr>2561</nr><Referenz>2561</Referenz>
-<e><name>(Arnaldus Amalrici)</name><funktion>abbas</funktion><institution>OCist</institution></e>
-<e><name>(Arnaldus Amalrici)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>(Arnaldus Amalrici)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>abbas
+            <institution>OCist</institution></funktion>
+        </e>
+
 <e><name>P(etrus) de Castro Novo</name><funktion>monachus</funktion><ort>Mons Frigidus</ort><Bemerkungen>de Castro Novo ev. Name, aber eher Kloster?</Bemerkungen></e>
 <e><name>P(etrus)</name><ort>de Castro Novo</ort></e>
 <e><name>P(etrus) de Castro Novo</name><funktion>apost.leg.</funktion></e>
-<e><name>R(odulphus)</name><funktion>monachus</funktion><ort>Mons Frigidus <kommentar>Froidmont</kommentar></ort></e>
-<e><name>R(odulphus)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>R(odulphus)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>monachus
+                <ort>Mons Frigidus <kommentar>Froidmont</kommentar></ort></funktion>
+        </e>
+
 </u>
 <u><nr>2562</nr><Referenz>2562</Referenz>
 <e><name>B(artholomaeus)</name><funktion>archiep.; apost.leg.</funktion><ort>Tranensis</ort></e>
@@ -1600,8 +1648,14 @@
 <e><funktion>praep.; archidiac.; canonici; ministeriales</funktion><institution>eccl.</institution><ort>Trevirensis</ort></e>
 </u>
 <u><nr>2582</nr><Referenz>2582</Referenz>
-<e><name>Otto</name><funktion>rex</funktion><ort>Romanorum</ort></e>
-<e><name>Otto</name><funktion> in imperator electus</funktion><ort>Romanorum</ort></e>
+<e>
+            <name>Otto</name>
+            <funktion> in imperator electus
+            <ort>Romanorum</ort></funktion>
+            <funktion>rex
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>2583</nr><Referenz>2583</Referenz>
 <e><name>(Iohannes)</name><funktion>rex</funktion><ort>Angli</ort></e>
@@ -1715,8 +1769,16 @@
 <u><nr>2617</nr><Referenz>2617</Referenz>
 <e><name>C(ynthius)</name><funktion>presb.card.</funktion></e>
 <e><funktion>clerici</funktion><ort>in Lucina</ort><P>S.Laurentius</P></e>
-<e><name>G(regorius)</name><funktion>rector</funktion><institution>eccl.</institution><ort>S.Apollinaris</ort></e>
-<e><name>G(regorius)</name><funktion>presb.card.</funktion><ort>S.Vitalis</ort><Bemerkungen>Ist gleichzeitg rectr v. S.Apollinaris</Bemerkungen></e>
+<e>
+            <name>G(regorius)</name>
+            <funktion>presb.card.
+                <ort>S.Vitalis</ort></funktion>
+            <funktion>rector
+            <institution>eccl.</institution>
+                <ort>S.Apollinaris</ort></funktion>
+            <Bemerkungen>Ist gleichzeitg rectr v. S.Apollinaris</Bemerkungen>
+        </e>
+
 <e><funktion>clerici</funktion><institution>eccl.</institution><ort>S.Apollinaris</ort></e>
 </u>
 <u><nr>2618</nr><Referenz>2618</Referenz>
@@ -1748,7 +1810,7 @@
 <e><funktion>abbas</funktion><ort>Vallis Umbrosa</ort></e>
 <e><name>Gualandus</name><funktion>decanus</funktion><ort>Vallis Umbrosa</ort><Bemerkungen>er ist auáerdem auch noch: canonicus Pisanus; subdiaconus suus</Bemerkungen></e>
 </u>
-<u><nr>2626 </nr><fehlt /><Referenz>2626 </Referenz></u>
+<u><nr>2626 </nr><fehlt/><Referenz>2626 </Referenz></u>
 <u><nr>2627</nr><Referenz>2627</Referenz>
 <e><name>(Iohannes)</name><funktion>rex</funktion><ort>Anglia</ort></e>
 </u>
@@ -1953,8 +2015,14 @@
 <e><name>(Iohannes)</name><funktion>rex</funktion><ort>Angli</ort></e>
 </u>
 <u><nr>2689</nr><Referenz>2689</Referenz>
-<e><name>Otto</name><funktion>rex</funktion><ort>Romanorum</ort></e>
-<e><name>Otto</name><funktion>in imperator electus</funktion><ort>Romanorum</ort></e>
+<e>
+            <name>Otto</name>
+            <funktion>in imperator electus
+                <ort>Romanorum</ort></funktion>
+            <funktion>rex
+                <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>2690</nr><Referenz>2690</Referenz>
 <e><funktion>archiep.</funktion><ort>Eboracum</ort></e>
@@ -2711,8 +2779,13 @@
 <e><funktion>potestas; consules; cives</funktion><ort>Ferrara</ort></e>
 </u>
 <u><nr>2912</nr><Referenz>2912</Referenz>
-<e><name>R(odulphus)</name><funktion>monachus</funktion><ort>Mons Frigidus</ort></e>
-<e><name>R(odulphus)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>R(odulphus)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>monachus
+                <ort>Mons Frigidus</ort></funktion>
+        </e>
+
 </u>
 <u><nr>2913</nr><Referenz>2913</Referenz>
 <e><funktion>canonici</funktion><institution>eccl.</institution><ort>Paderburna</ort><P>SS.Apostoli Petrus et Andreas</P></e>
@@ -2781,7 +2854,7 @@
 <u><nr>2934</nr><Referenz>2934</Referenz>
 <e><name>Radulfus</name><funktion>ep.</funktion><ort>Atrebatensis</ort></e>
 </u>
-<u><nr>2935 </nr><fehlt /><Referenz>2935 </Referenz></u>
+<u><nr>2935 </nr><fehlt/><Referenz>2935 </Referenz></u>
 <u><nr>2936</nr><Referenz>2936</Referenz>
 <e><funktion>archiep.</funktion><ort>Burdegalensis <kommentar>Bordeaux</kommentar></ort></e>
 <e><funktion>abbas</funktion><ort>Silva maior</ort><ortsbestimmung>Burdegalensis dioc.</ortsbestimmung></e>
@@ -2803,7 +2876,7 @@
 <e><name>R.</name><funktion>archidiac.</funktion><ort>Macloviensis</ort></e>
 </u>
 <u><nr>2942</nr><Referenz>2942</Referenz>
-<e><institution>eccl.</institution><ort>Fessen</ort><P>S.Petrus</P></e>
+<e><institution>eccl.</institution><ort>F&#x81;essen</ort><P>S.Petrus</P></e>
 </u>
 <u><nr>2943</nr><Referenz>2943</Referenz>
 <e><name>B(runo)</name><funktion>archiep.</funktion><ort>Colonia</ort></e>
@@ -2815,7 +2888,7 @@
 <u><nr>2945</nr><Referenz>2945</Referenz>
 <e><name>(Conradus)</name><funktion>ep.</funktion><ort>Ratisbona</ort></e>
 <e><funktion>praep.</funktion><ort>Ratisbona</ort></e>
-<e><funktion>abbas</funktion><ort>Prel</ort><ortsbestimmung>Ratisbonensis dioc.</ortsbestimmung></e>
+<e><funktion>abbas</funktion><ort>Pr&#x81;el</ort><ortsbestimmung>Ratisbonensis dioc.</ortsbestimmung></e>
 </u>
 <u><nr>2946</nr><Referenz>2946</Referenz>
 <e><name>(Adam)</name><funktion>abbas</funktion><ort>Evesham</ort><ortsbestimmung>Wigorniensis dioc.</ortsbestimmung></e>
@@ -3184,7 +3257,7 @@
 </u>
 <u><nr>3052</nr><Referenz>3052</Referenz>
 <e><funktion>archiep.</funktion><ort>Turonensis</ort></e>
-<e><funktion>ep.</funktion><ort>Andegavensis</ort><Bemerkungen>ep. von mir erschlossen, ich halte das Fehlen fr ein Versehen</Bemerkungen></e>
+<e><funktion>ep.</funktion><ort>Andegavensis</ort><Bemerkungen>ep. von mir erschlossen, ich halte das Fehlen f&#x81;r ein Versehen</Bemerkungen></e>
 <e><funktion>abbas</funktion><ort>de Oratorio</ort><ortsbestimmung>Andegavensis dioc.</ortsbestimmung></e>
 </u>
 <u><nr>3053</nr><Referenz>3053</Referenz>
@@ -4646,8 +4719,14 @@
 <e><name>Gregorius)</name><funktion>diac.card. S.Theodori; apost.leg.</funktion></e>
 </u>
 <u><nr>3475</nr><Referenz>3475</Referenz>
-<e><name>Otto</name><funktion>rex</funktion><ort>Romanorum</ort></e>
-<e><name>Otto</name><funktion>in imperator electus</funktion><ort>Romanorum</ort></e>
+<e>
+            <name>Otto</name>
+            <funktion>in imperator electus
+            <ort>Romanorum</ort></funktion>
+            <funktion>rex
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>3476</nr><Referenz>3476</Referenz>
 <e><name>(Albertus)</name><funktion>archiep.</funktion><ort>Magdeburgum</ort></e>
@@ -4697,12 +4776,24 @@
 <e><institution>eccl.</institution><ort>de Cecano</ort><P>S.Maria de Flumine</P></e>
 </u>
 <u><nr>3490</nr><Referenz>3490</Referenz>
-<e><name>Otto</name><funktion>rex</funktion><ort>Romanorum</ort></e>
-<e><name>Otto</name><funktion>in imperator electus</funktion><ort>Romanorum</ort></e>
+<e>
+            <name>Otto</name>
+            <funktion>in imperator electus
+            <ort>Romanorum</ort></funktion>
+            <funktion>rex
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>3491</nr><Referenz>3491</Referenz>
-<e><name>Otto</name><funktion>rex</funktion><ort>Romanorum</ort></e>
-<e><name>Otto</name><funktion>in imperator electus</funktion><ort>Romanorum</ort></e>
+<e>
+            <name>Otto</name>
+            <funktion>in imperator electus
+            <ort>Romanorum</ort></funktion>
+            <funktion>rex
+            <ort>Romanorum</ort></funktion>
+        </e>
+
 </u>
 <u><nr>3492</nr><Referenz>3492</Referenz>
 <e><name>(Albertus)</name><funktion>archiep.</funktion><ort>Magdeburgum</ort></e>
@@ -5230,8 +5321,13 @@
 <e><funktion>abbas</funktion><institution>OCist</institution></e>
 </u>
 <u><nr>3644</nr><Referenz>3644</Referenz>
-<e><name>(Arnaldus)</name><funktion>abbas</funktion><institution>OCist</institution></e>
-<e><name>(Arnaldus)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>(Arnaldus)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>abbas
+                <institution>OCist</institution></funktion>
+        </e>
+
 </u>
 <u><nr>3645</nr><Referenz>3645</Referenz>
 <e><funktion>ep.</funktion><ort>Elia</ort></e>
@@ -5345,7 +5441,7 @@
 <e><name>Ricardus</name><funktion>germanus suus; comes</funktion><ort>Soranus</ort></e>
 </u>
 <u><nr>3676</nr><Referenz>3676</Referenz>
-<e><name> </name><funktion>potestates; consules; populi</funktion><institution>civitates</institution><ort>Lombardia</ort></e>
+<e><funktion>potestates; consules; populi</funktion><institution>civitates</institution><ort>Lombardia</ort></e>
 </u>
 <u><nr>3677</nr><Referenz>3677</Referenz>
 <e><name>Walterus <orig> legas Wolfgerus</orig></name><funktion>patriarcha</funktion><ort>Aquilega</ort></e>
@@ -5404,7 +5500,7 @@
 <u><nr>3692</nr><Referenz>3692</Referenz>
 <e><name>Petrus</name><funktion>archiep.</funktion><ort>Compostella</ort></e>
 </u>
-<u><nr>3693 </nr><fehlt /><Referenz>3693 </Referenz></u>
+<u><nr>3693 </nr><fehlt/><Referenz>3693 </Referenz></u>
 <u><nr>3694</nr><Referenz>3694</Referenz>
 <e><funktion>archiep.; capitulum</funktion><ort>Mediolanum</ort></e>
 </u>
@@ -5874,12 +5970,24 @@
 <e><funktion>abbates; praelati</funktion><ort>Narbona; Biterrensis; Tolosanus; Albigensis</ort></e>
 </u>
 <u><nr>3833</nr><Referenz>3833</Referenz>
-<e><name>Simon de Montiforti</name><funktion>comes</funktion><ort>Lecestria</ort></e>
-<e><name>Simon de Montiforti</name><funktion>vicecomes</funktion><ort>Biterrensis</ort></e>
+<e>
+            <name>Simon de Montiforti</name>
+            <funktion>vicecomes
+                <ort>Biterrensis</ort></funktion>
+            <funktion>comes
+                <ort>Lecestria</ort></funktion>
+        </e>
+
 </u>
 <u><nr>3834</nr><Referenz>3834</Referenz>
-<e><name>Simon de Montiforti</name><funktion>comes</funktion><ort>Lecestria</ort></e>
-<e><name>Simon de Montiforti</name><funktion>vicecomes</funktion><ort>Biterrensis</ort></e>
+<e>
+            <name>Simon de Montiforti</name>
+            <funktion>vicecomes
+                <ort>Biterrensis</ort></funktion>
+            <funktion>comes
+                <ort>Lecestria</ort></funktion>
+        </e>
+
 </u>
 <u><nr>3835</nr><Referenz>3835</Referenz>
 <e><funktion>abbates</funktion><ort>Paris</ort><P>S.Victor; S.Genovefa</P></e>
@@ -5894,8 +6002,8 @@
 <e><name>A. iuvenes Lupus</name><funktion>nobilis vir</funktion><Bemerkungen>Name ev, falsch verstanden</Bemerkungen></e>
 <e><name>W.</name><funktion>miles</funktion><ort>de Benteling</ort></e>
 <e><name>A. Luceman; O. frater eius</name><funktion>nobiles viri</funktion><ort>Eistetensis dioc.</ort></e>
-<e><funktion>abbas</funktion><ort>Prle</ort></e>
-<e><funktion>praep.; decanus</funktion><ort>Ratisbona</ort><Bemerkungen>kein Empfänger, Benennung von Richtern, es sind hier die Parteien aufgefhrt: Emmeram gegen 3 Adlige, die letzten beiden Nennungen sind die Richter.</Bemerkungen></e>
+<e><funktion>abbas</funktion><ort>Pr&#x81;le</ort></e>
+<e><funktion>praep.; decanus</funktion><ort>Ratisbona</ort><Bemerkungen>kein Empfänger, Benennung von Richtern, es sind hier die Parteien aufgef&#x81;hrt: Emmeram gegen 3 Adlige, die letzten beiden Nennungen sind die Richter.</Bemerkungen></e>
 </u>
 <u><nr>3838</nr><Referenz>3838</Referenz>
 <e><funktion>barones; milites qui cum Simone de Monteforti de signatorum exercitu remanserunt</funktion></e>
@@ -6032,7 +6140,7 @@
 <u><nr>3876</nr><Referenz>3876</Referenz>
 <e><name>(Gerardus)</name><funktion>abbas</funktion><ort>Cathalaunensis</ort></e>
 </u>
-<u><nr>3877 </nr><fehlt /><Referenz>3877 </Referenz></u>
+<u><nr>3877 </nr><fehlt/><Referenz>3877 </Referenz></u>
 <u><nr>3878</nr><Referenz>3878</Referenz>
 <e><funktion>ep.; decanus</funktion><ort>Aurelianensis</ort></e>
 </u>
@@ -6155,7 +6263,7 @@
 <e><funktion>plebani</funktion><ort>Chyrbe; Horbach</ort><ortsbestimmung>Ratisbona</ortsbestimmung></e>
 </u>
 <u><nr>3913</nr><Referenz>3913</Referenz>
-<e><name>Guillelmus</name><funktion>marchio</funktion><ort>Monsferratus</ort><Bemerkungen>eigentlich Bemerkung, daá er Bullen, die an den Markgraf von Montferrat gerichtet sind, bestimmten Leuten zur Beförderung bergeben hat.</Bemerkungen></e>
+<e><name>Guillelmus</name><funktion>marchio</funktion><ort>Monsferratus</ort><Bemerkungen>eigentlich Bemerkung, daá er Bullen, die an den Markgraf von Montferrat gerichtet sind, bestimmten Leuten zur Beförderung &#x81;bergeben hat.</Bemerkungen></e>
 </u>
 <u><nr>3914</nr><Referenz>3914</Referenz>
 <e><funktion>ep.</funktion><ort>Oscensis</ort></e>
@@ -6347,7 +6455,7 @@
 <u><nr>3965</nr><Referenz>3965</Referenz>
 <e><funktion>capitulum</funktion><ort>Tullensis</ort></e>
 </u>
-<u><nr>3966 </nr><fehlt /><Referenz>3966 </Referenz></u>
+<u><nr>3966 </nr><fehlt/><Referenz>3966 </Referenz></u>
 <u><nr>3967</nr><Referenz>3967</Referenz>
 <e><name>Donatus</name><funktion>archiep.</funktion><ort>Casselensis</ort></e>
 </u>

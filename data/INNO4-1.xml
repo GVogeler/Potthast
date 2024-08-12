@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
   <u><nr>11077</nr><Referenz>11077</Referenz>
 <e><name>(Arnoldus)</name><funktion>electus</funktion><ort>Trevirensis</ort></e>
 </u>
@@ -89,8 +87,13 @@
 <e><name>(Ludovicus)</name><funktion>rex</funktion><ort>Franci</ort></e>
 </u>
 <u><nr>11102</nr><Referenz>11102</Referenz>
-<e><name>(Willelmus)</name><funktion>quondam ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>(Willelmus)</name><funktion>poenitentiarius suus;apost.leg.</funktion></e>
+<e>
+            <name>(Willelmus)</name>
+            <funktion>poenitentiarius suus;apost.leg.</funktion>
+            <funktion>quondam ep.
+                <ort>Mutinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>11103</nr><Referenz>11103</Referenz>
 <e><name>(Christianus)</name><funktion>ep.</funktion><ort>Pruscia</ort></e>
@@ -2323,8 +2326,17 @@
 <e><funktion>abbas</funktion><institution>monasterium</institution><ort>S.Dionysius</ort><ortsbestimmung>Francia</ortsbestimmung></e>
 </u>
 <u><nr>11782</nr><Referenz>11782</Referenz>
-<e><name>Hugo magister</name><funktion>clericus</funktion><institution>epi</institution><ort>Glasguensis</ort></e>
-<e><name>Hugo magister</name><funktion>canonicus</funktion><institution>Dunkeldensis</institution><ort>Scotia</ort><inst2>regnum</inst2></e>
+<e>
+            <name>Hugo magister</name>
+            <funktion>canonicus
+            <institution>Dunkeldensis</institution>
+            <ort>Scotia</ort>
+                <inst2>regnum</inst2></funktion>
+            <funktion>clericus
+            <institution>epi</institution>
+                <ort>Glasguensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>11783</nr><Referenz>11783</Referenz>
 <e><funktion>praep.</funktion><institution>eccl.</institution><ort>Niumburgensis</ort><ortsbestimmung>Pataviensis dioc.</ortsbestimmung></e>
@@ -2917,7 +2929,7 @@
 <u><nr>11962</nr><Referenz>11962</Referenz>
 <e><funktion>generalis; provinciales; ceteri custodes</funktion><institution>OFM</institution></e>
 </u>
-<u><nr>11963</nr><fehlt /><Referenz>11963</Referenz>
+<u><nr>11963</nr><fehlt/><Referenz>11963</Referenz>
 </u>
 <u><nr>11964</nr><Referenz>11964</Referenz>
 <e><funktion>guardianus</funktion><institution>domus; OFM</institution><ort>Cathalaunensis</ort></e>

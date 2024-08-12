@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="inno3-1" papst="Innocenz III.">
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="inno3-1" papst="Innocenz III.">
 <u><nr>1</nr><Referenz>1</Referenz>
 <e><Bemerkungen>epistola Encycl.</Bemerkungen></e>
 <an>*
@@ -86,21 +84,27 @@
 <e><name>(Berardus)</name><funktion>ep.</funktion><ort>Ferentinas</ort></e>
 </u>
 <u><nr>25</nr><Referenz>25</Referenz>
-<e><name>(Guilelmus)</name><funktion>archiep.</funktion><ort>Remensis</ort></e>
-<e><name>(Guilelmus)</name><funktion>cardinalis</funktion><ort>S.Sabina</ort></e>
+<e>
+            <name>(Guilelmus)</name>
+            <funktion>cardinalis
+            <ort>S.Sabina</ort></funktion>
+            <funktion>archiep.
+            <ort>Remensis</ort></funktion>
+        </e>
+
 <e><name>(Michael)</name><funktion>archiep.</funktion><ort>Senonensis</ort></e>
 <e><name>(Ansello)</name><funktion>ep.</funktion><ort>Meldensis</ort></e>
 </u>
 <u><nr>26</nr><Referenz>26</Referenz>
 <e><funktion>ep.</funktion><ort>Sutrinensis</ort></e>
-<e><funktion>abbas</funktion><ort>S.Anastasius</ort><Bemerkungen>[gg dt Frsten]</Bemerkungen></e>
+<e><funktion>abbas</funktion><ort>S.Anastasius</ort><Bemerkungen>[gg dt F&#x81;rsten]</Bemerkungen></e>
 </u>
 <u><nr>27</nr><Referenz>27</Referenz>
 <e><funktion>ep.</funktion><ort>Sutrinensis</ort></e>
-<e><funktion>abbas</funktion><ort>S.Anastasius</ort><Bemerkungen>[gg dt Frsten]</Bemerkungen></e>
+<e><funktion>abbas</funktion><ort>S.Anastasius</ort><Bemerkungen>[gg dt F&#x81;rsten]</Bemerkungen></e>
 </u>
 <u><nr>28</nr><Referenz>28</Referenz>
-<e><name>Ano <orig>(et capitulum add. Hem.)</orig></name><funktion></funktion><ort>Parisiensis</ort></e>
+<e><name>Ano <orig>(et capitulum add. Hem.)</orig></name><ort>Parisiensis</ort></e>
 </u>
 <u><nr>29</nr><Referenz>29</Referenz>
 <e><name>(Ottoni)</name><funktion>ep.</funktion><ort>Spirensis</ort></e>
@@ -428,8 +432,14 @@
 <e><name>(Hugo)</name><funktion>electus</funktion><ort>Cameracensis</ort></e>
 </u>
 <u><nr>116</nr><Referenz>116</Referenz>
-<e><name>(Guillelmus)</name><funktion>archiep.</funktion><ort>Remensis</ort></e>
-<e><name>(Guillelmus)</name><funktion>cardinalis</funktion><ort>S.Sabina</ort></e>
+<e>
+            <name>(Guillelmus)</name>
+            <funktion>cardinalis
+                <ort>S.Sabina</ort></funktion>
+            <funktion>archiep.
+                <ort>Remensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>117</nr><Referenz>117</Referenz>
 <e><name>(Odo)</name><funktion>ep.</funktion><ort>Parisiensis</ort></e>
@@ -449,8 +459,14 @@
 <e><name>(Hugo)</name><funktion>electus</funktion><ort>Cameracensis</ort></e>
 </u>
 <u><nr>121</nr><Referenz>121</Referenz>
-<e><name>(Willielmus)</name><funktion>archiep.</funktion><ort>Remensis</ort></e>
-<e><name>(Willielmus)</name><funktion>cardinalis</funktion><ort>S.Sabina</ort></e>
+<e>
+            <name>(Willielmus)</name>
+            <funktion>cardinalis
+                <ort>S.Sabina</ort></funktion>
+            <funktion>archiep.
+                <ort>Remensis</ort></funktion>
+        </e>
+
 <e><funktion>abbas</funktion><ort>S.Remigius</ort></e>
 <e><funktion>decanus</funktion><ort>Remensis</ort></e>
 </u>
@@ -548,8 +564,14 @@
 <e><name>Berardus</name><funktion>archiep.</funktion><ort>Messanensis</ort></e>
 </o>
 <u><nr>148</nr><Referenz>148</Referenz>
-<e><name>Willielmus</name><funktion>archiep.</funktion><ort>Remensis</ort></e>
-<e><name>Willielmus</name><funktion>cardinalis</funktion><ort>S.Sabina</ort></e>
+<e>
+            <name>Willielmus</name>
+            <funktion>cardinalis
+            <ort>S.Sabina</ort></funktion>
+            <funktion>archiep.
+            <ort>Remensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>149</nr><Referenz>149</Referenz>
 <e><name>A(demarus)</name><funktion>ep.</funktion><ort>Pictavensis</ort></e>
@@ -581,12 +603,24 @@
 <e><name>(Iohannes)</name><funktion>rex</funktion><ort>Angli</ort><Bemerkungen>155 gibt's zweimal? falsche Nummer</Bemerkungen></e>
 </u>
 <u><nr>156</nr><Referenz>156</Referenz>
-<e><name>Willielmus</name><funktion>archiep.</funktion><ort>Remensis</ort></e>
-<e><name>Willielmus</name><funktion>cardinalis</funktion><ort>S.Sabina</ort></e>
+<e>
+            <name>Willielmus</name>
+            <funktion>cardinalis
+            <ort>S.Sabina</ort></funktion>
+            <funktion>archiep.
+            <ort>Remensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>157</nr><Referenz>157</Referenz>
-<e><name>Willielmus</name><funktion>archiep.</funktion><ort>Remensis</ort></e>
-<e><name>Willielmus</name><funktion>cardinalis</funktion><ort>S.Sabina</ort></e>
+<e>
+            <name>Willielmus</name>
+            <funktion>cardinalis
+            <ort>S.Sabina</ort></funktion>
+            <funktion>archiep.
+            <ort>Remensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>158</nr><Referenz>158</Referenz>
 <e><name>(Petrus)</name><funktion>abbas</funktion><institution>Praemonstratensis</institution></e>
@@ -1193,8 +1227,15 @@
 <e><funktion>decanus</funktion><ort>de Wirchia</ort><ortsbestimmung>Redonensis</ortsbestimmung></e>
 </u>
 <u><nr>322</nr><Referenz>322</Referenz>
-<e><name>R.</name><funktion>archipresb.</funktion><ort>Bituricenses</ort></e>
-<e><name>R.</name><funktion>magister</funktion><institution>scholarum</institution><ort>Bituricenses</ort></e>
+<e>
+            <name>R.</name>
+            <funktion>magister
+            <institution>scholarum
+                <ort>Bituricenses</ort></institution></funktion>
+            <funktion>archipresb.
+                <ort>Bituricenses</ort></funktion>
+        </e>
+
 <e><name>P(etrus)</name><ort>de Vico</ort></e>
 <e><name>e$P(etrus) de Vico</name><funktion>canonicus</funktion><institution>S.Austregisili</institution><ort>Bituricenses</ort></e>
 </u>
@@ -1224,8 +1265,13 @@
 <e><funktion>capituli</funktion><ort>Auriensis</ort><Bemerkungen>[statutum confirmat]</Bemerkungen></e>
 </u>
 <u><nr>331</nr><Referenz>331</Referenz>
-<e><name>R(ofredus)</name><funktion>presb.card. SS.Marcellini et Petri</funktion></e>
-<e><name>R(ofredus)</name><funktion>abbas</funktion><ort>Cassinensis</ort></e>
+<e>
+            <name>R(ofredus)</name>
+            <funktion>abbas
+                <ort>Cassinensis</ort></funktion>
+            <funktion>presb.card. SS.Marcellini et Petri</funktion>
+        </e>
+
 <e><funktion>conventus</funktion><ort>Cassinensis</ort></e>
 </u>
 <u><nr>332</nr><Referenz>332</Referenz>
@@ -1347,7 +1393,7 @@
 <e><funktion>fratres</funktion><institution>monasterium</institution><ort>b. Maria</ort><ortsbestimmung>de Patirio</ortsbestimmung></e>
 </u>
 <u><nr>358</nr><Referenz>358</Referenz>
-<e><funktion>prior</funktion><institution>eccl.</institution><ort>S.Nicolaus de Monte</ort><ortsbestimmung>secus Narniam constitutae</ortsbestimmung><Bemerkungen>secus fr diocesis verschrieben?;et ad Romanam eccl. nulo mediante pertinentis</Bemerkungen></e>
+<e><funktion>prior</funktion><institution>eccl.</institution><ort>S.Nicolaus de Monte</ort><ortsbestimmung>secus Narniam constitutae</ortsbestimmung><Bemerkungen>secus f&#x81;r diocesis verschrieben?;et ad Romanam eccl. nulo mediante pertinentis</Bemerkungen></e>
 </u>
 <u><nr>359</nr><Referenz>359</Referenz>
 <e><funktion>ep.</funktion><ort>Liddensis</ort></e>
@@ -1457,8 +1503,15 @@
 <e><funktion>decanus</funktion><ort>de Huntedon</ort></e>
 </u>
 <u><nr>389</nr><Referenz>389</Referenz>
-<e><name>(Adelardus)</name><funktion>ep.</funktion><ort>Veronensis</ort></e>
-<e><name>(Adelardus)</name><funktion>cardinalis</funktion><institution>eccl.</institution><ort>Romana</ort></e>
+<e>
+            <name>(Adelardus)</name>
+            <funktion>cardinalis
+            <institution>eccl.</institution>
+                <ort>Romana</ort></funktion>
+            <funktion>ep.
+                <ort>Veronensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>390</nr><Referenz>390</Referenz>
 <e><name>(Eiricus)</name><funktion>archiep.</funktion><ort>Nidrosiensis <orig>(Strigoniensi Decret.)</orig></ort></e>
@@ -1467,8 +1520,14 @@
 <e><name>Henricus Leonardus ;Marcus Mauricen.</name><funktion>civis</funktion><ort>Venetiae</ort></e>
 </u>
 <u><nr>392</nr><Referenz>392</Referenz>
-<e><name>R(ofredum)</name><funktion>tit. SS.Marcellini et Petri presb.card.</funktion></e>
-<e><name>R(ofredum)</name><funktion>abbas</funktion><institution>monasterium</institution><ort>Cassinensis</ort></e>
+<e>
+            <name>R(ofredum)</name>
+            <funktion>abbas
+            <institution>monasterium</institution>
+                <ort>Cassinensis</ort></funktion>
+            <funktion>tit. SS.Marcellini et Petri presb.card.</funktion>
+        </e>
+
 </u>
 <u><nr>393</nr><Referenz>393</Referenz>
 <e><institution>monasterium;OSB</institution><ort>de Amianis</ort><P>S.Felix</P></e>
@@ -1592,8 +1651,13 @@
 <e><funktion>priores</funktion><ort>S.Fridianus</ort></e>
 </u>
 <u><nr>426</nr><Referenz>426</Referenz>
-<e><name>Constancia</name><funktion>imperatrix</funktion></e>
-<e><name>Constancia</name><funktion>regina</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Constancia</name>
+            <funktion>regina
+                <ort>Sicilia</ort></funktion>
+            <funktion>imperatrix</funktion>
+        </e>
+
 <e><name>(Fredericus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
 </u>
 <u><nr>427</nr><Referenz>427</Referenz>
@@ -1611,8 +1675,13 @@
 <e><funktion>prior;conventus</funktion><ort>Cantuariensis</ort></e>
 </u>
 <u><nr>431</nr><Referenz>431</Referenz>
-<e><name>Constancia</name><funktion>imperatrix</funktion></e>
-<e><name>Constancia</name><funktion>regina</funktion><ort>Sicilia</ort></e>
+<e>
+            <name>Constancia</name>
+            <funktion>regina
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperatrix</funktion>
+        </e>
+
 <e><name>(Fredericus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
 <e><funktion>haeredes Constantiae imperatricis reginae ac Friderici regi</funktion><institution>Sicilia</institution></e>
 </u>
@@ -2460,8 +2529,15 @@
 </u>
 <u><nr>666</nr><Referenz>666</Referenz>
 <e><name>Gerardum</name><funktion>abbas</funktion><institution>abbatia</institution><ort>de Scozula</ort><P>S.Donatus</P></e>
-<e><name>W. Balbum</name><funktion>canonicus</funktion><ort>Mediolanensis</ort></e>
-<e><name>W. Balbum</name><funktion>procurator</funktion><institution>archiepatus</institution><ort>Mediolanensis</ort></e>
+<e>
+            <name>W. Balbum</name>
+            <funktion>procurator
+            <institution>archiepatus</institution>
+                <ort>Mediolanensis</ort></funktion>
+            <funktion>canonicus
+                <ort>Mediolanensis</ort></funktion>
+        </e>
+
 <e><name>G(erardus)</name><funktion>abbas</funktion><ort>de Scouzuola</ort></e>
 </u>
 <u><nr>667</nr><Referenz>667</Referenz>
@@ -2486,8 +2562,16 @@
 <e><name>Ph(ilippus)</name><funktion>rex</funktion><ort>Franci</ort></e>
 </u>
 <u><nr>673</nr><Referenz>673</Referenz>
-<e><name>W(illemus)</name><funktion>archiep.</funktion><ort>Remensis</ort><Bemerkungen>Ist auch Kardinal v. S.Sabina</Bemerkungen></e>
-<e><name>W(illemus)</name><funktion>cardinalis</funktion><ort>S.Sabina</ort><Bemerkungen>Ist auch Bf v. Reims</Bemerkungen></e>
+<e>
+            <name>W(illemus)</name>
+            <funktion>cardinalis
+            <ort>S.Sabina</ort>
+                <Bemerkungen>Ist auch Bf v. Reims</Bemerkungen></funktion>
+            <funktion>archiep.
+            <ort>Remensis</ort>
+                <Bemerkungen>Ist auch Kardinal v. S.Sabina</Bemerkungen></funktion>
+        </e>
+
 <an>*
 <e><funktion>ep.</funktion><ort>Ambianensis ;Tornacensis</ort></e>
 <e><funktion>abbas</funktion><ort>Auquicinctum</ort></e>
@@ -2541,7 +2625,7 @@
 </u>
 <u><nr>685</nr><Referenz>685</Referenz>
 <e><name>(ugo)</name><funktion>archiep.</funktion><ort>Maguntinus</ort></e>
-<e><name>(ugo)</name><funktion>ep.</funktion><ort>Sabinensis</ort></e>
+
 </u>
 <u><nr>686</nr><Referenz>686</Referenz>
 <e><funktion>Universi tam eccastici quam saeculares principes</funktion><ort>Alemannia <orig>Alemannaiae oder Alamannia (Alemannaiae Tippfehler)</orig></ort></e>
@@ -2614,7 +2698,7 @@
 <u><nr>706</nr><Referenz>706</Referenz>
 <e><institution>monasterium</institution><ort>Werdinensis</ort><P>S.Ludgerus</P></e>
 </u>
-<u><nr>707</nr><fehlt /><Referenz>707</Referenz>
+<u><nr>707</nr><fehlt/><Referenz>707</Referenz>
 </u>
 <u><nr>708</nr><Referenz>708</Referenz>
 <e><name>(Adolfus)</name><funktion>archiep.</funktion><ort>Coloniensis</ort></e>
@@ -2892,8 +2976,15 @@
 <e><name>(Petrus)</name><funktion>archiep.</funktion><ort>Compostella</ort></e>
 <e><funktion>decanus ;capitulum</funktion><ort>Compostella</ort></e>
 <e><name>Vu.</name><funktion>vicecomes;civis</funktion><ort>Vercellensis</ort></e>
-<e><name>G.</name><funktion>civis</funktion><ort>Vercellensis</ort></e>
-<e><name>G.</name><funktion>filius Vu.</funktion><institution>vicecomes</institution><ort>Vercellensis</ort></e>
+<e>
+            <name>G.</name>
+            <funktion>filius Vu.
+            <institution>vicecomes</institution>
+                <ort>Vercellensis</ort></funktion>
+            <funktion>civis
+                <ort>Vercellensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>783</nr><Referenz>783</Referenz>
 <e><name>Petrus</name><funktion>archiep.</funktion><ort>Compostellanus</ort></e>
@@ -3156,8 +3247,15 @@
 <e><funktion>capitulum</funktion><ort>Maguntinus</ort></e>
 </u>
 <u><nr>853</nr><Referenz>853</Referenz>
-<e><name> Conradus</name><funktion>archiep.</funktion><ort>Maguntinus</ort></e>
-<e><name> Conradus</name><funktion>ep.</funktion><ort>Sabinensis</ort><Bemerkungen>Conradus Maguntinus archiep. ep. Sabinensis</Bemerkungen></e>
+<e>
+            <name> Conradus</name>
+            <funktion>ep.
+            <ort>Sabinensis</ort>
+                <Bemerkungen>Conradus Maguntinus archiep. ep. Sabinensis</Bemerkungen></funktion>
+            <funktion>archiep.
+                <ort>Maguntinus</ort></funktion>
+        </e>
+
 </u>
 <u><nr>854</nr><Referenz>854</Referenz>
 <e><funktion>archiep.</funktion><ort>Hidruntinus</ort></e>
@@ -3204,8 +3302,14 @@
 <e><funktion>capitulum</funktion><ort>Herbipolensis</ort></e>
 </an></u>
 <u><nr>866</nr><Referenz>866</Referenz>
-<e><name>B.</name><funktion>comes</funktion><ort>Lauretus ;Cupersan.</ort></e>
-<e><name>B.</name><funktion>magister iustitiarius</funktion><ort>Apulia ;Terra Laboris</ort></e>
+<e>
+            <name>B.</name>
+            <funktion>magister iustitiarius
+                <ort>Apulia; Terra Laboris</ort></funktion>
+            <funktion>comes
+                <ort>Lauretus; Cupersan.</ort></funktion>
+        </e>
+
 </u>
 <u><nr>867</nr><Referenz>867</Referenz>
 <e><funktion>Omnes Latinis ;tam clerici ;quam laicis</funktion><ort>apud Constantinopolim constitutis</ort></e>
@@ -3234,8 +3338,14 @@
 <e><name>F. Menandi</name><funktion>monachus</funktion><ort>Alcobatia</ort></e>
 </u>
 <u><nr>875</nr><Referenz>875</Referenz>
-<e><name>(Conradus)</name><funktion>archiep.</funktion><ort>Maguntinus</ort></e>
-<e><name>(Conradus)</name><funktion>ep.</funktion><ort>Sabinensis</ort></e>
+<e>
+            <name>(Conradus)</name>
+            <funktion>ep.
+                <ort>Sabinensis</ort></funktion>
+            <funktion>archiep.
+                <ort>Maguntinus</ort></funktion>
+        </e>
+
 </u>
 <u><nr>876</nr><Referenz>876</Referenz>
 <e><funktion>ep.</funktion><ort>Mannensis <orig>(Manuanensi Coll. I.)</orig></ort></e>
@@ -3294,8 +3404,15 @@
 <e><funktion>abbas;conventus</funktion><ort>de Leicestre</ort><P>S.Maria de Prato</P></e>
 </u>
 <u><nr>891</nr><Referenz>891</Referenz>
-<e><name>(Adelardus)</name><funktion>ep.</funktion><ort>Veronensis</ort></e>
-<e><name>(Adelardus)</name><funktion>cardinalis</funktion><institution>eccl.</institution><ort>Romana</ort></e>
+<e>
+            <name>(Adelardus)</name>
+            <funktion>cardinalis
+            <institution>eccl.</institution>
+                <ort>Romana</ort></funktion>
+            <funktion>ep.
+                <ort>Veronensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>892</nr><Referenz>892</Referenz>
 <e><name>(Iohannes)</name><funktion>ep.</funktion><ort>Leglennensis</ort></e>
@@ -3313,8 +3430,12 @@
 </u>
 <u><nr>896</nr><Referenz>896</Referenz>
 <e><name>(Anselmus)</name><funktion>archiep.</funktion><ort>Neapolitanus</ort></e>
-<e><name>C(inthius)</name><funktion>presb.card. S.Laurentii in lucina</funktion></e>
-<e><name>C(inthius)</name><funktion>apost. leg.</funktion></e>
+<e>
+            <name>C(inthius)</name>
+            <funktion>apost. leg.</funktion>
+            <funktion>presb.card. S.Laurentii in lucina</funktion>
+        </e>
+
 </u>
 <u><nr>897</nr><Referenz>897</Referenz>
 <e><name>(Albertus)</name><funktion>ep.</funktion><ort>Vercellensis</ort></e>
@@ -3533,7 +3654,7 @@
 <e><funktion>abbas</funktion><ort>de Helmvardeshusan</ort></e>
 </u>
 <u><nr>945</nr><Referenz>945</Referenz>
-<e><funktion>Comites; barones; baiulis; iudices: cives :universus populus</funktion><institution>regnum</institution><ort>Sicilia<orig></orig></ort></e>
+<e><funktion>Comites; barones; baiulis; iudices: cives :universus populus</funktion><institution>regnum</institution><ort>Sicilia<orig/></ort></e>
 </u>
 <u><nr>946</nr><Referenz>946</Referenz>
 <e><funktion>ep.;decanus ;subdecanus</funktion><ort>Lincolnienses</ort></e>
@@ -3937,8 +4058,16 @@
 <e><funktion>canonici</funktion><ort>Bethleemitani</ort></e>
 </u>
 <u><nr>1068</nr><Referenz>1068</Referenz>
-<e><name>(Petrus)</name><funktion>ep.</funktion><ort>Atrebatensis</ort></e>
-<e><name>(Petrus)</name><funktion>ep.</funktion><ort>Cameracensis</ort></e>
+<e>
+            <name>(Petrus)</name>
+            <funktion>ep.</funktion>
+            <ort>Cameracensis</ort>
+        </e><e>
+            <name>(Petrus)</name>
+            <funktion>ep.</funktion>
+            <ort>Atrebatensis</ort>
+        </e>
+
 <e><name>(Absalon)</name><funktion>abbas</funktion><ort>Parisiensis</ort><P>S.Victor </P></e>
 </u>
 <u><nr>1069</nr><Referenz>1069</Referenz>
@@ -4066,8 +4195,14 @@
 <e><funktion>Universi tam eccastici quam saeculares principes</funktion><ort>Alemannia</ort></e>
 </u>
 <u><nr>1105</nr><Referenz>1105</Referenz>
-<e><name>(Conradus)</name><funktion>archiep.</funktion><ort>Maguntinus</ort></e>
-<e><name>(Conradus)</name><funktion>ep.</funktion><ort>Sabinensis</ort></e>
+<e>
+            <name>(Conradus)</name>
+            <funktion>ep.
+            <ort>Sabinensis</ort></funktion>
+            <funktion>archiep.
+            <ort>Maguntinus</ort></funktion>
+        </e>
+
 </u>
 <u><nr>1106</nr><Referenz>1106</Referenz>
 <e><funktion>ep.</funktion><ort>Ovetensis ;Burgensis</ort></e>
@@ -4236,8 +4371,13 @@
 <e><funktion>archiepp.;epp. ;abbates;priores etc. ;alii praelati; capitula ; conventus ;collegia tam exempta quam non exempta;patroni; clerici; laici <orig>Archiepis, epis et abbates, priores etc. et aliis eccl. praelatis earumque capitulis et conventes seu colegiis tam exemptis quam non exemptis, ac patronis, clerici ac laicis praesentes litteras inspecturis</orig></funktion></e>
 </u>
 <u><nr>1157</nr><Referenz>1157</Referenz>
-<e><name>O(ctavianus)</name><funktion>ep.</funktion><ort>Hostiensis</ort></e>
-<e><name>O(ctavianus)</name><funktion>apost. leg.</funktion></e>
+<e>
+            <name>O(ctavianus)</name>
+            <funktion>apost. leg.</funktion>
+            <funktion>ep.
+                <ort>Hostiensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>1158</nr><Referenz>1158</Referenz>
 <e><funktion>ep.</funktion><ort>Lincolniensis <orig>(Lingonensi false Decret.)</orig></ort></e>
@@ -4319,8 +4459,13 @@
 <e><name>(Petrus)</name><funktion>ep.</funktion><ort>Cameracensis</ort></e>
 </an></u>
 <u><nr>1180</nr><Referenz>1180</Referenz>
-<e><name>(Guido)</name><funktion>ep.</funktion><institution>Praenestinus</institution></e>
-<e><name>(Guido)</name><funktion>apost. leg. </funktion></e>
+<e>
+            <name>(Guido)</name>
+            <funktion>apost. leg. </funktion>
+            <funktion>ep.
+                <institution>Praenestinus</institution></funktion>
+        </e>
+
 <e><funktion>decanus</funktion><ort>Bunnensis <orig>(Brinensi Decr. Gr.)</orig></ort></e>
 </u>
 <u><nr>1181</nr><Referenz>1181</Referenz>
@@ -4454,8 +4599,13 @@
 <e><name>I(ohannes)</name><funktion>tit. S.Priscae presb.card. ;apost. leg.</funktion></e>
 </u>
 <u><nr>1219</nr><Referenz>1219</Referenz>
-<e><name>(Octavianus)</name><funktion>ep.</funktion><ort>Ostiensis</ort></e>
-<e><name>(Octavianus)</name><funktion>apost. leg. </funktion></e>
+<e>
+            <name>(Octavianus)</name>
+            <funktion>apost. leg. </funktion>
+            <funktion>ep.
+                <ort>Ostiensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>1220</nr><Referenz>1220</Referenz>
 <e><name>Philippus</name><funktion>rex</funktion><ort>Francia</ort></e>
@@ -4495,8 +4645,13 @@
 <e><funktion>Principes</funktion><ort>Alamannia</ort></e>
 </u>
 <u><nr>1232</nr><Referenz>1232</Referenz>
-<e><name>(Octavianus)</name><funktion>ep.</funktion><ort>Ostiensis</ort></e>
-<e><name>(Octavianus)</name><funktion>apost. leg. </funktion></e>
+<e>
+            <name>(Octavianus)</name>
+            <funktion>apost. leg. </funktion>
+            <funktion>ep.
+                <ort>Ostiensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>1233</nr><Referenz>1233</Referenz>
 <e><name>(Iohannes)</name><funktion>archiep.</funktion><ort>Treverensis</ort></e>
@@ -4567,8 +4722,13 @@
 <e><funktion>magister ;fratres</funktion><institution>hospitalis</institution><ort>Ierosolymitanus</ort></e>
 </u>
 <u><nr>1249</nr><Referenz>1249</Referenz>
-<e><name>([Octavianus]</name><funktion>ep.</funktion><ort>Hostiensis</ort></e>
-<e><name>([Octavianus]</name><funktion>apost. leg. </funktion></e>
+<e>
+            <name>([Octavianus]</name>
+            <funktion>apost. leg. </funktion>
+            <funktion>ep.
+                <ort>Hostiensis</ort></funktion>
+        </e>
+
 <an>*
 <e><name>(Adamus)</name><funktion>decanus</funktion><ort>Bituricenses</ort></e>
 <e><funktion>capitulum</funktion><ort>Bituricenses</ort></e>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="Honorius3-3" papst="Honorius III.">
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="Honorius3-3" papst="Honorius III.">
 <u><nr>7013</nr><Referenz>7013</Referenz>
 <e><institution>moniales</institution><ort>Goslaria</ort><P>S.Maria</P></e></u>
 <u><nr>7014</nr><Referenz>7014</Referenz>
@@ -49,8 +47,13 @@
 <e><funktion>abbas</funktion><ort>Raitenhaslach</ort></e>
 <e><name>magister H(ainricus)</name><funktion> canonicus</funktion><ort>Osterhoven</ort></e></u>
 <u><nr>7031</nr><Referenz>7031</Referenz>
-<e><name>Stephanus</name><funktion>archiep.</funktion><ort>Cantuaria</ort></e>
-<e><name>Stephanus</name><funktion>card. S.R.E.</funktion></e>
+<e>
+            <name>Stephanus</name>
+            <funktion>card. S.R.E.</funktion>
+            <funktion>archiep.
+                <ort>Cantuaria</ort></funktion>
+        </e>
+
 <e><funktion>archiep.</funktion><ort>Eboracensis</ort></e>
 <e><funktion>suffraganei; praelati</funktion><ort>Cantuaria; Eboracensis</ort></e></u>
 <u><nr>7032</nr><Referenz>7032</Referenz>
@@ -82,8 +85,14 @@
 <e><name>Andreas</name><funktion>ep.</funktion><ort>Pragensis</ort></e>
 <e><name>Otokarus</name><funktion>rex </funktion><ort>Boemi</ort></e></u>
 <u><nr>7043</nr><Referenz>7043</Referenz>
-<e><name>Fredericus</name><funktion>imperator </funktion><ort>Romanorum</ort></e>
-<e><name>Fredericus</name><funktion>rex </funktion><ort>Sicilia</ort></e></u>
+<e>
+            <name>Fredericus</name>
+            <funktion>rex 
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator 
+            <ort>Romanorum</ort></funktion>
+        </e>
+</u>
 <u><nr>7044</nr><Referenz>7044</Referenz>
 <e><funktion>capitulum</funktion><ort>Bononia</ort></e></u>
 <u><nr>7045</nr><Referenz>7045</Referenz>
@@ -140,8 +149,14 @@
 <u><nr>7067</nr><Referenz>7067</Referenz>
 <e><name>(Guilelmus)</name><funktion>archiep.</funktion><ort>Remi</ort></e></u>
 <u><nr>7068</nr><Referenz>7068</Referenz>
-<e><name>Fredericus</name><funktion>imperator </funktion><ort>Romanorum</ort></e>
-<e><name>Fredericus</name><funktion>rex </funktion><ort>Sicilia</ort></e></u>
+<e>
+            <name>Fredericus</name>
+            <funktion>rex 
+            <ort>Sicilia</ort></funktion>
+            <funktion>imperator 
+            <ort>Romanorum</ort></funktion>
+        </e>
+</u>
 <u><nr>7069</nr><Referenz>7069</Referenz>
 <e><funktion>praep.; conventus</funktion><institution>monasterium</institution><ort>Skaken</ort></e></u>
 <u><nr>7070</nr><Referenz>7070</Referenz>
@@ -553,8 +568,16 @@
 <u><nr>7234</nr><Referenz>7234</Referenz>
 <e><name>(Conradus)</name><funktion>ep.</funktion><ort>Portuensis</ort></e></u>
 <u><nr>7235</nr><Referenz>7235</Referenz>
-<e><name>(Henricus)</name><funktion>abbas</funktion><ort>Pigaviensis</ort></e>
-<e><name>(Henricus)</name><funktion>prior</funktion><ort>Pigaviensis</ort></e>
+<e>
+            <name>(Henricus)</name>
+            <funktion>prior</funktion>
+            <ort>Pigaviensis</ort>
+        </e><e>
+            <name>(Henricus)</name>
+            <funktion>abbas</funktion>
+            <ort>Pigaviensis</ort>
+        </e>
+
 <e><name>(Albertus)</name><funktion>praep.</funktion><ort>Brandeburg</ort></e></u>
 <u><nr>7236</nr><Referenz>7236</Referenz>
 <e><institution>monasterium</institution><ort>Venetiae</ort><P>S.Georgius</P></e></u>
@@ -568,7 +591,7 @@
 <e><funktion>prior</funktion><ort>Venetiae</ort><P>S.Maria Nova</P></e>
 <e><funktion>prior</funktion><ort>Padua</ort></e></u>
 <u><nr>7240</nr><Referenz>7240</Referenz>
-<e><funktion>abbatissa; sorores</funktion><institution>OCist</institution><ort>Rubeus Mons <orig>Rotenmnster</orig></ort></e></u>
+<e><funktion>abbatissa; sorores</funktion><institution>OCist</institution><ort>Rubeus Mons <orig>Rotenm&#x81;nster</orig></ort></e></u>
 <u><nr>7241</nr><Referenz>7241</Referenz>
 <e><funktion>abbatissa; moniales</funktion><ort>Villenna</ort><ortsbestimmung>Burgensis dioc.</ortsbestimmung></e></u>
 <u><nr>7242</nr><Referenz>7242</Referenz>
@@ -579,7 +602,7 @@
 <e><funktion>prior</funktion><ort>Luca</ort><P>S.Maria foris Portam</P></e>
 <e><funktion>prior</funktion><ort>Florentinus</ort><P>S.Iacobus de Certaldo</P></e></u>
 <u><nr>7245</nr><Referenz>7245</Referenz>
-<e><ort>Heremus Fontis Avellanae</ort><Bemerkungen>ist ein berhmtes Eremitenkloster aus dem Kirchenkampf, meist Fons Avellana genannt</Bemerkungen></e></u>
+<e><ort>Heremus Fontis Avellanae</ort><Bemerkungen>ist ein ber&#x81;hmtes Eremitenkloster aus dem Kirchenkampf, meist Fons Avellana genannt</Bemerkungen></e></u>
 <u><nr>7246</nr><Referenz>7246</Referenz>
 <e><funktion>abbas; conventus</funktion><institution>monasterium</institution><ort>Novientensis</ort></e></u>
 <u><nr>7247</nr><Referenz>7247</Referenz>
@@ -823,8 +846,13 @@
 <u><nr>7344</nr><Referenz>7344</Referenz>
 <e><funktion>magister; fratres</funktion><institution>OPr</institution></e></u>
 <u><nr>7345</nr><Referenz>7345</Referenz>
-<e><name>(Guillelmus)</name><funktion>ep.</funktion><ort>Mutinensis</ort></e>
-<e><name>(Guillelmus)</name><funktion>apost.leg.</funktion></e></u>
+<e>
+            <name>(Guillelmus)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+                <ort>Mutinensis</ort></funktion>
+        </e>
+</u>
 <u><nr>7346</nr><Referenz>7346</Referenz>
 <e><name>(Otto)</name><funktion>ep.</funktion><ort>Ariminensis</ort></e></u>
 <u><nr>7347</nr><Referenz>7347</Referenz>
@@ -934,7 +962,7 @@
 <u><nr>7392</nr><Referenz>7392</Referenz>
 <e><funktion>prior</funktion><ort>Hortus S.Mariae</ort></e>
 <e><funktion>prior</funktion><ort>Doccum</ort></e>
-<e><name>magister I.</name><funktion> plebanus</funktion><ort>Nova ecclesia</ort><Bemerkungen>zu Mnster</Bemerkungen></e></u>
+<e><name>magister I.</name><funktion> plebanus</funktion><ort>Nova ecclesia</ort><Bemerkungen>zu M&#x81;nster</Bemerkungen></e></u>
 <u><nr>7393</nr><Referenz>7393</Referenz>
 <e><name>(Guido)</name><funktion>ep.</funktion><ort>Eduensis</ort></e></u>
 <u><nr>7394</nr><Referenz>7394</Referenz>
@@ -958,10 +986,17 @@
 <e><funktion>praepositi</funktion><ort>Gratia Dei; Liezeka; Brandeburg; Havelberg; Rasceburg; Iericow; Colebeke; Rohde; Quedelingeburg; Wida; Poleke; Gramozowe; Themenis<orig>für Poleke leg.Polethe</orig></ort></e></u>
 <u><nr>7400</nr><Referenz>7400</Referenz>
 <e><funktion>abbas; conventus</funktion><ort>de Camberone</ort><P>S.Maria</P></e>
-<e><funktion>abbas; conventus</funktion><ort>Indensis<orig>Kornelimnster</orig></ort><ortsbestimmung>Coloniensis dioc.</ortsbestimmung><P>S.Cornelius</P></e></u>
+<e><funktion>abbas; conventus</funktion><ort>Indensis<orig>Kornelim&#x81;nster</orig></ort><ortsbestimmung>Coloniensis dioc.</ortsbestimmung><P>S.Cornelius</P></e></u>
 <u><nr>7401</nr><Referenz>7401</Referenz>
-<e><name>A(zo)</name><funktion>marchio</funktion><ort>Anconitanus</ort></e>
-<e><name>A(zo)</name><funktion>marchio</funktion><ort>Estensis</ort><Bemerkungen>wahrscheinlich hat er beide Markgrafschaften</Bemerkungen></e></u>
+<e>
+            <name>A(zo)</name>
+            <funktion>marchio
+                <ort>Estensis</ort></funktion>
+            <funktion>marchio
+                <ort>Anconitanus</ort></funktion>
+            <Bemerkungen>wahrscheinlich hat er beide Markgrafschaften</Bemerkungen>
+        </e>
+</u>
 <u><nr>7402</nr><Referenz>7402</Referenz>
 <e><funktion>canonici</funktion><ort>Middelburgensis</ort><P>S.Maria</P></e></u>
 <u><nr>7403</nr><Referenz>7403</Referenz>
@@ -1395,7 +1430,7 @@
 <u><nr>7579</nr><Referenz>7579</Referenz>
 <e><funktion>abbas</funktion><ort>Begham</ort></e></u>
 <u><nr>7580</nr><Referenz>7580</Referenz>
-<e><institution>monasterium</institution><ort>Wlzburg</ort></e></u>
+<e><institution>monasterium</institution><ort>W&#x81;lzburg</ort></e></u>
 <u><nr>7581</nr><Referenz>7581</Referenz>
 <e><name>Fridericus</name><funktion>imperator </funktion><ort>Romanorum</ort></e></u>
 <u><nr>7582</nr><Referenz>7582</Referenz>
@@ -1529,8 +1564,14 @@
 <e><funktion>ep.</funktion><ort>Astensis</ort></e>
 <e><funktion>ep.</funktion><ort>Albensis</ort></e></u>
 <u><nr>7640</nr><Referenz>7640</Referenz>
-<e><name>(Fridericus)</name><funktion>imperator </funktion><ort>Romanorum</ort></e>
-<e><name>(Fridericus)</name><funktion>rex </funktion><ort>Sicilia</ort></e></u>
+<e>
+            <name>(Fridericus)</name>
+            <funktion>rex 
+                <ort>Sicilia</ort></funktion>
+            <funktion>imperator 
+                <ort>Romanorum</ort></funktion>
+        </e>
+</u>
 <u><nr>7641</nr><Referenz>7641</Referenz>
 <e><funktion>rectores</funktion><institution>societas</institution><ort>Lombardia; Marchia; Romaniola</ort></e></u>
 <u><nr>7642</nr><Referenz>7642</Referenz>
@@ -1777,7 +1818,7 @@
 <e><funktion>praep.</funktion><institution>maior eccl.</institution><ort>Colonia</ort></e>
 <e><funktion>praep.</funktion><ort>Colonia</ort><P>S.Maria ad Gradus</P></e>
 <e><funktion>decanus</funktion><ort>Colonia</ort></e></u>
-<u><nr>7739</nr><fehlt /><Referenz>7739</Referenz></u>
+<u><nr>7739</nr><fehlt/><Referenz>7739</Referenz></u>
 <u><nr>7740</nr><Referenz>7740</Referenz>
 <e><funktion>archidiac.</funktion><ort>Tullensis</ort></e>
 <e><name>G. magister</name><funktion>canonicus</funktion><ort>Tullensis</ort></e></u>

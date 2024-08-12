@@ -57,7 +57,7 @@
     <xs:complexType>
       <xs:sequence>
         <xs:element minOccurs="0" ref="name"/>
-        <xs:element minOccurs="0" ref="funktion"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="funktion"/>
         <xs:element minOccurs="0" ref="institution"/>
         <xs:element minOccurs="0" ref="ordo"/>
         <xs:element minOccurs="0" ref="ort"/>
@@ -69,6 +69,7 @@
           <xs:element minOccurs="0" ref="Bemerkungen"/>
         </xs:choice>
       </xs:sequence>
+      <xs:attribute name="ref"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="repetit">
@@ -84,6 +85,7 @@
       <xs:choice minOccurs="0" maxOccurs="unbounded">
         <xs:element ref="kommentar"/>
         <xs:element ref="orig"/>
+        <xs:element ref="ort"/>
       </xs:choice>
       <xs:attribute name="reg"/>
       <xs:assert test="normalize-space(string(.)) != ''"/>
@@ -94,6 +96,12 @@
       <xs:choice minOccurs="0" maxOccurs="unbounded">
         <xs:element ref="kommentar"/>
         <xs:element ref="orig"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="institution"/>
+        <xs:element minOccurs="0" ref="ort"/>
+        <xs:element minOccurs="0" ref="ortsbestimmung"/>
+        <xs:element minOccurs="0" ref="inst2"/>
+        <xs:element minOccurs="0" ref="Bemerkungen"/>
+        <xs:element minOccurs="0" ref="P"/>
       </xs:choice>
       <xs:attribute name="reg"/>
       <xs:assert test="normalize-space(string(.)) != ''"/>
@@ -104,6 +112,7 @@
       <xs:choice minOccurs="0" maxOccurs="unbounded">
         <xs:element ref="kommentar"/>
         <xs:element ref="orig"/>
+        <xs:element minOccurs="0" ref="ort"/>
       </xs:choice>
       <xs:assert test="normalize-space(string(.)) != ''"/>
     </xs:complexType>

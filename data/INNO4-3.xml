@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
   <u><nr>13000</nr><Referenz>13000</Referenz>
 <e><funktion>prior; fratres</funktion><institution>OPr</institution><ort>Bisuntinus</ort></e>
 </u>
@@ -162,8 +160,13 @@
 <e><name>magister Iohannes (de Suivignana)</name><funktion>canonicus</funktion><institution>eccl.</institution><ort>de Empoli</ort><ortsbestimmung>Florentina dioc.</ortsbestimmung></e>
 </u>
 <u><nr>13051</nr><Referenz>13051</Referenz>
-<e><name>Petrus de Atino magister</name><funktion>scriptor suus;</funktion></e>
-<e><name>Petrus de Atino magister</name><funktion>canonicus</funktion><ort>Atinatensis</ort></e>
+<e>
+            <name>Petrus de Atino magister</name>
+            <funktion>canonicus
+            <ort>Atinatensis</ort></funktion>
+            <funktion>scriptor suus;</funktion>
+        </e>
+
 <e><name>Petrus de Atino</name><funktion>rector</funktion><institution>eccl.</institution><ort>de Atino</ort><ortsbestimmung>Sorana dioc.</ortsbestimmung><P>S.Marcianus</P></e>
 </u>
 <u><nr>13052</nr><Referenz>13052</Referenz>
@@ -232,7 +235,7 @@
 <e><funktion>archidiac.</funktion><ort>Biterrensis</ort></e>
 <e><funktion>prior</funktion><ort>Cassianum</ort><ortsbestimmung>Biterrensis dioc.</ortsbestimmung></e>
 </u>
-<u><nr>13072 </nr><fehlt /><Referenz>13072 </Referenz>
+<u><nr>13072 </nr><fehlt/><Referenz>13072 </Referenz>
 </u>
 <u><nr>13073</nr><Referenz>13073</Referenz>
 <e><funktion>universitas</funktion><institution>fratres de Poenitentia</institution><ort>Lombardia</ort><inst2>provincia</inst2></e>
@@ -695,8 +698,13 @@
 <e><funktion>praep.; sacrista</funktion><ort>Magalonensis</ort></e>
 </u>
 <u><nr>13213</nr><Referenz>13213</Referenz>
-<e><name>(Albertus)</name><funktion>archiep.</funktion><ort>Pruscia</ort></e>
-<e><name>(Albertus)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>(Albertus)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>archiep.
+                <ort>Pruscia</ort></funktion>
+        </e>
+
 </u>
 <u><nr>13214</nr><Referenz>13214</Referenz>
 <e><name>(Sigfridus)</name><funktion>archiep.</funktion><ort>Maguntia</ort></e>
@@ -1289,8 +1297,13 @@
 <e><name>Theobaldus</name><funktion>panectarius camerae suae</funktion></e>
 </u>
 <u><nr>13396</nr><Referenz>13396</Referenz>
-<e><name>(Gregorius de Montelongo)</name><funktion>electus</funktion><ort>Turritanus</ort></e>
-<e><name>(Gregorius de Montelongo)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>(Gregorius de Montelongo)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>electus
+                <ort>Turritanus</ort></funktion>
+        </e>
+
 </u>
 <u><nr>13397</nr><Referenz>13397</Referenz>
 <e><funktion>archiepp.; epp.</funktion><ort>Corsica</ort></e>
@@ -1760,8 +1773,15 @@
 </u>
 <u><nr>13545</nr><Referenz>13545</Referenz>
 <e><name>magister Robertus Anketil</name><Bemerkungen>mgr Robertus Anketil clericus regis Angliae et canonicus Dolensis, wie zu ordnen?</Bemerkungen></e>
-<e><name>Robertus Anketil</name><funktion>clericus</funktion><institution>regis</institution><ort>Anglia</ort></e>
-<e><name>Robertus Anketil</name><funktion>canonicus</funktion><ort>Dolensis</ort></e>
+<e>
+            <name>Robertus Anketil</name>
+            <funktion>canonicus
+                <ort>Dolensis</ort></funktion>
+            <funktion>clericus
+            <institution>regis</institution>
+                <ort>Anglia</ort></funktion>
+        </e>
+
 </u>
 <u><nr>13546</nr><Referenz>13546</Referenz>
 <e><funktion>ep.</funktion><ort>Argentinensis</ort></e>
@@ -1807,8 +1827,15 @@
 </u>
 <u><nr>13560</nr><Referenz>13560</Referenz>
 <e><name>magister Robertus Anketil</name><Bemerkungen>mgr Robertus Anketil clericus regis Angliae et canonicus Dolensis, wie zu ordnen?</Bemerkungen></e>
-<e><name>Robertus Anketil</name><funktion>clericus</funktion><institution>regis</institution><ort>Anglia</ort></e>
-<e><name>Robertus Anketil</name><funktion>canonicus</funktion><ort>Dolensis</ort></e>
+<e>
+            <name>Robertus Anketil</name>
+            <funktion>canonicus
+                <ort>Dolensis</ort></funktion>
+            <funktion>clericus
+            <institution>regis</institution>
+                <ort>Anglia</ort></funktion>
+        </e>
+
 </u>
 <u><nr>13561</nr><Referenz>13561</Referenz>
 <e><funktion>archiep.; apost.leg.</funktion><ort>Maguntia</ort></e>
@@ -1873,9 +1900,16 @@
 <e><name>Thoamas de Luca</name><funktion>rector</funktion><institution>eccl.</institution><ort>Thyn</ort><ortsbestimmung>Lincolniensis dioc.</ortsbestimmung></e>
 </u>
 <u><nr>13581</nr><Referenz>13581</Referenz>
-<e><name>Bartholomaeus</name><funktion>frater; monachus</funktion><institution>monasterium; OCist</institution><ort>Fossa Nova</ort></e>
-<e><name>Bartholomaeus</name><funktion>capellanus patriarchae</funktion><ort>Ierosolimitanus</ort></e>
-<e><name>Bartholomaeus</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>Bartholomaeus</name>
+            <funktion>capellanus patriarchae
+                <ort>Ierosolimitanus</ort></funktion>
+            <funktion>frater; monachus
+            <institution>monasterium; OCist</institution>
+                <ort>Fossa Nova</ort></funktion>
+        </e>
+
+
 </u>
 <u><nr>13582</nr><Referenz>13582</Referenz>
 <e><funktion>ep.</funktion><ort>Bononia</ort></e>
@@ -1895,7 +1929,7 @@
 <u><nr>13587</nr><Referenz>13587</Referenz>
 <e><name>S.</name><funktion>presb.card. tit. S.Mariae trans Tiberim; vicarius suus</funktion><ort>Roma</ort></e>
 </u>
-<u><nr>13588 </nr><fehlt /><Referenz>13588 </Referenz>
+<u><nr>13588 </nr><fehlt/><Referenz>13588 </Referenz>
 </u>
 <u><nr>13589</nr><Referenz>13589</Referenz>
 <e><name>magister Petrus Henrici</name><funktion>canonicus</funktion><ort>Baiocensis</ort></e>
@@ -1929,7 +1963,7 @@
 </u>
 <u><nr>13599</nr><Referenz>13599</Referenz>
 <e><name>Palmerius Thomasius magister</name><ort>Reate</ort></e>
-<e><name>Palmerius Thomasius magister</name><funktion>scriptor suus</funktion></e>
+
 </u>
 <u><nr>13600</nr><Referenz>13600</Referenz>
 <e><name>Guillelmus de Wictowello</name><funktion>rector</funktion><institution>eccl.</institution><ort>Brantun</ort><ortsbestimmung>Norwicensis dioc.</ortsbestimmung></e>
@@ -2015,7 +2049,7 @@
 <u><nr>13627</nr><Referenz>13627</Referenz>
 <e><funktion>nobili quondam ep.</funktion><ort>Dunelmensis</ort><Bemerkungen>Nobilis völlig unklar</Bemerkungen></e>
 </u>
-<u><nr>13628 </nr><fehlt /><Referenz>13628 </Referenz>
+<u><nr>13628 </nr><fehlt/><Referenz>13628 </Referenz>
 </u>
 <u><nr>13629</nr><Referenz>13629</Referenz>
 <e><funktion>abbas</funktion><ort>Westmonasterium</ort><ortsbestimmung>Londonensis</ortsbestimmung></e>
@@ -2125,7 +2159,7 @@
 </u>
 <u><nr>13662</nr><Referenz>13662</Referenz>
 <e><name>Bernardus magister</name><ort>de Nimpha</ort></e>
-<e><name>Bernardus magister</name><funktion>scriptor suus</funktion></e>
+
 <e><name>Iohannes</name><funktion>canonicus</funktion><ort>Anagninensis</ort><P>S.Andreas</P></e>
 </u>
 <u><nr>13663</nr><Referenz>13663</Referenz>
@@ -2392,8 +2426,15 @@
 <e><name>S.</name><funktion>presb.card. tit. S.Mariae trans Tiberim; vicarius suus</funktion><ort> Roma</ort></e>
 </u>
 <u><nr>13748</nr><Referenz>13748</Referenz>
-<e><name>P(etrus)</name><funktion>card.</funktion><Bemerkungen><orig>frz.: cardinal P(ierre) vermutlich</orig></Bemerkungen></e>
-<e><name>P(etrus)</name><funktion>diac.card. S.Georgii ad velum aureum; apost.leg.</funktion></e>
+<e>
+            <name>P(etrus)</name>
+            <funktion>diac.card. S.Georgii ad velum aureum; apost.leg.</funktion>
+            <funktion>card.</funktion>
+            <Bemerkungen>
+                <orig>frz.: cardinal P(ierre) vermutlich</orig>
+            </Bemerkungen>
+        </e>
+
 </u>
 <u><nr>13749</nr><Referenz>13749</Referenz>
 <e><funktion>ep.</funktion><ort>Tusculanus</ort></e>
@@ -2471,15 +2512,15 @@
 <u><nr>13772</nr><Referenz>13772</Referenz>
 <e><funktion>ep.</funktion><ort>Magalonensis</ort></e>
 </u>
-<u><nr>13773 </nr><fehlt /><Referenz>13773 </Referenz>
+<u><nr>13773 </nr><fehlt/><Referenz>13773 </Referenz>
 </u>
-<u><nr>13774 </nr><fehlt /><Referenz>13774 </Referenz>
+<u><nr>13774 </nr><fehlt/><Referenz>13774 </Referenz>
 </u>
-<u><nr>13775 </nr><fehlt /><Referenz>13775 </Referenz>
+<u><nr>13775 </nr><fehlt/><Referenz>13775 </Referenz>
 </u>
-<u><nr>13776 </nr><fehlt /><Referenz>13776 </Referenz>
+<u><nr>13776 </nr><fehlt/><Referenz>13776 </Referenz>
 </u>
-<u><nr>13777 </nr><fehlt /><Referenz>13777 </Referenz>
+<u><nr>13777 </nr><fehlt/><Referenz>13777 </Referenz>
 </u>
 <u><nr>13778</nr><Referenz>13778</Referenz>
 <e><funktion>abbas;conventus</funktion><institution>monasterium;OSB</institution><ort>S.Eugendus</ort><ortsbestimmung>Lugdunensis dioc.</ortsbestimmung></e>
@@ -3104,9 +3145,17 @@
 <e><funktion>omnes ... visitantes</funktion><institution>monasterium; OSB</institution><ort>Venetiae</ort><P>S.Lauretius </P></e>
 </u>
 <u><nr>13970</nr><Referenz>13970</Referenz>
-<e><name>Nicolaus</name><funktion>eleemosynarius</funktion><institution>monasterium</institution><ort>Trenorchiensis</ort></e>
-<e><name>Nicolaus</name><funktion>capellanus suus; card.presb. tit. S.Marcelli</funktion></e>
-<e><name>Nicolaus</name><funktion>nuntius suus</funktion><ort>Dacia</ort></e>
+<e>
+            <name>Nicolaus</name>
+            <funktion>capellanus suus; card.presb. tit. S.Marcelli</funktion>
+            <funktion>nuntius suus
+                <ort>Dacia</ort></funktion>
+            <funktion>eleemosynarius
+            <institution>monasterium</institution>
+                <ort>Trenorchiensis</ort></funktion>
+        </e>
+
+
 </u>
 <u><nr>13971</nr><Referenz>13971</Referenz>
 <e><funktion>ep.</funktion><ort>Placentinus</ort></e>
@@ -3124,9 +3173,17 @@
 <e><name>O(ctavianus)</name><funktion>diac.card. S.Mariae in via lata; apost.leg.</funktion></e>
 </u>
 <u><nr>13976</nr><Referenz>13976</Referenz>
-<e><name>Nicolaus</name><funktion>eleemosynarius</funktion><institution>monasterium</institution><ort>Trenorchiensis</ort></e>
-<e><name>Nicolaus</name><funktion>capellanus suus; card.presb. tit. S.Marcelli;</funktion></e>
-<e><name>Nicolaus</name><funktion>nuntius suus</funktion><ort>Dacia</ort></e>
+<e>
+            <name>Nicolaus</name>
+            <funktion>capellanus suus; card.presb. tit. S.Marcelli;</funktion>
+            <funktion>nuntius suus
+                <ort>Dacia</ort></funktion>
+            <funktion>eleemosynarius
+            <institution>monasterium</institution>
+                <ort>Trenorchiensis</ort></funktion>
+        </e>
+
+
 </u>
 <u><nr>13977</nr><Referenz>13977</Referenz>
 <e><funktion>ep.</funktion><ort>Corisopitensis</ort></e>

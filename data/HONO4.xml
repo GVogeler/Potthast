@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"   xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="hono4" papst="Honorius IV."> 
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="hono4" papst="Honorius IV."> 
   <u><nr>22225</nr><Referenz>22225</Referenz>
 <e><name>magister Guillelmus Duranti</name><funktion>capellanus suus; decanus; rector</funktion><institution>eccl.</institution><ort>Carnotensis; Roma</ort></e>
 </u>
@@ -237,8 +236,13 @@
 <e><funktion>archiep.</funktion><ort>Toletanus</ort></e>
 </u>
 <u><nr>22293</nr><Referenz>22293</Referenz>
-<e><name>G(erardus)</name><funktion>ep.</funktion><ort>Sabinensis</ort></e>
-<e><name>G(erardus)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>G(erardus)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+                <ort>Sabinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>22294</nr><Referenz>22294</Referenz>
 <e><funktion>priorissa; conventus</funktion><institution>monasterium sororum inclusarum; ord. Aug.</institution><ort>S.Maria in Insula Danubii</ort></e>
@@ -300,12 +304,28 @@
 <e><funktion>ep.</funktion><ort>Arusiensis</ort></e>
 </u>
 <u><nr>22311</nr><Referenz>22311</Referenz>
-<e><name>Huguitio</name><funktion>plebanus</funktion><institution>plebs</institution><ort>de Castellione</ort></e>
-<e><name>Huguitio</name><funktion>collector decimae Terrrae sanctae deputatae</funktion><institution>in regno</institution><ort>Norweye</ort></e>
+<e>
+            <name>Huguitio</name>
+            <funktion>collector decimae Terrrae sanctae deputatae
+            <institution>in regno</institution>
+                <ort>Norweye</ort></funktion>
+            <funktion>plebanus
+            <institution>plebs</institution>
+                <ort>de Castellione</ort></funktion>
+        </e>
+
 </u>
 <u><nr>22312</nr><Referenz>22312</Referenz>
-<e><name>Huguitio</name><funktion>plebanus</funktion><institution>plebs</institution><ort>de Castellione</ort></e>
-<e><name>Huguitio</name><funktion>collector decimae Terrrae sanctae deputatae</funktion><institution>in regno</institution><ort>Norweye</ort></e>
+<e>
+            <name>Huguitio</name>
+            <funktion>collector decimae Terrrae sanctae deputatae
+            <institution>in regno
+                <ort>Norweye</ort></institution></funktion>
+            <funktion>plebanus
+            <institution>plebs</institution>
+                <ort>de Castellione</ort></funktion>
+        </e>
+
 </u>
 <u><nr>22313</nr><Referenz>22313</Referenz>
 <e><name>(Magnus)</name><funktion>rex</funktion><ort>Suetia</ort></e>
@@ -318,8 +338,16 @@
 <e><funktion>archiepp.; epp.; alii praelati</funktion></e>
 </u>
 <u><nr>22316</nr><Referenz>22316</Referenz>
-<e><name>Huguicio</name><funktion>plebanus</funktion><institution>plebs</institution><ort>de Castellione</ort></e>
-<e><name>Huguicio</name><funktion>collector decimae Terrrae sanctae deputatae</funktion><institution>in regno</institution><ort>Norweye</ort></e>
+<e>
+            <name>Huguicio</name>
+            <funktion>collector decimae Terrrae sanctae deputatae
+            <institution>in regno</institution>
+            <ort>Norweye</ort></funktion>
+            <funktion>plebanus
+            <institution>plebs</institution>
+                <ort>de Castellione</ort></funktion>
+        </e>
+
 </u>
 <u><nr>22317</nr><Referenz>22317</Referenz>
 <e><funktion>generalis minister</funktion><institution>OFM</institution></e>
@@ -371,8 +399,18 @@
 <e><funktion>praep.</funktion><institution>eccl.</institution><ort>Pragensis</ort></e>
 </u>
 <u><nr>22332</nr><Referenz>22332</Referenz>
-<e><name>Uguitio</name><funktion>plebanus;capellanus suus;</funktion><institution>plebs</institution><ort>de Castellione</ort><ortsbestimmung>Aretina dioc.</ortsbestimmung></e>
-<e><name>Uguitio</name><funktion>collector decimae Terrrae sanctae deputatae</funktion><institution>regnum</institution><ort>Norweye</ort></e>
+<e>
+            <name>Uguitio</name>
+            <funktion>collector decimae Terrrae sanctae deputatae
+            <institution>regnum</institution>
+                <ort>Norweye</ort></funktion>
+            <funktion>plebanus
+            <institution>plebs</institution>
+            <ort>de Castellione</ort>
+            <ortsbestimmung>Aretina dioc.</ortsbestimmung></funktion>
+            <funktion>capellanus suus</funktion>
+        </e>
+
 </u>
 <u><nr>22333</nr><Referenz>22333</Referenz>
 <e><funktion>magister; fratres</funktion><institution>OPr</institution></e>
@@ -408,7 +446,7 @@
 </u>
 <u><nr>22343</nr><Referenz>22343</Referenz>
 <e><name>Huguitio</name><funktion>plebanus; capellanus suus;</funktion><institution>plebs</institution><ort>de Castellione</ort><ortsbestimmung>Aretina dioc.</ortsbestimmung></e>
-<e><name>Huguitio</name><funktion>collector decimae Terrrae sanctae deputatae</funktion><institution>regnum</institution><ort>Norweye</ort></e>
+
 </u>
 <u><nr>22344</nr><Referenz>22344</Referenz>
 <e><funktion>scolasticus</funktion><institution>eccl.</institution><ort>Erfordia</ort><ortsbestimmung>Maguntina dioc.</ortsbestimmung><P>S.Maria</P></e>
@@ -528,8 +566,15 @@
 <e><name>Guillelmus Duranti</name><funktion>electus; rector</funktion><ort>Mimatensis; Romaniola</ort></e>
 </u>
 <u><nr>22381</nr><Referenz>22381</Referenz>
-<e><name>F.</name><funktion>electus</funktion><ort>Iponensis</ort></e>
-<e><name>F.</name><funktion>rector</funktion><institution>marchia</institution><ort>Anconitana</ort></e>
+<e>
+            <name>F.</name>
+            <funktion>rector
+            <institution>marchia</institution>
+                <ort>Anconitana</ort></funktion>
+            <funktion>electus
+                <ort>Iponensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>22382</nr><Referenz>22382</Referenz>
 <e><name>Uguitio</name><funktion>plebanus</funktion><institution>plebs</institution><ort>de Castellione</ort><ortsbestimmung>Aretina dioc.</ortsbestimmung></e>
@@ -960,8 +1005,14 @@
 <e><name>Saba</name><funktion>electus</funktion><ort>Melitensis</ort></e>
 </u>
 <u><nr>22498</nr><Referenz>22498</Referenz>
-<e><name>I(ohannes)</name><funktion>ep.</funktion><ort>Tusculanus</ort></e>
-<e><name>I(ohannes)</name><funktion>apost.leg.</funktion><ort>Alemannia<orig>apost.leg. in partibus Alemanniae</orig></ort></e>
+<e>
+            <name>I(ohannes)</name>
+            <funktion>apost.leg.
+                <ort>Alemannia<orig>apost.leg. in partibus Alemanniae</orig></ort></funktion>
+            <funktion>ep.
+                <ort>Tusculanus</ort></funktion>
+        </e>
+
 </u>
 <u><nr>22499</nr><Referenz>22499</Referenz>
 <e><name>R(obertus)</name><funktion>comes</funktion><ort>Atrebatensis</ort></e>
@@ -1154,16 +1205,32 @@
 <e><funktion>prior; fratres</funktion><institution>eccl.; ord.Aug.</institution><ort>Burgum S.Sepulchri</ort><ortsbestimmung>Castellana dioc.</ortsbestimmung><P>S.Maria</P></e>
 </u>
 <u><nr>22554</nr><Referenz>22554</Referenz>
-<e><name>Iohannes Gregorii</name><funktion>subdiac.</funktion><ort>Pragensis</ort></e>
-<e><name>Iohannes Gregorii</name><funktion>canonicus</funktion><ort>Wissegradensis</ort></e>
+<e>
+            <name>Iohannes Gregorii</name>
+            <funktion>canonicus
+                <ort>Wissegradensis</ort></funktion>
+            <funktion>subdiac.
+                <ort>Pragensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>22555</nr><Referenz>22555</Referenz>
-<e><name>Adam de Polonia</name><funktion>canonicus</funktion><ort>Cracoviensis</ort></e>
-<e><name>Adam de Polonia</name><funktion>capellanus suus</funktion></e>
+<e>
+            <name>Adam de Polonia</name>
+            <funktion>capellanus suus</funktion>
+            <funktion>canonicus
+                <ort>Cracoviensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>22556</nr><Referenz>22556</Referenz>
-<e><name>Adam de Polonia</name><funktion>canonicus</funktion><ort>Cracoviensis</ort></e>
-<e><name>Adam de Polonia</name><funktion>capellanus suus</funktion></e>
+<e>
+            <name>Adam de Polonia</name>
+            <funktion>capellanus suus</funktion>
+            <funktion>canonicus
+                <ort>Cracoviensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>22557</nr><Referenz>22557</Referenz>
 <e><name>Guido de Battifollis</name><funktion>comes palatinus</funktion><ort>Tuscia</ort></e>
@@ -1195,7 +1262,7 @@
 <u><nr>22566</nr><Referenz>22566</Referenz>
 <e><funktion>populus</funktion><institution>civitas; diocesis</institution><ort>Nidrosiensis</ort></e>
 </u>
-<u><nr>22567</nr><fehlt /><Referenz>22567 </Referenz>
+<u><nr>22567</nr><fehlt/><Referenz>22567 </Referenz>
 </u>
 <u><nr>22568</nr><Referenz>22568</Referenz>
 <e><name>Ericus Magnus</name><funktion>rex</funktion><ort>Norweia</ort></e>
@@ -1214,11 +1281,17 @@
 <e><funktion>ep.</funktion><ort>Arras</ort><Bemerkungen>frz.</Bemerkungen></e>
 <e><funktion>ep.</funktion><ort>Leodium</ort><Bemerkungen>frz.</Bemerkungen></e>
 </u>
-<u><nr>22573</nr><fehlt /><Referenz>22573 </Referenz>
+<u><nr>22573</nr><fehlt/><Referenz>22573 </Referenz>
 </u>
 <u><nr>22574</nr><Referenz>22574</Referenz>
-<e><name>Iohannes Gregorii</name><funktion>subdiac.</funktion><ort>Pragensis</ort></e>
-<e><name>Iohannes Gregorii</name><funktion>canonicus</funktion><ort>Wissegradensis</ort></e>
+<e>
+            <name>Iohannes Gregorii</name>
+            <funktion>canonicus
+                <ort>Wissegradensis</ort></funktion>
+            <funktion>subdiac.
+                <ort>Pragensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>22575</nr><Referenz>22575</Referenz>
   <e><funktion>decanus</funktion><institution>eccl.</institution><ort>Vermandois</ort><ortsbestimmung>Noyon dioc.</ortsbestimmung><Bemerkungen>frz.</Bemerkungen><P>S.Quintinus</P></e>

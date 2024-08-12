@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
   <u><nr>21736</nr><Referenz>21736</Referenz>
 <e><name>(Philippus)</name><funktion>rex</funktion><ort>Franci</ort></e>
 </u>
@@ -78,9 +76,20 @@
 <e><funktion>abbas; conventus</funktion><institution>monasterium; OCist</institution><ort>Eberbacensis</ort><ortsbestimmung>Maguntina dioc.</ortsbestimmung></e>
 </u>
 <u><nr>21760</nr><Referenz>21760</Referenz>
-<e><name>Iohannes de Epa</name><funktion>rector</funktion><institution>provincia</institution><ort>Romaniola</ort></e>
-<e><name>Iohannes de Epa</name><funktion>rector</funktion><institution>civitas</institution><ort>Bononiensis</ort></e>
-<e><name>Iohannes de Epa</name><funktion>rector</funktion><institution>comitatus</institution><ort>Brictenorium</ort></e>
+<e>
+            <name>Iohannes de Epa</name>
+            <funktion>rector
+            <institution>civitas</institution>
+                <ort>Bononiensis</ort></funktion>
+            <funktion>rector
+            <institution>comitatus</institution>
+                <ort>Brictenorium</ort></funktion>
+            <funktion>rector
+            <institution>provincia</institution>
+                <ort>Romaniola</ort></funktion>
+        </e>
+
+
 </u>
 <u><nr>21761</nr><Referenz>21761</Referenz>
 <e><funktion>epp.; abbates; priores; ceterae personae ecclesiasticae; universi nobiles; potestates</funktion><institution>provincia</institution><ort>Romaniola</ort></e>
@@ -240,9 +249,20 @@
 <e><name>Malatesta de Veruculo</name><funktion>civis</funktion><ort>Ariminensis</ort></e>
 </u>
 <u><nr>21808</nr><Referenz>21808</Referenz>
-<e><name>Iohannes de Epa</name><funktion>rector</funktion><institution>provincia</institution><ort>Romaniola</ort></e>
-<e><name>Iohannes de Epa</name><funktion>rector</funktion><institution>civitas</institution><ort>Bononiensis</ort></e>
-<e><name>Iohannes de Epa</name><funktion>rector</funktion><institution>comitatus</institution><ort>Brictenorii</ort></e>
+<e>
+            <name>Iohannes de Epa</name>
+            <funktion>rector
+            <institution>civitas</institution>
+                <ort>Bononiensis</ort></funktion>
+            <funktion>rector
+            <institution>comitatus</institution>
+                <ort>Brictenorii</ort></funktion>
+            <funktion>rector
+            <institution>provincia</institution>
+            <ort>Romaniola</ort></funktion>
+        </e>
+
+
 </u>
 <u><nr>21809</nr><Referenz>21809</Referenz>
 <e><funktion>potestas; consilium; commune</funktion><ort>Arimininensis</ort></e>
@@ -603,8 +623,15 @@
 <e><name>Gerardus</name><funktion>ep.</funktion><ort>Sabinensis</ort></e>
 </u>
 <u><nr>21913</nr><Referenz>21913</Referenz>
-<e><name>Gerardus</name><funktion>ep.</funktion><ort>Sabinensis</ort></e>
-<e><name>Gerardus</name><funktion>apost.leg.</funktion><institution>regnum</institution><ort>Sicilia<orig>apost.leg. in regno Siciliae</orig></ort></e>
+<e>
+            <name>Gerardus</name>
+            <funktion>apost.leg.
+            <institution>regnum</institution>
+                <ort>Sicilia<orig>apost.leg. in regno Siciliae</orig></ort></funktion>
+            <funktion>ep.
+                <ort>Sabinensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>21914</nr><Referenz>21914</Referenz>
 <e><funktion>prior</funktion><institution>OPr</institution><ort>Reginensis</ort></e>
@@ -705,8 +732,15 @@
 <e><name>Mestwinus</name><funktion>dux</funktion><ort>Pomerania</ort></e>
 </u>
 <u><nr>21943</nr><Referenz>21943</Referenz>
-<e><name>Gerardus</name><funktion>archidiac.</funktion><ort>Bracharensis</ort></e>
-<e><name>Gerardus</name><funktion>collector decimae deputato</funktion><institution>in regni</institution><ort>Portugalliae partibus</ort></e>
+<e>
+            <name>Gerardus</name>
+            <funktion>collector decimae deputato
+            <institution>in regni</institution>
+                <ort>Portugalliae partibus</ort></funktion>
+            <funktion>archidiac.
+                <ort>Bracharensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>21944</nr><Referenz>21944</Referenz>
 <e><name>Monaldus de S.Anatolia</name><funktion>frater</funktion><institution>OFM</institution></e>
@@ -1165,8 +1199,16 @@
 <e><name>Petrus</name><funktion>quondam rex</funktion><ort>Aragonum</ort></e>
 </u>
 <u><nr>22078</nr><Referenz>22078</Referenz>
-<e><name>(Iohannes)</name><funktion>archiep.</funktion><ort>Cantuaria</ort></e>
-<e><name>(Iohannes)</name><funktion>ep.</funktion><ort>Lincolniensis</ort></e>
+<e>
+            <name>(Iohannes)</name>
+            <funktion>ep.</funktion>
+            <ort>Lincolniensis</ort>
+        </e><e>
+            <name>(Iohannes)</name>
+            <funktion>archiep.</funktion>
+            <ort>Cantuaria</ort>
+        </e>
+
 <e><funktion>archidiac.</funktion><ort>Dorsetia</ort><ortsbestimmung>in eccl. Saresbiryensis</ortsbestimmung></e>
 </u>
 <u><nr>22079</nr><Referenz>22079</Referenz>
@@ -1200,8 +1242,13 @@
 <e><name>Guilelmus Duranti</name><funktion>decanus</funktion><institution>eccl.</institution><ort>Carnotensis</ort></e>
 </u>
 <u><nr>22088</nr><Referenz>22088</Referenz>
-<e><name>Moricus <orig>al. Marcus</orig></name><funktion>canonicus</funktion><ort>Assisinas</ort></e>
-<e><name>Moricus <orig>al. Marcus</orig></name><funktion>capellanus suus</funktion></e>
+<e>
+            <name>Moricus <orig>al. Marcus</orig></name>
+            <funktion>capellanus suus</funktion>
+            <funktion>canonicus
+                <ort>Assisinas</ort></funktion>
+        </e>
+
 </u>
 <u><nr>22089</nr><Referenz>22089</Referenz>
 <e><name>(Lodomerius)</name><funktion>archiep.</funktion><ort>Strigonia</ort></e>
@@ -1247,8 +1294,13 @@
 <e><name>(Edwardus)</name><funktion>rex</funktion><ort>Anglia</ort></e>
 </u>
 <u><nr>22103</nr><Referenz>22103</Referenz>
-<e><name>Giffredus de Vezano magister</name><funktion>canonicus</funktion><ort>Cameracensis</ort></e>
-<e><name>Giffredus de Vezano magister</name><funktion>clericus camerae apost.; apost. nuntius</funktion></e>
+<e>
+            <name>Giffredus de Vezano magister</name>
+            <funktion>clericus camerae apost.; apost. nuntius</funktion>
+            <funktion>canonicus
+                <ort>Cameracensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>22104</nr><Referenz>22104</Referenz>
 <e><name>Ulphus</name><funktion>filius Hollingeri</funktion><ort>Lincopensis dioc.</ort></e>
@@ -1345,8 +1397,13 @@
 <e><funktion>comes</funktion><ort>Barchinonensis</ort></e>
 </u>
 <u><nr>22132</nr><Referenz>22132</Referenz>
-<e><name>Karolus</name><funktion>rex</funktion><ort>Aragonum</ort></e>
-<e><name>Karolus</name><funktion>filius Philippi regis Francorum</funktion></e>
+<e>
+            <name>Karolus</name>
+            <funktion>filius Philippi regis Francorum</funktion>
+            <funktion>rex
+                <ort>Aragonum</ort></funktion>
+        </e>
+
 <e><name>Iohannes</name><funktion>presb.card. tit. S.Caeciliae</funktion><Bemerkungen>confirmatio conventionis</Bemerkungen></e>
 </u>
 <u><nr>22133</nr><Referenz>22133</Referenz>
@@ -1608,10 +1665,25 @@
 <e><funktion>abbas</funktion><institution>monasterium</institution><ort>Florentia</ort><P>S.Pancratius</P></e>
 </u>
 <u><nr>22213</nr><Referenz>22213</Referenz>
-<e><name>G(erardus)</name><funktion>ep.; apost.leg.</funktion><ort>Sabinensis</ort></e>
-<e><name>G(erardus)</name><funktion>baiulus</funktion><institution>regnum</institution><ort>Sicilia</ort></e>
-<e><name>R(obertus)</name><funktion>comes</funktion><ort>Atrebatensis</ort></e>
-<e><name>R(obertus)</name><funktion>baiulus</funktion><institution>regnum</institution><ort>Sicilia</ort></e>
+<e>
+            <name>G(erardus)</name>
+            <funktion>baiulus
+            <institution>regnum</institution>
+                <ort>Sicilia</ort></funktion>
+            <funktion>ep.
+            <ort>Sabinensis</ort>´</funktion>
+            <funktion>apost.leg.</funktion>
+        </e>
+
+<e>
+            <name>R(obertus)</name>
+            <funktion>baiulus
+            <institution>regnum</institution>
+                <ort>Sicilia</ort></funktion>
+            <funktion>comes
+                <ort>Atrebatensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>22214</nr><Referenz>22214</Referenz>
 <e><name>Ubaldus Cardellini de Cardellinorum; Brunectus Cardellini de Cardellinorum societate; Orlandinus Paganelli de Paganellorum societate</name><funktion>cives; mercatores</funktion><ort>Lucanus</ort></e>

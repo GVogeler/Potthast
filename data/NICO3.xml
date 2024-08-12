@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
-  <u><nr>21257</nr><fehlt /><Referenz>21257</Referenz>
+<?xml version="1.0" encoding="UTF-8"?><potthast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="potthast.xsd" xml:id="urban" papst="Urban IV.">
+  <u><nr>21257</nr><fehlt/><Referenz>21257</Referenz>
 </u>
 <u><nr>21258</nr><Referenz>21258</Referenz>
 <e><name>(Carolus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
@@ -332,7 +330,7 @@
 <u><nr>21354</nr><Referenz>21354</Referenz>
 <e><funktion>abbas; conventus</funktion><institution>monasterium; OCist</institution><ort>de Castellariis</ort><ortsbestimmung>Pictaviensis dioc.</ortsbestimmung></e>
 </u>
-<u><nr>21355</nr><fehlt /><Referenz>21355</Referenz>
+<u><nr>21355</nr><fehlt/><Referenz>21355</Referenz>
 </u>
 <u><nr>21356</nr><Referenz>21356</Referenz>
 <e><name>Hieronymus</name><funktion>presb.card.</funktion></e>
@@ -459,8 +457,13 @@
 <u><nr>21392</nr><Referenz>21392</Referenz>
 <e><funktion>ep.</funktion><ort>Londoniensis</ort></e>
 <e><funktion>ep.</funktion><ort>Herefordensis</ort></e>
-<e><name>magister Ardicio</name><funktion>capellanus suus</funktion></e>
-<e><name>magister Ardicio</name><funktion>nuntius suus</funktion><ort>Anglia</ort></e>
+<e>
+            <name>magister Ardicio</name>
+            <funktion>nuntius suus
+                <ort>Anglia</ort></funktion>
+            <funktion>capellanus suus</funktion>
+        </e>
+
 <e><name>Iohannes de Derlenton</name><funktion>frater</funktion><institution>OPr</institution></e>
 </u>
 <u><nr>21393</nr><Referenz>21393</Referenz>
@@ -624,7 +627,7 @@
 <e><name>Philippus</name><funktion>ep.; apost.leg.</funktion><ort>Firmanus</ort></e>
 </u>
 <u><nr>21441</nr><Referenz>21441</Referenz>
-<e></e>
+<e/>
 </u>
 <u><nr>21442</nr><Referenz>21442</Referenz>
 <e><name>Philippus</name><funktion>ep.; apost.leg.</funktion><ort>Firmanus</ort></e>
@@ -672,28 +675,64 @@
 <e><funktion>universi inquisitores haereticae pravitatis; fratres</funktion><institution>OPr</institution><ort>Lombardia</ort></e>
 </u>
 <u><nr>21456</nr><Referenz>21456</Referenz>
-<e><name>Bertoldus de Filiis Ursi</name><funktion>civis</funktion><ort>Romanus</ort></e>
-<e><name>Bertoldus de Filiis Ursi</name><funktion>rector</funktion><institution>provincia</institution><ort>Romaniola</ort></e>
+<e>
+            <name>Bertoldus de Filiis Ursi</name>
+            <funktion>rector
+            <institution>provincia</institution>
+                <ort>Romaniola</ort></funktion>
+            <funktion>civis
+                <ort>Romanus</ort></funktion>
+        </e>
+
 </u>
 <u><nr>21457</nr><Referenz>21457</Referenz>
-<e><name>L(atinus)</name><funktion>ep.</funktion><ort>Ostiensis;Velletrensis</ort></e>
-<e><name>L(atinus)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>L(atinus)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+                <ort>Ostiensis;Velletrensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>21458</nr><Referenz>21458</Referenz>
-<e><name>Bertoldus de Filiis Ursi</name><funktion>civis</funktion><ort>Romanus</ort></e>
-<e><name>Bertoldus de Filiis Ursi</name><funktion>rector</funktion><institution>provincia</institution><ort>Romaniola</ort></e>
+<e>
+            <name>Bertoldus de Filiis Ursi</name>
+            <funktion>rector
+            <institution>provincia</institution>
+                <ort>Romaniola</ort></funktion>
+            <funktion>civis
+                <ort>Romanus</ort></funktion>
+        </e>
+
 </u>
 <u><nr>21459</nr><Referenz>21459</Referenz>
-<e><name>L(atinus)</name><funktion>ep.</funktion><ort>Ostiensis;Velletrensis</ort></e>
-<e><name>L(atinus)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>L(atinus)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+                <ort>Ostiensis;Velletrensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>21460</nr><Referenz>21460</Referenz>
-<e><name>L(atinus)</name><funktion>ep.</funktion><ort>Ostiensis;Velletrensis</ort></e>
-<e><name>L(atinus)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>L(atinus)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+                <ort>Ostiensis;Velletrensis</ort></funktion>
+        </e>
+
 </u>
 <u><nr>21461</nr><Referenz>21461</Referenz>
-<e><name>L(atinus)</name><funktion>ep.</funktion><ort>Ostiensis;Velletrensis</ort><Bemerkungen>Latinus ep. Ostiensis et Velletrensis apost. sedis legato, Grundsätzliche Fragen: 1. zwei Orte?, 2. Trennung Bfssitz und Legatenamt.</Bemerkungen></e>
-<e><name>L(atinus)</name><funktion>apost.leg.</funktion></e>
+<e>
+            <name>L(atinus)</name>
+            <funktion>apost.leg.</funktion>
+            <funktion>ep.
+            <ort>Ostiensis;Velletrensis</ort>
+            <Bemerkungen>Latinus ep. Ostiensis et Velletrensis apost. sedis legato, Grundsätzliche
+                Fragen: 1. zwei Orte?, 2. Trennung Bfssitz und Legatenamt.</Bemerkungen></funktion>
+        </e>
+
 </u>
 <u><nr>21462</nr><Referenz>21462</Referenz>
 <e><name>Iohannes</name><funktion>electus; quondam magister</funktion><institution>OPr</institution><ort>Ierusalem</ort></e>
@@ -944,10 +983,19 @@
 <e><funktion>canonici; beneficiati</funktion><institution>basilica</institution><ort>Roma</ort><P>S.Petrus</P></e>
 </u>
 <u><nr>21532</nr><Referenz>21532</Referenz>
-<e><name>Ubertus dictus Blancus</name><ort>Placentia</ort></e>
-<e><name>Ubertus dictus Blancus</name><funktion>capellanus suus</funktion></e>
-<e><name>Vivianus</name><funktion>archidiac.</funktion><ort>Aretinus</ort></e>
-<e><name>Vivianus</name><funktion>capellanus M(atthaei Rubei) diac.card. S.Mariae in porticu</funktion></e>
+<e>
+            <name>Ubertus dictus Blancus</name>
+            <funktion>capellanus suus</funktion>
+            <ort>Placentia</ort>
+        </e>
+
+<e>
+            <name>Vivianus</name>
+            <funktion>capellanus M(atthaei Rubei) diac.card. S.Mariae in porticu</funktion>
+            <funktion>archidiac.
+                <ort>Aretinus</ort></funktion>
+        </e>
+
 <e><funktion>guardianus</funktion><institution>OFM</institution><ort>Halberstadensis</ort></e>
 </u>
 <u><nr>21533</nr><Referenz>21533</Referenz>
@@ -1098,7 +1146,7 @@
 <u><nr>21575</nr><Referenz>21575</Referenz>
 <e><name>Sinibaldus de Lacu</name><funktion>frater; inquisitor</funktion><ort>provincia Romana</ort></e>
 </u>
-<u><nr>21576</nr><fehlt /><Referenz>21576</Referenz>
+<u><nr>21576</nr><fehlt/><Referenz>21576</Referenz>
 </u>
 <u><nr>21577</nr><Referenz>21577</Referenz>
 <e><name>(Ericus)</name><funktion>rex</funktion><ort>Dacia</ort></e>
@@ -1176,13 +1224,31 @@
 <e><funktion>castellani</funktion><institution>castra; villae</institution><ort>Turris Palmae; Moranum; Criptae ad Mare; Monsfalco; Morissum</ort></e>
 </u>
 <u><nr>21601</nr><Referenz>21601</Referenz>
-<e><name>B.</name><funktion>abbas</funktion><institution>monasterium</institution><ort>Mons Maior</ort></e>
-<e><name>B.</name><funktion>rector</funktion><institution>marchia</institution><ort>Anconitana</ort></e>
+<e>
+            <name>B.</name>
+            <funktion>rector
+            <institution>marchia</institution>
+                <ort>Anconitana</ort></funktion>
+            <funktion>abbas
+            <institution>monasterium</institution>
+                <ort>Mons Maior</ort></funktion>
+        </e>
+
 </u>
 <u><nr>21602</nr><Referenz>21602</Referenz>
-<e><name>magister Bertrandus Amalrici</name><funktion>capellanus suus</funktion></e>
-<e><name>magister Bertrandus Amalrici</name><funktion>canonicus</funktion><ort>Remi</ort></e>
-<e><name>magister Bertrandus Amalrici</name><funktion>collector decimae</funktion><institution>regnum</institution><ort>Suetia;Datia <orig>collector decimae in Suetiae et Datiae regnis Terrae sanctae subsidio deputatae</orig></ort><Bemerkungen>Collectores unter ihrem Sprengel oder unter dem Titel?</Bemerkungen></e>
+<e>
+            <name>magister Bertrandus Amalrici</name>
+            <funktion>canonicus
+                <ort>Remi</ort></funktion>
+            <funktion>collector decimae
+            <institution>regnum</institution>
+            <ort>Suetia;Datia <orig>collector decimae in Suetiae et Datiae regnis Terrae sanctae
+                subsidio deputatae</orig></ort>
+                <Bemerkungen>Collectores unter ihrem Sprengel oder unter dem Titel?</Bemerkungen></funktion>
+            <funktion>capellanus suus</funktion>
+        </e>
+
+
 </u>
 <u><nr>21603</nr><Referenz>21603</Referenz>
 <e><name>magister Bertrandus Amalrici</name><funktion>capellanus suus; canonicus</funktion><ort>Remi</ort></e>
@@ -1268,8 +1334,14 @@
 </u>
 <u><nr>21624</nr><Referenz>21624</Referenz>
 <e><name>Iohannes</name><funktion>dux</funktion><ort>Brabantia;Lotharingia</ort></e>
-<e><name>Robertus</name><funktion>dux</funktion><ort>Burgundia</ort></e>
-<e><name>Robertus</name><funktion>comes</funktion><ort>Atrebatensis</ort></e>
+<e>
+            <name>Robertus</name>
+            <funktion>comes
+                <ort>Atrebatensis</ort></funktion>
+            <funktion>dux
+                <ort>Burgundia</ort></funktion>
+        </e>
+
 </u>
 <u><nr>21625</nr><Referenz>21625</Referenz>
 <e><name>Raymundus</name><funktion>electus</funktion><ort>Petragoricensis</ort></e>
@@ -1437,10 +1509,23 @@
 <e><funktion>abbatissa; conventus</funktion><institution>monasterium</institution><ort>Nunnenmunster</ort><ortsbestimmung>extra muros Wormatiensis dioc.</ortsbestimmung></e>
 </u>
 <u><nr>21672</nr><Referenz>21672</Referenz>
-<e><name>Bertoldus de filiis Ursi</name><funktion>civis</funktion><ort>Roma</ort></e>
-<e><name>Bertoldus de filiis Ursi</name><funktion>rector</funktion><institution>provincia</institution><ort>Romaniola;</ort></e>
-<e><name>Bertoldus de filiis Ursi</name><funktion>rector</funktion><institution>civitas</institution><ort>Bononia</ort></e>
-<e><name>Bertoldus de filiis Ursi</name><funktion>rector</funktion><institution>comitatus</institution><ort>Bertinorium</ort></e>
+<e>
+            <name>Bertoldus de filiis Ursi</name>
+            <funktion>rector
+            <institution>provincia</institution>
+                <ort>Romaniola;</ort></funktion>
+            <funktion>rector
+            <institution>civitas</institution>
+                <ort>Bononia</ort></funktion>
+            <funktion>rector
+            <institution>comitatus</institution>
+            <ort>Bertinorium</ort></funktion>
+            <funktion>civis
+            <ort>Roma</ort></funktion>
+        </e>
+
+
+
 <e><funktion>potestas; consilium; commune</funktion><ort>Bononia</ort></e>
 <e><funktion>universi</funktion><institution>de parte Geremiensium</institution><ort>Bononienses</ort></e>
 </u>
@@ -1456,9 +1541,9 @@
 <u><nr>21676</nr><Referenz>21676</Referenz>
 <e><name>ohne Empfänger</name></e>
 </u>
-<u><nr>21677</nr><fehlt /><Referenz>21677</Referenz>
+<u><nr>21677</nr><fehlt/><Referenz>21677</Referenz>
 </u>
-<u><nr>21678</nr><fehlt /><Referenz>21678</Referenz>
+<u><nr>21678</nr><fehlt/><Referenz>21678</Referenz>
 </u>
 <u><nr>21679</nr><Referenz>21679</Referenz>
 <e><funktion>monachi</funktion><ort>Cluniacum</ort></e>
