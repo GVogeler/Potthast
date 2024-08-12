@@ -121,7 +121,7 @@
 <u><nr>1298</nr><Referenz>1298</Referenz>
 <e><name>(Conradus)</name><funktion>ep.</funktion><ort>Argentinensis</ort></e>
 <an>*
-<e><name>(L&#x81;toldus)</name><funktion>ep.</funktion><ort>Basiliensis</ort></e>
+<e><name>(Lütoldus)</name><funktion>ep.</funktion><ort>Basiliensis</ort></e>
 <e><name>Albertus</name><funktion>comes</funktion><ort>de Thaisburc <orig>(Dachsburg)</orig></ort></e>
 <e><name>R(udolfus)</name><funktion>comes</funktion><ort>de Thavesburc <orig>(Habsburg)</orig></ort></e></an>
 </u> 
@@ -399,7 +399,7 @@
 <e><funktion>Comes</funktion><ort>Flandria; Campania ;Blesensis</ort></e>
 </u>
 <u><nr>1366</nr><Referenz>1366</Referenz>
-<e><funktion>prior ;canonici</funktion><institution>(OSA)</institution><ort>Londoensis</ort><P>S.Trinitas</P></e>
+<e><funktion>prior ;canonici</funktion><institution>(</institution><ordo>OSA)</ordo><ort>Londoensis</ort><P>S.Trinitas</P></e>
 </u>
 <u><nr>1367</nr><Referenz>1367</Referenz>
 <e><name>(Niveloni)</name><funktion>ep.</funktion><ort>Suessionensis</ort></e>
@@ -1443,8 +1443,8 @@
 <e><institution>monasterium</institution><P>S.Paulus <orig>[S.Paul]</orig></P><Bemerkungen>eccl. in Remschnig confirmat</Bemerkungen></e>
 </u>
 <u><nr>1646</nr><Referenz>1646</Referenz>
-<e><name>(Walterus)</name><funktion>praepositus</funktion><institution>OESA</institution><ort>Mons Serenus<orig>[Lauterberg, Petersberg prope Halas Saxon.]</orig></ort></e>
-<e><funktion>conventus</funktion><institution>OESA</institution><ort>Mons Serenus <orig>[Lauterberg, Petersberg prope Halas Saxon.]</orig></ort></e>
+<e><name>(Walterus)</name><funktion>praepositus</funktion><ordo>OESA</ordo><ort>Mons Serenus<orig>[Lauterberg, Petersberg prope Halas Saxon.]</orig></ort></e>
+<e><funktion>conventus</funktion><ordo>OESA</ordo><ort>Mons Serenus <orig>[Lauterberg, Petersberg prope Halas Saxon.]</orig></ort></e>
 </u>
 <u><nr>1647</nr><Referenz>1647</Referenz>
 <e><funktion>canonici</funktion><ort>Maguntinus</ort></e>
@@ -1478,7 +1478,7 @@
             <ort>Praenestinus</ort></funktion>
         </e>
 
-<e><funktion>abbas</funktion><institution>OCist</institution><ort>S.Benedictus</ort><ortsbestimmung>Virdunensis diocesis</ortsbestimmung></e>
+<e><funktion>abbas</funktion><ordo>OCist</ordo><ort>S.Benedictus</ort><ortsbestimmung>Virdunensis diocesis</ortsbestimmung></e>
 <e><funktion>abbas</funktion><ort>Belli Loci</ort><ortsbestimmung>Virdunensis diocesis</ortsbestimmung></e>
 </u>
 <u><nr>1653</nr><Referenz>1653</Referenz>
@@ -1499,7 +1499,7 @@
 <e><funktion>uxori</funktion><institution>ducis</institution><ort>Brabantia</ort></e>
 </u>
 <u><nr>1656</nr><Referenz>1656</Referenz>
-<e><funktion>abbas ;fratres</funktion><institution>OPraem.</institution><ort>Teplenses</ort></e>
+<e><funktion>abbas ;fratres</funktion><ordo>OPraem.</ordo><ort>Teplenses</ort></e>
 </u>
 <u><nr>1657</nr><Referenz>1657</Referenz>
 <e><funktion>abbas</funktion><ort>de Blangeio ;de Alciaco</ort></e>
@@ -1913,7 +1913,7 @@
 <e><name>(Iohannes)</name><funktion>magister scholarum</funktion><institution>Aurelianensis</institution></e>
 </u>
 <u><nr>1757</nr><Referenz>1757</Referenz>
-<e><institution>monasterium; OSA</institution><ort>de Bello Portu <orig>[Beauport]</orig></ort></e>
+<e><institution>monasterium</institution><ordo>OSA</ordo><ort>de Bello Portu <orig>[Beauport]</orig></ort></e>
 </u>
 <u><nr>1758</nr><Referenz>1758</Referenz>
 <e><name>(Bertramnus)</name><funktion>ep.</funktion><ort>Metensis</ort></e>
@@ -2339,7 +2339,7 @@
 <e><funktion>monachi</funktion><ort>Autissiodorensis</ort><P>S.Germanus</P></e>
 </u>
 <u><nr>1863</nr><Referenz>1863</Referenz>
-<e><name>W(ulcus)</name><funktion>meganippanus</funktion><ort>Servia</ort><Bemerkungen> W(ulco) meganippanum Serviae, und was soll das heiáen?</Bemerkungen></e>
+<e><name>W(ulcus)</name><funktion>meganippanus</funktion><ort>Servia</ort><Bemerkungen> W(ulco) meganippanum Serviae, und was soll das heißen?</Bemerkungen></e>
 </u>
 <u><nr>1864</nr><Referenz>1864</Referenz>
 <e><funktion>archiep.</funktion><ort>Colocensis</ort></e>
@@ -2707,7 +2707,7 @@
 <e><funktion>consanguineis</funktion><institution>praepositi herbilonesi;G. burgravii</institution><Bemerkungen>et eorum consanguineis</Bemerkungen></e>
 </u>
 <u><nr>1962</nr><Referenz>1962</Referenz>
-<e><funktion>Conventus</funktion><institution>OSA</institution><ort>de Bomin <orig>[Bodmyn in agro Cornubiensi]</orig></ort></e>
+<e><funktion>Conventus</funktion><ordo>OSA</ordo><ort>de Bomin <orig>[Bodmyn in agro Cornubiensi]</orig></ort></e>
 </u>
 <u><nr>1963</nr><Referenz>1963</Referenz>
 <e><funktion>ep.</funktion><ort>Palentinus ;Zamorrensis</ort></e>
@@ -2969,7 +2969,7 @@
 <u><nr>2029</nr><Referenz>2029</Referenz>
 <e><name>(Robertus)</name><funktion>ep.</funktion><ort>Cabilonensis</ort></e>
 <e><name>(Hugo)</name><funktion>abbas</funktion><ort>Cluniacensis</ort></e>
-<e><funktion>prior</funktion><institution>ordo Cartusiensis</institution><ort>de Scillo</ort><Bemerkungen>Bezug von Cartusiensis ordinis unklar</Bemerkungen></e>
+<e><funktion>prior</funktion><ordo>ordo Cartusiensis</ordo><ort>de Scillo</ort><Bemerkungen>Bezug von Cartusiensis ordinis unklar</Bemerkungen></e>
 </u>
 <u><nr>2030</nr><Referenz>2030</Referenz>
 <e><funktion>prior</funktion><ort>de Boeltum <orig>(Bolonic, Bulent ,al.,)</orig></ort></e>
@@ -3280,8 +3280,8 @@
 <e><funktion>abbas</funktion><ort>de Alneto ;de Ardena ;de Fontaneto</ort></e>
 </u>
 <u><nr>2110</nr><Referenz>2110</Referenz>
-<e><name>Gerungus</name><funktion>praepositus</funktion><institution>OSA</institution><ort>Omnium Scorm</ort><ortsbestimmung>Nigra silva</ortsbestimmung></e>
-<e><funktion>fratres</funktion><institution>OSA</institution><ort>Omni Sancti</ort><ortsbestimmung>Nigra silva</ortsbestimmung><Bemerkungen>secundum B.Augustini regulam, wie abzukürzen?</Bemerkungen></e>
+<e><name>Gerungus</name><funktion>praepositus</funktion><ordo>OSA</ordo><ort>Omnium Scorm</ort><ortsbestimmung>Nigra silva</ortsbestimmung></e>
+<e><funktion>fratres</funktion><ordo>OSA</ordo><ort>Omni Sancti</ort><ortsbestimmung>Nigra silva</ortsbestimmung><Bemerkungen>secundum B.Augustini regulam, wie abzukürzen?</Bemerkungen></e>
 </u>
 <u><nr>2111</nr><Referenz>2111</Referenz>
 <e><funktion>conventus</funktion><ort>S.Euphemia</ort></e>

@@ -97,6 +97,7 @@
         <xs:element ref="kommentar"/>
         <xs:element ref="orig"/>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="institution"/>
+        <xs:element minOccurs="0" ref="ordo"/>
         <xs:element minOccurs="0" ref="ort"/>
         <xs:element minOccurs="0" ref="ortsbestimmung"/>
         <xs:element minOccurs="0" ref="inst2"/>

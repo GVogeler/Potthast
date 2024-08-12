@@ -97,11 +97,11 @@
 </u>
 <u><nr>26</nr><Referenz>26</Referenz>
 <e><funktion>ep.</funktion><ort>Sutrinensis</ort></e>
-<e><funktion>abbas</funktion><ort>S.Anastasius</ort><Bemerkungen>[gg dt F&#x81;rsten]</Bemerkungen></e>
+<e><funktion>abbas</funktion><ort>S.Anastasius</ort><Bemerkungen>[gg dt Fürsten]</Bemerkungen></e>
 </u>
 <u><nr>27</nr><Referenz>27</Referenz>
 <e><funktion>ep.</funktion><ort>Sutrinensis</ort></e>
-<e><funktion>abbas</funktion><ort>S.Anastasius</ort><Bemerkungen>[gg dt F&#x81;rsten]</Bemerkungen></e>
+<e><funktion>abbas</funktion><ort>S.Anastasius</ort><Bemerkungen>[gg dt Fürsten]</Bemerkungen></e>
 </u>
 <u><nr>28</nr><Referenz>28</Referenz>
 <e><name>Ano <orig>(et capitulum add. Hem.)</orig></name><ort>Parisiensis</ort></e>
@@ -171,7 +171,7 @@
 <e><funktion>canonici</funktion><institution>basilica</institution><ort> Roma</ort><P>S.Petrus<orig>Princeps apostolorum</orig></P></e>
 </u>
 <u><nr>47</nr><Referenz>47</Referenz>
-<e><funktion>abbas; conventus</funktion><institution>monasterium ;OCist.</institution><ort>Ursicampus</ort><P>S.Maria</P></e>
+<e><funktion>abbas; conventus</funktion><institution>monasterium ;</institution><ordo>OCist.</ordo><ort>Ursicampus</ort><P>S.Maria</P></e>
 </u>
 <u><nr>48</nr><Referenz>48</Referenz>
 <e><name>(Garnerus)</name><funktion>ep.</funktion><ort>Trecensis</ort></e>
@@ -268,7 +268,7 @@
 <e><name>(Adermarus)</name><funktion>ep.</funktion><ort>Pictavensis</ort></e>
 </u>
     <o n="(I)">
-<e><funktion>prior ;conventus</funktion><institution>monasterium;OPraem.</institution><ort>Segoviens.dioc.</ort><P>S.Maria de Hortis</P></e>
+<e><funktion>prior ;conventus</funktion><institution>monasterium;</institution><ordo>OPraem.</ordo><ort>Segoviens.dioc.</ort><P>S.Maria de Hortis</P></e>
 </o>
 <u><nr>74</nr><Referenz>74</Referenz>
 <e><name>(Ademarus)</name><funktion>ep.</funktion><ort>Pictavensis</ort></e>
@@ -638,7 +638,7 @@
 </u>
 <u><nr>162</nr><Referenz>162</Referenz>
 <e><name>P(etrus)</name><funktion>abbas</funktion><institution>Praemonstratensis</institution></e>
-<e><funktion>abbates</funktion><institution>OPraem.</institution></e>
+<e><funktion>abbates</funktion><ordo>OPraem.</ordo></e>
 </u>
 <u><nr>163</nr><Referenz>163</Referenz>
 <e><funktion>universi archiepp. ;epp.</funktion><Bemerkungen>in quorum grangiae Praemonstratensis ordinis sitae sunt</Bemerkungen></e>
@@ -653,11 +653,11 @@
 <e><name>P(etrus)</name><funktion>abbas</funktion><institution>Praemonstratensis</institution></e>
 </u>
 <u><nr>167</nr><Referenz>167</Referenz>
-<e><funktion>Universi abbates ;praepositi</funktion><institution>OPraem.</institution><ort>Saxonia</ort></e>
+<e><funktion>Universi abbates ;praepositi</funktion><ordo>OPraem.</ordo><ort>Saxonia</ort></e>
 </u>
 <u><nr>168</nr><Referenz>168</Referenz>
 <e><name>P(etrus)</name><funktion>abbas</funktion><institution>Praemonstratensis</institution></e>
-<e><funktion>abbates</funktion><institution>OPraem.</institution></e>
+<e><funktion>abbates</funktion><ordo>OPraem.</ordo></e>
 </u>
 <u><nr>169</nr><Referenz>169</Referenz>
 <e><funktion>archiepp. ;alii praelati;marchiones;comites;barones ;alii nobiles viri ;universi Christi fideles</funktion></e>
@@ -925,7 +925,7 @@
 <u><nr>240</nr><Referenz>240</Referenz>
 <e><name>(Garnerus)</name><funktion>ep.</funktion><ort>Trecensis</ort></e>
 <e><name>Alesmus</name><funktion>abbas</funktion><ort>Calmontensis</ort></e>
-<e><name>Robertus ;Gervasius</name><funktion>canonici</funktion><institution>OPraem.</institution></e>
+<e><name>Robertus ;Gervasius</name><funktion>canonici</funktion><ordo>OPraem.</ordo></e>
 </u>
 <u><nr>241</nr><Referenz>241</Referenz>
 <e><funktion>abbas;conventus</funktion><ort>Caruslocus</ort></e>
@@ -1201,7 +1201,7 @@
 <e><funktion>abbas</funktion><ort>Virziliacensis ;de Maceriis</ort></e>
 </u>
 <u><nr>315</nr><Referenz>315</Referenz>
-<e><funktion>abbas;conventus</funktion><institution>monasterium;OSB</institution><ort>in Gengenbach</ort><ortsbestimmung>Argentinesis dioc.</ortsbestimmung></e>
+<e><funktion>abbas;conventus</funktion><institution>monasterium;</institution><ordo>OSB</ordo><ort>in Gengenbach</ort><ortsbestimmung>Argentinesis dioc.</ortsbestimmung></e>
 </u>
 <u><nr>316</nr><Referenz>316</Referenz>
 <e><funktion>conventus <orig>(et abbas add. ccollect. III.)</orig></funktion><ort>de Tilesio</ort><P>S.Salvator </P></e>
@@ -1285,10 +1285,10 @@
 </u>
 <u><nr>334</nr><Referenz>334</Referenz>
 <e><name>Petrus <orig>(Hugo false Le Paige)</orig></name><funktion>abbas</funktion><institution>Praemonstratensis</institution></e>
-<e><funktion>ceteri abbates ;canonici</funktion><institution>OPraem.</institution></e>
+<e><funktion>ceteri abbates ;canonici</funktion><ordo>OPraem.</ordo></e>
 </u>
 <u><nr>335</nr><Referenz>335</Referenz>
-<e><name>universi abbates</name><funktion>generale capitulum</funktion><institution> OCist.</institution></e>
+<e><name>universi abbates</name><funktion>generale capitulum</funktion><ordo>OCist.</ordo></e>
 </u>
 <u><nr>336</nr><Referenz>336</Referenz>
 <e><name>P(aulo)</name><funktion>ep.</funktion><ort>Skalaholtdensis</ort></e>
@@ -1393,7 +1393,7 @@
 <e><funktion>fratres</funktion><institution>monasterium</institution><ort>b. Maria</ort><ortsbestimmung>de Patirio</ortsbestimmung></e>
 </u>
 <u><nr>358</nr><Referenz>358</Referenz>
-<e><funktion>prior</funktion><institution>eccl.</institution><ort>S.Nicolaus de Monte</ort><ortsbestimmung>secus Narniam constitutae</ortsbestimmung><Bemerkungen>secus f&#x81;r diocesis verschrieben?;et ad Romanam eccl. nulo mediante pertinentis</Bemerkungen></e>
+<e><funktion>prior</funktion><institution>eccl.</institution><ort>S.Nicolaus de Monte</ort><ortsbestimmung>secus Narniam constitutae</ortsbestimmung><Bemerkungen>secus für diocesis verschrieben?;et ad Romanam eccl. nulo mediante pertinentis</Bemerkungen></e>
 </u>
 <u><nr>359</nr><Referenz>359</Referenz>
 <e><funktion>ep.</funktion><ort>Liddensis</ort></e>
@@ -1530,7 +1530,7 @@
 
 </u>
 <u><nr>393</nr><Referenz>393</Referenz>
-<e><institution>monasterium;OSB</institution><ort>de Amianis</ort><P>S.Felix</P></e>
+<e><institution>monasterium;</institution><ordo>OSB</ordo><ort>de Amianis</ort><P>S.Felix</P></e>
 </u>
 <u><nr>394</nr><Referenz>394</Referenz>
 <e><funktion>archiepp.;epp.; abbates; priores ;universi ecclarum praelati</funktion><ort>Sicilia</ort></e>
@@ -1545,7 +1545,7 @@
 <u><nr>396</nr><Referenz>396</Referenz>
 <e><name>(Raynerius)</name><funktion>ep.</funktion><ort>civitas Castellanae</ort></e>
 <an>*
-<e><funktion>abbas;conventus</funktion><institution>OCist</institution><ort>Falarenses</ort></e>
+<e><funktion>abbas;conventus</funktion><ordo>OCist</ordo><ort>Falarenses</ort></e>
 </an></u>
 <u><nr>397</nr><Referenz>397</Referenz>
 <e><funktion>archiep.</funktion><ort>Strigoniensis ;Colocensis</ort></e>
@@ -1805,7 +1805,7 @@
 <e><name>(Sancio)</name><funktion>rex</funktion><ort>Portugallia</ort></e>
 </u>
 <u><nr>466</nr><Referenz>466</Referenz>
-<e><funktion>abbas</funktion><institution>monasterium;OSB</institution><ort>Nonantulani</ort><ortsbestimmung>Mutinensis dioc.</ortsbestimmung></e>
+<e><funktion>abbas</funktion><institution>monasterium;</institution><ordo>OSB</ordo><ort>Nonantulani</ort><ortsbestimmung>Mutinensis dioc.</ortsbestimmung></e>
 </u>
 <u><nr>467</nr><Referenz>467</Referenz>
 <e><name>Rainerius</name><funktion>Frater</funktion><Bemerkungen>[de morabatinis, quos rex Portugalliae pro annua censo assignaverit]</Bemerkungen></e>
@@ -2216,7 +2216,7 @@
 <e><name>P(etrus)</name><funktion>archidiac.</funktion><ort>de Castro Novo</ort><Bemerkungen>[Magalonensi archidiaconatum, contulerat Arealtenis archiepopatus]</Bemerkungen></e>
 </u>
 <u><nr>580</nr><Referenz>580</Referenz>
-<e><institution>Coenobium;OCist.</institution><ort>de Curto Rivo</ort></e>
+<e><institution>Coenobium;</institution><ordo>OCist.</ordo><ort>de Curto Rivo</ort></e>
 </u>
 <u><nr>581</nr><Referenz>581</Referenz>
 <e><funktion>prior;fratres</funktion><ort>de Grandimonte</ort></e>
@@ -2241,7 +2241,7 @@
 <e><name>(Fridericus)</name><funktion>rex</funktion><ort>Sicilia</ort></e>
 </u>
 <u><nr>586</nr><Referenz>586</Referenz>
-<e><institution>monasterium ;OCist.</institution><ort>Francae Valles</ort></e>
+<e><institution>monasterium ;</institution><ordo>OCist.</ordo><ort>Francae Valles</ort></e>
 </u>
 <u><nr>587</nr><Referenz>587</Referenz>
 <e><name>G(irardus)</name><funktion>diac.card. S.Nicolaus in carcere Tulliano</funktion></e>
@@ -2317,7 +2317,7 @@
 <e><funktion>magister ;fratres</funktion><institution>hospitale quod theutonicum appellatur</institution></e>
 </u>
 <u><nr>607</nr><Referenz>607</Referenz>
-<e><funktion>abbas ;conventus</funktion><institution>monasterium;OCist.</institution><ort>de Holm(coltram)</ort></e>
+<e><funktion>abbas ;conventus</funktion><institution>monasterium;</institution><ordo>OCist.</ordo><ort>de Holm(coltram)</ort></e>
 </u>
 <u><nr>608</nr><Referenz>608</Referenz>
 <e><funktion>abbas</funktion><ort>de Cerreto <orig>(Cetreco, Cenedo al.)</orig></ort></e>
@@ -2326,7 +2326,7 @@
 <e><name>R.</name><funktion>ep.</funktion><ort>S.Andreas</ort></e>
 </u>
 <u><nr>610</nr><Referenz>610</Referenz>
-<e><funktion>abbas</funktion><institution>OPraem.</institution><ort>Staingadensis</ort></e>
+<e><funktion>abbas</funktion><ordo>OPraem.</ordo><ort>Staingadensis</ort></e>
 </u>
 <u><nr>611</nr><Referenz>611</Referenz>
 <e><name>C(onradus)</name><funktion>ep. quondam</funktion><ort>Hildesemensis</ort></e>
@@ -2416,7 +2416,7 @@
 <e><name>magister P. de Medunta</name><funktion>canonicus</funktion><ort>Senonensis</ort></e>
 </u>
 <u><nr>636</nr><Referenz>636</Referenz>
-<e><institution>monasterium;OSB</institution><ort>de Lundors</ort><P>S.Maria</P></e>
+<e><institution>monasterium;</institution><ordo>OSB</ordo><ort>de Lundors</ort><P>S.Maria</P></e>
 </u>
 <u><nr>637</nr><Referenz>637</Referenz>
 <e><name>Nicolaus</name><funktion>abbas</funktion><Bemerkungen>[petentes monasterium S.Helenae de Aesino]</Bemerkungen></e>
@@ -2541,7 +2541,7 @@
 <e><name>G(erardus)</name><funktion>abbas</funktion><ort>de Scouzuola</ort></e>
 </u>
 <u><nr>667</nr><Referenz>667</Referenz>
-<e><funktion>abbas ;conventus</funktion><institution>OSB</institution><ort>S.Aemilianus de Cuculla <orig>(San Millan de la Cogolla)</orig></ort></e>
+<e><funktion>abbas ;conventus</funktion><ordo>OSB</ordo><ort>S.Aemilianus de Cuculla <orig>(San Millan de la Cogolla)</orig></ort></e>
 <e><funktion>ep.</funktion><ort>Calagurritanus <orig>(Calahorra)</orig></ort></e>
 </u>
 <u><nr>668</nr><Referenz>668</Referenz>
@@ -2638,7 +2638,7 @@
 <e><funktion>frartes <orig>postulantes monasterium S.Mariae de Regniaco</orig></funktion><Bemerkungen>[reuglo S.Ben., institutio Cisterciensis]</Bemerkungen></e>
 </u>
 <u><nr>689</nr><Referenz>689</Referenz>
-<e><institution>monasterium;OSB</institution><ort>S.Aemilianus de Cuculla <orig>(S.Millan de la cogolla)</orig></ort></e>
+<e><institution>monasterium;</institution><ordo>OSB</ordo><ort>S.Aemilianus de Cuculla <orig>(S.Millan de la cogolla)</orig></ort></e>
 </u>
 <u><nr>690</nr><Referenz>690</Referenz>
 <e><funktion>abbas</funktion><ort>S.Andreas</ort></e>
@@ -2716,7 +2716,7 @@
 <e><funktion>alii principes plures</funktion><ort>Alemannia</ort></e>
 </an></u>
 <u><nr>709</nr><Referenz>709</Referenz>
-<e><institution>monasterium;OPraem.</institution><ort>Villa maior</ort><P>S.Michael</P></e>
+<e><institution>monasterium;</institution><ordo>OPraem.</ordo><ort>Villa maior</ort><P>S.Michael</P></e>
 </u>
 <u><nr>710</nr><Referenz>710</Referenz>
 <e><funktion>ep.</funktion><ort>Abulensis</ort></e>
@@ -2735,7 +2735,7 @@
 <e><funktion>abbas;conventus</funktion><ort>de Certeseia</ort></e>
 </u>
 <u><nr>715</nr><Referenz>715</Referenz>
-<e><institution>monasterium ;OSB</institution><ort>Arbennensis <orig>(Arbensi Farl.)</orig></ort><P>S.Petrus de Insula</P></e>
+<e><institution>monasterium ;</institution><ordo>OSB</ordo><ort>Arbennensis <orig>(Arbensi Farl.)</orig></ort><P>S.Petrus de Insula</P></e>
 </u>
 <u><nr>716</nr><Referenz>716</Referenz>
 <e><name>(Petrus)</name><funktion>archiep.</funktion><ort>Compostellanus</ort></e>
@@ -2845,7 +2845,7 @@
 <e><name>P(etrus)</name><funktion>diac. S.Maria in via lata card.;apost. leg.</funktion></e>
 </u>
 <u><nr>747</nr><Referenz>747</Referenz>
-<e><institution>monasterium;OSB</institution><ort>de Canneto</ort><P>S.Maria</P></e>
+<e><institution>monasterium;</institution><ordo>OSB</ordo><ort>de Canneto</ort><P>S.Maria</P></e>
 </u>
 <u><nr>748</nr><Referenz>748</Referenz>
 <e><name>(Henricus)</name><funktion>rex</funktion><ort>Ungaria</ort></e>
@@ -2952,7 +2952,7 @@
 <e><funktion>abbas;conventus</funktion><ort>de Walthan</ort></e>
 </u>
 <u><nr>776</nr><Referenz>776</Referenz>
-<e><institution>eccl.;OSA</institution><ort>de Walthan</ort><P>S.Crux</P></e>
+<e><institution>eccl.;</institution><ordo>OSA</ordo><ort>de Walthan</ort><P>S.Crux</P></e>
 </u>
 <u><nr>777</nr><Referenz>777</Referenz>
 <e><name>Crim(erii)</name><funktion>abbates</funktion><ort>Cisterciensis</ort><Bemerkungen>[electionem in Placentinum epum]; Name richtig?</Bemerkungen></e>
@@ -3493,7 +3493,7 @@
 </u>
 <u><nr>913</nr><Referenz>913</Referenz>
 <e><funktion>abbas</funktion><ort>Cisterciensis;Clarevallensis;Pontiniacensis;de Fertate <orig>(leg. Firmitate)</orig></ort></e>
-<e><funktion>universi abbates</funktion><institution>OCist</institution></e>
+<e><funktion>universi abbates</funktion><ordo>OCist</ordo></e>
 </u>
 <u><nr>914</nr><Referenz>914</Referenz>
 <e><funktion>archiep.</funktion><ort>Ragusinus</ort></e>
@@ -3635,7 +3635,7 @@
 <e><funktion>canonici</funktion><institution>S.Petrus</institution><ort>Roma<orig>Princeps Apostolorum</orig></ort></e>
 </u>
 <u><nr>940</nr><Referenz>940</Referenz>
-<e><institution>eccl.;OCist.</institution><ort>de Ferraria</ort><P>S.Maria </P></e>
+<e><institution>eccl.;</institution><ordo>OCist.</ordo><ort>de Ferraria</ort><P>S.Maria </P></e>
 </u>
 <u><nr>941</nr><Referenz>941</Referenz>
 <e><funktion>magistri ;fratres</funktion><institution>militia Templi</institution><ort>Sclavonia</ort></e>
@@ -3746,7 +3746,7 @@
 <e><name>(Hugo)</name><funktion>abbas</funktion><ort>Cluniacensis</ort></e>
 </u>
 <u><nr>973</nr><Referenz>973</Referenz>
-<e><name>(Everdeius)</name><funktion>abbas</funktion><institution>OSB.</institution><ort>Gandensis</ort><P>S.Bavo </P></e>
+<e><name>(Everdeius)</name><funktion>abbas</funktion><ordo>OSB.</ordo><ort>Gandensis</ort><P>S.Bavo </P></e>
 </u>
 <u><nr>974</nr><Referenz>974</Referenz>
 <e><funktion>conventus</funktion><ort>(Virdunensis)</ort><P>S.Michael </P></e>
@@ -3921,7 +3921,7 @@
 <e><funktion>prior;conventus</funktion><ort>Cantuarienses</ort></e>
 </u>
 <u><nr>1026</nr><Referenz>1026</Referenz>
-<e><funktion>abbates ;monachi</funktion><institution>OCist</institution></e>
+<e><funktion>abbates ;monachi</funktion><ordo>OCist</ordo></e>
 </u>
 <u><nr>1027</nr><Referenz>1027</Referenz>
 <e><name>(Iohannes)</name><funktion>patriarcha</funktion><ort>Gradensis</ort></e>
@@ -4005,7 +4005,7 @@
 <e><name>(Hubertus)</name><funktion>archiep.</funktion><ort>Cantuariensis</ort></e>
 </an></u>
 <u><nr>1051</nr><Referenz>1051</Referenz>
-<e><funktion>archiepp. ;epp.<orig>quorum in dioceses grangiae fratrum ordinis Praemonstratensis sitae sunt</orig></funktion><inst2>OPraem.</inst2></e>
+<e><funktion>archiepp. ;epp.<orig>quorum in dioceses grangiae fratrum ordinis Praemonstratensis sitae sunt</orig></funktion><ordo>OPraem.</ordo></e>
 </u>
 <u><nr>1052</nr><Referenz>1052</Referenz>
 <e><funktion>universi archiepp.;epp.;abbates;priores;archidiacc.;decani;praepositi ;alii praelati</funktion></e>
@@ -4500,7 +4500,7 @@
 </u>
 <u><nr>1189</nr><Referenz>1189</Referenz>
 <e><funktion>archiep.</funktion><ort>Armachanensis ;Tuamensis</ort></e>
-<e><funktion>universi epos; abbates; priores ;canonici</funktion><institution> ordo Arroasiensis</institution><ort>in Hibernia professos</ort><Bemerkungen>ordinem Arroasiensis in Hibernia professos</Bemerkungen></e>
+<e><funktion>universi epos; abbates; priores ;canonici</funktion><ordo>ordo Arroasiensis</ordo><ort>in Hibernia professos</ort><Bemerkungen>ordinem Arroasiensis in Hibernia professos</Bemerkungen></e>
 </u>
 <u><nr>1190</nr><Referenz>1190</Referenz>
 <e><name>N.N.</name></e>
@@ -4716,7 +4716,7 @@
 <e><funktion>prior ;canonici</funktion><institution>S.Trinitas</institution><ort>Londoniensis</ort></e>
 </u>
 <u><nr>1247</nr><Referenz>1247</Referenz>
-<e><funktion>universi abbates ;fratres</funktion><institution>OPraem.</institution></e>
+<e><funktion>universi abbates ;fratres</funktion><ordo>OPraem.</ordo></e>
 </u>
 <u><nr>1248</nr><Referenz>1248</Referenz>
 <e><funktion>magister ;fratres</funktion><institution>hospitalis</institution><ort>Ierosolymitanus</ort></e>
