@@ -6,6 +6,7 @@ This is the raw data of the database of the addressees of papal documents ([http
 The dataset containing approx. 78,000 entries (for approx. 26,000 numbers in Potthast) was created in 1995/6 to serve as the basis for a printed version of a register of index that the MGH wanted to publish. It contains the data recorded in Kleio, which was ported into XML and forked into a relational database. Unfortunately, both data entry errors and porting errors have not yet been corrected. In Feb. 2011 the relational database represents over 58,000 recipients, which stand for approx. 21,000 persons and institutions to whom the Pope's Chancery addressed letters.
 
 In the data directory you find the XML version of the raw data, following the schema in ./data/potthast.xsd
+The data is organised by pope (ALEX1.xml = Alexander I.) plus the additamenta section at the end of Potthast's volumes (ADDIAM).
 
 In the current state of editing, some inflection forms of the entries have not yet been normalized. Potthast also often uses French terms, which also not normalized.
 
